@@ -1,0 +1,302 @@
+{
+  "generated_at": "2026-09-09",
+  "source_document": "database/legal_sources/luat_dat_dai_2024.pdf (Luật Đất đai số 31/2024/QH15)",
+  "note": "Mỗi ý tưởng bên dưới gắn kèm legal_basis trỏ đúng Điều khoản trong Luật Đất đai 2024. Khi /vietbai triển khai thành bài, PHẢI giữ nguyên số Điều trích dẫn trong bài viết (không đổi số, không suy diễn thêm ngoài phạm vi điều luật) để tránh rủi ro bị khách hàng bắt bẻ sai sự thật.",
+  "ideas": [
+    {
+      "id": "idea_seller_01",
+      "role": "Nỗi đau người bán",
+      "hook_pattern": "Nhà dính [quy hoạch treo] tưởng hết đường, nhưng luật cho bạn quyền đòi lại...",
+      "key_insight": "Nhà mặt phố nằm trong kế hoạch sử dụng đất hằng năm cấp huyện thì chỉ bị hạn chế xây mới (được sửa chữa, cải tạo có giấy phép thời hạn), KHÔNG mất quyền sử dụng đất. Nếu sau 2 năm liên tục cơ quan chưa thu hồi/chuyển mục đích thì BẮT BUỘC phải rà soát, điều chỉnh hoặc hủy bỏ và công bố công khai.",
+      "emotional_trigger": "Bất lực / hy vọng lấy lại quyền lợi",
+      "outline": "Mở bằng nỗi sợ phổ biến 'dính quy hoạch = hết bán được' → giải thích đúng-sai theo luật → chỉ ra quyền được rà soát sau 2 năm → CTA: kiểm tra hồ sơ quy hoạch giúp khách.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_1",
+      "format": "Bài viết dài",
+      "funnel_stage": "TOP",
+      "legal_basis": "Điều 76 khoản 4, khoản 6, khoản 7 - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_seller_02",
+      "role": "Nỗi đau người bán",
+      "hook_pattern": "Cơi nới thêm 1 tầng sau quy hoạch - phần đó có thể KHÔNG BAO GIỜ được cấp sổ",
+      "key_insight": "Tài sản gắn liền với đất được tạo lập SAU thời điểm quy hoạch được phê duyệt mà không phù hợp với quy hoạch tại thời điểm cấp Giấy chứng nhận thì phần tài sản đó không được cấp Giấy chứng nhận quyền sở hữu.",
+      "emotional_trigger": "Tiếc của / hối hận vì thiếu hiểu biết",
+      "outline": "Case tình huống xây thêm tầng sau khi có quy hoạch → hệ quả không sang tên được phần xây thêm → bài học kiểm tra quy hoạch TRƯỚC khi xây/sửa lớn.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_1",
+      "format": "Carousel",
+      "funnel_stage": "TOP",
+      "legal_basis": "Điều 151 khoản 2 điểm d - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_seller_03",
+      "role": "Nỗi đau người bán",
+      "hook_pattern": "Rao bán tách nửa căn mặt phố, xong mới biết không tách được vì thiếu mấy m2",
+      "key_insight": "Tách thửa chỉ hợp lệ khi phần diện tích còn lại đạt mức tối thiểu do UBND cấp tỉnh quy định; nếu nhỏ hơn thì bắt buộc phải hợp thửa với thửa đất liền kề, đồng thời phải đảm bảo lối đi kết nối đường giao thông công cộng.",
+      "emotional_trigger": "Bối rối / mất thời gian, mất khách vì không kiểm tra trước",
+      "outline": "Tình huống người bán rao tách thửa trước khi kiểm tra điều kiện → chỉ ra 2 điều kiện bắt buộc (diện tích tối thiểu, lối đi) → checklist kiểm tra trước khi rao bán.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_3",
+      "format": "Carousel",
+      "funnel_stage": "TOP",
+      "legal_basis": "Điều 220 khoản 1 điểm d, khoản 2 điểm a - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_seller_04",
+      "role": "Nỗi đau người bán",
+      "hook_pattern": "Chỉ vì 1 lá đơn tranh chấp gửi phường, cả căn nhà mặt phố bị 'đóng băng' giao dịch",
+      "key_insight": "Đất đang có tranh chấp thì không đủ điều kiện chuyển nhượng và cũng không được cấp Giấy chứng nhận cho đến khi tranh chấp được cơ quan có thẩm quyền/Tòa án/Trọng tài giải quyết xong.",
+      "emotional_trigger": "Sợ mất kiểm soát / bị kẹt tiền",
+      "outline": "Tình huống thực tế một tranh chấp nhỏ (ranh giới, lối đi) khiến giao dịch bị treo vô thời hạn → giải thích quy trình hòa giải bắt buộc → lời khuyên xử lý dứt điểm tranh chấp trước khi rao bán.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_2",
+      "format": "Bài viết dài",
+      "funnel_stage": "MID",
+      "legal_basis": "Điều 45 khoản 1 điểm b; Điều 151 khoản 1 điểm e - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_seller_05",
+      "role": "Nỗi đau người bán",
+      "hook_pattern": "Được thừa kế nhà mặt phố nhưng không thể bán ngay - đây là lý do ít người biết",
+      "key_insight": "Người nhận thừa kế quyền sử dụng đất chỉ được thực hiện quyền (bán, tặng cho, thế chấp...) khi đã có Giấy chứng nhận đứng tên mình hoặc đủ điều kiện để được cấp Giấy chứng nhận theo quy định.",
+      "emotional_trigger": "Sốt ruột / cảm giác bị luật pháp 'trói tay'",
+      "outline": "Tình huống người thừa kế muốn bán gấp nhưng sổ vẫn đứng tên người đã mất → giải thích phải hoàn tất thủ tục sang tên thừa kế trước → lộ trình 3 bước cần làm.",
+      "topic_pillar": "pillar_6",
+      "angle": "angle_3",
+      "format": "Bài viết dài",
+      "funnel_stage": "MID",
+      "legal_basis": "Điều 45 khoản 4 - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_seller_06",
+      "role": "Nỗi đau người bán",
+      "hook_pattern": "Sổ đỏ trong tay không có nghĩa là 'bất khả xâm phạm' - kể cả khi đã ký cọc",
+      "key_insight": "Cơ quan có thẩm quyền vẫn có quyền đính chính, thu hồi hoặc hủy Giấy chứng nhận đã cấp nếu phát hiện sai sót trong quá trình cấp trước đó.",
+      "emotional_trigger": "Bất an / cảm giác mất an toàn dù đã có sổ",
+      "outline": "Lật ngược niềm tin 'có sổ đỏ là xong' → giải thích các trường hợp bị đính chính/thu hồi/hủy → khuyên kiểm tra kỹ lịch sử pháp lý trước khi giao dịch.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_1",
+      "format": "Ảnh Quote",
+      "funnel_stage": "TOP",
+      "legal_basis": "Điều 152 - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_seller_07",
+      "role": "Nỗi đau người bán",
+      "hook_pattern": "3 anh em đồng thừa kế, 1 người muốn bán - 2 người không gật đầu là hết cách",
+      "key_insight": "Khi nhóm người sử dụng đất có quyền sử dụng đất KHÔNG phân chia được theo phần thì các thành viên phải cùng nhau thực hiện hoặc ủy quyền cho người đại diện - một cá nhân không tự ý định đoạt được.",
+      "emotional_trigger": "Bế tắc / mâu thuẫn gia đình",
+      "outline": "Case gia đình đồng sở hữu sổ đỏ chung → giải thích cơ chế 'đồng thuận bắt buộc' hoặc ủy quyền → gợi ý hướng xử lý êm đẹp.",
+      "topic_pillar": "pillar_6",
+      "angle": "angle_2",
+      "format": "Bài viết dài",
+      "funnel_stage": "MID",
+      "legal_basis": "Điều 27 khoản 2 - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_seller_08",
+      "role": "Nỗi đau người bán",
+      "hook_pattern": "Nghe tin đồn 'sắp bị thu hồi' vội vàng bán tháo - đây là sai lầm đắt giá",
+      "key_insight": "Đất đã có QUYẾT ĐỊNH thu hồi chính thức của cơ quan nhà nước có thẩm quyền mới bị hạn chế cấp/giao dịch (trừ khi đã quá 3 năm mà chưa thực hiện) - tin đồn hay quy hoạch dự kiến không đồng nghĩa với quyết định thu hồi.",
+      "emotional_trigger": "Hoang mang / hành động vội vàng vì sợ hãi",
+      "outline": "Phân biệt rõ 'tin đồn/quy hoạch' và 'quyết định thu hồi chính thức' → hướng dẫn cách tra cứu xác minh → tránh bán tháo mất giá oan.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_4",
+      "format": "Bài viết dài",
+      "funnel_stage": "TOP",
+      "legal_basis": "Điều 151 khoản 1 điểm đ - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_buyer_01",
+      "role": "Nỗi sợ người mua",
+      "hook_pattern": "Nghe 'đất dính quy hoạch' là bỏ chạy - số đông đang nhầm lẫn 2 khái niệm này",
+      "key_insight": "Nếu quy hoạch sử dụng đất đã công bố nhưng CHƯA có kế hoạch sử dụng đất hằng năm cấp huyện thì người sử dụng đất vẫn được tiếp tục sử dụng và thực hiện ĐẦY ĐỦ các quyền như bình thường.",
+      "emotional_trigger": "Sợ hãi mơ hồ do thiếu thông tin chính xác",
+      "outline": "Bóc trần hiểu lầm phổ biến nhất về 'đất quy hoạch' → phân biệt quy hoạch vs kế hoạch sử dụng đất hằng năm cấp huyện → cách tra cứu để biết mức độ rủi ro thật.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_1",
+      "format": "Bài viết dài",
+      "funnel_stage": "TOP",
+      "legal_basis": "Điều 76 khoản 4 - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_buyer_02",
+      "role": "Nỗi sợ người mua",
+      "hook_pattern": "Mua trọn căn nhà mặt phố, nhưng chỉ sang tên được... một nửa tài sản",
+      "key_insight": "Phần công trình xây dựng thêm sau thời điểm quy hoạch được duyệt mà không phù hợp quy hoạch sẽ KHÔNG được cấp Giấy chứng nhận, dù phần đất gốc vẫn hợp lệ.",
+      "emotional_trigger": "Sợ bị lừa / mất tiền oan cho phần không sang tên được",
+      "outline": "Tình huống mua nhà có cơi nới → chỉ ra phần nào hợp lệ, phần nào rủi ro → checklist kiểm tra công trình trước khi xuống cọc.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_3",
+      "format": "Carousel",
+      "funnel_stage": "MID",
+      "legal_basis": "Điều 151 khoản 2 điểm d - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_buyer_03",
+      "role": "Nỗi sợ người mua",
+      "hook_pattern": "Sổ đỏ đẹp, công chứng xong xuôi - vẫn có thể bị thu hồi sau này",
+      "key_insight": "Giấy chứng nhận đã cấp vẫn có thể bị đính chính, thu hồi hoặc hủy nếu sau này phát hiện quá trình cấp trước đó có sai sót - không chỉ phụ thuộc vào việc sổ hiện tại có 'sạch' hay không.",
+      "emotional_trigger": "Bất an kéo dài / cảm giác không bao giờ thực sự an toàn",
+      "outline": "Lật ngược niềm tin 'sổ đỏ = an toàn tuyệt đối' → giải thích cơ chế đính chính/thu hồi/hủy → khuyên truy nguồn gốc pháp lý sổ trước khi mua, không chỉ nhìn bản sổ hiện tại.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_1",
+      "format": "Ảnh Quote",
+      "funnel_stage": "TOP",
+      "legal_basis": "Điều 152 - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_buyer_04",
+      "role": "Nỗi sợ người mua",
+      "hook_pattern": "Mua nhà giấy tờ viết tay giá hời - cái giá thật sự phải trả là gì?",
+      "key_insight": "Đất đang có tranh chấp thì không đủ điều kiện chuyển nhượng và không được cấp Giấy chứng nhận - kể cả khi hai bên đã 'thuận mua vừa bán' bằng giấy viết tay.",
+      "emotional_trigger": "Tham giá rẻ nhưng sợ rủi ro pháp lý",
+      "outline": "Case mua đất giấy viết tay giá thấp → chỉ ra rủi ro tranh chấp ngầm không thể lường trước → hướng dẫn cách kiểm tra tình trạng tranh chấp trước khi đặt cọc.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_2",
+      "format": "Bài viết dài",
+      "funnel_stage": "MID",
+      "legal_basis": "Điều 45 khoản 1 điểm b; Điều 151 khoản 1 điểm e - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_buyer_05",
+      "role": "Nỗi sợ người mua",
+      "hook_pattern": "Nhà dính quy hoạch treo 5 năm - đây là thứ vũ khí thương lượng bạn chưa biết mình có",
+      "key_insight": "Nếu quá 2 năm liên tục một thửa đất bị ghi trong kế hoạch sử dụng đất hằng năm cấp huyện mà cơ quan chưa thu hồi/chưa cho chuyển mục đích, pháp luật BẮT BUỘC phải rà soát, điều chỉnh hoặc hủy bỏ và công bố công khai.",
+      "emotional_trigger": "Từ sợ hãi chuyển sang tự tin thương lượng",
+      "outline": "Thay vì né tránh nhà dính quy hoạch treo lâu năm → chỉ ra quyền lợi pháp lý có thể dùng để thương lượng giá hoặc yêu cầu minh bạch thông tin trước khi mua.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_4",
+      "format": "Bài viết dài",
+      "funnel_stage": "MID",
+      "legal_basis": "Điều 76 khoản 7 - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_buyer_06",
+      "role": "Nỗi sợ người mua",
+      "hook_pattern": "Mua nhà từ người thừa kế - hợp đồng có thể vô hiệu nếu bỏ qua bước này",
+      "key_insight": "Người bán là người thừa kế chỉ được ký hợp đồng chuyển nhượng hợp pháp khi đã có Giấy chứng nhận đứng tên mình hoặc đủ điều kiện được cấp - nếu ký khi thủ tục thừa kế chưa hoàn tất, giao dịch tiềm ẩn nguy cơ vô hiệu.",
+      "emotional_trigger": "Sợ mất trắng tiền cọc vì hợp đồng vô hiệu",
+      "outline": "Case mua nhà từ người thừa kế khi sổ chưa sang tên → giải thích rủi ro hợp đồng vô hiệu → checklist giấy tờ cần yêu cầu bên bán xuất trình trước khi cọc.",
+      "topic_pillar": "pillar_6",
+      "angle": "angle_3",
+      "format": "Carousel",
+      "funnel_stage": "MID",
+      "legal_basis": "Điều 45 khoản 4 - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_buyer_07",
+      "role": "Nỗi sợ người mua",
+      "hook_pattern": "Mua nguyên căn định tách sổ chia lại sau này - có thể bạn sẽ không tách được",
+      "key_insight": "Muốn tách thửa, phần diện tích còn lại phải đạt mức tối thiểu theo quy định của UBND cấp tỉnh và phải đảm bảo có lối đi kết nối đường giao thông công cộng - không đạt sẽ không tách được.",
+      "emotional_trigger": "Sợ kế hoạch tương lai (chia cho con cái, tách bán một phần) bị chặn đứng",
+      "outline": "Tình huống mua nhà với dự định tách thửa sau này → chỉ ra 2 điều kiện bắt buộc phải kiểm tra TRƯỚC khi mua, không phải sau khi mua.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_3",
+      "format": "Carousel",
+      "funnel_stage": "TOP",
+      "legal_basis": "Điều 220 khoản 1 điểm d, khoản 2 điểm a - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_buyer_08",
+      "role": "Nỗi sợ người mua",
+      "hook_pattern": "Vừa mua xong thì phát sinh tranh chấp - đây là quy trình bạn bắt buộc phải trải qua",
+      "key_insight": "Nếu đất chưa có sổ đỏ, các bên tranh chấp bắt buộc phải hòa giải tại UBND cấp xã (tối đa 30 ngày) trước khi được chọn khởi kiện ra Tòa hoặc yêu cầu UBND cấp huyện giải quyết.",
+      "emotional_trigger": "Sợ bị kẹt trong quy trình pháp lý kéo dài không biết đường nào mà lần",
+      "outline": "Giải thích quy trình xử lý tranh chấp đất đai theo đúng luật, để người mua không hoang mang mất phương hướng nếu chẳng may gặp tranh chấp sau khi mua.",
+      "topic_pillar": "pillar_2",
+      "angle": "angle_3",
+      "format": "Infographic",
+      "funnel_stage": "TOP",
+      "legal_basis": "Điều 235 khoản 2; Điều 236 khoản 1, khoản 2 - Luật Đất đai 2024"
+    },
+    {
+      "id": "idea_valuation_01",
+      "role": "Nỗi đau người bán",
+      "hook_pattern": "Tự định giá nhà mặt phố theo giá hàng xóm rao — đây là lý do bạn có thể lỗ nặng",
+      "key_insight": "Giá rao trên mạng chỉ là giá KỲ VỌNG của người bán, không phải giá đã giao dịch thành công thực tế. Định giá dựa trên giá rao (không có dữ liệu giao dịch thật) dẫn đến rao quá cao (ế hàng tháng trời) hoặc chốt bán quá thấp (mất tiền oan) mà chủ nhà không hề biết.",
+      "emotional_trigger": "Tự tin sai lầm dẫn đến mất cơ hội bán đúng giá",
+      "outline": "Mở bằng thói quen phổ biến: search giá các nhà xung quanh đang rao để tự định giá -> giải thích khoảng cách giữa giá rao và giá giao dịch thật -> hệ quả 2 chiều (rao hớ/bán hớ) -> giải pháp: định giá cần dựa trên dữ liệu giao dịch thật + dòng tiền khai thác, không chỉ nhìn giá rao trên mạng.",
+      "topic_pillar": "pillar_1",
+      "angle": "angle_1",
+      "format": "Carousel",
+      "funnel_stage": "MID",
+      "legal_basis": "Nguyên tắc định giá thị trường - không trích luật cụ thể, đây là kinh nghiệm định giá thực chiến"
+    },
+    {
+      "id": "idea_valuation_02",
+      "role": "Nỗi sợ người mua",
+      "hook_pattern": "Trả đúng giá rao nhưng vẫn bị hớ hàng tỷ đồng — vì sao?",
+      "key_insight": "Giá trị thật của nhà mặt phố phải tính theo dòng tiền khai thác thực tế (tỷ suất cho thuê, tiềm năng kinh doanh của vị trí), không chỉ theo diện tích mặt tiền hay giá thị trường chung của khu vực. Hai căn cùng phố có thể chênh lệch giá trị thật rất lớn vì góc kinh doanh, chiều sâu, mật độ người qua lại khác nhau.",
+      "emotional_trigger": "Sợ trả giá cao cho tài sản không tạo ra dòng tiền tương xứng",
+      "outline": "Case tổng quát (ẩn danh, không nêu địa chỉ thật): 2 căn cùng phố, giá rao gần nhau nhưng dòng tiền khai thác khác biệt lớn -> phân tích 3 yếu tố định giá thực chiến (vị trí kinh doanh, tình trạng pháp lý, dòng tiền cho thuê thực tế) -> khuyên nên thẩm định độc lập trước khi trả giá, không chỉ tin vào giá niêm yết.",
+      "topic_pillar": "pillar_1",
+      "angle": "angle_3",
+      "format": "Video Reels",
+      "funnel_stage": "MID",
+      "legal_basis": "Nguyên tắc định giá thị trường - không trích luật cụ thể, đây là kinh nghiệm định giá thực chiến"
+    }
+  ],
+  "interactive_ideas": {
+    "note": "Dùng cho khung giờ tối (~19h30-20h30) mỗi ngày. Mục tiêu: giữ nhịp tương tác + thu thập insight thật từ khán giả qua comment, KHÔNG cần bài dài. Định dạng: 1 ảnh đơn giản (chữ lớn, nền màu thương hiệu) hoặc carousel ngắn 2-3 slide.",
+    "items": [
+      {
+        "id": "interactive_mon",
+        "day": "Thứ 2",
+        "pillar": "pillar_2",
+        "mechanic": "Đố vui Đúng/Sai",
+        "hook": "Đố bạn: Nhà đang nằm trong quy hoạch NHƯNG chưa có kế hoạch sử dụng đất hằng năm cấp huyện — chủ nhà còn được sửa chữa, cho thuê bình thường không?",
+        "cta": "Comment CÓ hoặc KHÔNG, đáp án + giải thích sẽ lên bài sáng mai"
+      },
+      {
+        "id": "interactive_tue",
+        "day": "Thứ 3",
+        "pillar": "pillar_7",
+        "mechanic": "Tình huống chọn lựa A/B",
+        "hook": "Bạn đang mua nhà, sổ đỏ đẹp nhưng chủ nhà giục ký gấp trong 24h vì 'có người khác trả cao hơn'. Bạn sẽ: A) Ký ngay kẻo mất nhà, hay B) Xin thêm thời gian kiểm tra pháp lý dù có thể mất cơ hội?",
+        "cta": "Comment A hoặc B, và vì sao bạn chọn vậy"
+      },
+      {
+        "id": "interactive_wed",
+        "day": "Thứ 4",
+        "pillar": "pillar_6",
+        "mechanic": "Câu hỏi mở thu thập insight",
+        "hook": "Nhà bạn (hoặc nhà người quen) có đang có nhiều anh chị em cùng đứng tên chung 1 sổ đỏ thừa kế không?",
+        "cta": "Comment CÓ để tuần sau chúng tôi làm hẳn 1 bài gỡ rối đúng tình huống này"
+      },
+      {
+        "id": "interactive_thu",
+        "day": "Thứ 5",
+        "pillar": "pillar_1",
+        "mechanic": "Thử thách đoán giá",
+        "hook": "Thử thách định giá: chỉ với 3 chi tiết vị trí (ẩn danh, không nêu địa chỉ cụ thể), bạn đoán căn mặt phố này đáng giá bao nhiêu?",
+        "cta": "Comment con số bạn đoán — góc nhìn định giá thực chiến sẽ tiết lộ ở bài tối mai"
+      },
+      {
+        "id": "interactive_fri",
+        "day": "Thứ 6",
+        "pillar": "pillar_2",
+        "mechanic": "Khảo sát nhanh (Poll 4 lựa chọn)",
+        "hook": "Theo bạn, điều gì đáng sợ nhất khi mua nhà mặt phố? A. Dính quy hoạch  B. Tranh chấp thừa kế  C. Bị định giá hớ  D. Sổ đỏ có vấn đề",
+        "cta": "Comment chữ cái bạn chọn"
+      },
+      {
+        "id": "interactive_sat",
+        "day": "Thứ 7",
+        "pillar": "pillar_7",
+        "mechanic": "Đố vui nhẹ nhàng cuối tuần",
+        "hook": "Đố vui cuối tuần: từ nào sau đây KHÔNG xuất hiện trong Luật Đất đai (chỉ là cách gọi dân gian)? A. Sổ đỏ  B. Sổ hồng  C. Giấy chứng nhận  D. Bìa đỏ",
+        "cta": "Comment đáp án, giải thích ở bài sau"
+      },
+      {
+        "id": "interactive_sun",
+        "day": "Chủ nhật",
+        "pillar": "feedback_loop",
+        "mechanic": "Thu thập định hướng tuần mới",
+        "hook": "Tuần tới bạn muốn chúng tôi giải đáp chủ đề nào nhất: Pháp lý / Sổ đỏ / Thừa kế / Định giá?",
+        "cta": "Comment lựa chọn của bạn — chúng tôi lên lịch bài tuần sau đúng theo nhu cầu thật của mọi người"
+      }
+    ]
+  }
+}

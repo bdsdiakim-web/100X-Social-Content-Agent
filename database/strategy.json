@@ -1,0 +1,97 @@
+{
+  "brand_name": "Vua Mặt Phố Hà Nội",
+  "founder": "Phùng Hữu Anh",
+  "usp": "Chuyên gia thực chiến hàng đầu về bất động sản nhà mặt phố tại 4 quận lõi nội đô Hà Nội (Hoàn Kiếm, Ba Đình, Hai Bà Trưng, Đống Đa). Nắm trọn giỏ hàng độc quyền, am hiểu sâu về quy hoạch - chỉ giới đường đỏ - pháp lý, định giá theo dòng tiền khai thác thực tế và kết nối đàm phán trực tiếp chính chủ, giúp bảo toàn và gia tăng giá trị tài sản triệu đô cho nhà đầu tư.",
+  "business_focus_note": "Từ 2026-09-10: Thị trường BĐS gần như đóng băng, nên trọng tâm nội dung/CTA CHUYỂN từ 'quảng cáo bán nhà' sang bán 3 dòng DỊCH VỤ: (1) Tư vấn pháp lý (kiểm tra quy hoạch, sổ đỏ, tranh chấp), (2) Tư vấn/Dịch vụ định giá nhà mặt phố, (3) Nhận làm trọn gói thủ tục giấy tờ thừa kế. Quảng cáo bán nhà trên nền tảng uy tín vẫn còn nhưng là dịch vụ phụ, không phải trọng tâm. Mọi CTA cuối bài (Phần 7 SB7) nên dẫn về 1 trong 3 dịch vụ này thay vì chỉ tặng tài liệu miễn phí đơn thuần.",
+  "sales_funnel_model": "Bước 1 - MIỄN PHÍ: khách NHẮN TIN (inbox) trực tiếp cho page kèm từ khóa (VD: TƯ VẤN THỪA KẾ, ĐỊNH GIÁ) -> bot AhaChat tự động tư vấn/thẩm định sơ bộ miễn phí, có thể tặng kèm checklist. Bước 2 - CÓ PHÍ: sau khi nắm rõ hồ sơ/tình trạng thực tế của khách, đội ngũ báo giá trọn gói dịch vụ (xử lý thủ tục thừa kế / định giá chi tiết / tư vấn pháp lý chuyên sâu). Nguyên tắc viết CTA: PHẦN CUỐI BÀI mời NHẮN TIN (không chỉ comment) vì AhaChat gói Free chỉ tự động trả lời qua tin nhắn Messenger, không tự động trả lời comment (tính năng đó cần gói trả phí, hiện chưa mua, có thể nâng cấp sau nếu lượng khách tăng). Có thể mời thêm comment để tăng tương tác nhưng không thay thế được bước nhắn tin. Không nêu giá trong bài viết công khai, việc báo giá trọn gói diễn ra riêng trong Messenger.",
+  "tone_of_voice": "Chuyên gia thực chiến, đĩnh đạc, sâu sắc và đáng tin cậy. Dùng số liệu, dẫn chứng thực địa và phân tích sắc sảo; thẳng thắn bóc tách rủi ro, không vẽ vời sáo rỗng.",
+  "service_pillars": {
+    "tu_van_phap_ly": "pillar_2",
+    "lam_thua_ke": "pillar_6",
+    "lam_so_do": "pillar_7",
+    "dinh_gia_bat_dong_san": "pillar_1"
+  },
+  "posting_cadence": {
+    "posts_per_day": 2,
+    "slot_sang": {
+      "time": "~9h00",
+      "type": "Giáo dục sâu (SB7)",
+      "goal": "Xây thẩm quyền chuyên gia, dẫn CTA về 1 trong 4 dịch vụ (tư vấn miễn phí bước đầu)",
+      "formats": ["Bài viết dài", "Carousel", "Video Reels"]
+    },
+    "slot_toi": {
+      "time": "~19h30-20h30",
+      "type": "Tương tác nhanh",
+      "goal": "Giữ nhịp thuật toán, thu thập nỗi đau/nhu cầu thật từ comment làm nguyên liệu cho bài giáo dục tuần sau. KHÔNG cần bài dài.",
+      "formats": ["Ảnh câu hỏi/Poll", "Đố vui pháp lý", "Tình huống chọn lựa A/B"]
+    },
+    "pillar_rotation_week": ["pillar_2", "pillar_7", "pillar_6", "pillar_1", "pillar_2", "pillar_7_or_pillar_6", "pillar_1_or_tong_ket_tuan"],
+    "sunday_feedback_loop": "Bài tương tác tối Chủ nhật luôn hỏi khán giả muốn chủ đề nào tuần tới (Pháp lý/Sổ đỏ/Thừa kế/Định giá) -> dùng câu trả lời comment thật để quyết định trọng tâm pillar tuần kế tiếp, tránh lên nội dung lan man không có hướng."
+  },
+  "matrix_5x5": {
+    "topic_pillars": [
+      {
+        "id": "pillar_1",
+        "name": "Định Giá & Dòng Tiền Mặt Phố",
+        "description": "Phân tích tỷ suất sinh lời, dòng tiền cho thuê, so sánh giá trị đất vàng giữa các tuyến phố trung tâm."
+      },
+      {
+        "id": "pillar_2",
+        "name": "Pháp Lý, Chỉ Giới & Cạm Bẫy Quy Hoạch",
+        "description": "Hướng dẫn kiểm tra quy hoạch mở đường, chỉ giới đường đỏ, sổ đỏ chung/riêng, tranh chấp ngầm tại phố cổ."
+      },
+      {
+        "id": "pillar_3",
+        "name": "Triết Lý Tích Sản & Giữ Tiền",
+        "description": "Lý do giới siêu giàu luôn chọn nhà mặt phố lõi để 'trú bão' lạm phát và chuyển giao tài sản qua các thế hệ."
+      },
+      {
+        "id": "pillar_4",
+        "name": "Review Thực Địa & Giỏ Hàng Độc Quyền",
+        "description": "Khảo sát thực tế các căn nhà phố đắc địa, phân tích ưu/nhược điểm vị trí và tiềm năng kinh doanh thực tế."
+      },
+      {
+        "id": "pillar_5",
+        "name": "Nghệ Thuật Đàm Phán & Tâm Lý Mua Bán Triệu Đô",
+        "description": "Kinh nghiệm làm việc trực tiếp với chủ nhà phố, giải mã tâm lý người mua/bán và bài học giao dịch an toàn."
+      },
+      {
+        "id": "pillar_6",
+        "name": "Thừa Kế & Chuyển Giao Tài Sản Qua Các Thế Hệ",
+        "description": "Thủ tục, rủi ro và checklist pháp lý khi thừa kế/sang tên nhà mặt phố giữa các thế hệ trong gia đình (căn cứ Luật Đất đai 2024 và Bộ luật Dân sự)."
+      },
+      {
+        "id": "pillar_7",
+        "name": "Dịch Vụ Làm Sổ Đỏ (Cấp mới, Tách thửa, Sang tên)",
+        "description": "Quy trình, điều kiện và cạm bẫy thường gặp khi cấp mới/tách thửa/sang tên/đính chính Giấy chứng nhận quyền sử dụng đất nhà mặt phố."
+      }
+    ],
+    "angles": [
+      {
+        "id": "angle_1",
+        "name": "Bóc trần sự thật / Cảnh báo sai lầm (Contrarian / Myth Busting)",
+        "description": "Vạch trần những hiểu lầm tai hại khiến nhà đầu tư chôn vốn hoặc mất tiền oan khi mua nhà phố."
+      },
+      {
+        "id": "angle_2",
+        "name": "Case Study Thực chiến (Thành công / Thất bại)",
+        "description": "Phân tích các thương vụ giao dịch thực tế đã diễn ra trên thị trường Hà Nội."
+      },
+      {
+        "id": "angle_3",
+        "name": "Cẩm nang từng bước (How-To / Checklist)",
+        "description": "Quy trình từng bước thẩm định một căn nhà mặt phố trước khi xuống cọc."
+      },
+      {
+        "id": "angle_4",
+        "name": "Dự báo xu hướng & Bức tranh thị trường",
+        "description": "Tác động của hạ tầng, bảng giá đất mới và xu hướng dòng tiền chảy vào bất động sản trung tâm."
+      },
+      {
+        "id": "angle_5",
+        "name": "Câu chuyện hậu trường & Góc nhìn chuyên gia",
+        "description": "Nhật ký những ngày lùng sục phố cổ, câu chuyện thú vị đằng sau các thương vụ triệu đô."
+      }
+    ]
+  }
+}

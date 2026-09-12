@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=Be+Vietnam+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body {
+    width: 1920px; height: 1080px;
+    overflow: hidden;
+    background: #05050a;
+    font-family: 'Be Vietnam Pro', sans-serif;
+  }
+  .stage {
+    position: relative;
+    width: 1920px; height: 1080px;
+    background:
+      radial-gradient(ellipse 1200px 800px at 50% 42%, rgba(120,20,20,0.35) 0%, rgba(20,5,10,0) 70%),
+      radial-gradient(ellipse 1600px 1000px at 50% 50%, #1a0e08 0%, #0a0508 55%, #05050a 100%);
+  }
+
+  /* embers / atmosphere */
+  .glow {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(2px);
+    opacity: 0.55;
+    background: radial-gradient(circle, rgba(255,170,60,0.9) 0%, rgba(255,120,30,0) 70%);
+  }
+
+  /* decorative frame */
+  .frame {
+    position: absolute;
+    top: 46px; left: 46px; right: 46px; bottom: 46px;
+    border: 1.5px solid rgba(212,175,55,0.45);
+  }
+  .frame::before, .frame::after,
+  .frame-inner::before, .frame-inner::after {
+    content: "";
+    position: absolute;
+    width: 34px; height: 34px;
+    border: 2px solid #d4af37;
+  }
+  .frame::before { top: -3px; left: -3px; border-right: none; border-bottom: none; }
+  .frame::after { top: -3px; right: -3px; border-left: none; border-bottom: none; }
+  .frame-inner { position: absolute; top: 46px; left: 46px; right: 46px; bottom: 46px; }
+  .frame-inner::before { bottom: -3px; left: -3px; border-right: none; border-top: none; }
+  .frame-inner::after { bottom: -3px; right: -3px; border-left: none; border-top: none; }
+
+  /* central emblem: stylized flame-ring behind title */
+  .emblem {
+    position: absolute;
+    top: 50%; left: 50%;
+    width: 880px; height: 880px;
+    transform: translate(-50%, -56%);
+    border-radius: 50%;
+    border: 1px solid rgba(212,175,55,0.25);
+  }
+  .emblem::before {
+    content: "";
+    position: absolute;
+    inset: 60px;
+    border-radius: 50%;
+    border: 1px solid rgba(212,175,55,0.18);
+  }
+
+  .content {
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 100%;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    text-align: center;
+    z-index: 5;
+  }
+
+  .genre-tag {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 22px;
+    letter-spacing: 10px;
+    color: #d4af37;
+    text-transform: uppercase;
+    margin-bottom: 34px;
+    opacity: 0.9;
+  }
+
+  .title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 128px;
+    line-height: 1.08;
+    color: #f5ead0;
+    text-shadow:
+      0 0 40px rgba(255,140,40,0.45),
+      0 6px 24px rgba(0,0,0,0.85);
+    letter-spacing: 2px;
+    max-width: 1500px;
+  }
+
+  .divider {
+    margin: 42px 0 32px;
+    width: 260px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #d4af37, transparent);
+    position: relative;
+  }
+  .divider::before {
+    content: "◆";
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    color: #d4af37;
+    font-size: 16px;
+    background: #0a0508;
+    padding: 0 14px;
+  }
+
+  .episode {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 46px;
+    color: #d4af37;
+    letter-spacing: 6px;
+  }
+
+  .author {
+    position: absolute;
+    bottom: 96px;
+    left: 0; right: 0;
+    text-align: center;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    color: rgba(245,234,208,0.75);
+  }
+  .author b {
+    font-weight: 600;
+    color: #f5ead0;
+    letter-spacing: 5px;
+  }
+</style>
+</head>
+<body>
+  <div class="stage">
+    <div class="glow" style="width:420px; height:420px; top:120px; left:180px;"></div>
+    <div class="glow" style="width:320px; height:320px; bottom:140px; right:220px;"></div>
+    <div class="glow" style="width:260px; height:260px; top:60%; left:8%;"></div>
+
+    <div class="emblem"></div>
+
+    <div class="content">
+      <div class="genre-tag">Tu Tiên · Xuyên Không</div>
+      <div class="title">VỰC HẮC<br>ĐAN CHỦ</div>
+      <div class="divider"></div>
+      <div class="episode">Tập 1</div>
+    </div>
+
+    <div class="author">Tác giả&nbsp;&nbsp;<b>ẨN CƯ SĨ</b></div>
+
+    <div class="frame"></div>
+    <div class="frame-inner"></div>
+  </div>
+</body>
+</html>

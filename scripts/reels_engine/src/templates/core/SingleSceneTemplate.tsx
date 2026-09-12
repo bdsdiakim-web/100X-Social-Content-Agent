@@ -20,14 +20,13 @@ export const SingleSceneTemplate: React.FC<{ scene: any }> = ({ scene }) => {
 
     return (
         <AbsoluteFill style={{ backgroundColor: '#000', color: 'white', fontFamily: 'sans-serif' }}>
-            {/* 0. LAYER NHẠC NỀN (Global) */}
-            {scene.bg_music && (
-                <Audio src={scene.bg_music.startsWith('http') ? scene.bg_music : staticFile(scene.bg_music)} volume={0.4} loop />
-            )}
+            {/* 0. LAYER NHẠC NỀN: KHÔNG render ở đây nữa — Composition.tsx đã phát nhạc nền
+                xuyên suốt toàn video 1 lần duy nhất. Render lại ở từng Scene sẽ gây chồng
+                âm lượng (đặc biệt là Cảnh 1), khiến nhạc nền nghe to bất thường. */}
 
             {/* 0.1 LAYER LỜI THOẠI (Voiceover) */}
             {scene.voice_audio && (
-                <Audio src={scene.voice_audio.match(/^(http|file):\/\//) ? scene.voice_audio : staticFile(scene.voice_audio)} volume={1} />
+                <Audio src={scene.voice_audio.match(/^(http|file):\/\//) ? scene.voice_audio : staticFile(scene.voice_audio)} volume={1.8} />
             )}
 
             {/* 1. LAYER ĐÁY: BACKGROUND VIDEO (Sử dụng OffthreadVideo v5.4 cho ĐỘ MƯỢT TUYỆT ĐỐI) */}

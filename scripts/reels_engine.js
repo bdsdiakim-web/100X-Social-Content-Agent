@@ -1,7 +1,18 @@
 const fs = require('fs');
 const path = require('path');
 const http = require('http');
-const { execSync } = require('child_process');
+const { execSync, spawn } = require('child_process');
+
+function runCommandAsync(command, options) {
+    return new Promise((resolve, reject) => {
+        const child = spawn(command, { shell: true, ...options });
+        child.on('error', reject);
+        child.on('close', (code) => {
+            if (code === 0) resolve();
+            else reject(new Error(`Command failed with exit code ${code}: ${command}`));
+        });
+    });
+}
 const { getAssetForImageEngine } = require('./utils/image_asset_pipeline');
 
 function startMediaServer(port, roots) {
@@ -128,7 +139,8 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
 
     // 2 & 3. Tiền kỳ: Thu hoạch Nguyên Liệu
     console.log(`⏳ [2/4] Chạy Asset Pipeline: Gọi 3 API Đồng loạt (Pexels, ElevenLabs, HeyGen)...`);
-    const { getPexelsBroll, getLocalBroll, getElevenLabsVoice, getHeyGenAvatar, getLocalMusic } = require('./utils/reels_asset_pipeline');
+    const { getPexelsBroll, getLocalBroll, getElevenLabsVoice, getVbeeVoice, getHeyGenAvatar, getLocalMusic } = require('./utils/reels_asset_pipeline');
+    const ttsProvider = (process.env.TTS_PROVIDER || 'elevenlabs').toLowerCase();
 
     // Quét nhạc nền Local và nạp vào Timeline Cảnh Đầu (Composition Root Router sẽ thầu việc Play xuyên suốt)
     const globalBgMusicPath = await getLocalMusic();
@@ -151,18 +163,31 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
 
             if (scene.video_source_override === "pexels") {
                 sourceFile = await getPexelsBroll(query, sceneNum, ticketAssetsDir);
+                // QUAN TRỌNG: nếu Pexels lỗi/hết hạn ngạch (vd 500, 429), đừng để trống —
+                // rơi về video local thay vì fallback đường dẫn cứng không tồn tại (bug cũ khiến
+                // cả video fail chỉ vì 1 cảnh không tải được B-roll).
+                if (!sourceFile) {
+                    console.warn(`[Engine] ⚠️ Pexels lỗi ở Cảnh ${sceneNum}, chuyển sang dùng video local dự phòng...`);
+                    sourceFile = await getLocalBroll(query, sceneNum);
+                }
             } else {
                 sourceFile = await getLocalBroll(query, sceneNum);
                 if (!sourceFile) sourceFile = await getPexelsBroll(query, sceneNum, ticketAssetsDir);
             }
 
             let finalVideoPath = sourceFile;
-            scene.bg_video = finalVideoPath || "assets/scene_1_bg.mp4"; // Fallback nếu fail toàn bộ
+            if (!finalVideoPath) {
+                throw new Error(`Cảnh ${sceneNum}: không lấy được B-roll từ cả Pexels lẫn video local. Kiểm tra lại kết nối mạng hoặc thư mục media-input/background-video.`);
+            }
+            scene.bg_video = finalVideoPath;
         }
 
-        // Cắm API 2: Tải Voice & Karaoke Subtitle (ElevenLabs)
+        // Cắm API 2: Tải Voice & Karaoke Subtitle (ElevenLabs hoặc Vbee tùy TTS_PROVIDER)
         if (scene.voice_text && scene.voice_text.length > 5) {
-            const voiceData = await getElevenLabsVoice(scene.voice_text, sceneNum, ticketAssetsDir);
+            console.log(`[Engine] Nhà cung cấp giọng đọc: ${ttsProvider}`);
+            const voiceData = ttsProvider === 'vbee'
+                ? await getVbeeVoice(scene.voice_text, sceneNum, ticketAssetsDir)
+                : await getElevenLabsVoice(scene.voice_text, sceneNum, ticketAssetsDir);
             if (voiceData) {
                 scene.voice_audio = voiceData.audioPath;
                 scene.karaoke_file = voiceData.karaokePath;
@@ -283,7 +308,10 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
 
         try {
             // Bơm 4GB RAM cho tiến trình chạy lệnh để diệt tận gốc OOM
-            execSync(command, { cwd: remotionEngineDir, stdio: 'inherit', env: { ...process.env, NODE_OPTIONS: "--max-old-space-size=4096" } });
+            // QUAN TRỌNG: Dùng spawn bất đồng bộ (không phải execSync) vì Media Server (startMediaServer)
+            // chạy trên CÙNG process/event loop này — execSync sẽ chặn đứng event loop, khiến Remotion
+            // không thể tải asset qua http://localhost:9876 (gây timeout delayRender).
+            await runCommandAsync(command, { cwd: remotionEngineDir, stdio: 'inherit', env: { ...process.env, NODE_OPTIONS: "--max-old-space-size=4096" } });
         } finally {
             // CLEANUPS: Zero-Garbage Compliance
             if (fs.existsSync(inputPropsPath)) fs.unlinkSync(inputPropsPath);

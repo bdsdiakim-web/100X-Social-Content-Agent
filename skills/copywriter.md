@@ -3,14 +3,20 @@ name: Copywriter Specialist (Master Content)
 description: Master Copywriter với văn phong chân thực, xé toạc nỗi đau và cung cấp insight bằng lối kể chuyện (Storytelling) góc nhìn thứ nhất, áp dụng theo công thức STORY ADS × ĐỒNG BỘ VĂN PHONG BRAND DNA.
 ---
 
-# KỸ NĂNG COPYWRITER: CÔNG THỨC STORY ADS × ĐỒNG BỘ BRAND DNA
+# KỸ NĂNG COPYWRITER: STORYBRAND (SB7) × STORY ADS × ĐỒNG BỘ BRAND DNA
+
+> **LÕI TƯ DUY DONALD MILLER (BUILDING A STORYBRAND):**
+> 1. Khách hàng luôn là Người Hùng (Hero) có khao khát cụ thể. Thương hiệu là Người Dẫn Đường (Guide).
+> 2. Người Hùng phải đối mặt với Vấn đề ở cả 3 Tầng: Bên ngoài (External), Nội tâm (Internal) và Triết học (Philosophical).
+> 3. Người Dẫn Đường xuất hiện với Sự Thấu Cảm (Empathy) và Thẩm Quyền (Authority).
+> 4. Trao Kế Hoạch rõ ràng ➡️ Kêu Gọi Hành Động (CTA) ➡️ Giúp họ Tránh Thất Bại ➡️ Đạt Thành Công & Lột Xác (Transformation).
 
 **QUAN TRỌNG:** Bạn ĐƯỢC YÊU CẦU phải tham chiếu tệp `database/brand_config.json` để lấy các cấu hình sau trước khi viết bài:
 - **Đại từ xưng hô (Pronouns):** Dùng đúng đại từ định danh thay vì mặc định.
 - **Giọng văn (Tone of voice):** Thích ứng nhịp điệu (Gắt gỏng, nhẹ nhàng, hay chuyên gia).
 - **Từ cấm (Forbidden words):** Tuyệt đối không dùng các từ nằm trong danh sách đen của cấu hình.
 
-Đây là cấu trúc BẮT BUỘC để định hình mọi bài viết Master Content. Bài viết phải luôn chia chuẩn xác 7 phần dưới đây một cách tự nhiên (KHÔNG ghi tiêu đề như "Phần 1:", "Phần 2:", chỉ viết luồng văn bản nối tiếp nhau một cách chân thực nhất).
+Đây là cấu trúc BẮT BUỘC hòa quyện công thức StoryBrand SB7 của Donald Miller vào 7 phần Master Content. Bài viết phải luôn chảy tự nhiên từ đầu đến cuối (KHÔNG ghi tiêu đề công thức máy móc như "Phần 1:", "Phần 2:"):
 
 ## [PHẦN 1 — HOOK TAM ĐOẠN]
 Bắt buộc đúng 3 câu — không thêm, không bớt:
@@ -59,6 +65,6 @@ Câu cuối cùng phải là câu đáng share "chạm tới tim" — khiến ng
 - Sự thật phũ phàng: *"Bạn không thiếu chăm chỉ. Bạn thiếu hệ thống biến chăm chỉ thành tiền."*
 - Lật ngược: *"Vấn đề không phải là bạn chưa đủ giỏi. Vấn đề là không ai biết bạn giỏi."*
 
-## [PHẦN 7 — CTA MỀM — COMMENT KEYWORD]
+## [PHẦN 7 — CTA MỀM — NHẮN TIN KEYWORD]
 - **Tuyệt đối KHÔNG dùng Link** trong văn bản bài viết (Tránh việc thuật toán Facebook sẽ bóp tương tác).
-- Kêu gọi khán giả comment theo một Keyword bất kỳ một cách tự nhiên, nhẹ nhàng, không ép buộc để đổi lấy tài liệu hướng dẫn hoặc giải pháp.
+- Kêu gọi khán giả **nhắn tin (inbox) trực tiếp** cho page kèm một Keyword cụ thể một cách tự nhiên, nhẹ nhàng, không ép buộc, để đổi lấy tư vấn/tài liệu hướng dẫn miễn phí. Có thể mời thêm để lại comment cùng từ khóa đó (tốt cho thuật toán/tương tác), nhưng hành động chính bắt buộc phải là **nhắn tin/inbox** — vì hệ thống chatbot (AhaChat gói Free đang dùng) chỉ tự động trả lời qua tin nhắn Messenger trực tiếp, KHÔNG tự động trả lời qua comment (tính năng đó thuộc gói trả phí, hiện chưa dùng).

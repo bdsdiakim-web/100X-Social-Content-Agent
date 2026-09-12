@@ -15,6 +15,7 @@ description: (GIAO THỨC TRÍ TUỆ NGẦM - ALWAYS ON) Lệnh định tuyến 
    - Ví dụ: *"Cào kênh fanpage ABC kia kìa"* → Máy nhận diện `/research_ideas` với URL đầu vào.
    - Ví dụ: *"Post bài luôn đi"* → Máy nhận diện `/publish`.
    - Ví dụ: *"Cập nhật từ sheet"* hoặc *"Duyệt bài hàng loạt trên bảng tính"* → Máy nhận diện `/sheets_action`.
+   - Ví dụ: *"Viết cho tao 1 tập truyện tu tiên báo thù"* hoặc *"Kể chuyện xuyên không đi"* → Máy nhận diện `/viet_truyen`.
 
 2. **Dung sai Tối nghĩa (Max 3 Questions Threshold):**
    Trợ lý không phải là cỗ máy nhận lệnh mù quáng. Khi Câu lệnh Ngôn Ngữ Tự Nhiên (Natural Language) đưa ra **Thiếu trên 2 tham số quan trọng**, AI CHUYỂN TRẠNG THÁI sang HỎI ĐÁP CHUYÊN GIA.

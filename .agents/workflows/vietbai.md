@@ -35,6 +35,10 @@ Tuyệt đối KHÔNG sử dụng phân bổ file lưu trữ nháp tại đườ
   ```
 - **Thực thi:** AI xả Master Content trực tiếp vào file Đích vừa được khởi tạo rỗng. Không dùng file nháp.
 
+### Bước 2.5: Tạo Gói Tự Động Hóa AhaChat (MANDATORY — không được bỏ qua)
+- Tải quy tắc tại `.agents/rules/ahachat_automation_package.md`.
+- Dựa trên từ khóa CTA ở PHẦN 7 và pillar của bài vừa viết, tạo file `media_output/[YYYY-MM-DD]/[Kênh]/[Ticket_ID]/ahachat_package.md` gồm đủ 3 khối: Từ khóa kích hoạt, Comment mẫu của khách, Kịch bản trả lời tự động (theo đúng phễu Bước 1 miễn phí, không báo giá trong bot).
+
 ### Bước 3: Tạo Ticket Lưu Khay Chờ (Pending Format)
 Cấu trúc khởi tạo phiên chờ của Ticket, ĐẶC BIỆT KHÔNG KHAI BÁO biến tham số nội tại `media_payload`, phục vụ cơ chế nhãn đánh dấu chờ tiến trình tái định dạng hiển thị mạng:
 ```json
@@ -57,6 +61,7 @@ Cấu trúc khởi tạo phiên chờ của Ticket, ĐẶC BIỆT KHÔNG KHAI B�
 Đưa ra thông báo sau khi hoàn thiện với cấu trúc hiển thị đường dẫn rõ ràng để người dùng click:
 
 *Nội dung bài viết: [caption.txt](đường/dẫn/tuyệt/đối)
+Gói AhaChat: [ahachat_package.md](đường/dẫn/tuyệt/đối)
 
 Xin mời bạn khởi động các tập lệnh theo hình thức kết xuất (`/tao_anh`, `/tao_carousel`, hoặc lệnh `/tao_video_broll`) để hệ thống kích hoạt nhóm Công cụ định dạng hoạt động thiết kế song song!*
 

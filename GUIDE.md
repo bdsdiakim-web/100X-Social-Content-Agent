@@ -29,6 +29,7 @@ Bất cứ khi nào ngài muốn cỗ máy làm việc, hãy mở thanh chat Ant
 | :--- | :--- |
 | **`/research_ideas`** | 🕵️ **Điệp viên cào số liệu:** Kéo data từ đối thủ, phân tích Insight người dùng và tự đẻ ra kho Ý tưởng (Idea Bank). |
 | **`/vietbai`** | 🧠 **Bộ não Viết Lách:** Lấy ý tưởng từ kho, dùng tư duy Copywriter để phóng tác thành Bài viết Chuyên gia (Master Content). |
+| **`/viet_truyen`** | 📖 **Đại Văn Hào Tu Tiên:** Sáng tác Tập truyện dài / Kịch bản Audio Tu Tiên - Xuyên Không theo Khung SB7, kết mỗi tập bằng Cliffhanger. |
 | **`/tao_anh`** | 🎨 **Đặc nhiệm Thiết kế 2D:** Biến văn bản thành Hình ảnh Trích dẫn (Quotes) hoặc Layout Cảm hứng tuyệt đẹp. |
 | **`/tao_video`** | 🎬 **Đạo diễn Video Reels:** Tự động cắt gọt B-Rolls, lồng Tiếng nói AI (ElevenLabs) tạo thành đoạn Video Ngắn 60s TikTok/Reels xịn xò. |
 | **`/tao_slide`** | 🖼️ **Thiết kế Carousel:** Chuyển hóa bài học thành chuỗi Đồ họa 10 Slide cực nét để giáo dục khách hàng trên Facebook/LinkedIn. |

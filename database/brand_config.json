@@ -1,18 +1,22 @@
 {
-  "founder": "Hoàng Bá Tầu",
+  "founder": "Phùng Hữu Anh",
   "brand_identity": {
-    "handle": "@rainmaker",
+    "brand_name": "Vua Mặt Phố Hà Nội",
+    "handle": "@Vuamatphohanoi",
+    "slogan": "Thấu hiểu từng tấc đất vàng - Gia tăng dòng tiền mặt phố lõi Hà Nội",
     "colors": {
-      "accent": "#B6FF00"
+      "primary": "#0F2C59",
+      "accent": "#D4AF37",
+      "secondary": "#1E3A8A"
     },
     "fonts": {
       "primary": "Inter",
       "accent": "Playfair Display"
     },
-    "visual_vibe": "Cinematic lighting, high contrast, dark mode, sharp focus, professional and luxurious mood. Color palette predominantly dark.",
+    "visual_vibe": "Cinematic lighting, high contrast, dark mode, sharp focus, professional and luxurious mood. Deep royal blue and gold accents, Hanoi street frontage architecture vibe.",
     "watermark": {
       "enabled": false,
-      "text": "100X",
+      "text": "Vua Mặt Phố",
       "logo_url": "file:///path/to/logo.png",
       "bottom_margin": "20px",
       "opacity": 0.5

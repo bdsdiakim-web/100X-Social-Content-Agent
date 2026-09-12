@@ -30,9 +30,19 @@ export const RichText: React.FC<{ text: string; staggerDelay?: number; brandAcce
             if (!part) return null;
 
             let content = part;
-            let styleToApply: React.CSSProperties = {
-                fontFamily: primaryFont,
-            };
+            // QUAN TRỌNG: với themeType 'headline' (dùng cho câu hook/tiêu đề mở bài — đúng chỗ
+            // khán giả phản ánh "chữ bìa chưa nổi"), đổi font mặc định sang accentFont (Playfair
+            // Display, phông đại diện thương hiệu) thay vì Inter thường, kèm text-shadow đậm để
+            // chữ luôn tương phản rõ dù nền video sáng hay tối, thay vì chỉ dựa vào chữ đậm trắng.
+            let styleToApply: React.CSSProperties = themeType === 'headline'
+                ? {
+                    fontFamily: accentFont,
+                    fontWeight: 800,
+                    textShadow: '0 2px 4px rgba(0,0,0,0.9), 0 6px 24px rgba(0,0,0,0.85), 0 0 2px rgba(0,0,0,1)',
+                }
+                : {
+                    fontFamily: primaryFont,
+                };
             let isHighlight = false;
 
             // Parse Cú pháp SSoT: *Từ khóa*
@@ -68,8 +78,12 @@ export const RichText: React.FC<{ text: string; staggerDelay?: number; brandAcce
             if (isHighlight) {
                 const delay = globalWordIndex * staggerDelay;
                 globalWordIndex += 1;
+                // staggerDelay=0 báo hiệu "chế độ tiêu đề mở bài": cộng thêm offset để hiệu ứng
+                // coi như đã chạy xong ngay từ khung hình 0 (khung dùng làm ảnh bìa/thumbnail),
+                // thay vì phải đợi vài khung hình mới thấy chữ.
+                const introOffset = staggerDelay === 0 ? 15 : 0;
                 const pop = spring({
-                    frame: Math.max(0, frame - delay),
+                    frame: Math.max(0, frame - delay) + introOffset,
                     fps,
                     config: { damping: 12, stiffness: 200 }
                 });
@@ -95,8 +109,9 @@ export const RichText: React.FC<{ text: string; staggerDelay?: number; brandAcce
 
                 const delay = globalWordIndex * staggerDelay;
                 globalWordIndex += 1;
+                const introOffset = staggerDelay === 0 ? 15 : 0;
                 const pop = spring({
-                    frame: Math.max(0, frame - delay),
+                    frame: Math.max(0, frame - delay) + introOffset,
                     fps,
                     config: { damping: 12, stiffness: 180 }
                 });
