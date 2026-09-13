@@ -1,5 +1,53 @@
 [
   {
+    "post_id": "post_20260913_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "caption_link": "media_output/2026-09-13/Facebook/post_20260913_tinthoisu_trua/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-13T06:30:00.000Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-13T06:28:52.014Z"
+    }
+  },
+  {
+    "post_id": "post_20260913_tinthoisu_sang",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "caption_link": "media_output/2026-09-13/Facebook/post_20260913_tinthoisu_sang/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-13T00:47:29.000Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-13T00:45:05.141Z"
+    }
+  },
+  {
+    "post_id": "post_20260912_ranhgioi_broll",
+    "source_idea_id": "dispute_story_01",
+    "delivery_format": "broll",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output\\2026-09-12\\Facebook\\post_20260912_ranhgioi\\reels\\media_full.mp4",
+    "caption_link": "media_output\\2026-09-12\\Facebook\\post_20260912_ranhgioi\\reels\\caption.txt",
+    "status": "published",
+    "created_at": "2026-09-13T00:00:00.000Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-13T00:41:31.916Z"
+    }
+  },
+  {
     "post_id": "post_20260912_mienphepxaydung_text",
     "source_idea_id": "news_cafef_luatxaydung2025",
     "delivery_format": "text",
