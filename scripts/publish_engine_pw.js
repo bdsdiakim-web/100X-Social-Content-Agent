@@ -158,9 +158,7 @@ async function publishReelPlaywright(post, inventory, inventoryPath) {
         console.error(`❌ Lỗi Playwright: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
     } finally {
-        console.log("[Engine] Đóng browser trong 5s...");
-        await new Promise(r => setTimeout(r, 5000));
-        await context.close();
+        console.log("[Engine] Giữ nguyên cửa sổ trình duyệt đang mở (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
     }
 }
 
@@ -232,9 +230,7 @@ async function publishImagePlaywright(post, inventory, inventoryPath) {
         console.error(`❌ Lỗi Playwright Profile Image: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
     } finally {
-        console.log("[Engine] Đóng browser trong 5s...");
-        await new Promise(r => setTimeout(r, 5000));
-        await context.close();
+        console.log("[Engine] Giữ nguyên cửa sổ trình duyệt đang mở (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
     }
 }
 
