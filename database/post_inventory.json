@@ -269,5 +269,21 @@
       "live_url": "Chờ đồng bộ API FB",
       "published_at": "2026-09-13T12:00:45.298Z"
     }
+  },
+  {
+    "post_id": "post_20260914_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "caption_link": "media_output/2026-09-14/Facebook/post_20260914_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-14T04:48:40.675Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
   }
 ]
