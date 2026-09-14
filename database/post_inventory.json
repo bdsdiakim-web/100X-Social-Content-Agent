@@ -1,5 +1,53 @@
 [
   {
+    "post_id": "post_20260913_hopdong2gia_broll",
+    "source_idea_id": "content_bank_thue",
+    "delivery_format": "broll",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output\\2026-09-13\\Facebook\\post_20260913_hopdong2gia\\reels\\media_full.mp4",
+    "caption_link": "media_output\\2026-09-13\\Facebook\\post_20260913_hopdong2gia\\reels\\caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-14T01:30:00.000Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260913_quyhoachchuaro_broll",
+    "source_idea_id": "content_bank_sodo",
+    "delivery_format": "broll",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output\\2026-09-13\\Facebook\\post_20260913_quyhoachchuaro\\reels\\media_full.mp4",
+    "caption_link": "media_output\\2026-09-13\\Facebook\\post_20260913_quyhoachchuaro\\reels\\caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-14T01:00:00.000Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260913_thuakebitac_broll",
+    "source_idea_id": "content_bank_thuake",
+    "delivery_format": "broll",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output\\2026-09-13\\Facebook\\post_20260913_thuakebitac\\reels\\media_full.mp4",
+    "caption_link": "media_output\\2026-09-13\\Facebook\\post_20260913_thuakebitac\\reels\\caption.txt",
+    "status": "published",
+    "created_at": "2026-09-14T00:00:00.000Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-14T00:57:49.986Z"
+    }
+  },
+  {
     "post_id": "post_20260913_tinthoisu_trua",
     "source_idea_id": "news_auto",
     "delivery_format": "news",
