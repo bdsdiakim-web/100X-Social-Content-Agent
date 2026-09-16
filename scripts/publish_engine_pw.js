@@ -228,6 +228,90 @@ async function postFullContentComment(post, page) {
     }
 }
 
+// Đọc danh sách nhóm Facebook cần chia sẻ bài tin tức sang, từ database/share_groups.json.
+function getShareGroups() {
+    try {
+        const cfgPath = path.join(__dirname, '..', 'database', 'share_groups.json');
+        if (!fs.existsSync(cfgPath)) return [];
+        const cfg = JSON.parse(fs.readFileSync(cfgPath, 'utf8'));
+        return Array.isArray(cfg.groups) ? cfg.groups.filter(Boolean) : [];
+    } catch (e) {
+        return [];
+    }
+}
+
+/**
+ * Theo yêu cầu người dùng (2026-09-16): sau khi đăng bài tin tức (delivery_format 'news') lên
+ * fanpage, chia sẻ link bài viết đó sang 5 nhóm Facebook cố định (database/share_groups.json).
+ *
+ * Cách làm: lấy link bài vừa đăng (bài mới nhất, đứng đầu feed /me ngay sau khi đăng — cùng cách
+ * lấy "video mới nhất luôn là ô đầu tiên" đã dùng ở postFullContentComment), rồi với MỖI nhóm:
+ * mở nhóm đó, mở ô đăng bài của nhóm, dán link bài viết vào rồi đăng (Facebook tự tạo khung xem
+ * trước cho link đó trong nhóm — ở đây chấp nhận được vì mục đích là quảng bá, khác với bài text
+ * chính trên fanpage nơi khung xem trước lại làm chữ bị lấn át).
+ *
+ * QUAN TRỌNG: đây là bước "best-effort" giống postFullContentComment — mỗi nhóm thử độc lập,
+ * 1 nhóm lỗi không làm dừng các nhóm còn lại hay ảnh hưởng đến việc bài trên fanpage đã đăng
+ * thành công. Cần theo dõi log/ảnh chụp qua vài lần chạy đầu để tinh chỉnh selector nếu cần.
+ */
+async function shareNewsPostToGroups(post, page) {
+    const groups = getShareGroups();
+    if (groups.length === 0) return;
+
+    let postLink = '';
+    try {
+        console.log("[Share Groups] Đang lấy link bài vừa đăng...");
+        await page.goto('https://www.facebook.com/me', { waitUntil: 'networkidle', timeout: 30000 });
+        await new Promise(r => setTimeout(r, 2000));
+        const href = await page.evaluate(() => {
+            const article = document.querySelector('[role="article"]');
+            if (!article) return null;
+            const link = article.querySelector('a[href*="/posts/"], a[href*="/permalink/"], a[href*="story_fbid"]');
+            return link ? link.getAttribute('href') : null;
+        });
+        if (!href) {
+            console.warn("⚠️ [Share Groups] Không tìm thấy link bài vừa đăng, bỏ qua bước chia sẻ vào nhóm.");
+            return;
+        }
+        postLink = new URL(href, page.url()).toString();
+        console.log(`[Share Groups] Link bài viết: ${postLink}`);
+    } catch (err) {
+        console.warn("⚠️ [Share Groups] Lỗi khi lấy link bài viết:", err.message);
+        return;
+    }
+
+    for (const groupUrl of groups) {
+        try {
+            console.log(`[Share Groups] Đang chia sẻ vào nhóm: ${groupUrl}`);
+            await page.goto(groupUrl, { waitUntil: 'networkidle', timeout: 30000 });
+            await new Promise(r => setTimeout(r, 2000));
+
+            const composerBtn = page.locator(
+                'div[role="button"]:has-text("mind"), div[role="button"]:has-text("nghĩ gì"), ' +
+                'div[role="button"]:has-text("Viết gì đó"), div[role="button"]:has-text("Write something")'
+            ).first();
+            await composerBtn.waitFor({ state: 'visible', timeout: 20000 });
+            await composerBtn.click();
+            await new Promise(r => setTimeout(r, 2000));
+
+            const box = page.getByRole('dialog').locator('div[role="textbox"][contenteditable="true"]').first();
+            await box.waitFor({ state: 'visible', timeout: 10000 });
+            await box.click({ force: true });
+            await page.keyboard.insertText(postLink);
+            await new Promise(r => setTimeout(r, 3000)); // đợi FB tạo khung xem trước cho link
+
+            const postBtn = page.getByRole('dialog').getByRole('button', { name: /Đăng|Post/i }).last();
+            await postBtn.waitFor({ state: 'visible', timeout: 15000 });
+            await postBtn.click({ force: true });
+            await new Promise(r => setTimeout(r, 3000));
+
+            console.log(`✅ [Share Groups] Đã chia sẻ vào: ${groupUrl}`);
+        } catch (err) {
+            console.warn(`⚠️ [Share Groups] Chia sẻ vào nhóm ${groupUrl} thất bại (bỏ qua, tiếp tục nhóm khác):`, err.message);
+        }
+    }
+}
+
 // 1. ENGINE CHO REELS
 async function publishReelPlaywright(post, inventory, inventoryPath) {
     console.log(`🚀 [PLAYWRIGHT] KHỞI ĐỘNG TIẾN TRÌNH ĐĂNG REELS: ${post.post_id}`);
@@ -460,6 +544,10 @@ async function publishTextPlaywright(post, inventory, inventoryPath) {
 
         await markAsPublished(post, inventory, inventoryPath, page);
         await postFullContentComment(post, page);
+
+        if (post.delivery_format === 'news') {
+            await shareNewsPostToGroups(post, page);
+        }
     } catch (error) {
         console.error(`❌ Lỗi Playwright Text Post: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
