@@ -184,8 +184,7 @@ async function postFullContentComment(post, page) {
         if (!okContent) {
             // QUAN TRỌNG: Sau khi đăng Reels, Facebook thường điều hướng tới feed Reels CHUNG
             // (video của người khác), không phải bài vừa đăng — nên không có ô bình luận đúng chỗ
-            // ở đây. Thử chủ động sang tab Reels riêng của chính Page, mở video mới nhất (video vừa
-            // đăng luôn nằm đầu tiên) rồi thử lại.
+            // ở đây. Thử chủ động sang tab Reels riêng của chính Page, mở video mới nhất rồi thử lại.
             console.log("[Engine] Không thấy ô bình luận ở trang hiện tại — thử điều hướng sang tab Reels của Page để tìm đúng bài vừa đăng...");
             try {
                 await page.goto('https://www.facebook.com/VuaMatPho/reels', { waitUntil: 'networkidle', timeout: 30000 });
@@ -208,10 +207,38 @@ async function postFullContentComment(post, page) {
                 if (validHrefs.length === 0) {
                     throw new Error('Không tìm thấy link Reel hợp lệ nào (có ID số) trong lưới Reels của Page.');
                 }
-                // Video mới nhất luôn là ô đầu tiên (đã lọc) trong lưới Reels của chính Page.
-                const firstReel = page.locator(`a[href="${validHrefs[0]}"]`).first();
-                await firstReel.click({ timeout: 15000 });
-                await new Promise(r => setTimeout(r, 3000));
+
+                // QUAN TRỌNG (lỗi thật đã xảy ra 2 lần): KHÔNG được giả định "ô đầu tiên trong lưới
+                // = video mới nhất". Ngay sau khi đăng, thứ tự lưới Reels của Page có thể CHƯA kịp
+                // cập nhật, khiến ô đầu tiên vẫn là 1 video CŨ — dẫn đến đăng nhầm bình luận của bài
+                // này vào bài khác hoàn toàn. Phải xác minh bằng caption thật của từng ứng viên,
+                // không suy đoán theo vị trí.
+                const captionRaw = fs.readFileSync(captionPath, 'utf8');
+                const firstCaptionLine = captionRaw.split('\n').map(l => l.trim()).find(l => l.length > 10) || '';
+                const expectedSnippet = firstCaptionLine.slice(0, 30).toUpperCase();
+
+                let matchedHref = null;
+                const candidates = validHrefs.slice(0, 5);
+                for (const href of candidates) {
+                    const url = new URL(href, 'https://www.facebook.com').toString();
+                    await page.goto(url, { waitUntil: 'networkidle', timeout: 20000 }).catch(() => {});
+                    await new Promise(r => setTimeout(r, 2500));
+                    const bodyText = await page.evaluate(() => document.body.innerText).catch(() => '');
+                    if (expectedSnippet && bodyText.toUpperCase().includes(expectedSnippet)) {
+                        matchedHref = href;
+                        console.log(`✅ [Xác minh] Khớp đúng bài vừa đăng qua caption tại: ${href}`);
+                        break;
+                    }
+                }
+
+                if (!matchedHref) {
+                    console.warn(`⚠️ [Xác minh] Không khớp caption ở ${candidates.length} ứng viên đầu — dùng ô đầu tiên như phỏng đoán cuối cùng, CẦN kiểm tra thủ công sau khi chạy xong.`);
+                    matchedHref = validHrefs[0];
+                    const url = new URL(matchedHref, 'https://www.facebook.com').toString();
+                    await page.goto(url, { waitUntil: 'networkidle', timeout: 20000 }).catch(() => {});
+                    await new Promise(r => setTimeout(r, 2500));
+                }
+
                 okContent = await submitComment(fullContent);
             } catch (navErr) {
                 console.warn("⚠️ [Comment Full-Text] Điều hướng sang tab Reels của Page cũng thất bại:", navErr.message);
@@ -228,7 +255,7 @@ async function postFullContentComment(post, page) {
     }
 }
 
-// Đọc danh sách nhóm Facebook cần chia sẻ bài tin tức sang, từ database/share_groups.json.
+// Đọc danh sách nhóm Facebook cần chia sẻ bài đăng sang, từ database/share_groups.json.
 function getShareGroups() {
     try {
         const cfgPath = path.join(__dirname, '..', 'database', 'share_groups.json');
@@ -240,40 +267,57 @@ function getShareGroups() {
     }
 }
 
+// Lấy link bài vừa đăng — thử feed /me trước (đúng cho text/ảnh), nếu không thấy thì thử tab
+// Reels của Page (đúng cho video) — cùng logic fallback đã dùng ở postFullContentComment.
+async function getLatestPostLink(page) {
+    const tryExtract = async () => page.evaluate(() => {
+        const article = document.querySelector('[role="article"]');
+        if (!article) return null;
+        const link = article.querySelector('a[href*="/posts/"], a[href*="/permalink/"], a[href*="story_fbid"], a[href*="/reel/"], a[href*="/videos/"]');
+        return link ? link.getAttribute('href') : null;
+    });
+
+    await page.goto('https://www.facebook.com/me', { waitUntil: 'networkidle', timeout: 30000 });
+    await new Promise(r => setTimeout(r, 2000));
+    let href = await tryExtract();
+
+    if (!href) {
+        try {
+            await page.goto('https://www.facebook.com/VuaMatPho/reels', { waitUntil: 'networkidle', timeout: 30000 });
+            await new Promise(r => setTimeout(r, 2000));
+            href = await tryExtract();
+        } catch (e) { /* bỏ qua, xử lý ở dưới */ }
+    }
+
+    return href ? new URL(href, page.url()).toString() : null;
+}
+
 /**
- * Theo yêu cầu người dùng (2026-09-16): sau khi đăng bài tin tức (delivery_format 'news') lên
- * fanpage, chia sẻ link bài viết đó sang 5 nhóm Facebook cố định (database/share_groups.json).
+ * Theo yêu cầu người dùng (2026-09-16, mở rộng cùng ngày sang MỌI bài đăng text lẫn video/ảnh):
+ * sau khi đăng bài lên fanpage, chia sẻ link bài viết đó sang 5 nhóm Facebook cố định
+ * (database/share_groups.json).
  *
- * Cách làm: lấy link bài vừa đăng (bài mới nhất, đứng đầu feed /me ngay sau khi đăng — cùng cách
- * lấy "video mới nhất luôn là ô đầu tiên" đã dùng ở postFullContentComment), rồi với MỖI nhóm:
- * mở nhóm đó, mở ô đăng bài của nhóm, dán link bài viết vào rồi đăng (Facebook tự tạo khung xem
- * trước cho link đó trong nhóm — ở đây chấp nhận được vì mục đích là quảng bá, khác với bài text
- * chính trên fanpage nơi khung xem trước lại làm chữ bị lấn át).
+ * Cách làm: lấy link bài vừa đăng (bài mới nhất, đứng đầu feed — xem getLatestPostLink), rồi với
+ * MỖI nhóm: mở nhóm đó, mở ô đăng bài của nhóm, dán link bài viết vào rồi đăng (Facebook tự tạo
+ * khung xem trước cho link đó trong nhóm — chấp nhận được vì mục đích là quảng bá, khác với bài
+ * text chính trên fanpage nơi khung xem trước lại làm chữ bị lấn át, xem getCaption()).
  *
  * QUAN TRỌNG: đây là bước "best-effort" giống postFullContentComment — mỗi nhóm thử độc lập,
  * 1 nhóm lỗi không làm dừng các nhóm còn lại hay ảnh hưởng đến việc bài trên fanpage đã đăng
  * thành công. Cần theo dõi log/ảnh chụp qua vài lần chạy đầu để tinh chỉnh selector nếu cần.
  */
-async function shareNewsPostToGroups(post, page) {
+async function shareToGroups(post, page) {
     const groups = getShareGroups();
     if (groups.length === 0) return;
 
     let postLink = '';
     try {
         console.log("[Share Groups] Đang lấy link bài vừa đăng...");
-        await page.goto('https://www.facebook.com/me', { waitUntil: 'networkidle', timeout: 30000 });
-        await new Promise(r => setTimeout(r, 2000));
-        const href = await page.evaluate(() => {
-            const article = document.querySelector('[role="article"]');
-            if (!article) return null;
-            const link = article.querySelector('a[href*="/posts/"], a[href*="/permalink/"], a[href*="story_fbid"]');
-            return link ? link.getAttribute('href') : null;
-        });
-        if (!href) {
+        postLink = await getLatestPostLink(page);
+        if (!postLink) {
             console.warn("⚠️ [Share Groups] Không tìm thấy link bài vừa đăng, bỏ qua bước chia sẻ vào nhóm.");
             return;
         }
-        postLink = new URL(href, page.url()).toString();
         console.log(`[Share Groups] Link bài viết: ${postLink}`);
     } catch (err) {
         console.warn("⚠️ [Share Groups] Lỗi khi lấy link bài viết:", err.message);
@@ -379,6 +423,7 @@ async function publishReelPlaywright(post, inventory, inventoryPath) {
 
         await markAsPublished(post, inventory, inventoryPath, page);
         await postFullContentComment(post, page);
+        await shareToGroups(post, page);
     } catch (error) {
         console.error(`❌ Lỗi Playwright: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
@@ -452,6 +497,7 @@ async function publishImagePlaywright(post, inventory, inventoryPath) {
 
         await markAsPublished(post, inventory, inventoryPath, page);
         await postFullContentComment(post, page);
+        await shareToGroups(post, page);
     } catch (error) {
         console.error(`❌ Lỗi Playwright Profile Image: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
@@ -544,10 +590,7 @@ async function publishTextPlaywright(post, inventory, inventoryPath) {
 
         await markAsPublished(post, inventory, inventoryPath, page);
         await postFullContentComment(post, page);
-
-        if (post.delivery_format === 'news') {
-            await shareNewsPostToGroups(post, page);
-        }
+        await shareToGroups(post, page);
     } catch (error) {
         console.error(`❌ Lỗi Playwright Text Post: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
