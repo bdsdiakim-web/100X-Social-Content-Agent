@@ -85,7 +85,147 @@ async function getCaption(post) {
     } else {
         console.log(`⚠️ Không tìm thấy file caption tại: ${captionPath}`);
     }
+    // Theo yêu cầu người dùng: link affiliate Shopee gắn NGAY TRONG caption lúc đăng bài
+    // (Facebook tự động biến URL trong caption thành link bấm được), KHÔNG đăng riêng thành
+    // bình luận nữa — đáng tin cậy hơn vì không phụ thuộc việc tự động hoá thao tác bình luận
+    // (từng dính lỗi ô bình luận sai, xem project_fb_comment_edit_box_bug). Bình luận riêng chỉ
+    // còn dùng để đăng NỘI DUNG ĐẦY ĐỦ (postFullContentComment).
+    // NGOẠI LỆ (2026-09-16): bài "tin thời sự" (delivery_format === 'news') KHÔNG gắn link —
+    // khung xem trước ảnh to của Facebook đè lên làm chữ bài tin bị lấn át, khó đọc.
+    const shopeeLink = post.delivery_format === 'news' ? '' : getShopeeAffiliateLink();
+    if (shopeeLink) {
+        finalCaption = `${finalCaption.trim()}\n\n🛒 ${shopeeLink}`;
+    }
     return finalCaption;
+}
+
+// Đọc link affiliate Shopee hiện tại từ config (rỗng cho đến khi người dùng điền vào).
+function getShopeeAffiliateLink() {
+    try {
+        const cfgPath = path.join(__dirname, '..', 'database', 'affiliate_config.json');
+        if (!fs.existsSync(cfgPath)) return '';
+        const cfg = JSON.parse(fs.readFileSync(cfgPath, 'utf8'));
+        return (cfg.shopee_link || '').trim();
+    } catch (e) {
+        return '';
+    }
+}
+
+/**
+ * QUAN TRỌNG: Caption trên video/ảnh bị giới hạn ~2500 ký tự (giới hạn cứng của Facebook Reels),
+ * nên caption luôn phải rút ngắn. Theo yêu cầu người dùng, nội dung ĐẦY ĐỦ (master_content.md,
+ * không bị cắt) được đăng riêng dưới dạng BÌNH LUẬN của chính bài viết ngay sau khi đăng — không
+ * giới hạn ký tự khắt khe như caption.
+ *
+ * Link affiliate Shopee KHÔNG còn đăng ở đây nữa — từ 2026-09-15, link được gắn thẳng vào cuối
+ * CAPTION lúc đăng bài (xem getCaption()), vì Facebook tự động biến URL trong caption thành link
+ * bấm được — đáng tin cậy hơn nhiều so với việc tự động hoá đăng thêm 1 bình luận riêng cho link
+ * (từng lỗi do bấm nhầm ô "sửa bình luận" ẩn của Facebook, xem project_fb_comment_edit_box_bug).
+ *
+ * LƯU Ý: đây là bước "best-effort" — Facebook hay thay đổi giao diện/selector của ô bình luận,
+ * và trang hiện tại ngay sau khi đăng Reels đôi khi là trang quản lý/số liệu chứ không phải trang
+ * bài viết công khai. Hàm này thử nhiều cách, nếu thất bại sẽ CẢNH BÁO chứ không làm hỏng cả
+ * tiến trình đăng bài chính — cần theo dõi thực tế qua vài lần chạy đầu để tinh chỉnh thêm.
+ */
+async function postFullContentComment(post, page) {
+    try {
+        const captionPath = post.caption_link ? path.join(__dirname, '..', post.caption_link) : '';
+        if (!captionPath) return;
+        // reels/caption.txt -> lên 2 cấp là thư mục gốc của ticket, nơi master_content.md nằm sẵn.
+        const ticketRoot = path.dirname(path.dirname(captionPath));
+        const masterContentPath = path.join(ticketRoot, 'master_content.md');
+        if (!fs.existsSync(masterContentPath)) {
+            console.log(`⚠️ [Comment Full-Text] Không tìm thấy master_content.md tại ${masterContentPath}, bỏ qua bước bình luận.`);
+            return;
+        }
+
+        const fullContent = fs.readFileSync(masterContentPath, 'utf8')
+            .replace(/^\*\*TIÊU ĐỀ VIDEO:.*$/m, '')
+            .replace(/^\*\*TIÊU ĐỀ BÀI ĐĂNG:.*$/m, '')
+            .replace(/^---\s*$/m, '')
+            .replace(/^##\s*/gm, '')
+            .trim();
+
+        // Hàm dùng chung để đăng 1 bình luận độc lập.
+        const submitComment = async (text) => {
+            const boxSelector = 'div[aria-label*="Viết bình luận"], div[aria-label*="Write a comment"], ' +
+                'div[aria-label*="Bình luận với tên"], div[aria-label*="Comment as"], ' +
+                'div[aria-label*="Bình luận dưới tên"]';
+            // QUAN TRỌNG: sau khi đã có ít nhất 1 bình luận, Facebook giữ sẵn 1 ô "sửa bình luận"
+            // ẩn cho MỖI bình luận đã đăng, với aria-label dạng "...vào X phút/giờ trước" — ô này
+            // khớp CÙNG selector và thường đứng TRƯỚC ô soạn bình luận mới thật sự trong DOM, khiến
+            // .first() bấm nhầm vào đây (gõ chữ vào không đâu, Enter không đăng được gì, nhưng
+            // hàm vẫn tưởng thành công). Ô soạn bình luận MỚI thật sự KHÔNG có hậu tố "...trước".
+            const boxes = page.locator(boxSelector);
+            const count = await boxes.count().catch(() => 0);
+            let targetIndex = -1;
+            for (let i = 0; i < count; i++) {
+                const aria = await boxes.nth(i).getAttribute('aria-label').catch(() => '');
+                if (aria && !/\btrước\b/.test(aria)) {
+                    targetIndex = i;
+                    break;
+                }
+            }
+            if (targetIndex === -1) return false;
+            const commentBox = boxes.nth(targetIndex);
+            const found = await commentBox.isVisible({ timeout: 15000 }).catch(() => false);
+            if (!found) return false;
+            await commentBox.click();
+            await page.keyboard.insertText(text);
+            await new Promise(r => setTimeout(r, 500));
+            await page.keyboard.press('Enter');
+            await new Promise(r => setTimeout(r, 3000));
+            return true;
+        };
+
+        console.log("[Engine] Đang đăng bình luận: nội dung đầy đủ...");
+        let okContent = await submitComment(fullContent);
+
+        if (!okContent) {
+            // QUAN TRỌNG: Sau khi đăng Reels, Facebook thường điều hướng tới feed Reels CHUNG
+            // (video của người khác), không phải bài vừa đăng — nên không có ô bình luận đúng chỗ
+            // ở đây. Thử chủ động sang tab Reels riêng của chính Page, mở video mới nhất (video vừa
+            // đăng luôn nằm đầu tiên) rồi thử lại.
+            console.log("[Engine] Không thấy ô bình luận ở trang hiện tại — thử điều hướng sang tab Reels của Page để tìm đúng bài vừa đăng...");
+            try {
+                await page.goto('https://www.facebook.com/VuaMatPho/reels', { waitUntil: 'networkidle', timeout: 30000 });
+                await new Promise(r => setTimeout(r, 3000));
+                // QUAN TRỌNG: lưới Reels của Page chứa cả link "/reel/?s=tab" (link điều hướng
+                // tab, KHÔNG phải video cụ thể) lẫn kèm nó — nếu bấm .first() không lọc sẽ dính
+                // đúng link rác này và bị đưa sang feed "Dành cho bạn" chung, không phải video
+                // vừa đăng. Phải lọc chỉ lấy href có ID số dạng /reel/<digits>/.
+                const validHrefs = await page.evaluate(() =>
+                    Array.from(document.querySelectorAll('a[href*="/reel/"]'))
+                        .map(a => a.getAttribute('href'))
+                        // QUAN TRỌNG: dùng ^ để chỉ khớp link Reel dạng đường dẫn tương đối thật sự
+                        // trong lưới ("/reel/123.../?s=fb_shorts_profile..."), KHÔNG khớp link
+                        // tuyệt đối trong 1 thông báo/toast "video đã xử lý xong" (dạng
+                        // "https://www.facebook.com/reel/123...?s=notification_..."), thứ vẫn chứa
+                        // "/reel/<digits>" ở đâu đó trong chuỗi nhưng không phải ô video trong lưới
+                        // và có thể không hiển thị/không bấm được -> làm .click() bị timeout.
+                        .filter(h => h && /^\/reel\/\d+/.test(h))
+                );
+                if (validHrefs.length === 0) {
+                    throw new Error('Không tìm thấy link Reel hợp lệ nào (có ID số) trong lưới Reels của Page.');
+                }
+                // Video mới nhất luôn là ô đầu tiên (đã lọc) trong lưới Reels của chính Page.
+                const firstReel = page.locator(`a[href="${validHrefs[0]}"]`).first();
+                await firstReel.click({ timeout: 15000 });
+                await new Promise(r => setTimeout(r, 3000));
+                okContent = await submitComment(fullContent);
+            } catch (navErr) {
+                console.warn("⚠️ [Comment Full-Text] Điều hướng sang tab Reels của Page cũng thất bại:", navErr.message);
+            }
+        }
+
+        if (!okContent) {
+            console.warn("⚠️ [Comment Full-Text] Không tìm thấy ô bình luận — có thể cần đăng thủ công. Bỏ qua bước này.");
+            return;
+        }
+        console.log("✅ [Engine] Đã đăng bình luận nội dung đầy đủ.");
+    } catch (err) {
+        console.warn("⚠️ [Comment Full-Text] Lỗi khi đăng bình luận nội dung đầy đủ (không ảnh hưởng đến việc bài đã đăng thành công):", err.message);
+    }
 }
 
 // 1. ENGINE CHO REELS
@@ -154,6 +294,7 @@ async function publishReelPlaywright(post, inventory, inventoryPath) {
         await page.waitForTimeout(4000);
 
         await markAsPublished(post, inventory, inventoryPath, page);
+        await postFullContentComment(post, page);
     } catch (error) {
         console.error(`❌ Lỗi Playwright: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
@@ -226,6 +367,7 @@ async function publishImagePlaywright(post, inventory, inventoryPath) {
         console.log("🚀 [LIVE] Đã nhấn nút Đăng xong!");
 
         await markAsPublished(post, inventory, inventoryPath, page);
+        await postFullContentComment(post, page);
     } catch (error) {
         console.error(`❌ Lỗi Playwright Profile Image: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
@@ -317,6 +459,7 @@ async function publishTextPlaywright(post, inventory, inventoryPath) {
         console.log("✅ [Xác nhận] Hộp soạn bài viết đã đóng — bài đã được đăng.");
 
         await markAsPublished(post, inventory, inventoryPath, page);
+        await postFullContentComment(post, page);
     } catch (error) {
         console.error(`❌ Lỗi Playwright Text Post: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
@@ -359,4 +502,8 @@ async function runAutoPublish() {
     }
 }
 
-runAutoPublish();
+if (require.main === module) {
+    runAutoPublish();
+}
+
+module.exports = { postFullContentComment, launchBrowserContext };
