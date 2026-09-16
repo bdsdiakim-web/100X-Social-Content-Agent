@@ -1,6 +1,7 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
+const { renderTextSlides } = require('./utils/text_slide_engine');
 
 const REMOTE_DEBUG_PORT = 9333;
 
@@ -109,6 +110,55 @@ function getShopeeAffiliateLink() {
     } catch (e) {
         return '';
     }
+}
+
+// Theo yêu cầu người dùng (2026-09-16): tin thời sự NGẮN đăng dạng text bé rất khó đọc với khách
+// lớn tuổi -> nếu caption dưới ngưỡng này thì chuyển thành ảnh chữ to (xem splitIntoSlideTexts),
+// tin dài (bài rewrite đầy đủ nhiều đoạn) vẫn giữ nguyên dạng text như cũ.
+const NEWS_SLIDE_MAX_CHARS = 700;
+
+// Chia 1 đoạn text thành 2-4 phần để làm slide ảnh chữ to — ưu tiên chia theo đoạn văn có sẵn
+// (ngắt dòng đôi), nếu không có thì chia theo câu, cố gắng cân bằng độ dài giữa các slide.
+function splitIntoSlideTexts(text) {
+    const clean = text.trim();
+    const paragraphs = clean.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
+
+    if (paragraphs.length >= 2 && paragraphs.length <= 4) {
+        return paragraphs;
+    }
+
+    // Không có ngắt đoạn rõ ràng (hoặc quá nhiều đoạn nhỏ) -> chia theo câu, cân bằng độ dài.
+    const sentences = clean.split(/(?<=[.!?…])\s+/).map(s => s.trim()).filter(Boolean);
+    const targetCount = Math.min(4, Math.max(2, Math.round(clean.length / 180)));
+
+    if (sentences.length <= 1) {
+        // Chỉ có 1 câu (tin rất ngắn) -> chia theo từ cho đủ tối thiểu 2 slide.
+        const words = clean.split(/\s+/);
+        const chunkSize = Math.ceil(words.length / targetCount);
+        const chunks = [];
+        for (let i = 0; i < words.length; i += chunkSize) {
+            chunks.push(words.slice(i, i + chunkSize).join(' '));
+        }
+        return chunks;
+    }
+
+    // Gộp câu vào từng slide sao cho độ dài các slide tương đối đều nhau.
+    const totalLen = clean.length;
+    const targetLenPerSlide = totalLen / targetCount;
+    const slides = [];
+    let current = [];
+    let currentLen = 0;
+    for (const sentence of sentences) {
+        current.push(sentence);
+        currentLen += sentence.length;
+        if (currentLen >= targetLenPerSlide && slides.length < targetCount - 1) {
+            slides.push(current.join(' '));
+            current = [];
+            currentLen = 0;
+        }
+    }
+    if (current.length > 0) slides.push(current.join(' '));
+    return slides;
 }
 
 /**
@@ -247,11 +297,16 @@ async function postFullContentComment(post, page) {
 
         if (!okContent) {
             console.warn("⚠️ [Comment Full-Text] Không tìm thấy ô bình luận — có thể cần đăng thủ công. Bỏ qua bước này.");
-            return;
+            return null;
         }
         console.log("✅ [Engine] Đã đăng bình luận nội dung đầy đủ.");
+        // Trả về URL trang hiện tại — đây chính là bài đã được XÁC MINH đúng (qua khớp caption ở
+        // nhánh dự phòng, hoặc trang gốc ở nhánh thành công ngay) để shareToGroups() dùng lại,
+        // KHỎI phải tự dò link bài viết một lần nữa (dò lại dễ dính đúng lỗi chọn nhầm bài).
+        return page.url();
     } catch (err) {
         console.warn("⚠️ [Comment Full-Text] Lỗi khi đăng bình luận nội dung đầy đủ (không ảnh hưởng đến việc bài đã đăng thành công):", err.message);
+        return null;
     }
 }
 
@@ -306,48 +361,55 @@ async function getLatestPostLink(page) {
  * 1 nhóm lỗi không làm dừng các nhóm còn lại hay ảnh hưởng đến việc bài trên fanpage đã đăng
  * thành công. Cần theo dõi log/ảnh chụp qua vài lần chạy đầu để tinh chỉnh selector nếu cần.
  */
-async function shareToGroups(post, page) {
+async function shareToGroups(post, page, knownPostLink) {
     const groups = getShareGroups();
     if (groups.length === 0) return;
 
-    let postLink = '';
-    try {
-        console.log("[Share Groups] Đang lấy link bài vừa đăng...");
-        postLink = await getLatestPostLink(page);
-        if (!postLink) {
-            console.warn("⚠️ [Share Groups] Không tìm thấy link bài vừa đăng, bỏ qua bước chia sẻ vào nhóm.");
+    let postLink = knownPostLink || '';
+    if (!postLink) {
+        try {
+            console.log("[Share Groups] Không có sẵn link đã xác minh — thử tự dò link bài vừa đăng...");
+            postLink = await getLatestPostLink(page);
+            if (!postLink) {
+                console.warn("⚠️ [Share Groups] Không tìm thấy link bài vừa đăng, bỏ qua bước chia sẻ vào nhóm.");
+                return;
+            }
+        } catch (err) {
+            console.warn("⚠️ [Share Groups] Lỗi khi lấy link bài viết:", err.message);
             return;
         }
-        console.log(`[Share Groups] Link bài viết: ${postLink}`);
-    } catch (err) {
-        console.warn("⚠️ [Share Groups] Lỗi khi lấy link bài viết:", err.message);
-        return;
     }
+    console.log(`[Share Groups] Link bài viết sẽ chia sẻ: ${postLink}`);
 
     for (const groupUrl of groups) {
         try {
             console.log(`[Share Groups] Đang chia sẻ vào nhóm: ${groupUrl}`);
             await page.goto(groupUrl, { waitUntil: 'networkidle', timeout: 30000 });
-            await new Promise(r => setTimeout(r, 2000));
+            await new Promise(r => setTimeout(r, 2500));
 
-            const composerBtn = page.locator(
-                'div[role="button"]:has-text("mind"), div[role="button"]:has-text("nghĩ gì"), ' +
-                'div[role="button"]:has-text("Viết gì đó"), div[role="button"]:has-text("Write something")'
-            ).first();
+            // QUAN TRỌNG: đã kiểm chứng trực tiếp trên giao diện thật — ô mời gọi đăng bài trong
+            // nhóm hiển thị đúng văn bản "Bạn viết gì đi..." (KHÔNG phải "Viết gì đó"/"nghĩ gì"/
+            // "mind" như phỏng đoán ban đầu). Bấm sai text này khiến toàn bộ bước sau luôn timeout.
+            const composerBtn = page.getByText('Bạn viết gì đi...', { exact: false }).first();
             await composerBtn.waitFor({ state: 'visible', timeout: 20000 });
             await composerBtn.click();
-            await new Promise(r => setTimeout(r, 2000));
+            await new Promise(r => setTimeout(r, 1500));
 
-            const box = page.getByRole('dialog').locator('div[role="textbox"][contenteditable="true"]').first();
+            // QUAN TRỌNG: hộp thoại "Tạo bài viết" bật lên có ô soạn thật với
+            // aria-placeholder="Tạo bài viết công khai..." — dùng contenteditable Lexical editor,
+            // Playwright hay báo "subtree intercepts pointer events" dù ô đã hiển thị rõ và bấm
+            // tay bình thường vẫn được -> phải click({force:true}) để bỏ qua kiểm tra thừa đó.
+            const box = page.locator('div[role="textbox"][aria-placeholder="Tạo bài viết công khai..."]').first();
             await box.waitFor({ state: 'visible', timeout: 10000 });
             await box.click({ force: true });
+            await new Promise(r => setTimeout(r, 600));
             await page.keyboard.insertText(postLink);
-            await new Promise(r => setTimeout(r, 3000)); // đợi FB tạo khung xem trước cho link
+            await new Promise(r => setTimeout(r, 4000)); // đợi FB tạo khung xem trước cho link
 
-            const postBtn = page.getByRole('dialog').getByRole('button', { name: /Đăng|Post/i }).last();
+            const postBtn = page.getByText('Đăng', { exact: true }).last();
             await postBtn.waitFor({ state: 'visible', timeout: 15000 });
             await postBtn.click({ force: true });
-            await new Promise(r => setTimeout(r, 3000));
+            await new Promise(r => setTimeout(r, 4000));
 
             console.log(`✅ [Share Groups] Đã chia sẻ vào: ${groupUrl}`);
         } catch (err) {
@@ -422,8 +484,8 @@ async function publishReelPlaywright(post, inventory, inventoryPath) {
         await page.waitForTimeout(4000);
 
         await markAsPublished(post, inventory, inventoryPath, page);
-        await postFullContentComment(post, page);
-        await shareToGroups(post, page);
+        const confirmedPostLink = await postFullContentComment(post, page);
+        await shareToGroups(post, page, confirmedPostLink);
     } catch (error) {
         console.error(`❌ Lỗi Playwright: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
@@ -496,10 +558,92 @@ async function publishImagePlaywright(post, inventory, inventoryPath) {
         console.log("🚀 [LIVE] Đã nhấn nút Đăng xong!");
 
         await markAsPublished(post, inventory, inventoryPath, page);
-        await postFullContentComment(post, page);
-        await shareToGroups(post, page);
+        const confirmedPostLink = await postFullContentComment(post, page);
+        await shareToGroups(post, page, confirmedPostLink);
     } catch (error) {
         console.error(`❌ Lỗi Playwright Profile Image: ${error.message}`);
+        await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
+    } finally {
+        console.log("[Engine] Giữ nguyên cửa sổ trình duyệt đang mở (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
+    }
+}
+
+// 2b. ENGINE CHO TIN NGẮN DẠNG ẢNH CHỮ TO (2-4 slide) — xem NEWS_SLIDE_MAX_CHARS/splitIntoSlideTexts
+async function publishNewsAsSlidesPlaywright(post, inventory, inventoryPath, slideTexts) {
+    console.log(`🚀 [PLAYWRIGHT] KHỞI ĐỘNG TIẾN TRÌNH ĐĂNG TIN NGẮN DẠNG ẢNH CHỮ TO (${slideTexts.length} slide): ${post.post_id}`);
+
+    const captionPath = post.caption_link ? path.join(__dirname, '..', post.caption_link) : '';
+    const slidesDir = path.join(path.dirname(captionPath), 'slides');
+    let imagePaths;
+    try {
+        imagePaths = await renderTextSlides(slideTexts, slidesDir);
+    } catch (err) {
+        console.error(`❌ Lỗi khi tạo ảnh chữ to: ${err.message}`);
+        return;
+    }
+    if (!imagePaths || imagePaths.length === 0) {
+        console.error("❌ Không tạo được ảnh slide nào, dừng lại.");
+        return;
+    }
+
+    const context = await launchBrowserContext(post);
+    const page = await context.newPage();
+
+    try {
+        console.log("[Router] Điều hướng đến: Trang Cá Nhân (Profile)...");
+        await page.goto('https://www.facebook.com/me', { waitUntil: 'load' });
+        await handleLoginWait(page, 'me');
+
+        console.log("[Engine] Mở Box Đăng Bài (Composer)... Chờ tín hiệu (Max 5 phút).");
+        const composerBtn = page.locator('div[role="button"]:has-text("mind"), div[role="button"]:has-text("nghĩ gì")').first();
+        await composerBtn.waitFor({ state: 'visible', timeout: 300000 });
+        await composerBtn.click();
+
+        await new Promise(r => setTimeout(r, 2000));
+
+        console.log(`[Engine] Click chọn đính kèm Ảnh (${imagePaths.length} ảnh)...`);
+        const attachPhotoBtn = page.locator('div[aria-label="Ảnh/video"], div[aria-label="Photo/video"]').first();
+        if (await attachPhotoBtn.isVisible()) {
+            await attachPhotoBtn.click({ force: true });
+            await new Promise(r => setTimeout(r, 1000));
+        }
+
+        console.log("[Engine] Trỏ file Ảnh vào UI...");
+        const fileInput = page.locator('input[type="file"]').last();
+        await fileInput.waitFor({ state: 'attached' });
+        await fileInput.setInputFiles(imagePaths);
+
+        console.log("[Engine] Nhập Caption...");
+        const captionBox = page.getByRole('dialog').locator('div[role="textbox"][contenteditable="true"]').first();
+        await captionBox.waitFor({ state: 'visible', timeout: 10000 });
+        await captionBox.click({ force: true });
+        await page.keyboard.insertText(await getCaption(post));
+        console.log("✅ Caption đã được điền.");
+
+        console.log(`[Engine] Chờ tải ${imagePaths.length} ảnh Preview...`);
+        await new Promise(r => setTimeout(r, 2000 + imagePaths.length * 1500));
+
+        console.log("[Engine] Kiểm tra luồng xét duyệt hiển thị 'Tiếp' (Flow mới của Facebook)...");
+        const nextBtn = page.getByRole('dialog').getByRole('button', { name: /Tiếp|Next/i }).first();
+        if (await nextBtn.isVisible({ timeout: 10000 }).catch(() => false)) {
+            console.log("[Engine] Đã thấy nút 'Tiếp' -> Nhấn chuyển bước!");
+            await nextBtn.click({ force: true });
+            await new Promise(r => setTimeout(r, 3000));
+        } else {
+            console.log("⚠️ Không tìm thấy nút Tiếp, FB có thể đã skip bước này.");
+        }
+
+        console.log("[Engine] Nhấn nút Đăng...");
+        const postBtn = page.getByRole('dialog').getByRole('button', { name: /Đăng|Post/i }).last();
+        await postBtn.waitFor({ state: 'visible', timeout: 15000 });
+        await postBtn.click({ force: true });
+        console.log("🚀 [LIVE] Đã nhấn nút Đăng xong!");
+
+        await markAsPublished(post, inventory, inventoryPath, page);
+        const confirmedPostLink = await postFullContentComment(post, page);
+        await shareToGroups(post, page, confirmedPostLink);
+    } catch (error) {
+        console.error(`❌ Lỗi Playwright Tin Ngắn Dạng Ảnh: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
     } finally {
         console.log("[Engine] Giữ nguyên cửa sổ trình duyệt đang mở (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
@@ -589,8 +733,8 @@ async function publishTextPlaywright(post, inventory, inventoryPath) {
         console.log("✅ [Xác nhận] Hộp soạn bài viết đã đóng — bài đã được đăng.");
 
         await markAsPublished(post, inventory, inventoryPath, page);
-        await postFullContentComment(post, page);
-        await shareToGroups(post, page);
+        const confirmedPostLink = await postFullContentComment(post, page);
+        await shareToGroups(post, page, confirmedPostLink);
     } catch (error) {
         console.error(`❌ Lỗi Playwright Text Post: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
@@ -626,7 +770,17 @@ async function runAutoPublish() {
         await publishReelPlaywright(post, inventory, inventoryPath);
     } else if (format === 'image' || format === 'carousel' || format === 'infographic') {
         await publishImagePlaywright(post, inventory, inventoryPath);
-    } else if (format === 'text' || format === 'news') {
+    } else if (format === 'news') {
+        // Theo yêu cầu người dùng (2026-09-16): tin NGẮN -> ảnh chữ to (2-4 slide) cho dễ đọc,
+        // tin dài (bài rewrite đầy đủ) vẫn giữ nguyên đăng dạng text như cũ.
+        const caption = (await getCaption(post)).trim();
+        if (caption.length > 0 && caption.length <= NEWS_SLIDE_MAX_CHARS) {
+            const slideTexts = splitIntoSlideTexts(caption);
+            await publishNewsAsSlidesPlaywright(post, inventory, inventoryPath, slideTexts);
+        } else {
+            await publishTextPlaywright(post, inventory, inventoryPath);
+        }
+    } else if (format === 'text') {
         await publishTextPlaywright(post, inventory, inventoryPath);
     } else {
         console.log(`❌ Engine Publish chưa hỗ trợ định dạng: ${format}`);
