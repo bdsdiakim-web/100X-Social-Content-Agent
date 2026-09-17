@@ -349,6 +349,65 @@ function getShareGroups() {
 }
 
 /**
+ * Xác minh AN TOÀN link bài vừa đăng cho các định dạng KHÔNG có master_content.md (text/tin tức,
+ * ảnh, tin ngắn dạng slide) — nơi postFullContentComment() luôn return sớm (không có gì để bình
+ * luận) nên KHÔNG bao giờ trả về link đã xác minh cho các định dạng này, khiến shareToGroups() bị
+ * bỏ qua hoàn toàn dù bài đã đăng thành công thật.
+ *
+ * Nguyên tắc GIỐNG HỆT nhánh xác minh Reels trong postFullContentComment (bài học từ sự cố chia
+ * nhầm link video F, xem shareToGroups): chỉ xác nhận link khi khớp ĐÚNG đoạn caption thật của bài
+ * trên feed /me, KHÔNG BAO GIỜ suy đoán theo vị trí ("bài đầu tiên trong feed"). Nếu không khớp
+ * được (kể cả sau khi thử lại), trả về null để shareToGroups() tự bỏ qua bước chia sẻ nhóm — thà
+ * bỏ qua còn hơn chia sẻ nhầm bài.
+ */
+async function verifyFeedPostLink(post, page) {
+    try {
+        const caption = await getCaption(post);
+        const firstLine = caption.split('\n').map(l => l.trim()).find(l => l.length > 10) || '';
+        const expectedSnippet = firstLine.slice(0, 30).toUpperCase();
+        if (!expectedSnippet) {
+            console.warn("⚠️ [Xác minh Feed] Không có đoạn caption nào đủ dài để đối chiếu, bỏ qua xác minh.");
+            return null;
+        }
+
+        const tryMatch = async () => {
+            await page.goto('https://www.facebook.com/me', { waitUntil: 'networkidle', timeout: 30000 });
+            await new Promise(r => setTimeout(r, 2000));
+            return page.evaluate((snippet) => {
+                const articles = Array.from(document.querySelectorAll('[role="article"]')).slice(0, 3);
+                for (const article of articles) {
+                    const text = (article.innerText || '').toUpperCase();
+                    if (text.includes(snippet)) {
+                        const link = article.querySelector('a[href*="/posts/"], a[href*="/permalink/"], a[href*="story_fbid"]');
+                        if (link) return link.getAttribute('href');
+                    }
+                }
+                return null;
+            }, expectedSnippet);
+        };
+
+        let href = await tryMatch();
+        if (!href) {
+            // Giống nhánh Reels: không khớp lần đầu thường do feed chưa kịp cập nhật, không phải
+            // do sai — đợi thêm rồi dò lại 1 lần nữa trước khi chấp nhận bỏ cuộc.
+            console.log("[Xác minh Feed] Chưa khớp caption ở lần dò đầu — đợi 8s rồi dò lại (feed có thể chưa kịp cập nhật)...");
+            await new Promise(r => setTimeout(r, 8000));
+            href = await tryMatch();
+        }
+        if (!href) {
+            console.warn("⚠️ [Xác minh Feed] Không khớp được caption với bài nào trong 3 bài đầu feed — KHÔNG đoán link, bỏ qua xác minh.");
+            return null;
+        }
+        const verifiedUrl = new URL(href, page.url()).toString();
+        console.log(`✅ [Xác minh Feed] Khớp đúng bài vừa đăng qua caption tại: ${verifiedUrl}`);
+        return verifiedUrl;
+    } catch (err) {
+        console.warn("⚠️ [Xác minh Feed] Lỗi khi xác minh link bài viết:", err.message);
+        return null;
+    }
+}
+
+/**
  * Theo yêu cầu người dùng (2026-09-16, mở rộng cùng ngày sang MỌI bài đăng text lẫn video/ảnh):
  * sau khi đăng bài lên fanpage, chia sẻ link bài viết đó sang 5 nhóm Facebook cố định
  * (database/share_groups.json).
@@ -570,7 +629,7 @@ async function publishImagePlaywright(post, inventory, inventoryPath) {
         console.log("🚀 [LIVE] Đã nhấn nút Đăng xong!");
 
         await markAsPublished(post, inventory, inventoryPath, page);
-        const confirmedPostLink = await postFullContentComment(post, page);
+        const confirmedPostLink = (await postFullContentComment(post, page)) || (await verifyFeedPostLink(post, page));
         await shareToGroups(post, page, confirmedPostLink);
     } catch (error) {
         console.error(`❌ Lỗi Playwright Profile Image: ${error.message}`);
@@ -652,7 +711,7 @@ async function publishNewsAsSlidesPlaywright(post, inventory, inventoryPath, sli
         console.log("🚀 [LIVE] Đã nhấn nút Đăng xong!");
 
         await markAsPublished(post, inventory, inventoryPath, page);
-        const confirmedPostLink = await postFullContentComment(post, page);
+        const confirmedPostLink = (await postFullContentComment(post, page)) || (await verifyFeedPostLink(post, page));
         await shareToGroups(post, page, confirmedPostLink);
     } catch (error) {
         console.error(`❌ Lỗi Playwright Tin Ngắn Dạng Ảnh: ${error.message}`);
@@ -745,7 +804,7 @@ async function publishTextPlaywright(post, inventory, inventoryPath) {
         console.log("✅ [Xác nhận] Hộp soạn bài viết đã đóng — bài đã được đăng.");
 
         await markAsPublished(post, inventory, inventoryPath, page);
-        const confirmedPostLink = await postFullContentComment(post, page);
+        const confirmedPostLink = (await postFullContentComment(post, page)) || (await verifyFeedPostLink(post, page));
         await shareToGroups(post, page, confirmedPostLink);
     } catch (error) {
         console.error(`❌ Lỗi Playwright Text Post: ${error.message}`);
