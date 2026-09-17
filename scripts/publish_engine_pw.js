@@ -258,38 +258,64 @@ async function postFullContentComment(post, page) {
                     throw new Error('Không tìm thấy link Reel hợp lệ nào (có ID số) trong lưới Reels của Page.');
                 }
 
-                // QUAN TRỌNG (lỗi thật đã xảy ra 2 lần): KHÔNG được giả định "ô đầu tiên trong lưới
-                // = video mới nhất". Ngay sau khi đăng, thứ tự lưới Reels của Page có thể CHƯA kịp
-                // cập nhật, khiến ô đầu tiên vẫn là 1 video CŨ — dẫn đến đăng nhầm bình luận của bài
-                // này vào bài khác hoàn toàn. Phải xác minh bằng caption thật của từng ứng viên,
-                // không suy đoán theo vị trí.
+                // QUAN TRỌNG (lỗi thật đã xảy ra 3 lần — video E, F, G): KHÔNG được giả định "ô đầu
+                // tiên trong lưới = video mới nhất". Ngay sau khi đăng, thứ tự lưới Reels của Page có
+                // thể CHƯA kịp cập nhật, khiến ô đầu tiên vẫn là 1 video CŨ — dẫn đến đăng nhầm bình
+                // luận của bài này vào bài khác hoàn toàn. Phải xác minh bằng caption thật của từng
+                // ứng viên, không suy đoán theo vị trí.
                 const captionRaw = fs.readFileSync(captionPath, 'utf8');
                 const firstCaptionLine = captionRaw.split('\n').map(l => l.trim()).find(l => l.length > 10) || '';
                 const expectedSnippet = firstCaptionLine.slice(0, 30).toUpperCase();
 
-                let matchedHref = null;
-                const candidates = validHrefs.slice(0, 5);
-                for (const href of candidates) {
-                    const url = new URL(href, 'https://www.facebook.com').toString();
-                    await page.goto(url, { waitUntil: 'networkidle', timeout: 20000 }).catch(() => {});
-                    await new Promise(r => setTimeout(r, 2500));
-                    const bodyText = await page.evaluate(() => document.body.innerText).catch(() => '');
-                    if (expectedSnippet && bodyText.toUpperCase().includes(expectedSnippet)) {
-                        matchedHref = href;
-                        console.log(`✅ [Xác minh] Khớp đúng bài vừa đăng qua caption tại: ${href}`);
-                        break;
+                const tryMatchAmongCandidates = async (hrefs) => {
+                    for (const href of hrefs) {
+                        const url = new URL(href, 'https://www.facebook.com').toString();
+                        await page.goto(url, { waitUntil: 'networkidle', timeout: 20000 }).catch(() => {});
+                        await new Promise(r => setTimeout(r, 2500));
+                        const bodyText = await page.evaluate(() => document.body.innerText).catch(() => '');
+                        if (expectedSnippet && bodyText.toUpperCase().includes(expectedSnippet)) {
+                            console.log(`✅ [Xác minh] Khớp đúng bài vừa đăng qua caption tại: ${href}`);
+                            return href;
+                        }
                     }
+                    return null;
+                };
+
+                let matchedHref = await tryMatchAmongCandidates(validHrefs.slice(0, 5));
+
+                if (!matchedHref) {
+                    // QUAN TRỌNG: lần đầu không khớp thường là do lưới Reels của Page CHƯA KỊP
+                    // cập nhật (chỉ mới đăng vài giây trước). Đợi thêm rồi dò lại lưới 1 lần nữa
+                    // trước khi bỏ cuộc — việc này đã giải quyết được phần lớn trường hợp trong
+                    // thực tế thay vì phải sửa tay sau khi chạy xong.
+                    console.log("[Xác minh] Chưa khớp caption ở lần dò đầu — đợi 10s rồi dò lại lưới Reels (có thể lưới chưa kịp cập nhật)...");
+                    await new Promise(r => setTimeout(r, 10000));
+                    await page.goto('https://www.facebook.com/VuaMatPho/reels', { waitUntil: 'networkidle', timeout: 30000 }).catch(() => {});
+                    await new Promise(r => setTimeout(r, 3000));
+                    const retryHrefs = await page.evaluate(() =>
+                        Array.from(document.querySelectorAll('a[href*="/reel/"]'))
+                            .map(a => a.getAttribute('href'))
+                            .filter(h => h && /^\/reel\/\d+/.test(h))
+                    ).catch(() => []);
+                    matchedHref = await tryMatchAmongCandidates(retryHrefs.slice(0, 5));
                 }
 
                 if (!matchedHref) {
-                    console.warn(`⚠️ [Xác minh] Không khớp caption ở ${candidates.length} ứng viên đầu — dùng ô đầu tiên như phỏng đoán cuối cùng, CẦN kiểm tra thủ công sau khi chạy xong.`);
+                    // QUAN TRỌNG: vẫn đăng bình luận best-effort vào ứng viên đầu để không bỏ lỡ
+                    // hoàn toàn bước này, NHƯNG không được báo đây là link "đã xác minh" — trả về
+                    // null ở cuối hàm để shareToGroups() tự động BỎ QUA bước chia sẻ nhóm thay vì
+                    // lan truyền link có thể sai sang các nhóm thật (đúng bài học từ sự cố trước).
+                    console.warn(`⚠️ [Xác minh] Vẫn không khớp caption sau khi thử lại — dùng ô đầu tiên để đăng bình luận (best-effort), nhưng KHÔNG dùng link này để chia sẻ nhóm. CẦN kiểm tra thủ công bình luận này sau khi chạy xong.`);
                     matchedHref = validHrefs[0];
                     const url = new URL(matchedHref, 'https://www.facebook.com').toString();
                     await page.goto(url, { waitUntil: 'networkidle', timeout: 20000 }).catch(() => {});
                     await new Promise(r => setTimeout(r, 2500));
+                    okContent = await submitComment(fullContent);
+                    // Cờ đánh dấu: link này CHƯA được xác minh, dù đã đăng bình luận thành công.
+                    if (okContent) return null;
+                } else {
+                    okContent = await submitComment(fullContent);
                 }
-
-                okContent = await submitComment(fullContent);
             } catch (navErr) {
                 console.warn("⚠️ [Comment Full-Text] Điều hướng sang tab Reels của Page cũng thất bại:", navErr.message);
             }
@@ -322,64 +348,50 @@ function getShareGroups() {
     }
 }
 
-// Lấy link bài vừa đăng — thử feed /me trước (đúng cho text/ảnh), nếu không thấy thì thử tab
-// Reels của Page (đúng cho video) — cùng logic fallback đã dùng ở postFullContentComment.
-async function getLatestPostLink(page) {
-    const tryExtract = async () => page.evaluate(() => {
-        const article = document.querySelector('[role="article"]');
-        if (!article) return null;
-        const link = article.querySelector('a[href*="/posts/"], a[href*="/permalink/"], a[href*="story_fbid"], a[href*="/reel/"], a[href*="/videos/"]');
-        return link ? link.getAttribute('href') : null;
-    });
-
-    await page.goto('https://www.facebook.com/me', { waitUntil: 'networkidle', timeout: 30000 });
-    await new Promise(r => setTimeout(r, 2000));
-    let href = await tryExtract();
-
-    if (!href) {
-        try {
-            await page.goto('https://www.facebook.com/VuaMatPho/reels', { waitUntil: 'networkidle', timeout: 30000 });
-            await new Promise(r => setTimeout(r, 2000));
-            href = await tryExtract();
-        } catch (e) { /* bỏ qua, xử lý ở dưới */ }
-    }
-
-    return href ? new URL(href, page.url()).toString() : null;
-}
-
 /**
  * Theo yêu cầu người dùng (2026-09-16, mở rộng cùng ngày sang MỌI bài đăng text lẫn video/ảnh):
  * sau khi đăng bài lên fanpage, chia sẻ link bài viết đó sang 5 nhóm Facebook cố định
  * (database/share_groups.json).
  *
- * Cách làm: lấy link bài vừa đăng (bài mới nhất, đứng đầu feed — xem getLatestPostLink), rồi với
- * MỖI nhóm: mở nhóm đó, mở ô đăng bài của nhóm, dán link bài viết vào rồi đăng (Facebook tự tạo
- * khung xem trước cho link đó trong nhóm — chấp nhận được vì mục đích là quảng bá, khác với bài
- * text chính trên fanpage nơi khung xem trước lại làm chữ bị lấn át, xem getCaption()).
+ * Cách làm: dùng ĐÚNG link bài viết đã được postFullContentComment() xác minh (khớp caption thật),
+ * rồi với MỖI nhóm: mở nhóm đó, mở ô đăng bài của nhóm, dán link bài viết vào rồi đăng (Facebook
+ * tự tạo khung xem trước cho link đó trong nhóm — chấp nhận được vì mục đích là quảng bá, khác với
+ * bài text chính trên fanpage nơi khung xem trước lại làm chữ bị lấn át, xem getCaption()).
  *
- * QUAN TRỌNG: đây là bước "best-effort" giống postFullContentComment — mỗi nhóm thử độc lập,
+ * QUAN TRỌNG: KHÔNG tự dò/đoán link khi không có link đã xác minh — xem lý do ngay đầu hàm.
+ * Đây là bước "best-effort" giống postFullContentComment cho phần còn lại: mỗi nhóm thử độc lập,
  * 1 nhóm lỗi không làm dừng các nhóm còn lại hay ảnh hưởng đến việc bài trên fanpage đã đăng
- * thành công. Cần theo dõi log/ảnh chụp qua vài lần chạy đầu để tinh chỉnh selector nếu cần.
+ * thành công.
  */
 async function shareToGroups(post, page, knownPostLink) {
     const groups = getShareGroups();
     if (groups.length === 0) return;
 
-    let postLink = knownPostLink || '';
-    if (!postLink) {
-        try {
-            console.log("[Share Groups] Không có sẵn link đã xác minh — thử tự dò link bài vừa đăng...");
-            postLink = await getLatestPostLink(page);
-            if (!postLink) {
-                console.warn("⚠️ [Share Groups] Không tìm thấy link bài vừa đăng, bỏ qua bước chia sẻ vào nhóm.");
-                return;
-            }
-        } catch (err) {
-            console.warn("⚠️ [Share Groups] Lỗi khi lấy link bài viết:", err.message);
-            return;
-        }
+    // QUAN TRỌNG (sự cố thật 2026-09-17 với video F): trước đây, khi không có link đã xác minh,
+    // hàm này tự dò bằng getLatestPostLink() — cách dò này KHÔNG đáng tin (dựa vào bài đầu tiên
+    // trên /me hoặc tab Reels, dễ vớ nhầm bài CŨ nếu lưới chưa kịp cập nhật). Hậu quả thật: lấy
+    // nhầm link video E đi chia sẻ vào 3 nhóm dưới cái tên/caption của video F — sai lệch nội
+    // dung hiển thị công khai cho hàng trăm nghìn thành viên thật. TỪ NAY: chỉ chia sẻ khi có
+    // sẵn link ĐÃ ĐƯỢC XÁC MINH (khớp caption thật) từ postFullContentComment truyền vào — thà
+    // bỏ qua bước chia sẻ nhóm còn hơn chia sẻ nhầm link vào các nhóm thật.
+    if (!knownPostLink) {
+        console.warn("⚠️ [Share Groups] Không có link bài viết đã xác minh — BỎ QUA hoàn toàn bước chia sẻ vào nhóm (không đoán link) để tránh chia sẻ nhầm bài như sự cố trước.");
+        return;
     }
-    console.log(`[Share Groups] Link bài viết sẽ chia sẻ: ${postLink}`);
+    const postLink = knownPostLink;
+    console.log(`[Share Groups] Link bài viết đã xác minh sẽ chia sẻ: ${postLink}`);
+
+    // QUAN TRỌNG (sự cố thật xảy ra 2 lần, luôn đúng vào lúc chuyển từ nhóm 1 sang nhóm 2):
+    // Facebook đôi khi bật 1 dialog gốc của trình duyệt (vd xác nhận rời trang) ngay khi goto()
+    // sang nhóm tiếp theo. Nếu không có handler nào bắt dialog này, một cơ chế auto-dismiss nội
+    // bộ khác của Playwright/Chromium DevTools có thể cố xử lý dialog đó nhưng bị trễ nhịp (dialog
+    // đã tự đóng), ném lỗi "Page.handleJavaScriptDialog: No dialog is showing" KHÔNG BẮT ĐƯỢC
+    // (uncaught rejection) làm sập toàn bộ tiến trình Node — dừng đột ngột giữa vòng lặp, các nhóm
+    // sau không được xử lý. Đăng ký sẵn 1 handler ở đây để luôn tự đóng mọi dialog ngay khi xuất
+    // hiện, tránh race đó.
+    page.on('dialog', async (dialog) => {
+        try { await dialog.dismiss(); } catch (e) { /* dialog đã tự đóng trước đó, bỏ qua */ }
+    });
 
     for (const groupUrl of groups) {
         try {
