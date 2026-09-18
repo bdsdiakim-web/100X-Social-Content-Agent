@@ -551,11 +551,81 @@
     ],
     "media_link": "",
     "caption_link": "media_output/2026-09-17/Facebook/post_20260917_tinthoisu_trua/caption.txt",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-17T04:47:56.000Z",
     "published_data": {
-      "live_url": null,
-      "published_at": null
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-17T05:00:56.059Z"
+    }
+  },
+  {
+    "post_id": "post_20260918_vientaykhongcongchung",
+    "source_idea_id": "content_bank_vientaykhongcongchung",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output/2026-09-18/Facebook/post_20260918_vientaykhongcongchung/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-18/Facebook/post_20260918_vientaykhongcongchung/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-17T06:07:20.875Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-17T06:08:22.056Z"
+    }
+  },
+  {
+    "post_id": "post_20260917_giaytosailoaidat",
+    "source_idea_id": "content_bank_giaytosailoaidat",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook",
+      "youtube"
+    ],
+    "media_link": "media_output/2026-09-17/Facebook/post_20260917_giaytosailoaidat/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-17/Facebook/post_20260917_giaytosailoaidat/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-17T13:40:00.000Z",
+    "published_data": {
+      "live_url": "https://www.facebook.com/reel/1060064280208034",
+      "youtube_url": "https://youtube.com/shorts/MgoaR4QwMbY",
+      "published_at": "2026-09-17T11:07:26.306Z"
+    }
+  },
+  {
+    "post_id": "post_20260918_pcccmatphop",
+    "source_idea_id": "content_bank_pcccmatphop",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook",
+      "youtube"
+    ],
+    "media_link": "media_output/2026-09-18/Facebook/post_20260918_pcccmatphop/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-18/Facebook/post_20260918_pcccmatphop/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-17T14:50:00.000Z",
+    "published_data": {
+      "live_url": "https://www.facebook.com/reel/1126931886671000",
+      "youtube_url": "https://youtube.com/shorts/PgyfHIMlP1o",
+      "published_at": "2026-09-17T14:57:50.618Z"
+    }
+  },
+  {
+    "post_id": "post_20260918_baolanhduan",
+    "source_idea_id": "content_bank_baolanhduan",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook",
+      "youtube"
+    ],
+    "media_link": "media_output/2026-09-18/Facebook/post_20260918_baolanhduan/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-18/Facebook/post_20260918_baolanhduan/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-17T14:50:00.000Z",
+    "published_data": {
+      "live_url": "https://www.facebook.com/reel/1581166557089400",
+      "youtube_url": "https://youtube.com/shorts/-LpZUW73ET0",
+      "published_at": "2026-09-17T15:17:39.560Z"
     }
   }
 ]
