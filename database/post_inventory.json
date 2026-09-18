@@ -685,8 +685,122 @@
     ],
     "media_link": "",
     "caption_link": "media_output/2026-09-18/Facebook/post_20260918_tinthoisu_trua/caption.txt",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-18T11:48:29+07:00",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-18T05:01:10.396Z"
+    }
+  },
+  {
+    "post_id": "post_20260915_chungsonhieuho",
+    "source_idea_id": "content_bank_chungsonhieuho",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output/2026-09-15/Facebook/post_20260915_chungsonhieuho/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-15/Facebook/post_20260915_chungsonhieuho/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-14T18:04:50.389Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-14T18:04:50.389Z"
+    }
+  },
+  {
+    "post_id": "post_20260915_sohogiadinh",
+    "source_idea_id": "content_bank_sohogiadinh",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output/2026-09-15/Facebook/post_20260915_sohogiadinh/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-15/Facebook/post_20260915_sohogiadinh/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-14T17:15:05.809Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-14T17:15:05.809Z"
+    }
+  },
+  {
+    "post_id": "post_20260916_dinhgiarao",
+    "source_idea_id": "content_bank_dinhgiarao",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output/2026-09-16/Facebook/post_20260916_dinhgiarao/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-16/Facebook/post_20260916_dinhgiarao/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-15T10:53:00.133Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-15T10:53:00.133Z"
+    }
+  },
+  {
+    "post_id": "post_20260916_giaytayviet",
+    "source_idea_id": "content_bank_giaytayviet",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output/2026-09-16/Facebook/post_20260916_giaytayviet/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-16/Facebook/post_20260916_giaytayviet/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-15T10:24:34.050Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-15T10:24:34.050Z"
+    }
+  },
+  {
+    "post_id": "post_20260916_tindonthuhoi",
+    "source_idea_id": "content_bank_tindonthuhoi",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "media_output/2026-09-16/Facebook/post_20260916_tindonthuhoi/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-16/Facebook/post_20260916_tindonthuhoi/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-15T05:14:43.089Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-15T05:14:43.089Z"
+    }
+  },
+  {
+    "post_id": "post_20260918_vibanglua",
+    "source_idea_id": "content_bank_vibanglua",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook",
+      "youtube"
+    ],
+    "media_link": "media_output/2026-09-18/Facebook/post_20260918_vibanglua/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-18/Facebook/post_20260918_vibanglua/reels/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-18T11:48:37.672Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260918_boithuongthaphonn",
+    "source_idea_id": "content_bank_boithuongthaphonn",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook",
+      "youtube"
+    ],
+    "media_link": "media_output/2026-09-18/Facebook/post_20260918_boithuongthaphonn/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-18/Facebook/post_20260918_boithuongthaphonn/reels/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-18T11:48:37.677Z",
     "published_data": {
       "live_url": null,
       "published_at": null
