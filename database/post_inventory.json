@@ -782,11 +782,12 @@
     ],
     "media_link": "media_output/2026-09-18/Facebook/post_20260918_vibanglua/reels/media_full.mp4",
     "caption_link": "media_output/2026-09-18/Facebook/post_20260918_vibanglua/reels/caption.txt",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-18T11:48:37.672Z",
     "published_data": {
-      "live_url": null,
-      "published_at": null
+      "live_url": "https://www.facebook.com/reel/3390239827824551",
+      "published_at": "2026-09-18T13:42:45.954Z",
+      "youtube_url": "https://youtube.com/shorts/cABDPuQe0Tc"
     }
   },
   {
@@ -799,11 +800,11 @@
     ],
     "media_link": "media_output/2026-09-18/Facebook/post_20260918_boithuongthaphonn/reels/media_full.mp4",
     "caption_link": "media_output/2026-09-18/Facebook/post_20260918_boithuongthaphonn/reels/caption.txt",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-18T11:48:37.677Z",
     "published_data": {
-      "live_url": null,
-      "published_at": null
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-18T14:33:49.888Z"
     }
   },
   {
@@ -815,11 +816,11 @@
     ],
     "media_link": "",
     "caption_link": "media_output/2026-09-18/Facebook/post_20260918_tinthoisu_toi/caption.txt",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-18T11:48:15.000Z",
     "published_data": {
-      "live_url": null,
-      "published_at": null
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-18T12:02:17.459Z"
     }
   }
 ]
