@@ -6,10 +6,29 @@ git add database/post_inventory.json *>> $logPath
 git commit -m "chore: sync published status before toi run" *>> $logPath 2>&1
 git push fork main *>> $logPath 2>&1
 
-git pull fork main *>> $logPath
 $today = Get-Date -Format "yyyyMMdd"
 $postId = "post_${today}_tinthoisu_toi"
-npm run publish -- "$postId" *>> $logPath
+
+# Them 2026-09-21: TU DONG THU LAI toi da 3 lan neu chua dang duoc — bai cloud co the chua kip
+# tao xong (lech gio) hoac Playwright loi tam thoi (da xay ra that hom nay). Khong con chi chay
+# 1 lan roi bo mac im lang nhu truoc.
+$maxAttempts = 3
+$published = $false
+for ($attempt = 1; $attempt -le $maxAttempts -and -not $published; $attempt++) {
+    "--- Attempt $attempt/$maxAttempts at $(Get-Date) ---" | Out-File -FilePath $logPath -Append -Encoding utf8
+    git pull fork main *>> $logPath
+    npm run publish -- "$postId" *>> $logPath
+    $status = node -e "try{const d=JSON.parse(require('fs').readFileSync('database/post_inventory.json','utf8'));const p=d.find(x=>x.post_id==='$postId');console.log(p?p.status:'not_found');}catch(e){console.log('error:'+e.message);}"
+    "Status after attempt ${attempt}: $status" | Out-File -FilePath $logPath -Append -Encoding utf8
+    if ($status -eq 'published') {
+        $published = $true
+    } elseif ($attempt -lt $maxAttempts) {
+        Start-Sleep -Seconds 120
+    }
+}
+if (-not $published) {
+    "!!! CANH BAO: Sau $maxAttempts lan thu, bai $postId VAN CHUA DANG DUOC. Can kiem tra thu cong ngay." | Out-File -FilePath $logPath -Append -Encoding utf8
+}
 
 git add database/post_inventory.json *>> $logPath
 git commit -m "chore: mark $postId as published" *>> $logPath 2>&1
