@@ -848,14 +848,13 @@
     "target_channels": [
       "facebook"
     ],
-    "media_link": "media_output/2026-09-21/Facebook/post_20260921_tinthoisu_trua/cover.jpg",
-    "image_query": "land law documents",
+    "media_link": "",
     "caption_link": "media_output/2026-09-21/Facebook/post_20260921_tinthoisu_trua/caption.txt",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-21T11:26:00+07:00",
     "published_data": {
-      "live_url": null,
-      "published_at": null
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-21T09:40:42.199Z"
     }
   },
   {
@@ -893,7 +892,10 @@
     "published_data": {
       "live_url": "Chờ đồng bộ API FB",
       "published_at": "2026-09-21T08:43:27.200Z"
-    }
+    },
+    "facebook_url": "https://www.facebook.com/reel/1601614544759899",
+    "published_at": "2026-09-21T09:21:15.213Z",
+    "youtube_url": "https://youtube.com/shorts/RQzGLwlxUIk"
   },
   {
     "post_id": "post_20260921_taisanrieng",
@@ -905,12 +907,16 @@
     ],
     "media_link": "media_output/2026-09-21/Facebook/post_20260921_taisanrieng/reels/media_full.mp4",
     "caption_link": "media_output/2026-09-21/Facebook/post_20260921_taisanrieng/reels/caption.txt",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-21T04:48:51.482Z",
     "published_data": {
-      "live_url": null,
-      "published_at": null
-    }
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-21T09:22:27.153Z"
+    },
+    "facebook_url": "https://www.facebook.com/reel/5439066936319070",
+    "published_at": "2026-09-21T09:25:00.113Z",
+    "note": "Bình luận nội dung đầy đủ chưa đăng được (không tìm thấy ô bình luận) — có thể cần đăng tay",
+    "youtube_url": "https://youtube.com/shorts/zeTvkmYxd9M"
   },
   {
     "post_id": "post_20260921_phongtoatranhchap",
@@ -922,12 +928,15 @@
     ],
     "media_link": "media_output/2026-09-21/Facebook/post_20260921_phongtoatranhchap/reels/media_full.mp4",
     "caption_link": "media_output/2026-09-21/Facebook/post_20260921_phongtoatranhchap/reels/caption.txt",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-21T04:48:51.483Z",
     "published_data": {
-      "live_url": null,
-      "published_at": null
-    }
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-21T09:26:46.054Z"
+    },
+    "facebook_url": "https://www.facebook.com/reel/2320679752036654",
+    "published_at": "2026-09-21T09:38:56.227Z",
+    "youtube_url": "https://youtube.com/shorts/tSmmqUfKbFU"
   },
   {
     "post_id": "post_20260921_tinthoisu_chieu",
