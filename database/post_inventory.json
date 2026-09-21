@@ -846,11 +846,79 @@
     "target_channels": [
       "facebook"
     ],
-    "media_link": "",
+    "media_link": "media_output/2026-09-21/Facebook/post_20260921_tinthoisu_trua/cover.jpg",
     "image_query": "land law documents",
     "caption_link": "media_output/2026-09-21/Facebook/post_20260921_tinthoisu_trua/caption.txt",
     "status": "pending_publish",
     "created_at": "2026-09-21T11:26:00+07:00",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260921_phongtoathihanh",
+    "source_idea_id": "content_bank_phongtoathihanh",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook",
+      "youtube"
+    ],
+    "media_link": "media_output/2026-09-21/Facebook/post_20260921_phongtoathihanh/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-21/Facebook/post_20260921_phongtoathihanh/reels/caption.txt",
+    "status": "published",
+    "created_at": "2026-09-21T04:48:51.474Z",
+    "published_data": {
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-21T05:23:33.095Z"
+    }
+  },
+  {
+    "post_id": "post_20260921_khachthueoquyt",
+    "source_idea_id": "content_bank_khachthueoquyt",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook",
+      "youtube"
+    ],
+    "media_link": "media_output/2026-09-21/Facebook/post_20260921_khachthueoquyt/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-21/Facebook/post_20260921_khachthueoquyt/reels/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-21T04:48:51.482Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260921_taisanrieng",
+    "source_idea_id": "content_bank_taisanrieng",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook",
+      "youtube"
+    ],
+    "media_link": "media_output/2026-09-21/Facebook/post_20260921_taisanrieng/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-21/Facebook/post_20260921_taisanrieng/reels/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-21T04:48:51.482Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260921_phongtoatranhchap",
+    "source_idea_id": "content_bank_phongtoatranhchap",
+    "delivery_format": "reels",
+    "target_channels": [
+      "facebook",
+      "youtube"
+    ],
+    "media_link": "media_output/2026-09-21/Facebook/post_20260921_phongtoatranhchap/reels/media_full.mp4",
+    "caption_link": "media_output/2026-09-21/Facebook/post_20260921_phongtoatranhchap/reels/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-21T04:48:51.483Z",
     "published_data": {
       "live_url": null,
       "published_at": null
