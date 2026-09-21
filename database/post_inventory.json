@@ -151,7 +151,8 @@
     ],
     "media_link": "media_output\\2026-09-09\\Facebook\\post_20260909_bds2027\\reels\\media.mp4",
     "caption_link": "broll\\caption.txt",
-    "status": "pending_publish",
+    "status": "skipped",
+    "skip_reason": "Bài tồn cũ, người dùng yêu cầu bỏ qua không đăng nữa (2026-09-21)",
     "created_at": "2026-09-09T03:35:35.589Z",
     "published_data": {
       "live_url": null,
@@ -653,7 +654,8 @@
     ],
     "media_link": "",
     "caption_link": "media_output/2026-09-17/Facebook/post_20260917_tinthoisu_toi/caption.txt",
-    "status": "pending_publish",
+    "status": "skipped",
+    "skip_reason": "Tin thời sự đã cũ (quá hạn), người dùng yêu cầu bỏ qua không đăng nữa (2026-09-21)",
     "created_at": "2026-09-17T11:47:56.000Z",
     "published_data": {
       "live_url": null,
@@ -871,7 +873,10 @@
     "published_data": {
       "live_url": "Chờ đồng bộ API FB",
       "published_at": "2026-09-21T05:23:33.095Z"
-    }
+    },
+    "facebook_url": "https://www.facebook.com/reel/1993896231293083",
+    "youtube_url": "https://youtube.com/shorts/ubv5GD1T4fs",
+    "published_at": "2026-09-21T08:42:47.079Z"
   },
   {
     "post_id": "post_20260921_khachthueoquyt",
@@ -883,11 +888,11 @@
     ],
     "media_link": "media_output/2026-09-21/Facebook/post_20260921_khachthueoquyt/reels/media_full.mp4",
     "caption_link": "media_output/2026-09-21/Facebook/post_20260921_khachthueoquyt/reels/caption.txt",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-21T04:48:51.482Z",
     "published_data": {
-      "live_url": null,
-      "published_at": null
+      "live_url": "Chờ đồng bộ API FB",
+      "published_at": "2026-09-21T08:43:27.200Z"
     }
   },
   {

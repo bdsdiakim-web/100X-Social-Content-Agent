@@ -630,10 +630,35 @@ async function publishImagePlaywright(post, inventory, inventoryPath) {
         }
 
         console.log("[Engine] Nhấn nút Đăng...");
-        const postBtn = page.getByRole('dialog').getByRole('button', { name: /Đăng|Post/i }).last();
+        // Dùng selector giống hệt luồng đăng text (đã xác minh hoạt động ổn định) thay vì
+        // getByRole('dialog').getByRole('button', ...) — selector cũ gây timeout lặp lại 2 lần
+        // liên tiếp (2026-09-21), khả năng do 1 dialog/bước trung gian chèn ngang sau 'Tiếp'.
+        const postBtn = page.locator('div[aria-label="Đăng"], div[aria-label="Post"]').last();
         await postBtn.waitFor({ state: 'visible', timeout: 15000 });
         await postBtn.click({ force: true });
         console.log("🚀 [LIVE] Đã nhấn nút Đăng xong!");
+
+        // Đồng bộ với luồng đăng text: FB có thể chèn popup upsell "Gọi ngay" ngay sau khi
+        // bấm Đăng, chặn ngang trước khi bài thực sự được đăng.
+        await new Promise(r => setTimeout(r, 3000));
+        const upsellDialog = page.getByRole('dialog').filter({ hasText: 'Trò chuyện trực tiếp với mọi người' });
+        if (await upsellDialog.isVisible({ timeout: 3000 }).catch(() => false)) {
+            console.log("[Engine] Phát hiện popup gợi ý thêm nút 'Gọi ngay' -> Bấm 'Lúc khác' để bỏ qua...");
+            await upsellDialog.getByRole('button', { name: /Lúc khác|Not now/i }).click();
+            await new Promise(r => setTimeout(r, 2000));
+        }
+
+        // Xác nhận hộp soạn bài viết đã thực sự đóng lại, không chỉ tin vào việc đã bấm nút.
+        let composerStillOpen = true;
+        for (let i = 0; i < 6; i++) {
+            composerStillOpen = await page.getByText('Tạo bài viết', { exact: true }).last().isVisible({ timeout: 3000 }).catch(() => false);
+            if (!composerStillOpen) break;
+            await new Promise(r => setTimeout(r, 3000));
+        }
+        if (composerStillOpen) {
+            throw new Error("Hộp soạn bài viết vẫn còn mở sau khi bấm 'Đăng' và đợi lâu — bài có thể chưa thực sự được đăng. Dừng lại để kiểm tra thủ công.");
+        }
+        console.log("✅ [Xác nhận] Hộp soạn bài viết đã đóng — bài đã được đăng.");
 
         await markAsPublished(post, inventory, inventoryPath, page);
         const confirmedPostLink = (await postFullContentComment(post, page)) || (await verifyFeedPostLink(post, page));
