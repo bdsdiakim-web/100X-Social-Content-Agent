@@ -838,5 +838,22 @@
       "live_url": "Chờ đồng bộ API FB",
       "published_at": "2026-09-21T04:26:57.595Z"
     }
+  },
+  {
+    "post_id": "post_20260921_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "land law documents",
+    "caption_link": "media_output/2026-09-21/Facebook/post_20260921_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-21T11:26:00+07:00",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
   }
 ]
