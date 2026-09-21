@@ -857,7 +857,6 @@
     }
   },
   {
-<<<<<<< HEAD
     "post_id": "post_20260921_phongtoathihanh",
     "source_idea_id": "content_bank_phongtoathihanh",
     "delivery_format": "reels",
@@ -920,7 +919,12 @@
     "caption_link": "media_output/2026-09-21/Facebook/post_20260921_phongtoatranhchap/reels/caption.txt",
     "status": "pending_publish",
     "created_at": "2026-09-21T04:48:51.483Z",
-=======
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
     "post_id": "post_20260921_tinthoisu_chieu",
     "source_idea_id": "news_auto",
     "delivery_format": "news",
@@ -932,7 +936,6 @@
     "caption_link": "media_output/2026-09-21/Facebook/post_20260921_tinthoisu_chieu/caption.txt",
     "status": "pending_publish",
     "created_at": "2026-09-21T07:47:22.000Z",
->>>>>>> b8b2630601e725ce699930501d1f59dc6effbf8b
     "published_data": {
       "live_url": null,
       "published_at": null
