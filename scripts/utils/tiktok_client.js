@@ -9,7 +9,7 @@ const TOKEN_PATH = path.join(__dirname, '..', '..', 'credentials', 'tiktok_token
 // Bắt buộc phải là 1 URL https thuộc domain đã xác minh quyền sở hữu (đã xác minh
 // domain GitHub Pages ở bước trước). Trang này chỉ hiển thị "code" để copy tay,
 // không có backend nên không tự động bắt được code như YouTube.
-const REDIRECT_URI = 'https://bdsdiakim-web.github.io/100X-Social-Content-Agent/oauth-callback.html';
+const REDIRECT_URI = 'https://vuamatpho.xyz/oauth-callback.html';
 
 const AUTHORIZE_URL = 'https://www.tiktok.com/v2/auth/authorize/';
 const TOKEN_URL = 'https://open.tiktokapis.com/v2/oauth/token/';
