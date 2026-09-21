@@ -1,7 +1,9 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
+const axios = require('axios');
 const { renderTextSlides } = require('./utils/text_slide_engine');
+require('dotenv').config({ path: path.join(__dirname, '..', '.env') });
 
 const REMOTE_DEBUG_PORT = 9333;
 
@@ -814,6 +816,47 @@ async function publishTextPlaywright(post, inventory, inventoryPath) {
     }
 }
 
+// Suy ra đường dẫn cover.jpg từ caption_link (cùng thư mục với caption.txt của bài đó)
+function deriveCoverPath(post) {
+    if (!post.caption_link) return null;
+    const dir = path.dirname(post.caption_link);
+    return path.join(dir, 'cover.jpg').replace(/\\/g, '/');
+}
+
+// Nếu bài 'news' chưa có media_link nhưng cloud routine đã gợi ý image_query,
+// tải ảnh minh họa thật từ Pexels NGAY TẠI MÁY LOCAL (key API luôn nằm an toàn trong .env,
+// không bao giờ được gửi lên prompt cloud routine — tránh rủi ro lộ khóa).
+async function ensureNewsCoverImage(post, inventory, inventoryPath) {
+    if (post.media_link && post.media_link.trim()) return;
+    if (!post.image_query || !post.image_query.trim()) return;
+    const relCoverPath = deriveCoverPath(post);
+    if (!relCoverPath) return;
+    const apiKey = process.env.PEXELS_API_KEY;
+    if (!apiKey || apiKey.includes('YOUR_PEXELS')) {
+        console.warn('⚠️ Chưa cấu hình PEXELS_API_KEY trong .env — bỏ qua tải ảnh minh họa.');
+        return;
+    }
+    try {
+        console.log(`🖼️ Đang tìm ảnh minh họa Pexels cho từ khóa: "${post.image_query}"...`);
+        const qs = `query=${encodeURIComponent(post.image_query)}&per_page=5&orientation=landscape`;
+        const res = await axios.get(`https://api.pexels.com/v1/search?${qs}`, { headers: { Authorization: apiKey } });
+        const photo = res.data && res.data.photos && res.data.photos[0];
+        if (!photo) {
+            console.warn(`⚠️ Pexels không tìm thấy ảnh phù hợp cho từ khóa "${post.image_query}".`);
+            return;
+        }
+        const imgRes = await axios.get(photo.src.large, { responseType: 'arraybuffer' });
+        const absCoverPath = path.join(__dirname, '..', relCoverPath);
+        fs.mkdirSync(path.dirname(absCoverPath), { recursive: true });
+        fs.writeFileSync(absCoverPath, imgRes.data);
+        post.media_link = relCoverPath;
+        fs.writeFileSync(inventoryPath, JSON.stringify(inventory, null, 2));
+        console.log(`✅ Đã tải ảnh minh họa: ${relCoverPath}`);
+    } catch (err) {
+        console.warn(`⚠️ Lỗi khi tải ảnh minh họa từ Pexels: ${err.message} — bỏ qua, dùng phương án dự phòng.`);
+    }
+}
+
 // ==========================================
 // THỰC THI (ROUTER MAIN)
 // ==========================================
@@ -842,8 +885,21 @@ async function runAutoPublish() {
     } else if (format === 'image' || format === 'carousel' || format === 'infographic') {
         await publishImagePlaywright(post, inventory, inventoryPath);
     } else if (format === 'news') {
-        // Theo yêu cầu người dùng (2026-09-16): tin NGẮN -> ảnh chữ to (2-4 slide) cho dễ đọc,
-        // tin dài (bài rewrite đầy đủ) vẫn giữ nguyên đăng dạng text như cũ.
+        // Theo yêu cầu người dùng (2026-09-21): ưu tiên hàng đầu là ẢNH MINH HỌA thật phù hợp
+        // chủ đề — cloud routine chỉ gợi ý image_query, máy local tải ảnh thật từ Pexels
+        // (key API không đưa lên cloud, xem ensureNewsCoverImage) — dùng luôn engine ảnh
+        // (đăng như bài ảnh, không phải khung xem trước link) nếu có ảnh.
+        // Nếu KHÔNG có ảnh (không có image_query, Pexels lỗi, hoặc bài cũ chưa có bước này):
+        // tin NGẮN -> ảnh chữ to (2-4 slide) cho dễ đọc (2026-09-16), tin dài -> đăng text như cũ.
+        await ensureNewsCoverImage(post, inventory, inventoryPath);
+        if (post.media_link && post.media_link.trim()) {
+            const imgPath = path.join(__dirname, '..', post.media_link);
+            if (fs.existsSync(imgPath)) {
+                await publishImagePlaywright(post, inventory, inventoryPath);
+                return;
+            }
+            console.warn(`⚠️ media_link được khai báo nhưng không tìm thấy file (${imgPath}) — chuyển sang phương án dự phòng (text/slide).`);
+        }
         const caption = (await getCaption(post)).trim();
         if (caption.length > 0 && caption.length <= NEWS_SLIDE_MAX_CHARS) {
             const slideTexts = splitIntoSlideTexts(caption);
@@ -862,4 +918,4 @@ if (require.main === module) {
     runAutoPublish();
 }
 
-module.exports = { postFullContentComment, launchBrowserContext };
+module.exports = { postFullContentComment, launchBrowserContext, publishReelPlaywright };
