@@ -109,7 +109,7 @@ export const KaraokeDynamic: React.FC<{ karaokeFile: string; brandAccent?: strin
 
                 return (
                     <span key={i} style={{
-                        fontSize: isActive ? 50 : 42,
+                        fontSize: isActive ? 58 : 50,
                         color: isActive ? activeColor : '#FFFFFF',
                         fontFamily: 'sans-serif',
                         fontWeight: '900',

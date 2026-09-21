@@ -27,6 +27,15 @@ async function downloadFile(fileUrl, outputPath) {
  * 🎥 1. PEXELS API: Tìm và Tải Video B-Roll
  */
 async function getPexelsBroll(query, sceneIndex, destDir) {
+    // Nếu đã tải sẵn từ lần render trước (VD: chỉ sửa CSS/font rồi render lại), dùng luôn
+    // file cũ thay vì gọi lại API — tránh tốn hạn ngạch Pexels một cách không cần thiết.
+    const cachedFileName = `scene_${sceneIndex}_bg.mp4`;
+    const cachedPath = path.join(destDir, cachedFileName);
+    if (fs.existsSync(cachedPath)) {
+        console.log(`[Pexels] Đã có sẵn B-Roll Cảnh ${sceneIndex} từ lần trước, bỏ qua tải lại.`);
+        return `${MICRO_SERVER_URL}/ticket-assets/${cachedFileName}`;
+    }
+
     if (!PEXELS_KEY) return console.log(`[Pexels] Thiếu API KEY, giả lập bỏ qua tải B-Roll cho Cảnh ${sceneIndex}`);
 
     console.log(`[Pexels] Dò tìm B-Roll: "${query}"...`);
@@ -53,6 +62,45 @@ async function getPexelsBroll(query, sceneIndex, destDir) {
         }
     } catch (err) {
         console.error(`[Pexels Lỗi] Cảnh ${sceneIndex}:`, err.message);
+    }
+    return null;
+}
+
+/**
+ * 🖼️ 1.1. PEXELS API: Tìm và Tải ẢNH THẬT (thay cho video B-roll khi cần hình minh hoạ
+ * chân thực/cụ thể hơn — ảnh chụp thật thường "đời thường" và sát tình huống hơn 1 đoạn
+ * video loop chung chung). Dùng nguồn ảnh có giấy phép thương mại hợp lệ (Pexels), KHÔNG
+ * tải ảnh tuỳ tiện từ Google Images vì rủi ro bản quyền khi dùng cho nội dung có mục đích
+ * thương mại (fanpage kinh doanh) — đặc biệt nhạy cảm với 1 kênh tư vấn PHÁP LÝ.
+ */
+async function getPexelsPhoto(query, sceneIndex, destDir) {
+    const cachedFileName = `scene_${sceneIndex}_bg.jpg`;
+    const cachedPath = path.join(destDir, cachedFileName);
+    if (fs.existsSync(cachedPath)) {
+        console.log(`[Pexels Photo] Đã có sẵn ảnh nền Cảnh ${sceneIndex} từ lần trước, bỏ qua tải lại.`);
+        return `${MICRO_SERVER_URL}/ticket-assets/${cachedFileName}`;
+    }
+
+    if (!PEXELS_KEY) return console.log(`[Pexels Photo] Thiếu API KEY, giả lập bỏ qua tải ảnh cho Cảnh ${sceneIndex}`);
+
+    console.log(`[Pexels Photo] Dò tìm ảnh minh hoạ: "${query}"...`);
+    try {
+        const res = await axios.get(`https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&orientation=portrait&size=large&per_page=5`, {
+            headers: { Authorization: PEXELS_KEY }
+        });
+
+        if (res.data.photos && res.data.photos.length > 0) {
+            const randomPhoto = res.data.photos[Math.floor(Math.random() * Math.min(3, res.data.photos.length))];
+            const imgUrl = randomPhoto.src.large2x || randomPhoto.src.large || randomPhoto.src.original;
+
+            const fileName = `scene_${sceneIndex}_bg.jpg`;
+            const dest = path.join(destDir, fileName);
+            await downloadFile(imgUrl, dest);
+            console.log(`[Pexels Photo] Đã tải xong ảnh nền cho Cảnh ${sceneIndex}`);
+            return `${MICRO_SERVER_URL}/ticket-assets/${fileName}`;
+        }
+    } catch (err) {
+        console.error(`[Pexels Photo Lỗi] Cảnh ${sceneIndex}:`, err.message);
     }
     return null;
 }
@@ -106,6 +154,20 @@ async function getLocalBroll(query, sceneIndex) {
 async function getElevenLabsVoice(text, sceneIndex, destDir, defaultVoiceId = "pNInz6obbf5AWCGqeXbU") {
     const voiceId = process.env.ELEVENLABS_VOICE_ID || defaultVoiceId;
     if (!ELEVENLABS_KEY || !text) return console.log(`[ElevenLabs] Thiếu KEY/Text tại Cảnh ${sceneIndex}`);
+
+    // Dùng lại giọng đã tải sẵn nếu render lại chỉ để sửa CSS/font, tránh tốn API lần nữa.
+    const cachedAudioName = `scene_${sceneIndex}_voice.mp3`;
+    const cachedAudio = path.join(destDir, cachedAudioName);
+    const cachedKaraokeName = `scene_${sceneIndex}_karaoke.json`;
+    const cachedKaraoke = path.join(destDir, cachedKaraokeName);
+    if (fs.existsSync(cachedAudio)) {
+        console.log(`[ElevenLabs] Đã có sẵn giọng đọc Cảnh ${sceneIndex} từ lần trước, bỏ qua gọi API lại.`);
+        return {
+            audioPath: `${MICRO_SERVER_URL}/ticket-assets/${cachedAudioName}`,
+            karaokePath: fs.existsSync(cachedKaraoke) ? `${MICRO_SERVER_URL}/ticket-assets/${cachedKaraokeName}` : null,
+            absoluteAudioPath: cachedAudio
+        };
+    }
 
     console.log(`[ElevenLabs] Dùng VoiceID "${voiceId}" chuyển Text thành Voice Cảnh ${sceneIndex}...`);
     try {
@@ -193,45 +255,72 @@ async function getHeyGenAvatar(text, sceneIndex, destDir) {
 async function getVbeeVoice(text, sceneIndex, destDir) {
     const APP_ID = process.env.VBEE_APP_ID;
     const TOKEN = process.env.VBEE_TOKEN;
-    const voiceCode = process.env.VBEE_VOICE_CODE || 'hn_male_phuthang_stor80dt_48k-fhg';
+    // Mặc định 2026-09-16: đổi sang mã giọng riêng của người dùng trên Vbee sau khi thử nghiệm
+    // thành công ở video B/C batch "2026-09-16" — áp dụng cho MỌI video từ giờ trở đi, trừ khi
+    // ghi đè qua biến môi trường VBEE_VOICE_CODE.
+    const voiceCode = process.env.VBEE_VOICE_CODE || 'n_hanoi_male_kim2027_book_vc';
     if (!APP_ID || !TOKEN || !text) return console.log(`[Vbee] Thiếu APP_ID/TOKEN/Text tại Cảnh ${sceneIndex}`);
 
-    const headers = { 'Authorization': 'Bearer ' + TOKEN, 'App-Id': APP_ID, 'Content-Type': 'application/json' };
-    console.log(`[Vbee] Dùng VoiceCode "${voiceCode}" chuyển Text thành Voice Cảnh ${sceneIndex}...`);
-    try {
-        const submitRes = await axios.post('https://api.vbee.vn/v1/tts', {
-            text,
-            voiceCode,
-            mode: 'async',
-            outputFormat: 'mp3',
-            bitrate: 128,
-            speed: 1.0,
-            webhookUrl: 'https://example.com/callback'
-        }, { headers });
-
-        const requestId = submitRes.data.requestId;
-        let audioLink = null;
-        for (let i = 0; i < 30; i++) {
-            await new Promise(r => setTimeout(r, 1500));
-            const pollRes = await axios.get(`https://api.vbee.vn/v1/tts/requests/${requestId}`, { headers });
-            if (pollRes.data.status === 'COMPLETED') { audioLink = pollRes.data.audioLink; break; }
-            if (pollRes.data.status === 'FAILED') throw new Error(`Vbee báo FAILED cho Cảnh ${sceneIndex}`);
-        }
-        if (!audioLink) throw new Error(`Vbee timeout (quá 45s chưa xong) tại Cảnh ${sceneIndex}`);
-
-        // audioLink hết hạn sau 3 phút -> tải về NGAY khi vừa nhận được
-        const audioFileName = `scene_${sceneIndex}_voice.mp3`;
-        const destAudio = path.join(destDir, audioFileName);
-        await downloadFile(audioLink, destAudio);
-
-        console.log(`[Vbee] Đã tải xong giọng đọc Cảnh ${sceneIndex}`);
+    // Dùng lại giọng đã tải sẵn nếu render lại chỉ để sửa CSS/font, tránh tốn hạn ngạch Vbee lần nữa.
+    const cachedAudioName = `scene_${sceneIndex}_voice.mp3`;
+    const cachedAudio = path.join(destDir, cachedAudioName);
+    if (fs.existsSync(cachedAudio)) {
+        console.log(`[Vbee] Đã có sẵn giọng đọc Cảnh ${sceneIndex} từ lần trước, bỏ qua gọi API lại.`);
         return {
-            audioPath: `${MICRO_SERVER_URL}/ticket-assets/${audioFileName}`,
-            karaokePath: null, // Vbee không trả về timestamp karaoke như ElevenLabs
-            absoluteAudioPath: destAudio
+            audioPath: `${MICRO_SERVER_URL}/ticket-assets/${cachedAudioName}`,
+            karaokePath: null,
+            absoluteAudioPath: cachedAudio
         };
-    } catch (err) {
-        console.error(`[Vbee Lỗi]`, err.response?.data || err.message);
+    }
+
+    const headers = { 'Authorization': 'Bearer ' + TOKEN, 'App-Id': APP_ID, 'Content-Type': 'application/json' };
+
+    // QUAN TRỌNG (phát hiện 2026-09-15): khi render nhiều video liên tiếp trong cùng 1 ngày, Vbee
+    // hay bị timeout ở đúng những cảnh sau cùng (nghi do rate-limit/quá tải khi gọi dồn dập) —
+    // trước đây timeout là bỏ luôn cảnh đó (mất tiếng, video ngắn bất thường). Giờ thử lại tối đa
+    // 2 lần, mỗi lần đợi lâu hơn (60 lần x 1.5s = 90s thay vì 45s), có nghỉ giữa các lần thử.
+    const MAX_ATTEMPTS = 2;
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+        console.log(`[Vbee] Dùng VoiceCode "${voiceCode}" chuyển Text thành Voice Cảnh ${sceneIndex} (lần ${attempt}/${MAX_ATTEMPTS})...`);
+        try {
+            const submitRes = await axios.post('https://api.vbee.vn/v1/tts', {
+                text,
+                voiceCode,
+                mode: 'async',
+                outputFormat: 'mp3',
+                bitrate: 128,
+                speed: 1.0,
+                webhookUrl: 'https://example.com/callback'
+            }, { headers });
+
+            const requestId = submitRes.data.requestId;
+            let audioLink = null;
+            for (let i = 0; i < 60; i++) {
+                await new Promise(r => setTimeout(r, 1500));
+                const pollRes = await axios.get(`https://api.vbee.vn/v1/tts/requests/${requestId}`, { headers });
+                if (pollRes.data.status === 'COMPLETED') { audioLink = pollRes.data.audioLink; break; }
+                if (pollRes.data.status === 'FAILED') throw new Error(`Vbee báo FAILED cho Cảnh ${sceneIndex}`);
+            }
+            if (!audioLink) throw new Error(`Vbee timeout (quá 90s chưa xong) tại Cảnh ${sceneIndex}`);
+
+            // audioLink hết hạn sau 3 phút -> tải về NGAY khi vừa nhận được
+            const audioFileName = `scene_${sceneIndex}_voice.mp3`;
+            const destAudio = path.join(destDir, audioFileName);
+            await downloadFile(audioLink, destAudio);
+
+            console.log(`[Vbee] Đã tải xong giọng đọc Cảnh ${sceneIndex}`);
+            return {
+                audioPath: `${MICRO_SERVER_URL}/ticket-assets/${audioFileName}`,
+                karaokePath: null, // Vbee không trả về timestamp karaoke như ElevenLabs
+                absoluteAudioPath: destAudio
+            };
+        } catch (err) {
+            console.error(`[Vbee Lỗi] (lần ${attempt}/${MAX_ATTEMPTS})`, err.response?.data || err.message);
+            if (attempt < MAX_ATTEMPTS) {
+                console.log(`[Vbee] Nghỉ 5s trước khi thử lại Cảnh ${sceneIndex}...`);
+                await new Promise(r => setTimeout(r, 5000));
+            }
+        }
     }
     return null;
 }
@@ -251,6 +340,7 @@ async function getLocalMusic() {
 
 module.exports = {
     getPexelsBroll,
+    getPexelsPhoto,
     getLocalBroll,
     getElevenLabsVoice,
     getVbeeVoice,

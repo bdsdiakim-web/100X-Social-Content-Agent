@@ -57,15 +57,15 @@ export const SinglePodcastWave: React.FC<{ content: any; scene?: any }> = ({ con
                     ))}
                 </div>
 
-                <div style={{ marginTop: 30, fontSize: 35, color: '#AAA', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: 2 }}>
+                <div style={{ marginTop: 30, fontSize: 40, color: '#AAA', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: 2 }}>
                     {brandFounder}
                 </div>
             </div>
 
             {/* Nội dung Podcast / Trích dẫn */}
             <h1 style={{ 
-                fontSize: 60, 
-                color: '#FFFFFF', 
+                fontSize: 72,
+                color: '#FFFFFF',
                 fontWeight: 'bold',
                 textAlign: 'center', 
                 zIndex: 1, 

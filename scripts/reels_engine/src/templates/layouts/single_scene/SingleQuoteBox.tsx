@@ -18,9 +18,9 @@ export const SingleQuoteBox: React.FC<{ content: any }> = ({ content }) => {
                 transform: `scale(${interpolate(slideUp, [0, 1], [0.8, 1])})`
             }}>
                 <div style={{ position: 'absolute', top: -140, left: 60, fontSize: 250, color: content.brand_accent || '#B6FF00', lineHeight: 1 }}>"</div>
-                <div style={{ 
-                    fontSize: 45, 
-                    fontWeight: 'bold', 
+                <div style={{
+                    fontSize: 58,
+                    fontWeight: 'bold',
                     color: '#FFF', 
                     lineHeight: 1.5, 
                     textAlign: 'left',
@@ -29,7 +29,7 @@ export const SingleQuoteBox: React.FC<{ content: any }> = ({ content }) => {
                     <RichText text={content.headline || content.quote || "Nội dung trích dẫn"} brandAccent={content.brand_accent} themeType="headline" />
                 </div>
                 {content.author && (
-                    <div style={{ fontSize: 45, color: '#aaa', marginTop: 60, textAlign: 'right', fontStyle: 'italic' }}>
+                    <div style={{ fontSize: 50, color: '#aaa', marginTop: 60, textAlign: 'right', fontStyle: 'italic' }}>
                         - {content.author}
                     </div>
                 )}

@@ -46,17 +46,17 @@ export const SingleTweetOverlay: React.FC<{ scene: any }> = ({ scene }) => {
                         ) : null}
                     </div>
                     <div style={{ display: 'flex', flexDirection: 'column' }}>
-                        <span style={{ fontSize: 45, fontWeight: 'bold', color: '#000' }}>
+                        <span style={{ fontSize: 50, fontWeight: 'bold', color: '#000' }}>
                             {content.author || brandName}
                         </span>
-                        <span style={{ fontSize: 35, color: '#666' }}>
+                        <span style={{ fontSize: 38, color: '#666' }}>
                             {content.handle || brandHandle}
                         </span>
                     </div>
                 </div>
 
                 {/* Body: Tweet Text */}
-                <div style={{ fontSize: 45, color: '#000', lineHeight: 1.4, fontWeight: '500', whiteSpace: 'pre-wrap' }}>
+                <div style={{ fontSize: 54, color: '#000', lineHeight: 1.4, fontWeight: '500', whiteSpace: 'pre-wrap' }}>
                     {/* Reverse màu dạ quang cho hợp nền trắng */}
                     <div style={{ color: '#000' }}>
                         <RichText text={content.headline || "Nội dung Tweet mặc định."} staggerDelay={3} brandAccent={scene.brand_accent} />

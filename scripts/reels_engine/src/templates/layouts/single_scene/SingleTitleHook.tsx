@@ -12,7 +12,7 @@ export const SingleTitleHook: React.FC<{ content: any }> = ({ content }) => {
     return (
         <AbsoluteFill style={{ justifyContent: 'center', alignItems: 'center' }}>
             <h1 style={{ 
-                fontSize: 65, 
+                fontSize: 80,
                 color: '#FFFFFF', 
                 fontWeight: 'bold',
                 textAlign: 'center', 

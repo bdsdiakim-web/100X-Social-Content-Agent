@@ -4,12 +4,20 @@ const http = require('http');
 const { execSync, spawn } = require('child_process');
 
 function runCommandAsync(command, options) {
+    // Không dùng stdio: 'inherit' — log chi tiết của Remotion/ffmpeg (tiến trình từng frame) sẽ
+    // đổ thẳng vào cửa sổ chat đang chạy lệnh này, ngốn rất nhiều token cho mỗi lần render.
+    // Thay vào đó chỉ ghi ngầm (pipe) và chỉ in ra khi lệnh thất bại, để còn debug được lỗi thật.
+    const { stdio, ...restOptions } = options;
     return new Promise((resolve, reject) => {
-        const child = spawn(command, { shell: true, ...options });
+        const child = spawn(command, { shell: true, ...restOptions, stdio: ['ignore', 'pipe', 'pipe'] });
+        let stderrTail = '';
+        child.stderr.on('data', (chunk) => {
+            stderrTail = (stderrTail + chunk.toString()).slice(-4000);
+        });
         child.on('error', reject);
         child.on('close', (code) => {
             if (code === 0) resolve();
-            else reject(new Error(`Command failed with exit code ${code}: ${command}`));
+            else reject(new Error(`Command failed with exit code ${code}: ${command}\n--- stderr (cuối) ---\n${stderrTail}`));
         });
     });
 }
@@ -120,7 +128,14 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
     // 1.5 Khởi động Trạm Phát Sóng Micro-Server thay thế Symlink độc hại
     const today = new Date().toISOString().split('T')[0];
     const defaultDir = path.join(__dirname, '..', 'media_output', today, 'default', 'reels');
-    const outputDir = customOutputDir || defaultDir;
+    // QUAN TRỌNG: customOutputDir đến từ CLI arg dạng đường dẫn TƯƠNG ĐỐI (vd "media_output/.../reels").
+    // Nếu giữ nguyên dạng tương đối, các lệnh fs.* bên trong process Node này (chạy đúng cwd của
+    // người dùng) sẽ ghi đúng chỗ, NHƯNG lệnh "npx remotion render" lại chạy trong 1 child process
+    // với cwd bị ép về remotionEngineDir (scripts/reels_engine) -> cùng 1 chuỗi tương đối đó bị hiểu
+    // sai thành scripts/reels_engine/<customOutputDir>, khiến video thật bị lạc vào thư mục lồng bên
+    // trong dù log vẫn báo "render thành công" (Remotion tự thấy đủ file tại nơi NÓ hiểu là đúng).
+    // Ép về đường dẫn tuyệt đối ngay từ đầu (so với thư mục gốc dự án) để cả hai phía luôn khớp nhau.
+    const outputDir = customOutputDir ? path.resolve(path.join(__dirname, '..'), customOutputDir) : defaultDir;
 
     if (!fs.existsSync(outputDir)) {
         fs.mkdirSync(outputDir, { recursive: true });
@@ -139,7 +154,7 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
 
     // 2 & 3. Tiền kỳ: Thu hoạch Nguyên Liệu
     console.log(`⏳ [2/4] Chạy Asset Pipeline: Gọi 3 API Đồng loạt (Pexels, ElevenLabs, HeyGen)...`);
-    const { getPexelsBroll, getLocalBroll, getElevenLabsVoice, getVbeeVoice, getHeyGenAvatar, getLocalMusic } = require('./utils/reels_asset_pipeline');
+    const { getPexelsBroll, getPexelsPhoto, getLocalBroll, getElevenLabsVoice, getVbeeVoice, getHeyGenAvatar, getLocalMusic } = require('./utils/reels_asset_pipeline');
     const ttsProvider = (process.env.TTS_PROVIDER || 'elevenlabs').toLowerCase();
 
     // Quét nhạc nền Local và nạp vào Timeline Cảnh Đầu (Composition Root Router sẽ thầu việc Play xuyên suốt)
@@ -154,7 +169,21 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
         console.log(`\n▶️ Xử lý Tài nguyên Cảnh ${sceneNum}/${timeline.length}...`);
 
         // --- NEW: Asset Pipeline v5.4 (Speed & Clean Handling) ---
-        if (scene.bg_video || scene.b_roll_keywords) {
+        // Cảnh "law_document" tự vẽ nền bằng CSS (xem SingleLawDocument.tsx), không cần B-roll.
+        if (scene.layout_skin === 'law_document') {
+            console.log(`[Engine] Cảnh ${sceneNum} dùng layout law_document — bỏ qua bước tải B-roll.`);
+        } else if (scene.video_source_override === 'pexels_photo') {
+            // Ảnh minh hoạ thật (Pexels Photo) thay cho video B-roll — sát thực tế hơn cho
+            // một số tình huống cụ thể theo yêu cầu người dùng.
+            let query = scene.b_roll_keywords
+                ? (Array.isArray(scene.b_roll_keywords) ? scene.b_roll_keywords[0] : Object.values(scene.b_roll_keywords)[0])
+                : "";
+            const imgFile = await getPexelsPhoto(query, sceneNum, ticketAssetsDir);
+            if (!imgFile) {
+                throw new Error(`Cảnh ${sceneNum}: không lấy được ảnh minh hoạ từ Pexels Photo. Kiểm tra lại kết nối mạng hoặc API key.`);
+            }
+            scene.bg_image = imgFile;
+        } else if (scene.bg_video || scene.b_roll_keywords) {
             let sourceFile = null;
             let query = "";
             if (scene.b_roll_keywords) {
@@ -204,8 +233,10 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
                     scene.duration_sec = 15;
                 }
             } else {
-                // FALLBACK NẾU ELEVENLABS BỊ LỖI KEY/MISSING PERMISSION
-                console.warn(`[Engine] ⚠️ ElevenLabs API Lỗi! Cảnh này sẽ KHÔNG có tiếng MC.`);
+                // FALLBACK NẾU TTS (Vbee/ElevenLabs) LỖI/TIMEOUT — trước đây thông báo luôn ghi cứng
+                // "ElevenLabs" dù đang dùng Vbee, gây hiểu nhầm nguyên nhân lỗi. Sửa lại cho đúng
+                // provider thực tế đang cấu hình.
+                console.warn(`[Engine] ⚠️ ${ttsProvider.toUpperCase()} API Lỗi/Timeout! Cảnh ${sceneNum} sẽ KHÔNG có tiếng MC.`);
                 scene.duration_sec = 10; // Cứu cánh vòng lặp B-roll
             }
         } else {
@@ -311,11 +342,43 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
             // QUAN TRỌNG: Dùng spawn bất đồng bộ (không phải execSync) vì Media Server (startMediaServer)
             // chạy trên CÙNG process/event loop này — execSync sẽ chặn đứng event loop, khiến Remotion
             // không thể tải asset qua http://localhost:9876 (gây timeout delayRender).
-            await runCommandAsync(command, { cwd: remotionEngineDir, stdio: 'inherit', env: { ...process.env, NODE_OPTIONS: "--max-old-space-size=4096" } });
+            await runCommandAsync(command, { cwd: remotionEngineDir, env: { ...process.env, NODE_OPTIONS: "--max-old-space-size=4096" } });
         } finally {
             // CLEANUPS: Zero-Garbage Compliance
             if (fs.existsSync(inputPropsPath)) fs.unlinkSync(inputPropsPath);
             mediaServerApp.close();
+        }
+
+        // QUAN TRỌNG: Thời lượng video phụ thuộc độ dài giọng đọc TTS từng cảnh, không kiểm soát
+        // chính xác được ngay từ đầu. Theo yêu cầu luôn giữ video dưới 3 phút, sau khi render xong
+        // kiểm tra thời lượng thật — nếu vượt ngưỡng thì tăng tốc video+audio ĐỒNG BỘ (giữ nguyên
+        // cao độ giọng nói nhờ bộ lọc atempo) để rút gọn xuống dưới 3 phút, thay vì cắt bớt nội dung.
+        const MAX_DURATION_SEC = 120; // Chuẩn mặc định từ 2026-09-21: mọi video 60-120s (1-2 phút), KHÔNG vượt quá 120s (thay hẳn mức 168 cũ) — thắt lại để tiết kiệm token/thời gian render
+        try {
+            const remotionBin = path.join(remotionEngineDir, 'node_modules/.bin/remotion');
+            const probeCmd = `"${remotionBin}" ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${outputPath}"`;
+            const actualDuration = parseFloat(execSync(probeCmd).toString().trim());
+
+            if (actualDuration > MAX_DURATION_SEC) {
+                const speedFactor = actualDuration / MAX_DURATION_SEC;
+                console.log(`⏱️ [Auto-Speed] Video dài ${actualDuration.toFixed(1)}s, vượt ${MAX_DURATION_SEC}s — tăng tốc x${speedFactor.toFixed(3)} để rút gọn dưới 3 phút...`);
+                const spedUpPath = outputPath.replace(/\.mp4$/i, '_speed_tmp.mp4');
+                // QUAN TRỌNG: bản ffmpeg rút gọn đi kèm Remotion KHÔNG có filter "setpts" (chỉ có
+                // "asetpts" cho audio) nên cách làm cũ luôn lỗi "No option name near 'PTS/...'".
+                // Dùng "-itsscale:v" (tùy chọn scale timestamp đầu vào cấp toàn cục, không phải
+                // filter, nên không bị giới hạn bởi danh sách filter được build) để tăng tốc phần
+                // hình ảnh, kết hợp filter "atempo" (đã có sẵn) để tăng tốc âm thanh giữ nguyên cao độ.
+                const itsscale = (1 / speedFactor).toFixed(6);
+                const speedCmd = `"${remotionBin}" ffmpeg -y -itsscale:v ${itsscale} -i "${outputPath}" -filter:a "atempo=${speedFactor.toFixed(4)}" -map 0:v -map 0:a -c:v libx264 -crf 23 "${spedUpPath}"`;
+                await runCommandAsync(speedCmd, { cwd: remotionEngineDir });
+                fs.unlinkSync(outputPath);
+                fs.renameSync(spedUpPath, outputPath);
+                console.log(`✅ [Auto-Speed] Đã rút gọn còn khoảng ${(actualDuration / speedFactor).toFixed(1)}s.`);
+            } else {
+                console.log(`⏱️ [Duration] Video dài ${actualDuration.toFixed(1)}s — trong ngưỡng 3 phút, không cần tăng tốc.`);
+            }
+        } catch (durationErr) {
+            console.warn(`⚠️ Không thể kiểm tra/điều chỉnh thời lượng video (bỏ qua bước này):`, durationErr.message);
         }
 
         console.log(`✅ [4/4] BUM! Video đã được nén thành công.`);

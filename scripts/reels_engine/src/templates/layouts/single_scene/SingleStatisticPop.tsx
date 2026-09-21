@@ -28,9 +28,9 @@ export const SingleStatisticPop: React.FC<{ content: any }> = ({ content }) => {
                 </span>
 
                 {/* Dòng Headline Giải thích */}
-                <h1 style={{ 
-                    fontSize: 55, 
-                    color: '#FFFFFF', 
+                <h1 style={{
+                    fontSize: 64,
+                    color: '#FFFFFF',
                     fontWeight: 'bold',
                     textAlign: 'center', 
                     textTransform: 'capitalize',

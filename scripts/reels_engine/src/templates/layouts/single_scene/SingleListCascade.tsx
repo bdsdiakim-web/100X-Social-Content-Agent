@@ -34,8 +34,8 @@ export const SingleListCascade: React.FC<{ content: any }> = ({ content }) => {
                     }
 
                     return (
-                        <div key={idx} style={{ 
-                            fontSize: 45, color: '#FFF',
+                        <div key={idx} style={{
+                            fontSize: 56, color: '#FFF',
                             backgroundColor: 'rgba(255,255,255,0.1)',
                             padding: '30px', borderRadius: 20,
                             borderLeft: `10px solid ${content.brand_accent || '#B6FF00'}`,

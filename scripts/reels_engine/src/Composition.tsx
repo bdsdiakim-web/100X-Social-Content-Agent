@@ -27,7 +27,7 @@ export const MainComposition = ({ timeline }: { timeline: any[] }) => {
     return (
         <AbsoluteFill style={{ backgroundColor: '#000000', color: 'white', fontFamily: `"${brandConfig.brand_identity?.fonts?.primary || 'Inter'}", sans-serif` }}>
             {/* NHẠC NỀN XUYÊN SUỐT TOÀN VIDEO */}
-            {timeline[0]?.bg_music && <Audio src={timeline[0].bg_music.startsWith('http') || timeline[0].bg_music.startsWith('file://') ? timeline[0].bg_music : staticFile(timeline[0].bg_music)} volume={0.12} />}
+            {timeline[0]?.bg_music && <Audio src={timeline[0].bg_music.startsWith('http') || timeline[0].bg_music.startsWith('file://') ? timeline[0].bg_music : staticFile(timeline[0].bg_music)} volume={0.20} />}
 
             {scenesWithFrames.map((scene, i) => {
                 return (

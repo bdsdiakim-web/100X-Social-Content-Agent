@@ -1,5 +1,5 @@
 import React from 'react';
-import { AbsoluteFill, useVideoConfig, useCurrentFrame, interpolate, staticFile, OffthreadVideo, Audio } from 'remotion';
+import { AbsoluteFill, useVideoConfig, useCurrentFrame, interpolate, staticFile, OffthreadVideo, Audio, Img } from 'remotion';
 import { SubtleCTA } from '../components/SubtleCTA';
 import { SingleTitleHook } from '../layouts/single_scene/SingleTitleHook';
 import { SingleListCascade } from '../layouts/single_scene/SingleListCascade';
@@ -9,6 +9,7 @@ import { SingleStatisticPop } from '../layouts/single_scene/SingleStatisticPop';
 import { SingleTweetOverlay } from '../layouts/single_scene/SingleTweetOverlay';
 import { SinglePodcastWave } from '../layouts/single_scene/SinglePodcastWave';
 import { SingleSplitCompare } from '../layouts/single_scene/SingleSplitCompare';
+import { SingleLawDocument } from '../layouts/single_scene/SingleLawDocument';
 
 export const SingleSceneTemplate: React.FC<{ scene: any }> = ({ scene }) => {
     const frame = useCurrentFrame();
@@ -40,6 +41,22 @@ export const SingleSceneTemplate: React.FC<{ scene: any }> = ({ scene }) => {
                 </AbsoluteFill>
             )}
 
+            {/* 1.1 LAYER ĐÁY THAY THẾ: ẢNH TĨNH (khi cảnh dùng ảnh minh hoạ thay vì video B-roll) —
+                thêm hiệu ứng Ken Burns (zoom chậm) để ảnh tĩnh không bị "cứng" trong 4-6 giây. */}
+            {scene.bg_image && !scene.bg_video && (
+                <AbsoluteFill>
+                    <Img
+                        src={scene.bg_image.match(/^(http|file):\/\//) ? scene.bg_image : staticFile(scene.bg_image)}
+                        style={{
+                            objectFit: 'cover',
+                            width: '100%',
+                            height: '100%',
+                            transform: `scale(${interpolate(frame, [0, 150], [1, 1.08], { extrapolateRight: 'clamp' })})`,
+                        }}
+                    />
+                </AbsoluteFill>
+            )}
+
             <AbsoluteFill style={{ backgroundColor: `rgba(0,0,0,${fadeOverlay})`, zIndex: 0 }} />
 
             {/* 2. LAYER GIỮA: DYNAMIC ROUTER CHO CÁC LAYOUT SKINS */}
@@ -51,6 +68,7 @@ export const SingleSceneTemplate: React.FC<{ scene: any }> = ({ scene }) => {
             {layoutSkin === 'tweet_overlay' && <SingleTweetOverlay scene={{ ...scene, visual_content: { ...scene.visual_content, brand_accent: scene.brand_accent } }} />}
             {layoutSkin === 'podcast_wave' && <SinglePodcastWave content={{ ...scene.visual_content, brand_accent: scene.brand_accent }} scene={scene} />}
             {layoutSkin === 'split_compare' && <SingleSplitCompare content={{ ...scene.visual_content, brand_accent: scene.brand_accent }} />}
+            {layoutSkin === 'law_document' && <SingleLawDocument content={{ ...scene.visual_content, brand_accent: scene.brand_accent }} />}
 
             {/* 3. LAYER ĐỈNH: SUBTLE CTA (Minimalized per v7.4) */}
             <SubtleCTA

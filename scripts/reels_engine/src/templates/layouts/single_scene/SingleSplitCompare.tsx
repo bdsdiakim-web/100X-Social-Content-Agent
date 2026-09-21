@@ -21,11 +21,11 @@ export const SingleSplitCompare: React.FC<{ content: any }> = ({ content }) => {
                 justifyContent: 'center', alignItems: 'center', padding: '0 80px',
                 borderBottom: '4px solid #333'
             }}>
-                <div style={{ color: '#888', fontSize: 35, fontWeight: '800', marginBottom: 30, textTransform: 'uppercase', letterSpacing: 2 }}>
+                <div style={{ color: '#888', fontSize: 40, fontWeight: '800', marginBottom: 30, textTransform: 'uppercase', letterSpacing: 2 }}>
                     {content.left_title || 'Cách Làm Cũ'}
                 </div>
-                <h2 style={{ 
-                    fontSize: 55, color: '#CCC', fontWeight: 'bold',
+                <h2 style={{
+                    fontSize: 64, color: '#CCC', fontWeight: 'bold',
                     textAlign: 'center', margin: 0, lineHeight: 1.4, whiteSpace: 'pre-wrap'
                 }}>
                     <RichText text={content.headline || "Nội dung cũ"} staggerDelay={0} />
@@ -39,11 +39,11 @@ export const SingleSplitCompare: React.FC<{ content: any }> = ({ content }) => {
                 display: 'flex', flexDirection: 'column',
                 justifyContent: 'center', alignItems: 'center', padding: '0 80px'
             }}>
-                <div style={{ color: content.brand_accent || '#B6FF00', fontSize: 35, fontWeight: '900', marginBottom: 30, textTransform: 'uppercase', letterSpacing: 2 }}>
+                <div style={{ color: content.brand_accent || '#B6FF00', fontSize: 40, fontWeight: '900', marginBottom: 30, textTransform: 'uppercase', letterSpacing: 2 }}>
                     {content.right_title || 'Tư Duy Mới'}
                 </div>
-                <h2 style={{ 
-                    fontSize: 65, color: '#FFF', fontWeight: '900',
+                <h2 style={{
+                    fontSize: 74, color: '#FFF', fontWeight: '900',
                     textAlign: 'center', margin: 0, lineHeight: 1.4, whiteSpace: 'pre-wrap'
                 }}>
                     {/* Bắt buộc phải gắn themeType="headline" cho nửa dưới để giật Accent mạnh */}

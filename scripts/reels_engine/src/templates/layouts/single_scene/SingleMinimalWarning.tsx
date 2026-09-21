@@ -34,7 +34,7 @@ export const SingleMinimalWarning: React.FC<{ content: any }> = ({ content }) =>
                     color: '#FFF', 
                     padding: '10px 40px', 
                     borderRadius: 20, 
-                    fontSize: 40, 
+                    fontSize: 46,
                     fontWeight: '900',
                     textTransform: 'uppercase',
                     letterSpacing: 3
@@ -44,8 +44,8 @@ export const SingleMinimalWarning: React.FC<{ content: any }> = ({ content }) =>
 
                 {/* Nội dung Cảnh báo */}
                 <h1 style={{ 
-                    fontSize: 60, 
-                    color: '#FFFFFF', 
+                    fontSize: 72,
+                    color: '#FFFFFF',
                     fontWeight: 'bold',
                     textAlign: 'center', 
                     lineHeight: 1.4,
