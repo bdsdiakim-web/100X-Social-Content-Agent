@@ -425,6 +425,11 @@ async function verifyFeedPostLink(post, page) {
  * thành công.
  */
 async function shareToGroups(post, page, knownPostLink) {
+    // TẮT theo yêu cầu người dùng (2026-09-21): chia sẻ vào 5 nhóm quá phức tạp/tốn token so với
+    // lợi ích. Giữ nguyên toàn bộ code bên dưới (không xoá) phòng khi cần bật lại, chỉ chặn ngay
+    // từ đầu hàm.
+    return;
+    // eslint-disable-next-line no-unreachable
     const groups = getShareGroups();
     if (groups.length === 0) return;
 
