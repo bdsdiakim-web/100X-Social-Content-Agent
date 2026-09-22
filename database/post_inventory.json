@@ -1096,6 +1096,26 @@
     "caption_link": "media_output/2026-09-22/Facebook/post_20260922_tinthoisu_trua/caption.txt",
     "status": "pending_publish",
     "created_at": "2026-09-22T03:47:01Z",
+<<<<<<< HEAD
+=======
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260922_tinthoisu_chieu",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "red river boulevard land plot",
+    "caption_link": "media_output/2026-09-22/Facebook/post_20260922_tinthoisu_chieu/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-22T07:49:40.549Z",
+>>>>>>> 376ce6bb3fae6dbe3dc3b1d8fe5cc226ae6f8133
     "published_data": {
       "live_url": null,
       "published_at": null
