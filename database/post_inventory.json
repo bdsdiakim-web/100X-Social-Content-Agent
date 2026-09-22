@@ -971,7 +971,6 @@
     }
   },
   {
-<<<<<<< HEAD
     "post_id": "post_20260922_F1_22",
     "source_idea_id": "content_bank_F1_22",
     "delivery_format": "reels",
@@ -983,7 +982,7 @@
     "status": "published",
     "created_at": "2026-09-21T17:27:28.166Z",
     "published_data": {
-      "live_url": "Chờ đồng bộ API FB",
+      "live_url": "https://www.facebook.com/reel/2615284622324702",
       "published_at": "2026-09-21T23:34:33.079Z"
     }
   },
@@ -1028,12 +1027,13 @@
     ],
     "media_link": "media_output/2026-09-22/YouTube/post_20260922_Y1_22/reels/media.mp4",
     "caption_link": "",
-    "status": "pending_publish",
+    "status": "published",
     "created_at": "2026-09-21T17:27:28.166Z",
     "published_data": {
       "live_url": null,
-      "published_at": null
-    }
+      "published_at": "2026-09-22T00:51:56.511Z"
+    },
+    "youtube_url": "https://youtube.com/shorts/oJOoJ4mf_Sc"
   },
   {
     "post_id": "post_20260922_Y2_22",
@@ -1062,19 +1062,23 @@
     "caption_link": "",
     "status": "pending_publish",
     "created_at": "2026-09-21T17:27:28.166Z",
-=======
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
     "post_id": "post_20260922_tinthoisu_sang",
     "source_idea_id": "news_auto",
     "delivery_format": "news",
     "target_channels": [
       "facebook"
     ],
-    "media_link": "",
+    "media_link": "media_output/2026-09-22/Facebook/post_20260922_tinthoisu_sang/cover.jpg",
     "image_query": "overgrown vacant land plot fenced",
     "caption_link": "media_output/2026-09-22/Facebook/post_20260922_tinthoisu_sang/caption.txt",
     "status": "pending_publish",
     "created_at": "2026-09-21T23:47:36.169Z",
->>>>>>> 991e0f6efe6109ab1619a17204aa7fd774e12817
     "published_data": {
       "live_url": null,
       "published_at": null
