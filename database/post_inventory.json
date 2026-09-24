@@ -1270,5 +1270,22 @@
       "live_url": null,
       "published_at": null
     }
+  },
+  {
+    "post_id": "post_20260925_tinthoisu_sang",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "vietnam land price policy meeting",
+    "caption_link": "media_output/2026-09-25/Facebook/post_20260925_tinthoisu_sang/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-24T23:47:31Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
   }
 ]
