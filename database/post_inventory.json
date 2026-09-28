@@ -1474,5 +1474,22 @@
       "live_url": null,
       "published_at": null
     }
+  },
+  {
+    "post_id": "post_20260928_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "hanoi land eviction resettlement",
+    "caption_link": "media_output/2026-09-28/Facebook/post_20260928_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-28T03:47:58Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
   }
 ]
