@@ -1113,6 +1113,451 @@
     "caption_link": "media_output/2026-09-22/Facebook/post_20260922_tinthoisu_chieu/caption.txt",
     "status": "pending_publish",
     "created_at": "2026-09-22T07:49:40.549Z",
+<<<<<<< HEAD
+=======
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260922_tinthoisu_toi",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "father-son-land-lawsuit",
+    "caption_link": "media_output/2026-09-22/Facebook/post_20260922_tinthoisu_toi/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-22T11:18:37.825Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260923_tinthoisu_sang",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "high-rise apartment building violation Hanoi",
+    "caption_link": "media_output/2026-09-23/Facebook/post_20260923_tinthoisu_sang/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-22T23:49:57.000Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260923_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "power meter shutoff construction violation",
+    "caption_link": "media_output/2026-09-23/Facebook/post_20260923_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-23T03:48:45.000Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260923_tinthoisu_chieu",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "forced eviction livestream dispute",
+    "caption_link": "media_output/2026-09-23/Facebook/post_20260923_tinthoisu_chieu/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-23T07:47:14Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260923_tinthoisu_toi",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "narrow alley between brick houses",
+    "caption_link": "media_output/2026-09-23/Facebook/post_20260923_tinthoisu_toi/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-23T11:19:27Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260924_tinthoisu_sang",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "Ecopark villa Hung Yen exterior",
+    "caption_link": "media_output/2026-09-24/Facebook/post_20260924_tinthoisu_sang/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-23T23:48:10Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260924_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "apartment balcony cemetery view",
+    "caption_link": "media_output/2026-09-24/Facebook/post_20260924_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-24T03:47:55Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260924_tinthoisu_chieu",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "land title divorce dispute",
+    "caption_link": "media_output/2026-09-24/Facebook/post_20260924_tinthoisu_chieu/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-24T07:47:32Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260924_tinthoisu_toi",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "smartphone government app VNeID",
+    "caption_link": "media_output/2026-09-24/Facebook/post_20260924_tinthoisu_toi/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-24T11:19:00Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260925_tinthoisu_sang",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "vietnam land price policy meeting",
+    "caption_link": "media_output/2026-09-25/Facebook/post_20260925_tinthoisu_sang/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-24T23:47:31Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260925_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "land inheritance dispute courtroom",
+    "caption_link": "media_output/2026-09-25/Facebook/post_20260925_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-25T03:47:41Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260925_tinthoisu_chieu",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "land title boundary overlap",
+    "caption_link": "media_output/2026-09-25/Facebook/post_20260925_tinthoisu_chieu/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-25T07:48:03Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260925_tinthoisu_toi",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "abandoned construction site",
+    "caption_link": "media_output/2026-09-25/Facebook/post_20260925_tinthoisu_toi/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-25T11:18:33Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260926_tinthoisu_sang",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "land lease contract stamp document",
+    "caption_link": "media_output/2026-09-26/Facebook/post_20260926_tinthoisu_sang/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-25T23:49:16Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260926_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "unfinished apartment interior",
+    "caption_link": "media_output/2026-09-26/Facebook/post_20260926_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-26T03:50:43Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260926_tinthoisu_chieu",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "land penalty notice",
+    "caption_link": "media_output/2026-09-26/Facebook/post_20260926_tinthoisu_chieu/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-26T07:47:49Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260926_tinthoisu_toi",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "farmland compensation lawsuit",
+    "caption_link": "media_output/2026-09-26/Facebook/post_20260926_tinthoisu_toi/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-26T11:20:27Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260927_tinthoisu_sang",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "vietnamese ancestral altar portrait",
+    "caption_link": "media_output/2026-09-27/Facebook/post_20260927_tinthoisu_sang/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-26T23:50:09Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260927_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "garment factory demolition",
+    "caption_link": "media_output/2026-09-27/Facebook/post_20260927_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-27T03:49:00Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260927_tinthoisu_chieu",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "house occupant refuses vacate",
+    "caption_link": "media_output/2026-09-27/Facebook/post_20260927_tinthoisu_chieu/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-27T07:49:43Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260927_tinthoisu_toi",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "land price tax evasion",
+    "caption_link": "media_output/2026-09-27/Facebook/post_20260927_tinthoisu_toi/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-27T11:17:36Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260928_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "hanoi land eviction resettlement",
+    "caption_link": "media_output/2026-09-28/Facebook/post_20260928_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-28T03:47:58Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260928_tinthoisu_chieu",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "land certificate lawsuit",
+    "caption_link": "media_output/2026-09-28/Facebook/post_20260928_tinthoisu_chieu/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-28T07:48:53Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260928_tinthoisu_toi",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "courtroom gavel judge",
+    "caption_link": "media_output/2026-09-28/Facebook/post_20260928_tinthoisu_toi/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-28T11:20:07Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260929_tinthoisu_sang",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "canal embankment construction vietnam",
+    "caption_link": "media_output/2026-09-29/Facebook/post_20260929_tinthoisu_sang/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-28T23:48:27Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
+  },
+  {
+    "post_id": "post_20260929_tinthoisu_trua",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "apartment investment lawsuit court",
+    "caption_link": "media_output/2026-09-29/Facebook/post_20260929_tinthoisu_trua/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-09-29T03:47:40Z",
+>>>>>>> f53bef9d5af78bdcaf0de6309ad35a7269adeff2
     "published_data": {
       "live_url": null,
       "published_at": null
