@@ -71,7 +71,7 @@ async function renderTextSlides(texts, outputDir) {
             </style>
         </head>
         <body>
-            <div class="page-num">${i + 1}/${texts.length}</div>
+            ${texts.length > 1 ? `<div class="page-num">${i + 1}/${texts.length}</div>` : ''}
             <div class="accent-bar"></div>
             <div class="text">${text}</div>
             <div class="footer">${brandName}</div>

@@ -67,6 +67,43 @@ async function handleLoginWait(page, targetUrl) {
     }
 }
 
+/**
+ * 2026-09-24: Facebook chèn SỐ BƯỚC 'Tiếp' xác nhận trước khi hiện nút 'Đăng' một cách NGẪU NHIÊN
+ * (log nhiều đêm cho thấy lúc 0 bước, lúc 1 bước, lúc 2 bước) — mọi cách xử lý cứng số lần bấm
+ * 'Tiếp' sớm muộn đều timeout khi FB đổi số bước thực tế. Hàm này DÒ LINH HOẠT: mỗi vòng kiểm tra
+ * 'Đăng' trước, nếu chưa có thì bấm 'Tiếp' nếu thấy, lặp tối đa maxSteps lần để tránh treo vô hạn.
+ */
+async function clickThroughToPostButton(page, { maxSteps = 5, stepTimeout = 6000, postTimeout = 20000, guardComposerOpen = false } = {}) {
+    const nextSelector = 'div[aria-label="Tiếp"], div[aria-label="Next"]';
+    const postSelector = 'div[aria-label="Đăng"], div[aria-label="Post"]';
+    const composerHeading = page.getByText('Tạo bài viết', { exact: true }).last();
+
+    for (let i = 0; i < maxSteps; i++) {
+        const postBtn = page.locator(postSelector).last();
+        if (await postBtn.isVisible({ timeout: stepTimeout }).catch(() => false)) {
+            return postBtn;
+        }
+        const nextBtn = page.locator(nextSelector).last();
+        if (await nextBtn.isVisible({ timeout: stepTimeout }).catch(() => false)) {
+            console.log(`[Engine] Thấy nút 'Tiếp' (bước ${i + 1}) -> Nhấn chuyển bước...`);
+            await nextBtn.click({ force: true });
+            await new Promise(r => setTimeout(r, 3000));
+            if (guardComposerOpen) {
+                const stillOpen = await composerHeading.isVisible({ timeout: 3000 }).catch(() => false);
+                if (!stillOpen) {
+                    throw new Error("Đã rời khỏi hộp soạn bài viết sau khi bấm 'Tiếp' — có thể đã bấm nhầm nút khác trên trang. Dừng lại để tránh đăng sai nội dung.");
+                }
+            }
+            continue;
+        }
+        await new Promise(r => setTimeout(r, 2000));
+    }
+
+    const finalPostBtn = page.locator(postSelector).last();
+    await finalPostBtn.waitFor({ state: 'visible', timeout: postTimeout });
+    return finalPostBtn;
+}
+
 async function markAsPublished(post, inventory, inventoryPath, page) {
     await new Promise(r => setTimeout(r, 10000));
     await page.screenshot({ path: path.join(__dirname, '..', 'media_output', 'publish_pw_success.png') });
@@ -619,22 +656,9 @@ async function publishImagePlaywright(post, inventory, inventoryPath) {
         console.log("[Engine] Chờ 3s tải ảnh Preview...");
         await new Promise(r => setTimeout(r, 3000));
 
-        console.log("[Engine] Kiểm tra luồng xét duyệt hiển thị 'Tiếp' (Flow mới của Facebook)...");
-        const nextBtn = page.getByRole('dialog').getByRole('button', { name: /Tiếp|Next/i }).first();
-        if (await nextBtn.isVisible({ timeout: 10000 }).catch(() => false)) {
-            console.log("[Engine] Đã thấy nút 'Tiếp' -> Nhấn chuyển bước!");
-            await nextBtn.click({ force: true });
-            await new Promise(r => setTimeout(r, 3000)); // Đợi load trang cấu hình Đăng
-        } else {
-            console.log("⚠️ Không tìm thấy nút Tiếp, FB có thể đã skip bước này.");
-        }
-
+        console.log("[Engine] Dò linh hoạt các bước 'Tiếp' (0, 1, 2... tùy Facebook) cho tới khi thấy nút 'Đăng'...");
+        const postBtn = await clickThroughToPostButton(page);
         console.log("[Engine] Nhấn nút Đăng...");
-        // Dùng selector giống hệt luồng đăng text (đã xác minh hoạt động ổn định) thay vì
-        // getByRole('dialog').getByRole('button', ...) — selector cũ gây timeout lặp lại 2 lần
-        // liên tiếp (2026-09-21), khả năng do 1 dialog/bước trung gian chèn ngang sau 'Tiếp'.
-        const postBtn = page.locator('div[aria-label="Đăng"], div[aria-label="Post"]').last();
-        await postBtn.waitFor({ state: 'visible', timeout: 15000 });
         await postBtn.click({ force: true });
         console.log("🚀 [LIVE] Đã nhấn nút Đăng xong!");
 
@@ -726,19 +750,9 @@ async function publishNewsAsSlidesPlaywright(post, inventory, inventoryPath, sli
         console.log(`[Engine] Chờ tải ${imagePaths.length} ảnh Preview...`);
         await new Promise(r => setTimeout(r, 2000 + imagePaths.length * 1500));
 
-        console.log("[Engine] Kiểm tra luồng xét duyệt hiển thị 'Tiếp' (Flow mới của Facebook)...");
-        const nextBtn = page.getByRole('dialog').getByRole('button', { name: /Tiếp|Next/i }).first();
-        if (await nextBtn.isVisible({ timeout: 10000 }).catch(() => false)) {
-            console.log("[Engine] Đã thấy nút 'Tiếp' -> Nhấn chuyển bước!");
-            await nextBtn.click({ force: true });
-            await new Promise(r => setTimeout(r, 3000));
-        } else {
-            console.log("⚠️ Không tìm thấy nút Tiếp, FB có thể đã skip bước này.");
-        }
-
+        console.log("[Engine] Dò linh hoạt các bước 'Tiếp' (0, 1, 2... tùy Facebook) cho tới khi thấy nút 'Đăng'...");
+        const postBtn = await clickThroughToPostButton(page);
         console.log("[Engine] Nhấn nút Đăng...");
-        const postBtn = page.getByRole('dialog').getByRole('button', { name: /Đăng|Post/i }).last();
-        await postBtn.waitFor({ state: 'visible', timeout: 15000 });
         await postBtn.click({ force: true });
         console.log("🚀 [LIVE] Đã nhấn nút Đăng xong!");
 
@@ -782,30 +796,14 @@ async function publishTextPlaywright(post, inventory, inventoryPath) {
         // Chờ dialog ổn định layout sau khi text dài làm khung mở rộng, tránh click nhầm tọa độ.
         await new Promise(r => setTimeout(r, 3000));
 
-        console.log("[Engine] Kiểm tra bước 'Tiếp' (bài text không ảnh vẫn có bước xác nhận đối tượng)...");
-        // QUAN TRỌNG: KHÔNG dùng getByRole('dialog') để khoanh vùng — trang "Quản lý trang" có
-        // nhiều thẻ/nút xung quanh (vd: "Tạo video trực tiếp") mà role="dialog" ở đây match nhầm
-        // sang wrapper của cả trang, khiến nút "Tiếp" bị nhấn nhầm và điều hướng mất bài đang soạn.
-        // Modal composer luôn được portal vào cuối DOM nên dùng .last() trên toàn trang là an toàn hơn.
-        const composerHeading = page.getByText('Tạo bài viết', { exact: true }).last();
-        const nextBtn = page.locator('div[aria-label="Tiếp"], div[aria-label="Next"]').last();
-        if (await nextBtn.isVisible({ timeout: 5000 }).catch(() => false)) {
-            console.log("[Engine] Đã thấy nút 'Tiếp' -> Nhấn chuyển bước...");
-            await nextBtn.click();
-            await new Promise(r => setTimeout(r, 2500));
-            await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_debug_after_next.png') });
-
-            const stillInComposer = await composerHeading.isVisible({ timeout: 3000 }).catch(() => false);
-            if (!stillInComposer) {
-                throw new Error("Đã rời khỏi hộp soạn bài viết sau khi bấm 'Tiếp' — có thể đã bấm nhầm nút khác trên trang. Dừng lại để tránh đăng sai nội dung.");
-            }
-        } else {
-            console.log("⚠️ Không thấy nút Tiếp, có thể FB đã bỏ qua bước này.");
-        }
-
+        console.log("[Engine] Dò linh hoạt các bước 'Tiếp' (bài text không ảnh vẫn có bước xác nhận đối tượng, 0, 1, 2... tùy Facebook)...");
+        // QUAN TRỌNG: clickThroughToPostButton dùng div[aria-label=...] trên toàn trang (KHÔNG
+        // getByRole('dialog')) vì trang "Quản lý trang" có nhiều thẻ/nút xung quanh (vd: "Tạo video
+        // trực tiếp") mà role="dialog" ở đây match nhầm sang wrapper của cả trang, khiến nút "Tiếp"
+        // bị nhấn nhầm và điều hướng mất bài đang soạn. guardComposerOpen: true để phát hiện đúng
+        // sự cố đó và dừng lại thay vì đăng sai nội dung.
+        const postBtn = await clickThroughToPostButton(page, { guardComposerOpen: true });
         console.log("[Engine] Nhấn nút Đăng...");
-        const postBtn = page.locator('div[aria-label="Đăng"], div[aria-label="Post"]').last();
-        await postBtn.waitFor({ state: 'visible', timeout: 15000 });
         await postBtn.click();
         console.log("🚀 [LIVE] Đã nhấn nút Đăng...");
 
@@ -853,37 +851,43 @@ function deriveCoverPath(post) {
     return path.join(dir, 'cover.jpg').replace(/\\/g, '/');
 }
 
-// Nếu bài 'news' chưa có media_link nhưng cloud routine đã gợi ý image_query,
-// tải ảnh minh họa thật từ Pexels NGAY TẠI MÁY LOCAL (key API luôn nằm an toàn trong .env,
-// không bao giờ được gửi lên prompt cloud routine — tránh rủi ro lộ khóa).
+// 2026-09-23: theo yêu cầu — KHÔNG tải ảnh Pexels nữa cho bài tin thời sự. Fallback cuối cùng nếu
+// không tạo được ảnh bìa tiêu đề (lỗi Puppeteer...) vẫn là ảnh đại diện chủ tài khoản.
+const NEWS_COVER_FALLBACK = path.join(__dirname, '..', 'media-input', 'avata2.png');
+
+// 2026-09-24: theo yêu cầu "trình bày bắt mắt hơn" — dùng lại đúng template ảnh chữ to thương hiệu
+// (renderTextSlides, vốn chỉ dùng cho luồng slide nhiều ảnh) để tạo MỘT ảnh bìa tiêu đề riêng cho
+// từng bài, thay vì lặp lại y hệt 1 tấm ảnh đại diện cho mọi bài tin thời sự (đơn điệu, không có
+// điểm nhấn). Lấy dòng đầu tiên (câu hook) của caption làm nội dung ảnh bìa.
 async function ensureNewsCoverImage(post, inventory, inventoryPath) {
     if (post.media_link && post.media_link.trim()) return;
-    if (!post.image_query || !post.image_query.trim()) return;
     const relCoverPath = deriveCoverPath(post);
     if (!relCoverPath) return;
-    const apiKey = process.env.PEXELS_API_KEY;
-    if (!apiKey || apiKey.includes('YOUR_PEXELS')) {
-        console.warn('⚠️ Chưa cấu hình PEXELS_API_KEY trong .env — bỏ qua tải ảnh minh họa.');
-        return;
-    }
+    const absCoverPath = path.join(__dirname, '..', relCoverPath);
     try {
-        console.log(`🖼️ Đang tìm ảnh minh họa Pexels cho từ khóa: "${post.image_query}"...`);
-        const qs = `query=${encodeURIComponent(post.image_query)}&per_page=5&orientation=landscape`;
-        const res = await axios.get(`https://api.pexels.com/v1/search?${qs}`, { headers: { Authorization: apiKey } });
-        const photo = res.data && res.data.photos && res.data.photos[0];
-        if (!photo) {
-            console.warn(`⚠️ Pexels không tìm thấy ảnh phù hợp cho từ khóa "${post.image_query}".`);
-            return;
-        }
-        const imgRes = await axios.get(photo.src.large, { responseType: 'arraybuffer' });
-        const absCoverPath = path.join(__dirname, '..', relCoverPath);
         fs.mkdirSync(path.dirname(absCoverPath), { recursive: true });
-        fs.writeFileSync(absCoverPath, imgRes.data);
+        const caption = (await getCaption(post)).trim();
+        const headline = (caption.split('\n').find(l => l.trim().length > 0) || '').trim();
+        if (headline) {
+            const [slidePath] = await renderTextSlides([headline], path.dirname(absCoverPath));
+            fs.renameSync(slidePath, absCoverPath);
+            console.log(`✅ Đã tạo ảnh bìa tiêu đề (branded) làm ảnh minh họa: ${relCoverPath}`);
+        } else {
+            fs.copyFileSync(NEWS_COVER_FALLBACK, absCoverPath);
+            console.log(`✅ Không có tiêu đề để tạo ảnh bìa — dùng ảnh đại diện cố định: ${relCoverPath}`);
+        }
         post.media_link = relCoverPath;
         fs.writeFileSync(inventoryPath, JSON.stringify(inventory, null, 2));
-        console.log(`✅ Đã tải ảnh minh họa: ${relCoverPath}`);
     } catch (err) {
-        console.warn(`⚠️ Lỗi khi tải ảnh minh họa từ Pexels: ${err.message} — bỏ qua, dùng phương án dự phòng.`);
+        console.warn(`⚠️ Lỗi khi tạo ảnh bìa tiêu đề: ${err.message} — dùng phương án dự phòng (ảnh đại diện).`);
+        try {
+            fs.mkdirSync(path.dirname(absCoverPath), { recursive: true });
+            fs.copyFileSync(NEWS_COVER_FALLBACK, absCoverPath);
+            post.media_link = relCoverPath;
+            fs.writeFileSync(inventoryPath, JSON.stringify(inventory, null, 2));
+        } catch (fallbackErr) {
+            console.warn(`⚠️ Lỗi cả phương án dự phòng: ${fallbackErr.message}`);
+        }
     }
 }
 
