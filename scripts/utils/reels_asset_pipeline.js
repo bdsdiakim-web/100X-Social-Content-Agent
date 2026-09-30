@@ -258,7 +258,7 @@ async function getVbeeVoice(text, sceneIndex, destDir) {
     // Mặc định 2026-09-16: đổi sang mã giọng riêng của người dùng trên Vbee sau khi thử nghiệm
     // thành công ở video B/C batch "2026-09-16" — áp dụng cho MỌI video từ giờ trở đi, trừ khi
     // ghi đè qua biến môi trường VBEE_VOICE_CODE.
-    const voiceCode = process.env.VBEE_VOICE_CODE || 'n_hanoi_male_kim2027_book_vc';
+    const voiceCode = process.env.VBEE_VOICE_CODE || 'n_hanoi_male_kim0926_advertise_vc';
     if (!APP_ID || !TOKEN || !text) return console.log(`[Vbee] Thiếu APP_ID/TOKEN/Text tại Cảnh ${sceneIndex}`);
 
     // Dùng lại giọng đã tải sẵn nếu render lại chỉ để sửa CSS/font, tránh tốn hạn ngạch Vbee lần nữa.

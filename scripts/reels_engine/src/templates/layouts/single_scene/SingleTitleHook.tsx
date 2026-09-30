@@ -11,14 +11,14 @@ export const SingleTitleHook: React.FC<{ content: any }> = ({ content }) => {
 
     return (
         <AbsoluteFill style={{ justifyContent: 'center', alignItems: 'center' }}>
-            <h1 style={{ 
-                fontSize: 80,
-                color: '#FFFFFF', 
+            <h1 style={{
+                fontSize: 96,
+                color: '#FFFFFF',
                 fontWeight: 'bold',
-                textAlign: 'center', 
-                zIndex: 1, 
+                textAlign: 'center',
+                zIndex: 1,
                 textTransform: 'capitalize',
-                padding: '0 80px', 
+                padding: '0 56px',
                 // QUAN TRỌNG: opacity giữ nguyên = 1 (không mờ dần từ 0) để khung hình ĐẦU TIÊN
                 // của video (thường được Facebook/YouTube dùng làm ảnh bìa/thumbnail trong danh
                 // sách video) đã hiển thị rõ chữ tiêu đề ngay lập tức, không bị trong suốt.

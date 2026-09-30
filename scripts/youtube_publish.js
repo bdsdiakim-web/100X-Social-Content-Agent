@@ -52,6 +52,16 @@ async function publishToYoutube({ videoPath, title, description, tags = [], cate
     const shopeeLink = getShopeeAffiliateLink();
     const finalDescription = shopeeLink ? `${(description || '').trim()}\n\n🛒 ${shopeeLink}` : (description || '');
 
+    // QUAN TRỌNG (fix 2026-09-25, mất do merge git đè lên rồi vá lại 2026-09-30): YouTube giới hạn
+    // tiêu đề tối đa 100 ký tự — vượt quá, API trả về lỗi mơ hồ "invalid or empty video title"
+    // (không nói rõ do quá dài), từng làm hỏng cả lần đăng tự động theo lịch. Tự cắt bớt ở đây.
+    const MAX_TITLE_LEN = 100;
+    let finalTitle = title;
+    if (finalTitle && finalTitle.length > MAX_TITLE_LEN) {
+        console.warn(`⚠️ [YouTube] Tiêu đề dài ${finalTitle.length} ký tự, vượt giới hạn ${MAX_TITLE_LEN} — tự động cắt bớt.`);
+        finalTitle = finalTitle.slice(0, MAX_TITLE_LEN - 1).trim() + '…';
+    }
+
     const auth = await getAuthedClient();
     const youtube = google.youtube({ version: 'v3', auth });
 
@@ -60,7 +70,7 @@ async function publishToYoutube({ videoPath, title, description, tags = [], cate
     const res = await youtube.videos.insert({
         part: ['snippet', 'status'],
         requestBody: {
-            snippet: { title, description: finalDescription, tags, categoryId },
+            snippet: { title: finalTitle, description: finalDescription, tags, categoryId },
             status: { privacyStatus, selfDeclaredMadeForKids: false },
         },
         media: { body: fs.createReadStream(videoPath) },

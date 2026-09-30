@@ -63,6 +63,33 @@ export const MainComposition = ({ timeline }: { timeline: any[] }) => {
             })}
 
             {/* ========================================================= */}
+            {/* LỚP AVATAR THƯƠNG HIỆU: DUY TRÌ XUYÊN SUỐT MỌI FRAME, MỌI CẢNH */}
+            {/* (fix 2026-09-22, mất do merge git đè lên rồi vá lại 2026-09-30 — góc trên-trái để */}
+            {/* không che tiêu đề giữa khung hình hay cụm watermark/CTA ở đáy) */}
+            {/* ========================================================= */}
+            {timeline[0]?.brand_avatar && (
+                <AbsoluteFill style={{ zIndex: 9998, pointerEvents: 'none' }}>
+                    <div style={{
+                        position: 'absolute',
+                        top: '60px',
+                        left: '48px',
+                        width: '132px',
+                        height: '132px',
+                        borderRadius: '50%',
+                        overflow: 'hidden',
+                        border: `4px solid ${brandConfig.brand_identity?.colors?.accent || '#B6FF00'}`,
+                        boxShadow: '0 4px 16px rgba(0,0,0,0.5)',
+                        backgroundColor: '#000',
+                    }}>
+                        <Img
+                            src={timeline[0].brand_avatar}
+                            style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                        />
+                    </div>
+                </AbsoluteFill>
+            )}
+
+            {/* ========================================================= */}
             {/* LỚP PHỦ ĐỈNH (GLOBAL BRAND WATERMARK): HIỆN DIỆN MỌI FRAME */}
             {/* ========================================================= */}
             {watermark && watermark.enabled && (

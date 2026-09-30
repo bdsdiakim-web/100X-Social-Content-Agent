@@ -14,6 +14,12 @@ function runCommandAsync(command, options) {
         child.stderr.on('data', (chunk) => {
             stderrTail = (stderrTail + chunk.toString()).slice(-4000);
         });
+        // QUAN TRỌNG (fix 2026-09-21, mất do merge git đè lên rồi vá lại 2026-09-30): stdout PHẢI
+        // có listener drain buffer, nếu không khi Remotion ghi đủ log tiến độ ra stdout, pipe buffer
+        // OS (64KB) đầy lên khiến tiến trình con block vĩnh viễn ở write() vì không ai đọc — đây
+        // chính là nguyên nhân render bị treo hàng giờ liền (8+ tiếng ngày 29/9, 47 phút ngày 30/9)
+        // sau khi fix này bị mất. Chỉ cần drain, không cần giữ lại nội dung.
+        child.stdout.on('data', () => {});
         child.on('error', reject);
         child.on('close', (code) => {
             if (code === 0) resolve();
@@ -326,9 +332,11 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
 
         let hwFlag = '';
         if (isWin) {
-            // --gl=angle ép dịch phần cứng sang DirectX.
+            // Sửa V7 (2026-09-21, mất do merge git đè lên rồi vá lại 2026-09-30): --gl=angle từng
+            // nghi ngờ làm Headless Chrome treo khi launch — đổi sang --gl=swiftshader (render phần
+            // mềm, không phụ thuộc driver GPU) để ổn định hơn trên máy không có GPU rời.
             // Sửa V6 Cứu Win: Xuống --concurrency=1 để chống 100% OOM.
-            hwFlag = '--gl=angle --concurrency=1';
+            hwFlag = '--gl=swiftshader --concurrency=1';
         }
 
         console.log(`[Remotion Hook] Rendering frames to ${outputPath}...`);
@@ -353,15 +361,21 @@ async function generateReels(timelineJsonPath, outputFileName = 'final_reels.mp4
         // chính xác được ngay từ đầu. Theo yêu cầu luôn giữ video dưới 3 phút, sau khi render xong
         // kiểm tra thời lượng thật — nếu vượt ngưỡng thì tăng tốc video+audio ĐỒNG BỘ (giữ nguyên
         // cao độ giọng nói nhờ bộ lọc atempo) để rút gọn xuống dưới 3 phút, thay vì cắt bớt nội dung.
-        const MAX_DURATION_SEC = 120; // Chuẩn mặc định từ 2026-09-21: mọi video 60-120s (1-2 phút), KHÔNG vượt quá 120s (thay hẳn mức 168 cũ) — thắt lại để tiết kiệm token/thời gian render
+        // QUAN TRỌNG (chuẩn mới nhất, mất do merge git đè lên rồi vá lại 2026-09-30): thắt lần thứ 5
+        // ngày 2026-09-21 xuống 90s (KHÔNG phải 120s), và MỌI video luôn tăng tốc tối thiểu x1.15
+        // (không chỉ khi vượt ngưỡng) theo yêu cầu người dùng cùng ngày.
+        const MAX_DURATION_SEC = 90;
+        const GLOBAL_MIN_SPEED_FACTOR = 1.15;
         try {
             const remotionBin = path.join(remotionEngineDir, 'node_modules/.bin/remotion');
             const probeCmd = `"${remotionBin}" ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${outputPath}"`;
             const actualDuration = parseFloat(execSync(probeCmd).toString().trim());
 
-            if (actualDuration > MAX_DURATION_SEC) {
-                const speedFactor = actualDuration / MAX_DURATION_SEC;
-                console.log(`⏱️ [Auto-Speed] Video dài ${actualDuration.toFixed(1)}s, vượt ${MAX_DURATION_SEC}s — tăng tốc x${speedFactor.toFixed(3)} để rút gọn dưới 3 phút...`);
+            const capFactor = actualDuration > MAX_DURATION_SEC ? actualDuration / MAX_DURATION_SEC : 1;
+            const speedFactor = Math.max(capFactor, GLOBAL_MIN_SPEED_FACTOR);
+
+            if (speedFactor > 1) {
+                console.log(`⏱️ [Auto-Speed] Video dài ${actualDuration.toFixed(1)}s — tăng tốc x${speedFactor.toFixed(3)} (tối thiểu x${GLOBAL_MIN_SPEED_FACTOR}, giữ nguyên lời thoại)...`);
                 const spedUpPath = outputPath.replace(/\.mp4$/i, '_speed_tmp.mp4');
                 // QUAN TRỌNG: bản ffmpeg rút gọn đi kèm Remotion KHÔNG có filter "setpts" (chỉ có
                 // "asetpts" cho audio) nên cách làm cũ luôn lỗi "No option name near 'PTS/...'".

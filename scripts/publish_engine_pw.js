@@ -605,7 +605,11 @@ async function publishReelPlaywright(post, inventory, inventoryPath) {
         console.error(`❌ Lỗi Playwright: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
     } finally {
-        console.log("[Engine] Giữ nguyên cửa sổ trình duyệt đang mở (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
+        // Chỉ đóng TAB vừa dùng (mỗi lần đăng tự mở tab riêng, xem launchBrowserContext) để tránh
+        // dồn tab qua nhiều lần chạy/ngày — KHÔNG đóng cả cửa sổ/context trình duyệt, vẫn giữ
+        // nguyên phiên đăng nhập Facebook cho lần chạy tiếp theo dùng lại.
+        await page.close().catch(() => {});
+        console.log("[Engine] Đã đóng tab vừa dùng, giữ nguyên cửa sổ trình duyệt (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
     }
 }
 
@@ -691,7 +695,11 @@ async function publishImagePlaywright(post, inventory, inventoryPath) {
         console.error(`❌ Lỗi Playwright Profile Image: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
     } finally {
-        console.log("[Engine] Giữ nguyên cửa sổ trình duyệt đang mở (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
+        // Chỉ đóng TAB vừa dùng (mỗi lần đăng tự mở tab riêng, xem launchBrowserContext) để tránh
+        // dồn tab qua nhiều lần chạy/ngày — KHÔNG đóng cả cửa sổ/context trình duyệt, vẫn giữ
+        // nguyên phiên đăng nhập Facebook cho lần chạy tiếp theo dùng lại.
+        await page.close().catch(() => {});
+        console.log("[Engine] Đã đóng tab vừa dùng, giữ nguyên cửa sổ trình duyệt (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
     }
 }
 
@@ -763,7 +771,11 @@ async function publishNewsAsSlidesPlaywright(post, inventory, inventoryPath, sli
         console.error(`❌ Lỗi Playwright Tin Ngắn Dạng Ảnh: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
     } finally {
-        console.log("[Engine] Giữ nguyên cửa sổ trình duyệt đang mở (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
+        // Chỉ đóng TAB vừa dùng (mỗi lần đăng tự mở tab riêng, xem launchBrowserContext) để tránh
+        // dồn tab qua nhiều lần chạy/ngày — KHÔNG đóng cả cửa sổ/context trình duyệt, vẫn giữ
+        // nguyên phiên đăng nhập Facebook cho lần chạy tiếp theo dùng lại.
+        await page.close().catch(() => {});
+        console.log("[Engine] Đã đóng tab vừa dùng, giữ nguyên cửa sổ trình duyệt (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
     }
 }
 
@@ -840,7 +852,11 @@ async function publishTextPlaywright(post, inventory, inventoryPath) {
         console.error(`❌ Lỗi Playwright Text Post: ${error.message}`);
         await page.screenshot({ path: path.join(__dirname, '../media_output/publish_pw_error.png') });
     } finally {
-        console.log("[Engine] Giữ nguyên cửa sổ trình duyệt đang mở (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
+        // Chỉ đóng TAB vừa dùng (mỗi lần đăng tự mở tab riêng, xem launchBrowserContext) để tránh
+        // dồn tab qua nhiều lần chạy/ngày — KHÔNG đóng cả cửa sổ/context trình duyệt, vẫn giữ
+        // nguyên phiên đăng nhập Facebook cho lần chạy tiếp theo dùng lại.
+        await page.close().catch(() => {});
+        console.log("[Engine] Đã đóng tab vừa dùng, giữ nguyên cửa sổ trình duyệt (không đóng) — lần chạy tiếp theo sẽ dùng lại đúng cửa sổ này.");
     }
 }
 
@@ -949,7 +965,19 @@ async function runAutoPublish() {
 }
 
 if (require.main === module) {
-    runAutoPublish();
+    // QUAN TRỌNG (fix 2026-09-25, mất do merge git đè lên rồi vá lại 2026-09-30): script CHỦ ĐỘNG
+    // giữ context trình duyệt mở (không gọi context.close()/browser.close()) để lần chạy sau dùng
+    // lại, nhưng Playwright vẫn giữ vài handle/listener nội bộ khiến tiến trình Node KHÔNG BAO GIỜ
+    // tự thoát dù logic script đã chạy xong. Hậu quả thật: hàng chục tiến trình node.exe treo vĩnh
+    // viễn, và Windows Task Scheduler coi task còn "Running" nên CHẶN LUÔN lần chạy định kỳ tiếp
+    // theo. process.exit(0) ở đây chỉ kết thúc tiến trình Node hiện tại, KHÔNG đóng cửa sổ
+    // browser.exe (tiến trình hệ điều hành riêng, kết nối qua CDP) — trình duyệt vẫn mở cho lần sau.
+    runAutoPublish()
+        .then(() => process.exit(0))
+        .catch((err) => {
+            console.error('[Fatal]', err);
+            process.exit(1);
+        });
 }
 
 module.exports = { postFullContentComment, launchBrowserContext, publishReelPlaywright };

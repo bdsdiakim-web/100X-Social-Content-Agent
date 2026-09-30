@@ -17,6 +17,12 @@ $published = $false
 for ($attempt = 1; $attempt -le $maxAttempts -and -not $published; $attempt++) {
     "--- Attempt $attempt/$maxAttempts at $(Get-Date) ---" | Out-File -FilePath $logPath -Append -Encoding utf8
     git pull fork main *>> $logPath
+    if (Select-String -Path "database/post_inventory.json" -Pattern "^<<<<<<<" -Quiet -ErrorAction SilentlyContinue) {
+        "!!! LOI: git pull tao merge conflict trong post_inventory.json — huy merge de tranh commit file hong, thu lai sau." | Out-File -FilePath $logPath -Append -Encoding utf8
+        git merge --abort *>> $logPath
+        Start-Sleep -Seconds 30
+        continue
+    }
     npm run publish -- "$postId" *>> $logPath
     $status = node -e "try{const d=JSON.parse(require('fs').readFileSync('database/post_inventory.json','utf8'));const p=d.find(x=>x.post_id==='$postId');console.log(p?p.status:'not_found');}catch(e){console.log('error:'+e.message);}"
     "Status after attempt ${attempt}: $status" | Out-File -FilePath $logPath -Append -Encoding utf8
