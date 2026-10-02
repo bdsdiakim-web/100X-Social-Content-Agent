@@ -107,6 +107,7 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - ✅ `bang_gia_dat_nam_2026` (01/01–31/12/2026, bản đúng) · `bang_gia_dat_nam_2025`.
 
 ### B6. Văn bản lịch sử (📜 hết hiệu lực — chỉ tra nguồn gốc, quyền theo thời điểm)
+- 📜 `nghi_dinh_45_2014_thu_tien_su_dung_dat` (NĐ 45/2014 — Điều 16 gốc: ai cũng được ghi nợ khi cấp GCN/chuyển mục đích, hạn 5 năm, quá hạn trả theo giá đất lúc trả nợ) · 📜 `nghi_dinh_79_2019_sua_doi_ghi_no_tien_sdd` (NĐ 79/2019, hiệu lực 10/12/2019 — chỉ còn ghi nợ cho TÁI ĐỊNH CƯ thuộc người có công/hộ nghèo/DTTS/vùng khó khăn; quá 5 năm → tiền chậm nộp; Điều 2 chuyển tiếp: nợ trước 01/3/2016 hạn chót 28/02/2021, nợ 01/3/2016–09/12/2019 quá 5 năm → giá đất lúc trả nợ). Dùng để tra sổ ghi nợ cũ; hiện hành xem NĐ 103/2024 khoản 3 điều khoản chuyển tiếp.
 - 📜 `luat_dat_dai_1987` (3-LCT/HĐNN8, 57 Điều) · `luat_dat_dai_1993` (24-L/CTN, hiệu lực 15/10/1993, 89 Điều) · `luat_dat_dai_2003` (13/2003/QH11, hiệu lực 01/7/2004, 146 Điều) · `luat_dat_dai_2013` (45/2013/QH13, hiệu lực 01/7/2014, 212 Điều).
 - 📜 `hien_phap_1980`.
 - 📜 `nghi_dinh_60_61_1994_nha_o_do_thi_va_van_ban_lien_quan` — GỘP 6 văn bản (dò dòng "Số:"): **NĐ 60-CP 05/7/1994** (quyền sở hữu nhà ở, quyền SDĐ ở tại đô thị — gốc "giấy hồng"; Điều 4: không thừa nhận đòi lại nhà Nhà nước đang quản lý do cải tạo XHCN; Điều 10: điều kiện cấp giấy nội thành; Điều 14: cấp trong 60 ngày) · **NĐ 61-CP 05/7/1994** (mua bán, kinh doanh nhà ở — gốc "hóa giá" nhà thuộc sở hữu Nhà nước cho người đang thuê, có bảng giá chuẩn) · **TT 57-TC/TCT 23/9/1996** hướng dẫn **NĐ 45/CP 03/8/1996** (bổ sung Điều 10 NĐ 60: hệ thống 3 mốc 1980/1993 — xem A3; kèm mẫu tờ khai hợp thức hóa nhà đất) · **CV 647-CV/ĐC 31/5/1995** (Tổng cục Địa chính — danh sách giấy tờ hợp lệ về đất ở, rất hữu ích đối chiếu giấy tờ cũ của khách) · **CV 806/BXD-QLN 31/5/1995** (Bộ Xây dựng hướng dẫn NĐ 60, 61). Dùng cho: hồ sơ tồn đọng nội thành Hà Nội chưa có sổ, nhà hóa giá, giấy tờ cũ thời bao cấp.
@@ -150,3 +151,4 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - 2026-09-29: nạp Bộ luật Hình sự hợp nhất 2025, Hiến pháp 2013, Hiến pháp 1980, Luật Đất đai 1987/1993/2003/2013, NĐ 60 & 61/1994 cùng văn bản liên quan. **INDEX bị một phiên khác ghi đè về bản cũ lúc 08:53 → khôi phục toàn bộ, tổ chức lại theo cấu trúc Phần A–E và commit git.**
 - 2026-10-02: nạp NĐ 175/2025 + NĐ 202/2026 sửa đổi lệ phí trước bạ (gộp 1 file); còn thiếu NĐ 10/2022 gốc.
 - 2026-10-02: nạp NĐ 10/2022 gốc về lệ phí trước bạ.
+- 2026-10-02: nạp NĐ 45/2014 + NĐ 79/2019 (lịch sử ghi nợ tiền SDĐ).
