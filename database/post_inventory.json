@@ -1847,5 +1847,22 @@
       "live_url": null,
       "published_at": null
     }
+  },
+  {
+    "post_id": "post_20261003_tinthoisu_chieu",
+    "source_idea_id": "news_auto",
+    "delivery_format": "news",
+    "target_channels": [
+      "facebook"
+    ],
+    "media_link": "",
+    "image_query": "fake land certificate scam",
+    "caption_link": "media_output/2026-10-03/Facebook/post_20261003_tinthoisu_chieu/caption.txt",
+    "status": "pending_publish",
+    "created_at": "2026-10-03T07:49:47.000Z",
+    "published_data": {
+      "live_url": null,
+      "published_at": null
+    }
   }
 ]
