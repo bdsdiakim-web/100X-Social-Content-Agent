@@ -101,7 +101,9 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - ✅ `quyet_dinh_12_2024_dao_tao_nghe_thu_hoi_dat` (QĐ 12/2024/QĐ-TTg) · `thoi_diem_tinh_tien_su_dung_dat`.
 - Nguồn gốc gộp: `nguon_goc_phan1_2024`, `nguon_goc_phan2_2024` (12 văn bản hướng dẫn Luật Đất đai 2024 đã được tách thành các file riêng ở trên).
 
+- 🔄 `van_ban_bo_sung_dat_dai_2026_nd151_qd40_qd19_qd10_tt26_tt24` — GỘP 6 văn bản (dò dòng): **NĐ 151/2025/NĐ-CP** (dòng 1, phân định thẩm quyền chính quyền 2 cấp lĩnh vực đất đai — bỏ cấp huyện, việc cấp huyện cũ chuyển cho cấp xã/tỉnh; kèm biểu mẫu) · **QĐ 40/2025/QĐ-UBND HN** (dòng 3480, 01/7/2025 — sửa QĐ 55/2024, **QĐ 61/2024** và QĐ 71/2024: "UBND cấp huyện"→"UBND cấp xã"; thêm Điều 14a, 14b; **BÃI BỎ Điều 15 và khoản 2 Điều 16 QĐ 61**; Điều 4 chuyển tiếp: **phân loại xã tách thửa của QĐ 61 và bảng giá QĐ 71 vẫn áp theo địa giới quận/huyện CŨ**) · **QĐ 19/2026/QĐ-UBND HN** (dòng 3706, hiệu lực 02/02/2026 — hệ số K theo NQ 254: **K=1 cho bồi thường và cho tính tiền SDĐ/thuế/phí** theo Điều 159; dẫn NĐ 49/2026 và NQ 52/2025/NQ-HĐND) · **QĐ 10/2026/QĐ-UBND HN** (dòng 3780, 18/01/2026 — sửa QĐ 56/2024 bồi thường, hỗ trợ, tái định cư) · **TT 26/2024/TT-BTNMT** (dòng 3934 — kỹ thuật đo đạc lập bản đồ địa chính) · **TT 24/2025/TT-BNNMT** (dòng 5187 — sửa các thông tư đo đạc bản đồ). ⚠️ Kho CHƯA có: NĐ 49/2026 (hướng dẫn NQ 254), NQ 52/2025/NQ-HĐND (bảng giá đất HN), QĐ 55/2024 & QĐ 56/2024 gốc.
 ### B5. Văn bản riêng của Hà Nội
+- ⚠️ QĐ 61 đã bị QĐ 40/2025 sửa (bỏ Điều 15, khoản 2 Điều 16; cấp huyện→cấp xã) — đọc kèm file `van_ban_bo_sung_dat_dai_2026_...`.
 - ✅ `quyet_dinh_61_2024_qd_ubnd_hanoi_full` — **Quyết định 61/2024/QĐ-UBND TOÀN VĂN GỐC** (27/9/2024, hiệu lực 07/10/2024, 19 Điều + Phụ lục I phân loại xã). Thay thế QĐ 20/2017 và 13 quyết định khác (danh sách ở Điều 2). Điều 10 (khai hoang), **11** (hạn mức công nhận đất ở), 12 (nhận chuyển nhượng đất nông nghiệp), **13** (hạn mức giao đất ở), **14** (tách thửa), 15 (xử lý thửa không đủ điều kiện khi thu hồi), 16 (chuyển tiếp). Phụ lục I: xã miền núi/trung du của Ba Vì, Mỹ Đức, Quốc Oai, Sóc Sơn, Sơn Tây, Thạch Thất; 12 huyện còn lại toàn bộ đồng bằng.
 - `quyet_dinh_61_2024_qd_ubnd_tach_thua_hanoi` — bản TỔNG HỢP từ nguồn thứ cấp (lập 12/9/2026), chỉ phần tách thửa. Giữ đối chiếu, ưu tiên trích bản `_full`.
 - ✅ `bang_gia_dat_nam_2026` (01/01–31/12/2026, bản đúng) · `bang_gia_dat_nam_2025`.
@@ -152,3 +154,4 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - 2026-10-02: nạp NĐ 175/2025 + NĐ 202/2026 sửa đổi lệ phí trước bạ (gộp 1 file); còn thiếu NĐ 10/2022 gốc.
 - 2026-10-02: nạp NĐ 10/2022 gốc về lệ phí trước bạ.
 - 2026-10-02: nạp NĐ 45/2014 + NĐ 79/2019 (lịch sử ghi nợ tiền SDĐ).
+- 2026-10-06: nạp gộp NĐ 151/2025 + QĐ 40/2025, QĐ 19/2026, QĐ 10/2026 HN + TT 26/2024, TT 24/2025.
