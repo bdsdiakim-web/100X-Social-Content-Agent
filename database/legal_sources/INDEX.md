@@ -111,7 +111,7 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - ⚠️ QĐ 61 đã bị QĐ 40/2025 sửa (bỏ Điều 15, khoản 2 Điều 16; cấp huyện→cấp xã) — đọc kèm file `van_ban_bo_sung_dat_dai_2026_...`.
 - ✅ `quyet_dinh_61_2024_qd_ubnd_hanoi_full` — **Quyết định 61/2024/QĐ-UBND TOÀN VĂN GỐC** (27/9/2024, hiệu lực 07/10/2024, 19 Điều + Phụ lục I phân loại xã). Thay thế QĐ 20/2017 và 13 quyết định khác (danh sách ở Điều 2). Điều 10 (khai hoang), **11** (hạn mức công nhận đất ở), 12 (nhận chuyển nhượng đất nông nghiệp), **13** (hạn mức giao đất ở), **14** (tách thửa), 15 (xử lý thửa không đủ điều kiện khi thu hồi), 16 (chuyển tiếp). Phụ lục I: xã miền núi/trung du của Ba Vì, Mỹ Đức, Quốc Oai, Sóc Sơn, Sơn Tây, Thạch Thất; 12 huyện còn lại toàn bộ đồng bằng.
 - `quyet_dinh_61_2024_qd_ubnd_tach_thua_hanoi` — bản TỔNG HỢP từ nguồn thứ cấp (lập 12/9/2026), chỉ phần tách thửa. Giữ đối chiếu, ưu tiên trích bản `_full`.
-- ✅ `bang_gia_dat_nam_2026` (01/01–31/12/2026, bản đúng) · `bang_gia_dat_nam_2025`.
+- ✅ `bang_gia_dat_nam_2026` (01/01–31/12/2026, bản đúng) · ✅ `bang_gia_dat_nam_2025` (bảng giá đất HN năm 2025 – QĐ 71/2024/QĐ-UBND; dòng đầu ghi "…/2024/QĐ-UBND" chỉ là định dạng bản tải, **đã xác nhận là bản chuẩn dùng chính thức**).
 
 ### B6. Văn bản lịch sử (📜 hết hiệu lực — chỉ tra nguồn gốc, quyền theo thời điểm)
 - 📜 `bang_gia_dat_ha_noi_2007_2008_2010_qd242_2006_qd150_2007_qd124_2009` — GỘP (dò dòng): **QĐ 242/2006/QĐ-UBND** (dòng 5, giá đất **năm 2007**) · **QĐ 150/2007/QĐ-UBND** (dòng 298, giá đất **năm 2008**) · **QĐ 124/2009/QĐ-UBND** (dòng 4677, giá đất **năm 2010**, sau sáp nhập Hà Tây). Còn thiếu năm 2009, 2011, 2012, 2014.
