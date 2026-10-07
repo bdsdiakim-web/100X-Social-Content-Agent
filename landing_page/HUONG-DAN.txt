@@ -1,0 +1,33 @@
+VUA MẶT PHỐ - LANDING PAGE & SỔ HỒ SƠ KHÁCH HÀNG
+==================================================
+
+CÁC FILE
+- index.html     : trang khách hàng (dịch vụ, bảng giá, combo, phiếu hồ sơ)
+- admin.html     : trang quản lý hồ sơ (anh và đơn vị đối tác)
+- data.js        : NƠI SỬA NỘI DUNG - tên, số điện thoại, giá (PRICE), thời gian, giấy tờ, combo, đối tác
+- common.js      : phần tính toán, xuất phiếu (không cần sửa)
+- style.css      : màu sắc, kiểu chữ (không cần sửa)
+- apps-script/Code.gs : code nối Google Sheet + gửi email (dán vào Apps Script, KHÔNG đưa lên Netlify)
+
+TRONG data.js CÓ 4 PHẦN ANH CẦN ĐIỀN
+- PRICE    : giá thấp nhất / cao nhất 17 dịch vụ (dịch vụ 18 lấy theo giá luật sư)
+- OFFICES  : danh bạ văn phòng công chứng, luật sư, đo đạc... theo tỉnh (thay các dòng "(mẫu)")
+             lat, lng = tọa độ Google Maps (lấy từ phiếu góp ý, nút "Lấy vị trí tại đây")
+- LAWYERS  : danh sách luật sư và giá từng gói tư vấn
+- BANK     : ngân hàng, số tài khoản, chủ tài khoản, bankId (để tạo mã QR), cú pháp nội dung chuyển khoản
+             Mặc định cú pháp: VMP <mã hồ sơ> <số điện thoại>, ví dụ VMP HS2609274821 0912345678
+
+SỬA GIÁ
+Mở data.js bằng Notepad, tìm PRICE, ví dụ:  1:{min:3000000,max:8000000},
+Lưu lại (giữ mã hóa UTF-8).
+
+ĐƯA LÊN NETLIFY / CẬP NHẬT
+1. Vào app.netlify.com, đăng nhập tài khoản CỦA MÌNH.
+2. Lần đầu: vào app.netlify.com/drop, kéo thư mục chứa 5 file (index.html, admin.html, data.js, common.js, style.css) vào.
+3. Cập nhật: vào site → Deploys → kéo thư mục mới vào ô "Drag and drop". Link giữ nguyên.
+
+NỐI GOOGLE SHEET (khi sẵn sàng nhận khách thật)
+Làm theo 6 bước ghi ở đầu file apps-script/Code.gs, rồi dán URL Web App vào CONFIG.ENDPOINT trong data.js.
+
+XEM THỬ TRÊN MÁY
+Mở index.html bằng trình duyệt là xem được.

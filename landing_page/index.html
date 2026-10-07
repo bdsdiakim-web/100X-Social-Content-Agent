@@ -1,0 +1,963 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sổ Đỏ Trọn Gói</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700;800&family=Be+Vietnam+Pro:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+<style>
+section{padding-block:64px}
+.sec-head{display:grid;gap:10px;max-width:700px;margin-bottom:30px}
+.sec-head p{color:var(--muted)}
+.draft{background:var(--seal-soft);color:var(--seal);font-size:.85rem;text-align:center;padding:8px 16px;font-weight:500}
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:var(--paper);border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:12px}
+.brand{font-family:var(--f-display);font-weight:800;font-size:1.15rem;display:flex;align-items:center;gap:10px}
+.brand .mark{width:30px;height:30px;border:2px solid var(--seal);color:var(--seal);border-radius:50%;display:grid;place-items:center;font-size:.7rem;font-family:var(--f-mono)}
+nav.links{display:flex;gap:18px;font-size:.92rem}
+nav.links a{color:var(--ink);text-decoration:none}
+nav.links a:hover{color:var(--green)}
+
+.hero .wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center;padding-block:52px 60px}
+.hero h1{font-size:clamp(2rem,5vw,3.2rem);font-weight:800}
+.hero h1 em{font-style:normal;color:var(--seal)}
+.hero .lead{font-size:1.08rem;color:var(--muted);margin-top:18px;max-width:560px}
+.hero .ctas{display:flex;flex-wrap:wrap;gap:12px;margin-top:26px}
+.hero .facts{display:flex;flex-wrap:wrap;gap:24px;margin-top:30px;font-size:.9rem;color:var(--muted)}
+.hero .facts b{display:block;font-family:var(--f-display);font-size:1.5rem;color:var(--ink)}
+.plot{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px;position:relative}
+.plot svg{display:block;width:100%;height:auto}
+.plot .meta{display:grid;grid-template-columns:repeat(2,1fr);gap:8px 16px;font-family:var(--f-mono);font-size:.78rem;color:var(--muted);margin-top:12px}
+.plot .meta b{color:var(--ink);font-weight:600}
+.plot .cap{font-size:.75rem;color:var(--muted);margin-top:10px}
+.stamp{position:absolute;top:22px;right:22px;transform:rotate(-8deg);border:2px solid var(--seal);color:var(--seal);font:600 .72rem var(--f-mono);letter-spacing:.08em;padding:6px 10px;border-radius:4px;background:var(--card)}
+
+.pains{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.pain{border-top:2px solid var(--seal);padding-top:14px}
+.pain h3{font-size:1rem}
+.pain p{color:var(--muted);font-size:.93rem;margin-top:6px}
+
+.groups{display:grid;gap:38px}
+.group-title{display:flex;align-items:baseline;gap:12px;border-bottom:1px solid var(--line);padding-bottom:10px;margin-bottom:16px}
+.group-title span{font-family:var(--f-mono);font-size:.78rem;color:var(--muted)}
+.svc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.svc{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:18px;display:grid;gap:10px;align-content:start}
+.svc .no{font-family:var(--f-mono);font-size:.75rem;color:var(--green)}
+.svc > p{font-size:.92rem;color:var(--muted)}
+.svc .kv{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:.85rem}
+.svc .kv dt{color:var(--muted)}
+.svc .kv dd{margin:0;font-weight:600}
+.svc details{border-top:1px dashed var(--line);padding-top:8px;font-size:.88rem}
+.svc summary{cursor:pointer;color:var(--green);font-weight:600}
+.svc details ul{margin:8px 0 0;padding-left:18px;display:grid;gap:4px}
+.svc details li small{color:var(--muted)}
+.svc .btn{justify-self:start}
+
+.combos{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
+.combo{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px;display:grid;gap:12px;align-content:start}
+.combo .for{color:var(--muted);font-size:.9rem}
+.combo ol{margin:0;padding-left:20px;font-size:.9rem;display:grid;gap:3px}
+.combo ol li.free{color:var(--seal);font-weight:600}
+.gift{background:var(--seal-soft);color:var(--seal);border-radius:6px;padding:10px 12px;font-size:.88rem;font-weight:500}
+.combo .foot{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px;font-size:.88rem}
+
+.price-note{display:flex;flex-wrap:wrap;gap:10px 28px;font-size:.9rem;color:var(--muted);margin-bottom:16px}
+#priceTable{min-width:820px}
+#priceTable tr.grp td{background:var(--green-soft);color:var(--green);font-weight:600;font-size:.85rem}
+#priceTable td.num{font-family:var(--f-mono);color:var(--muted);width:48px}
+
+.steps{display:grid;grid-template-columns:repeat(4,1fr)}
+.step{padding-right:20px}
+.step .n{font-family:var(--f-display);font-weight:800;font-size:2.4rem;color:var(--green);line-height:1}
+.step .bar{height:2px;background:var(--line);margin:14px 0}
+.step h3{font-size:1rem}
+.step p{color:var(--muted);font-size:.92rem;margin-top:6px}
+.step-cta{display:inline-block;margin-top:10px;font-weight:600;font-size:.9rem;text-decoration:none;border-bottom:2px solid var(--seal);color:var(--ink);padding-bottom:1px}
+.step-cta:hover{color:var(--seal)}
+.tips{margin-top:32px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 20px;display:grid;gap:8px;font-size:.93rem}
+.tips ul{margin:0;padding-left:20px;display:grid;gap:4px;color:var(--muted)}
+.cta-band{margin-top:36px;background:var(--green);color:var(--on-green);border-radius:12px;padding:22px 26px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px 28px}
+.cta-band > div:first-child{display:grid;gap:4px;max-width:620px}
+.cta-band b{font-family:var(--f-display);font-size:1.25rem;font-weight:800;line-height:1.3}
+.cta-band span{opacity:.9;font-size:.95rem}
+.cta-band .acts{display:flex;flex-wrap:wrap;gap:10px}
+.cta-band .btn{background:var(--on-green);color:var(--green);border-color:var(--on-green)}
+.cta-band .btn.ghost{background:transparent;color:var(--on-green)}
+.cta-band .btn span{opacity:1;font-size:inherit}
+.sum-cta{font-size:.82rem;color:var(--muted);text-align:center}
+.sum-cta b{color:var(--ink)}
+
+.form-sec{background:var(--card);border-block:1px solid var(--line)}
+.builder{display:grid;grid-template-columns:1fr 340px;gap:36px;align-items:start}
+.part{display:grid;gap:16px;padding-bottom:30px;margin-bottom:30px;border-bottom:1px solid var(--line)}
+.part:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0}
+.part-h{display:flex;gap:14px;align-items:baseline}
+.part-h .n{font-family:var(--f-display);font-weight:800;font-size:1.6rem;color:var(--green);line-height:1}
+.part-h p{color:var(--muted);font-size:.9rem;margin-top:4px}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.row3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px}
+.pick-combos{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:999px;padding:7px 14px;font:500 .88rem var(--f-body);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--seal);border-color:var(--seal);color:#fff}
+.pick-svcs{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:6px 18px}
+.pick-svcs h4{grid-column:1/-1;margin:10px 0 2px;font:600 .72rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.cb{display:flex;gap:10px;align-items:flex-start;font-size:.92rem;cursor:pointer;padding:4px 0}
+.cb input{width:18px;height:18px;margin-top:3px;flex:none;accent-color:var(--green)}
+nav.links{gap:14px;font-size:.88rem}
+.lw-tools{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:16px}
+.lw-tools label{min-width:200px}
+.lw-tools select{background:var(--card)}
+.lawyers{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
+.lawyer{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px;display:grid;gap:12px;align-content:start}
+.lawyer .who{display:flex;gap:14px;align-items:center}
+.lawyer .ava{width:48px;height:48px;border-radius:50%;background:var(--green-soft);color:var(--green);display:grid;place-items:center;font:800 1.1rem var(--f-display);flex:none}
+.lawyer .org{color:var(--muted);font-size:.86rem}
+.lawyer .tags{display:flex;flex-wrap:wrap;gap:6px}
+.pkgs{display:grid;gap:6px}
+.pkg{display:grid;grid-template-columns:1fr auto;gap:4px 10px;align-items:center;border-top:1px dashed var(--line);padding-top:8px;font-size:.9rem}
+.pkg .pr{font:600 .88rem var(--f-mono);font-variant-numeric:tabular-nums}
+.pkg .btn{grid-column:1/-1;justify-self:start}
+.pay-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:24px;align-items:start}
+.bank{background:var(--green);color:var(--on-green);border-radius:12px;padding:22px;display:grid;gap:12px}
+.bank .k{font:600 .7rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;opacity:.8}
+.bank .v{font:700 1.15rem var(--f-display);word-break:break-word}
+.bank .v.mono{font-family:var(--f-mono);letter-spacing:.04em}
+.bank .row{display:flex;justify-content:space-between;align-items:flex-end;gap:10px}
+.bank .cp{background:transparent;border:1px solid var(--on-green);color:var(--on-green);border-radius:6px;padding:4px 10px;font:600 .8rem var(--f-body);cursor:pointer;flex:none}
+.pay-how{display:grid;gap:10px}
+.pay-how h3{font-size:1.02rem}
+.pay-how ul{margin:0;padding-left:20px;display:grid;gap:4px;font-size:.92rem;color:var(--muted)}
+.pay-how ul b{color:var(--ink)}
+.syntax{background:var(--card);border:2px dashed var(--green);border-radius:8px;padding:12px 14px;font-size:1.05rem;font-weight:600}
+.syntax.ex{border-style:solid;border-width:1px;border-color:var(--line);font-size:.95rem}
+.pay-warn{background:var(--seal-soft);color:var(--seal);border-radius:8px;padding:10px 12px;font-size:.88rem}
+.paybox{border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:10px;background:var(--paper)}
+.paybox .pl{display:grid;grid-template-columns:auto 1fr auto;gap:8px 12px;align-items:center;font-size:.92rem}
+.paybox .pl span:nth-child(3n+1){color:var(--muted)}
+.paybox .pl b{font-family:var(--f-mono)}
+.paybox img{width:220px;max-width:100%;border-radius:8px;background:#fff}
+.sub-h{font-weight:600;font-size:.95rem;margin-top:4px}
+.visit{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.vopt{display:block;cursor:pointer}
+.vopt input{position:absolute;opacity:0;width:1px;height:1px}
+.vopt span{display:grid;gap:4px;height:100%;border:1px solid var(--line);border-radius:8px;padding:12px 14px;background:var(--paper);font-size:.9rem}
+.vopt span b{font-size:.95rem}
+.vopt span small{color:var(--muted)}
+.vopt input:checked + span{border:2px solid var(--green);background:var(--green-soft)}
+.vopt input:focus-visible + span{outline:2px solid var(--seal);outline-offset:2px}
+.o-types{display:flex;flex-wrap:wrap;gap:8px}
+.o-tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;font-size:.85rem}
+.o-warn{background:var(--amber-soft);color:var(--amber);border-radius:6px;padding:10px 12px;font-size:.87rem}
+.o-list{display:grid;gap:8px}
+.ocard{display:block;cursor:pointer}
+.ocard input{position:absolute;opacity:0;width:1px;height:1px}
+.ocard > span{display:grid;grid-template-columns:1fr auto;gap:4px 12px;border:1px solid var(--line);border-radius:8px;padding:12px 14px;background:var(--card)}
+.ocard input:checked + span{border:2px solid var(--green);background:var(--green-soft)}
+.ocard input:focus-visible + span{outline:2px solid var(--seal);outline-offset:2px}
+.ocard .on{font-weight:600}
+.ocard .oa{font-size:.85rem;color:var(--muted);grid-column:1/-1}
+.ocard .od{font:600 .8rem var(--f-mono);color:var(--green);white-space:nowrap}
+.ocard .ol{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:14px;font-size:.84rem}
+.det-block{border:1px solid var(--line);border-radius:8px;padding:16px;display:grid;gap:12px;background:var(--paper)}
+.det-block input,.det-block select,.det-block textarea{background:var(--card)}
+.det-block h3{font-size:1rem}
+.empty{color:var(--muted);font-size:.92rem;border:1px dashed var(--line);border-radius:8px;padding:16px}
+.doc-row{display:grid;grid-template-columns:1fr auto;gap:8px 16px;padding:12px 0;border-bottom:1px solid var(--line)}
+.doc-row:last-child{border-bottom:0}
+.doc-row .nm{font-weight:600;font-size:.95rem}
+.doc-row .why{font-size:.83rem;color:var(--muted);margin-top:3px}
+.doc-row .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.doc-row .how{grid-column:1/-1;font-size:.83rem;background:var(--seal-soft);color:var(--seal);border-radius:6px;padding:8px 10px}
+.quick{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.85rem;color:var(--muted)}
+
+.summary{position:sticky;top:calc(env(safe-area-inset-top,0px) + 76px);background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:20px;display:grid;gap:14px}
+.summary h3{font-size:1.05rem}
+.sum-k{font:600 .7rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.sum-v{font-family:var(--f-display);font-weight:800;font-size:1.25rem;font-variant-numeric:tabular-nums}
+.summary ul{margin:4px 0 0;padding-left:18px;font-size:.87rem;display:grid;gap:3px}
+.summary .miss li{color:var(--seal)}
+.summary .small{font-size:.8rem;color:var(--muted)}
+.check{display:flex;gap:10px;align-items:flex-start;font-size:.86rem;color:var(--muted)}
+.check input{width:18px;height:18px;margin-top:3px;flex:none;accent-color:var(--green)}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.done{border:2px solid var(--green);border-radius:10px;padding:24px;display:grid;gap:14px}
+.done h3{color:var(--green);font-size:1.3rem}
+.done .code{font-family:var(--f-mono);font-size:1.4rem;font-weight:600}
+.done .acts{display:flex;flex-wrap:wrap;gap:10px}
+
+.faq{display:grid;gap:10px;max-width:820px}
+.faq details{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 18px}
+.faq summary{cursor:pointer;font-weight:600}
+.faq details p{color:var(--muted);margin-top:10px;font-size:.95rem}
+footer{border-top:1px solid var(--line);padding-block:32px 110px;font-size:.9rem;color:var(--muted)}
+footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:16px}
+.dock{position:fixed;left:0;right:0;bottom:0;z-index:20;padding:10px 16px calc(10px + env(safe-area-inset-bottom,0px));background:var(--card);border-top:1px solid var(--line);display:flex;gap:10px;justify-content:center}
+.dock .btn{flex:1;max-width:260px;padding:9px 14px}
+.dock .btn small{font-family:var(--f-mono);font-weight:400;font-size:.78rem;opacity:.85;white-space:nowrap}
+@media (max-width:600px){ .dock{gap:6px;padding-inline:10px} .dock .btn{flex-direction:column;gap:0;line-height:1.25;padding:7px 6px;font-size:.88rem;min-width:0} }
+
+@media (max-width:980px){
+  nav.links{display:none}
+  .hero .wrap,.builder,.pay-grid{grid-template-columns:1fr}
+  .summary{position:static}
+  .pains{grid-template-columns:1fr 1fr}
+  .steps{grid-template-columns:1fr 1fr;row-gap:28px}
+}
+@media (max-width:600px){
+  section{padding-block:46px}
+  .pains,.steps,.row2,.row3,.visit{grid-template-columns:1fr}
+  .doc-row{grid-template-columns:1fr}
+  header.top .btn{display:none}
+}
+</style>
+
+<div class="draft" id="draft" hidden>Bản chạy thử: giá dịch vụ đang cập nhật, phiếu gửi thử chỉ lưu trên trình duyệt này.</div>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand"><span class="mark">VMP</span><span data-cfg="BRAND"></span></div>
+    <nav class="links" aria-label="Mục lục">
+      <a href="#dichvu">Dịch vụ</a><a href="#combo">Combo</a><a href="#luatsu">Luật sư</a><a href="#banggia">Bảng giá</a><a href="#thanhtoan">Thanh toán</a><a href="#huongdan">Hướng dẫn</a><a href="#hoidap">Hỏi đáp</a>
+    </nav>
+    <a class="btn" href="#phieu">Kiểm tra hồ sơ miễn phí</a>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <div>
+      <p class="eyebrow">Vua Mặt Phố · Nhà đất · Sổ đỏ · Pháp lý</p>
+      <h1 style="margin-top:14px">Chúng tôi biến tài sản bạn đang nghĩ trong đầu <em>thành hiện thực.</em></h1>
+      <p class="lead">Mảnh đất chưa có sổ, căn nhà cha mẹ để lại, lô đất đang muốn mua... Anh chị chỉ cần 3 phút đánh dấu giấy tờ đang có. Trang sẽ báo ngay còn thiếu gì, cách bổ sung, chi phí và thời gian dự kiến.</p>
+      <div class="ctas">
+        <a class="btn" href="#phieu">Kiểm tra hồ sơ của tôi ngay</a>
+        <a class="btn ghost tel" data-tel="PHONE" href="#">Gọi <span data-cfg="PHONE"></span></a>
+      </div>
+      <div class="facts">
+        <div><b>3 phút</b>biết hồ sơ thiếu gì</div>
+        <div><b>24 giờ</b>gọi lại tư vấn miễn phí</div>
+        <div><b>0 đồng</b>tạo phiếu và tư vấn</div>
+      </div>
+    </div>
+    <div class="plot" aria-label="Hình minh họa trích đo một thửa đất">
+      <span class="stamp">ĐÃ KIỂM TRA</span>
+      <svg viewBox="0 0 320 220" role="img" aria-label="Sơ đồ thửa đất minh họa">
+        <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="var(--grid)" stroke-width="1"/></pattern></defs>
+        <rect width="320" height="220" fill="url(#g)"/>
+        <polygon points="40,150 70,40 215,55 250,175 120,195" fill="var(--seal-soft)" stroke="var(--seal)" stroke-width="2"/>
+        <polygon points="215,55 300,48 300,170 250,175" fill="none" stroke="var(--muted)" stroke-width="1" stroke-dasharray="4 4"/>
+        <g fill="var(--seal)"><circle cx="40" cy="150" r="3.5"/><circle cx="70" cy="40" r="3.5"/><circle cx="215" cy="55" r="3.5"/><circle cx="250" cy="175" r="3.5"/><circle cx="120" cy="195" r="3.5"/></g>
+        <g font-family="JetBrains Mono, monospace" font-size="10" fill="var(--muted)">
+          <text x="26" y="166">M1</text><text x="58" y="34">M2</text><text x="212" y="47">M3</text><text x="254" y="190">M4</text><text x="108" y="212">M5</text>
+          <text x="118" y="44">14,60 m</text><text x="258" y="112">Thửa 129</text>
+        </g>
+        <text x="145" y="120" text-anchor="middle" font-family="Bitter, serif" font-size="20" font-weight="800" fill="var(--seal)">128</text>
+        <text x="145" y="138" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="var(--ink)">ODT · 96,4 m²</text>
+        <text x="16" y="22" font-family="JetBrains Mono, monospace" font-size="11" fill="var(--ink)">N ↑</text>
+      </svg>
+      <div class="meta">
+        <div>Thửa đất số <b>128</b></div><div>Tờ bản đồ số <b>15</b></div>
+        <div>Diện tích <b>96,4 m²</b></div><div>Mục đích <b>ODT</b></div>
+      </div>
+      <p class="cap">Hình minh họa. Mỗi hồ sơ đều được kiểm tra ranh mốc, diện tích và quy hoạch trước khi nộp.</p>
+    </div>
+  </div>
+</div>
+
+<section id="trongtam" style="padding-top:8px">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Hai việc bên em làm nhiều nhất</p><h2>Thừa kế nhà đất và làm sổ đỏ</h2></div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:16px">
+      <a href="thuake.html" style="display:grid;gap:10px;background:var(--card);border:2px solid var(--seal);border-radius:12px;padding:22px;text-decoration:none;color:var(--ink)">
+        <span class="eyebrow" style="color:var(--seal)">Báo cáo riêng · 100.000đ</span>
+        <h3 style="font-size:1.35rem">Nhà đất bố mẹ để lại: ai được bao nhiêu, cần giấy tờ gì?</h3>
+        <p class="muted">Sơ đồ thừa kế, phần trăm từng người theo luật, giấy tờ còn thiếu và nơi xin, quy trình từng bước, thuế phí, kiểm tra di chúc. Được trừ vào phí nếu làm trọn gói.</p>
+        <span class="btn" style="justify-self:start">Xem báo cáo thừa kế</span>
+      </a>
+      <a href="sodo.html" style="display:grid;gap:10px;background:var(--card);border:2px solid var(--seal);border-radius:12px;padding:22px;text-decoration:none;color:var(--ink)">
+        <span class="eyebrow" style="color:var(--seal)">Báo cáo riêng · 100.000đ</span>
+        <h3 style="font-size:1.35rem">Cấp sổ lần đầu, chuyển vườn lên đất ở, sửa sổ</h3>
+        <p class="muted">Có cấp sổ được không, nộp bao nhiêu tiền sử dụng đất (mức 30/50/100% khi chuyển vườn), giấy tờ còn thiếu, quy trình, thời gian và giá nếu thuê dịch vụ. Đổi sổ, thêm tên, đính chính, mất sổ, đất rộng hơn sổ.</p>
+        <span class="btn" style="justify-self:start">Xem báo cáo sổ đỏ</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section style="padding-top:20px">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Anh chị đang gặp chuyện gì?</p><h2>Những việc làm người ta mất ăn mất ngủ</h2></div>
+    <div class="pains">
+      <div class="pain"><h3>Hồ sơ bị trả về</h3><p>Nộp lên lại thiếu giấy, sai mẫu, đi lại nhiều lần mà vẫn chưa xong.</p></div>
+      <div class="pain"><h3>Không biết hết bao nhiêu tiền</h3><p>Thuế, phí nhà nước và phí dịch vụ không ai nói rõ ngay từ đầu.</p></div>
+      <div class="pain"><h3>Đất cha mẹ để lại chưa chia</h3><p>Nhiều người thừa kế, có người ở xa, không ai đứng ra lo thủ tục.</p></div>
+      <div class="pain"><h3>Sợ mua phải đất vướng</h3><p>Đất dính quy hoạch, sai diện tích, đang tranh chấp mà người mua không biết.</p></div>
+    </div>
+    <div class="cta-band">
+      <div><b>Đừng để hồ sơ bị trả về thêm lần nữa.</b><span>Đánh dấu giấy tờ đang có, biết ngay còn thiếu gì trước khi đi nộp.</span></div>
+      <div class="acts"><a class="btn" href="#phieu">Kiểm tra giấy tờ của tôi</a><a class="btn ghost tel" data-tel="PHONE" href="#">Gọi <span data-cfg="PHONE"></span></a></div>
+    </div>
+  </div>
+</section>
+
+<section id="dichvu" style="padding-top:20px">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">18 dịch vụ · 6 nhóm</p><h2>Mỗi dịch vụ ghi rõ giấy tờ, thời gian, chi phí</h2><p>Mở "Giấy tờ cần chuẩn bị" để xem trước. Bấm "Tạo phiếu" để đánh dấu giấy tờ anh chị đã có và nhận tạm tính.</p></div>
+    <div class="groups" id="groups"></div>
+    <div class="cta-band">
+      <div><b>Chưa biết mình cần dịch vụ nào?</b><span>Gọi hoặc nhắn Zalo, mô tả tình trạng nhà đất. Bên em tư vấn miễn phí và chọn đúng việc cần làm.</span></div>
+      <div class="acts"><a class="btn tel" data-tel="PHONE" href="#">Gọi <span data-cfg="PHONE"></span></a><a class="btn ghost zalo" href="#" target="_blank" rel="noopener">Nhắn Zalo</a></div>
+    </div>
+  </div>
+</section>
+
+<section id="combo" style="padding-top:20px">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Combo trọn gói</p><h2>Làm theo gói, có dịch vụ được tặng</h2><p>Mỗi gói gom các bước hay đi cùng nhau. Dịch vụ tô đỏ là phần tặng, không tính phí dịch vụ.</p></div>
+    <div class="combos" id="combos"></div>
+  </div>
+</section>
+
+<section id="luatsu" style="padding-top:20px">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Dịch vụ 18 · Tư vấn trực tiếp với luật sư</p><h2>Chọn luật sư, chọn gói, đặt lịch trong 1 phút</h2><p>Các luật sư hợp tác với Vua Mặt Phố tại nhiều tỉnh, thành. Mỗi luật sư có bảng giá riêng. Anh chị chọn người hợp lĩnh vực và hình thức tư vấn tiện nhất.</p></div>
+    <div class="lw-tools">
+      <label class="f" for="lwProv">Tỉnh, thành phố<select id="lwProv"><option value="">Tất cả</option></select></label>
+      <label class="f" for="lwField">Lĩnh vực<select id="lwField"><option value="">Tất cả</option></select></label>
+    </div>
+    <div class="lawyers" id="lawyers"></div>
+    <div class="cta-band">
+      <div><b>Có việc gấp, cần hỏi luật sư ngay hôm nay?</b><span>Gọi hotline, bên em kết nối luật sư phù hợp và báo phí trước khi tư vấn.</span></div>
+      <div class="acts"><a class="btn tel" data-tel="PHONE" href="#">Gọi <span data-cfg="PHONE"></span></a><a class="btn ghost zalo" href="#" target="_blank" rel="noopener">Nhắn Zalo</a></div>
+    </div>
+  </div>
+</section>
+
+<section id="banggia" style="padding-top:20px">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Bảng giá dự kiến</p><h2>Phí dịch vụ và thời gian cho từng việc</h2><p>Phí dịch vụ là tiền công của bên em. Thuế, phí và lệ phí nộp cho nhà nước tính riêng theo quy định và có biên lai.</p></div>
+    <div class="price-note">
+      <span><span class="tbd">Liên hệ</span> là dịch vụ chưa công bố giá</span>
+      <span>Thời gian tính từ khi đủ giấy tờ, theo ngày làm việc.</span>
+    </div>
+    <div class="table-box">
+      <table id="priceTable">
+        <thead><tr><th>Số</th><th>Dịch vụ</th><th>Phí thấp nhất</th><th>Phí cao nhất</th><th>Thời gian dự kiến</th><th>Chưa bao gồm</th></tr></thead>
+        <tbody id="priceBody"></tbody>
+      </table>
+    </div>
+    <div class="cta-band">
+      <div><b>Muốn biết chính xác hồ sơ của mình hết bao nhiêu?</b><span>Tạo phiếu hồ sơ, trang tự cộng phí các dịch vụ anh chị chọn và trừ phần được tặng trong combo.</span></div>
+      <div class="acts"><a class="btn" href="#phieu">Tính chi phí cho hồ sơ của tôi</a></div>
+    </div>
+  </div>
+</section>
+
+<section id="thanhtoan" style="padding-top:20px">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Thanh toán</p><h2>Chuyển khoản đúng tài khoản, ghi đúng nội dung</h2><p>Mọi khoản phí chỉ chuyển vào tài khoản dưới đây. Ghi đúng cú pháp để bên em khớp tiền với hồ sơ của anh chị ngay.</p></div>
+    <div class="pay-grid">
+      <div class="bank" id="bankCard"></div>
+      <div class="pay-how">
+        <h3>Cú pháp nội dung chuyển khoản</h3>
+        <div class="syntax"><span class="mono" id="syntaxTxt"></span></div>
+        <p class="muted" style="font-size:.9rem">Ví dụ: hồ sơ <b class="mono">HS260927-4821</b>, số điện thoại <b class="mono">0912345678</b> thì ghi:</p>
+        <div class="syntax ex"><span class="mono" id="syntaxEx"></span></div>
+        <h3 style="margin-top:6px">Khi nào cần chuyển?</h3>
+        <ul>
+          <li><b>Tư vấn luật sư (dịch vụ 18):</b> chuyển phí gói đã chọn sau khi gửi phiếu để giữ lịch.</li>
+          <li><b>Các dịch vụ khác:</b> chuyển theo báo giá chính thức và hợp đồng, sau khi bên em đã gọi tư vấn.</li>
+          <li>Mã hồ sơ hiện ngay sau khi anh chị gửi phiếu, kèm mã QR đã điền sẵn số tiền và nội dung.</li>
+        </ul>
+        <p class="pay-warn">Vua Mặt Phố không bao giờ yêu cầu chuyển tiền vào tài khoản cá nhân khác hoặc qua người lạ. Có nghi ngờ, gọi hotline <b data-cfg="PHONE"></b> để xác minh.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="huongdan" style="padding-top:20px">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Hướng dẫn sử dụng dịch vụ</p><h2>Làm theo 4 bước, việc còn lại để Vua Mặt Phố lo</h2><p>Anh chị chỉ cần làm bước 1 ngay bây giờ. Các bước sau bên em hướng dẫn từng việc qua điện thoại và Zalo.</p></div>
+    <div class="steps">
+      <div class="step"><div class="n">1</div><div class="bar"></div><h3>Tạo phiếu hồ sơ</h3><p>Chọn dịch vụ hoặc combo, điền tên và số điện thoại, đánh dấu giấy tờ đang có. Mất khoảng 3 phút.</p><a class="step-cta" href="#phieu">Bắt đầu tạo phiếu →</a></div>
+      <div class="step"><div class="n">2</div><div class="bar"></div><h3>Nghe máy trong 24 giờ</h3><p>Bên em gọi lại để xác nhận giấy tờ, báo giá chính thức và hẹn lịch. Anh chị để ý máy từ số hotline.</p><a class="step-cta tel" data-tel="PHONE" href="#">Lưu số <span data-cfg="PHONE"></span> →</a></div>
+      <div class="step"><div class="n">3</div><div class="bar"></div><h3>Bổ sung giấy tờ, ký hợp đồng</h3><p>Làm theo danh sách "Cần bổ sung" trên phiếu. Ký hợp đồng dịch vụ, giao giấy tờ có biên nhận.</p><a class="step-cta zalo" href="#" target="_blank" rel="noopener">Gửi ảnh giấy tờ qua Zalo →</a></div>
+      <div class="step"><div class="n">4</div><div class="bar"></div><h3>Nhận kết quả</h3><p>Bên em theo dõi hồ sơ, báo tiến độ qua Zalo và bàn giao kết quả tận tay.</p><a class="step-cta" href="#combo">Xem combo tiết kiệm →</a></div>
+    </div>
+    <div class="tips">
+      <div><b>Mẹo để hồ sơ đi nhanh</b></div>
+      <ul>
+        <li>Chụp rõ cả trang 1 đến trang 4 của sổ đỏ, gửi trước qua Zalo để bên em kiểm tra từ xa.</li>
+        <li>Người đứng tên và vợ hoặc chồng nên cùng có mặt hôm ký. Ai ở xa thì làm ủy quyền trước.</li>
+        <li>Giữ lại mã hồ sơ sau khi gửi phiếu. Gọi hotline và đọc mã là bên em tra ngay.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="phieu" class="form-sec">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Phiếu hồ sơ miễn phí</p><h2>Kiểm tra hồ sơ của anh chị ngay bây giờ</h2><p>Làm lần lượt 5 phần bên dưới. Bảng tạm tính cập nhật theo từng lựa chọn. Chưa đủ giấy tờ anh chị vẫn gửi phiếu được, bên em sẽ hướng dẫn bổ sung.</p></div>
+
+    <div class="builder" id="builder">
+      <form id="leadForm" novalidate>
+        <div class="part">
+          <div class="part-h"><span class="n">1</span><div><h3>Chọn dịch vụ</h3><p>Chọn một combo hoặc tự chọn một hay nhiều dịch vụ.</p></div></div>
+          <div class="pick-combos" id="pickCombos" role="group" aria-label="Combo"></div>
+          <div class="pick-svcs" id="pickSvcs"></div>
+          <span class="err" id="e_services"></span>
+        </div>
+
+        <div class="part">
+          <div class="part-h"><span class="n">2</span><div><h3>Thông tin chung</h3><p>Để bên em liên hệ và biết nhà đất ở đâu.</p></div></div>
+          <div class="row2">
+            <label class="f" for="f_name">Họ và tên<input id="f_name" autocomplete="name" placeholder="Nguyễn Văn An"><span class="err" id="e_name"></span></label>
+            <label class="f" for="f_phone">Số điện thoại (có Zalo càng tốt)<input id="f_phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="0912 345 678"><span class="err" id="e_phone"></span></label>
+          </div>
+          <label class="f" for="f_email">Email <span class="hint">Nhận bản phiếu hồ sơ và danh sách giấy tờ qua email</span><input id="f_email" type="email" autocomplete="email" placeholder="ten@gmail.com"><span class="err" id="e_email"></span></label>
+          <p class="sub-h">Nhà đất cần làm dịch vụ ở đâu?</p>
+          <div class="row3">
+            <label class="f" for="f_province">Tỉnh, thành phố<select id="f_province"><option value="">Chọn tỉnh, thành phố</option></select><span class="err" id="e_province"></span></label>
+            <label class="f" for="f_ward">Xã, phường<input id="f_ward" placeholder="Phường Long Biên"></label>
+            <label class="f" for="f_address">Thôn, đường, số nhà<input id="f_address" placeholder="Số 12 ngõ 5 phố Ngọc Lâm"></label>
+          </div>
+          <label class="f" for="f_live">Anh chị đang sống ở tỉnh nào? <span class="hint">Nếu khác nơi có nhà đất, để bên em xếp văn phòng gần anh chị</span><select id="f_live"><option value="">Cùng tỉnh với nhà đất</option></select></label>
+          <label class="f" for="f_note">Anh chị cần làm gì, đang vướng ở đâu <span class="hint">Không bắt buộc</span><textarea id="f_note" placeholder="Đất bố mẹ để lại, 3 anh em, sổ đứng tên bố. Em trai đang ở nước ngoài."></textarea></label>
+          <label class="f" for="f_time">Thời gian tiện nghe điện thoại<select id="f_time"><option>Bất kỳ lúc nào</option><option>Buổi sáng (8h–11h)</option><option>Buổi chiều (13h–17h)</option><option>Buổi tối (19h–21h)</option></select></label>
+        </div>
+
+        <div class="part">
+          <div class="part-h"><span class="n">3</span><div><h3>Cách nộp hồ sơ</h3><p>Chọn cách tiện nhất. Muốn tự mang giấy tờ đến thì chọn văn phòng gần anh chị.</p></div></div>
+          <div class="visit" id="visit" role="radiogroup" aria-label="Cách nộp hồ sơ"></div>
+          <div id="officeBox" hidden style="display:grid;gap:12px">
+            <div class="row2">
+              <label class="f" for="o_province">Tỉnh muốn đến nộp<select id="o_province"></select></label>
+              <label class="f" for="o_time">Ngày giờ muốn đến <span class="hint">Không bắt buộc</span><input id="o_time" type="datetime-local"></label>
+            </div>
+            <div class="o-types" id="oTypes" role="group" aria-label="Loại văn phòng"></div>
+            <div class="o-tools"><button type="button" class="btn ghost small" id="nearMe">Tìm văn phòng gần tôi</button><span class="muted" id="nearMsg"></span></div>
+            <p class="o-warn" id="oWarn" hidden></p>
+            <div id="officeList" class="o-list"></div>
+          </div>
+        </div>
+
+        <div class="part">
+          <div class="part-h"><span class="n">4</span><div><h3>Thông tin chi tiết theo dịch vụ</h3><p>Điền được bao nhiêu thì điền, giúp báo giá sát hơn.</p></div></div>
+          <div id="details" style="display:grid;gap:14px"><p class="empty">Chọn dịch vụ ở bước 1 để hiện các câu hỏi chi tiết.</p></div>
+        </div>
+
+        <div class="part">
+          <div class="part-h"><span class="n">5</span><div><h3>Giấy tờ anh chị đang có</h3><p>Đánh dấu từng giấy tờ. Giấy tờ nào chưa có sẽ hiện ngay cách bổ sung.</p></div></div>
+          <div class="quick" id="quick" hidden><span>Đánh nhanh:</span><button type="button" class="btn ghost small" data-all="co">Tất cả đã có</button><button type="button" class="btn ghost small" data-all="">Xóa lựa chọn</button></div>
+          <div id="docs"><p class="empty">Chọn dịch vụ ở bước 1 để hiện danh sách giấy tờ.</p></div>
+          <input class="hp" id="f_web" tabindex="-1" autocomplete="off" aria-hidden="true">
+        </div>
+      </form>
+
+      <aside class="summary" id="summary" aria-live="polite">
+        <h3>Tạm tính hồ sơ</h3>
+        <div><div class="sum-k">Dịch vụ</div><ul id="sSvcs"><li class="muted" style="list-style:none;margin-left:-18px">Chưa chọn dịch vụ</li></ul></div>
+        <div id="sGift" class="gift" hidden></div>
+        <div><div class="sum-k">Phí dịch vụ dự kiến</div><div class="sum-v" id="sPrice">—</div><div class="small" id="sPriceNote"></div></div>
+        <div><div class="sum-k">Thời gian dự kiến</div><div class="sum-v" id="sDays">—</div><div class="small">Tính từ khi đủ giấy tờ.</div></div>
+        <div><div class="sum-k">Giấy tờ bắt buộc</div><div style="display:flex;align-items:center;gap:10px;margin-top:6px"><div class="meter" style="flex:1"><i id="sMeter" style="width:0"></i></div><span class="mono" id="sDocs">0/0</span></div></div>
+        <div id="sVisitWrap" hidden><div class="sum-k">Nộp hồ sơ</div><div id="sVisit" style="font-size:.88rem"></div></div>
+        <div id="sMissWrap" hidden><div class="sum-k">Cần bổ sung</div><ul class="miss" id="sMiss"></ul></div>
+        <label class="check" for="f_consent"><input id="f_consent" type="checkbox" checked> Đồng ý nhận email tư vấn và thông tin hữu ích về thủ tục nhà đất. Hủy bất cứ lúc nào.</label>
+        <button class="btn" type="submit" form="leadForm" id="submitBtn">Gửi phiếu, nhận tư vấn miễn phí</button>
+        <span class="err" id="e_submit"></span>
+        <p class="sum-cta">Gửi phiếu không mất phí, không ràng buộc.<br>Cần gấp? Gọi <b data-cfg="PHONE"></b> hoặc <b data-cfg="PHONE2"></b></p>
+      </aside>
+    </div>
+
+    <div class="done" id="done" hidden>
+      <p class="eyebrow">Đã nhận phiếu hồ sơ</p>
+      <h3>Cảm ơn <span id="dName"></span>, bên em sẽ gọi lại trong 24 giờ.</h3>
+      <div>Mã hồ sơ của anh chị: <span class="code" id="dCode"></span></div>
+      <div id="dSummary" style="display:grid;gap:8px"></div>
+      <div class="paybox" id="dPay"></div>
+      <p class="muted" style="font-size:.88rem">Anh chị giữ mã hồ sơ để tra cứu khi gọi cho bên em. Nếu có email, phiếu hồ sơ sẽ được gửi vào hộp thư.</p>
+      <div class="acts">
+        <button class="btn" type="button" id="dDownload">Tải phiếu hồ sơ</button>
+        <a class="btn ghost zalo" href="#" target="_blank" rel="noopener">Gửi ảnh giấy tờ qua Zalo</a>
+        <button class="btn ghost" type="button" id="dAgain">Tạo phiếu khác</button>
+      </div>
+      <p class="muted" style="font-size:.88rem">Muốn làm nhanh hơn? Chụp ảnh giấy tờ đang có, gửi Zalo <b data-cfg="ZALO"></b> kèm mã hồ sơ.</p>
+    </div>
+  </div>
+</section>
+
+<section id="hoidap">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Hỏi đáp</p><h2>Câu hỏi hay gặp</h2></div>
+    <div class="faq">
+      <details><summary>Tư vấn và tạo phiếu hồ sơ có mất phí không?</summary><p>Không. Anh chị chỉ trả phí khi đồng ý báo giá chính thức và ký hợp đồng dịch vụ.</p></details>
+      <details><summary>Giá trên phiếu đã là giá cuối cùng chưa?</summary><p>Đó là khoảng giá dự kiến. Sau khi xem giấy tờ thực tế, bên em báo giá chính thức bằng văn bản trước khi làm.</p></details>
+      <details><summary>Phí dịch vụ đã gồm thuế, lệ phí nhà nước chưa?</summary><p>Chưa. Thuế, phí, lệ phí nộp vào ngân sách tính riêng theo quy định, có biên lai. Bên em báo trước số tiền dự kiến để anh chị chủ động.</p></details>
+      <details><summary>Thừa kế giữa bố mẹ và con có phải nộp thuế không?</summary><p>Thừa kế, tặng cho giữa vợ chồng, cha mẹ với con, ông bà với cháu, anh chị em ruột thường được miễn thuế thu nhập cá nhân và lệ phí trước bạ. Bên em kiểm tra hồ sơ cụ thể để xác nhận.</p></details>
+      <details><summary>Tôi ở xa, không về được thì có làm được không?</summary><p>Được. Nhiều việc làm qua văn bản ủy quyền có công chứng. Bên em hướng dẫn cách lập ủy quyền phù hợp với từng thủ tục.</p></details>
+      <details><summary>Hồ sơ của tôi có được chuyển cho bên khác không?</summary><p>Một số việc như đo đạc, công chứng, thừa phát lại, luật sư do đơn vị đối tác thực hiện. Bên em chỉ chuyển phần thông tin cần cho đúng việc đó, và báo trước cho anh chị.</p></details>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div><b style="color:var(--ink)" data-cfg="BRAND"></b><br><i data-cfg="SLOGAN"></i><br>Môi giới, tư vấn thủ tục nhà đất · Địa chỉ: <span data-cfg="ADDRESS"></span></div>
+    <div>Hotline, Zalo: <b style="color:var(--ink)" data-cfg="PHONE"></b> – <b style="color:var(--ink)" data-cfg="PHONE2"></b><br>Email: <span data-cfg="EMAIL"></span></div>
+  </div>
+</footer>
+
+<div class="dock">
+  <a class="btn tel" data-tel="PHONE" href="#">Gọi <small data-cfg="PHONE"></small></a>
+  <a class="btn ghost zalo" href="#" target="_blank" rel="noopener">Zalo</a>
+  <a class="btn ghost" href="#phieu">Kiểm tra hồ sơ</a>
+</div>
+
+<script src="data.js"></script>
+<script src="common.js"></script>
+<script src="people.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+document.querySelectorAll("[data-cfg]").forEach(el => el.textContent = CONFIG[el.dataset.cfg]);
+document.querySelectorAll("a.tel").forEach(a => a.href = "tel:" + CONFIG[a.dataset.tel || "PHONE"].replace(/\D/g, ""));
+document.querySelectorAll("a.zalo").forEach(a => a.href = "https://zalo.me/" + CONFIG.ZALO.replace(/\D/g, ""));
+$("draft").hidden = !!CONFIG.ENDPOINT;
+
+/* ---------- Danh mục dịch vụ, combo, bảng giá ---------- */
+let gHtml = "", pHtml = "", sHtml = "";
+GROUPS.forEach((gname, gi) => {
+  const list = SERVICES.filter(s => s.g === gi);
+  gHtml += `<div><div class="group-title"><h3>${esc(gname)}</h3><span>Nhóm ${gi + 1} · ${list.length} dịch vụ</span></div><div class="svc-grid">`;
+  pHtml += `<tr class="grp"><td colspan="6">Nhóm ${gi + 1}: ${esc(gname)}</td></tr>`;
+  sHtml += `<h4>${esc(gname)}</h4>`;
+  list.forEach(s => {
+    const p = PRICE[s.no] || {};
+    const docs = s.docs.map(([id, need, note]) => `<li>${esc(DOCS[id].name)}${note ? ` <small>(${esc(note)})</small>` : ""} ${need === 1 ? "" : "<small>· tùy trường hợp</small>"}</li>`).join("");
+    gHtml += `<article class="svc"><span class="no">Dịch vụ ${pad2(s.no)}</span><h3>${esc(s.title)}</h3><p>${esc(s.desc)}</p>
+      <dl class="kv"><dt>Thời gian</dt><dd>${daysText(s.days)}</dd><dt>Phí dịch vụ</dt><dd>${esc(priceText(p.min, p.max))}</dd></dl>
+      <details><summary>Giấy tờ cần chuẩn bị (${s.docs.length})</summary><ul>${docs}</ul></details>
+      <button type="button" class="btn ghost small" data-pick="${s.no}">Tạo phiếu cho dịch vụ này</button></article>`;
+    pHtml += `<tr><td class="num">${pad2(s.no)}</td><td>${esc(s.title)}</td><td class="mono">${p.min != null ? money(p.min) : '<span class="tbd">Liên hệ</span>'}</td><td class="mono">${p.max != null ? money(p.max) : '<span class="tbd">Liên hệ</span>'}</td><td class="mono">${daysText(s.days)}</td><td class="muted">${esc(s.extra)}</td></tr>`;
+    sHtml += `<label class="cb" for="svc_${s.no}"><input type="checkbox" id="svc_${s.no}" value="${s.no}"> <span>${pad2(s.no)}. ${esc(s.title)}</span></label>`;
+  });
+  gHtml += `</div></div>`;
+});
+$("groups").innerHTML = gHtml;
+$("priceBody").innerHTML = pHtml;
+$("pickSvcs").innerHTML = sHtml;
+
+$("combos").innerHTML = COMBOS.map(c => {
+  const ev = evaluate({services: c.services, combo: c.id});
+  const days = ev.days[1];
+  return `<article class="combo"><span class="eyebrow">Combo ${esc(c.id)}</span><h3>${esc(c.name)}</h3><p class="for">${esc(c.for)}</p>
+    <ol>${c.services.map(no => `<li class="${no === c.free ? "free" : ""}">${esc(SVC[no].title)}${no === c.free ? " (tặng)" : ""}</li>`).join("")}</ol>
+    <div class="gift">${esc(c.gift)}${c.discount ? ` · Giảm thêm ${c.discount}% phí dịch vụ` : ""}</div>
+    <div class="foot"><span>Phí dự kiến: <b>${esc(priceText(ev.price.min, ev.price.max))}</b><br><span class="muted">Tối đa khoảng ${days} ngày</span></span><button type="button" class="btn small" data-combo="${c.id}">Chọn combo này</button></div></article>`;
+}).join("");
+$("pickCombos").innerHTML = COMBOS.map(c => `<button type="button" class="chip" aria-pressed="false" data-chip="${c.id}">${esc(c.name)}</button>`).join("");
+
+/* ---------- Trạng thái phiếu ---------- */
+const state = {services: [], combo: null, details: {}, docs: {}, family: famNew(), parties: {}};
+let lastRecord = null;
+
+function setServices(list, combo){
+  state.services = [...new Set(list)].map(Number).sort((a, b) => a - b);
+  state.combo = combo || null;
+  SERVICES.forEach(s => $("svc_" + s.no).checked = state.services.includes(s.no));
+  document.querySelectorAll("[data-chip]").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.chip === state.combo)));
+  $("e_services").textContent = "";
+  renderDetails(); renderDocs(); renderSummary();
+}
+
+$("pickSvcs").addEventListener("change", () => {
+  const list = SERVICES.filter(s => $("svc_" + s.no).checked).map(s => s.no);
+  const keep = state.combo && COMBO[state.combo].services.every(no => list.includes(no)) ? state.combo : null;
+  setServices(list, keep);
+});
+$("pickCombos").addEventListener("click", e => {
+  const b = e.target.closest("[data-chip]"); if (!b) return;
+  if (state.combo === b.dataset.chip) setServices([], null);
+  else setServices(COMBO[b.dataset.chip].services, b.dataset.chip);
+});
+
+function goForm(){
+  $("phieu").scrollIntoView({behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth"});
+}
+document.addEventListener("click", e => {
+  const p = e.target.closest("[data-pick]"), c = e.target.closest("[data-combo]");
+  if (p){ const no = Number(p.dataset.pick); setServices(state.services.includes(no) ? state.services : [...state.services, no], state.combo); goForm(); }
+  if (c){ setServices(COMBO[c.dataset.combo].services, c.dataset.combo); goForm(); }
+});
+
+/* ---------- Tỉnh và cách nộp hồ sơ ---------- */
+const provOpts = PROVINCES.map(p => `<option>${esc(p)}</option>`).join("");
+$("f_province").insertAdjacentHTML("beforeend", provOpts);
+$("f_live").insertAdjacentHTML("beforeend", provOpts);
+$("o_province").innerHTML = provOpts;
+const vo = {visit: "", oType: "", office: "", me: null};
+
+$("visit").innerHTML = [
+  ["zalo", "Gửi ảnh qua Zalo trước", "Nhanh nhất. Bên em kiểm tra từ xa rồi mới hẹn."],
+  ["home", "Nhân viên đến tận nơi", "Bên em cử người đến nhà nhận giấy tờ."],
+  ["office", "Tôi tự đến văn phòng", "Chọn văn phòng công chứng, luật sư... gần anh chị."]
+].map(([v, t, d]) => `<label class="vopt"><input type="radio" name="visit" value="${v}"><span><b>${t}</b><small>${d}</small></span></label>`).join("");
+
+function suggestType(){
+  const hit = Object.entries(OFFICE_TYPES).filter(([k, t]) => k !== "vmp" && t.svc.some(no => state.services.includes(no)));
+  return hit.length ? hit[0][0] : "";
+}
+function syncOfficeProvince(){
+  const p = $("f_live").value || $("f_province").value;
+  if (p && !vo.officeTouched) $("o_province").value = p;
+}
+["f_province", "f_live"].forEach(id => $(id).addEventListener("change", () => { clearErr("province"); syncOfficeProvince(); renderOffices(); renderSummary(); }));
+$("o_province").addEventListener("change", () => { vo.officeTouched = true; vo.office = ""; renderOffices(); renderSummary(); });
+$("o_time").addEventListener("input", renderSummary);
+
+$("visit").addEventListener("change", e => {
+  vo.visit = e.target.value;
+  $("officeBox").hidden = vo.visit !== "office";
+  if (vo.visit === "office"){ if (!vo.oType) vo.oType = suggestType(); syncOfficeProvince(); renderOffices(); }
+  renderSummary();
+});
+
+function renderOffices(){
+  if (vo.visit !== "office") return;
+  const prov = $("o_province").value;
+  const inProv = OFFICES.filter(o => o.province === prov);
+  const types = Object.keys(OFFICE_TYPES).filter(k => inProv.some(o => o.type === k));
+  $("oTypes").innerHTML = `<button type="button" class="chip" aria-pressed="${!vo.oType}" data-otype="">Tất cả</button>` +
+    Object.entries(OFFICE_TYPES).map(([k, t]) => `<button type="button" class="chip" aria-pressed="${vo.oType === k}" data-otype="${k}"${types.includes(k) ? "" : ' style="opacity:.55"'}>${esc(t.name)}</button>`).join("");
+
+  let list = inProv.filter(o => !vo.oType || o.type === vo.oType);
+  if (vo.me) list = list.map(o => ({...o, d: distKm(vo.me, o)})).sort((a, b) => (a.d ?? 1e9) - (b.d ?? 1e9));
+
+  const land = $("f_province").value;
+  const warn = $("oWarn");
+  warn.hidden = !(vo.oType === "cc" && land && prov !== land);
+  warn.textContent = `Lưu ý: hợp đồng mua bán, tặng cho nhà đất thường phải công chứng tại văn phòng công chứng thuộc tỉnh có nhà đất (${land}). Văn phòng ở ${prov} vẫn nhận được di chúc, ủy quyền, văn bản từ chối nhận di sản. Bên em sẽ tư vấn khi gọi lại.`;
+
+  if (!list.length){
+    vo.office = "";
+    $("officeList").innerHTML = `<p class="empty">Chưa có ${vo.oType ? esc(OFFICE_TYPES[vo.oType].name.toLowerCase()) : "văn phòng"} liên kết tại ${esc(prov)}. Anh chị cứ gửi phiếu, bên em sẽ gọi lại sắp xếp văn phòng gần nhất.</p>`;
+    return;
+  }
+  $("officeList").innerHTML = list.map(o => `<label class="ocard"><input type="radio" name="office" value="${esc(o.id)}"${vo.office === o.id ? " checked" : ""}><span>
+      <span class="on">${esc(o.name)}</span><span class="od">${o.d != null ? "~" + o.d.toFixed(1) + " km" : ""}</span>
+      <span class="oa">${esc(OFFICE_TYPES[o.type].name)} · ${esc(o.address)} · ${esc(o.hours)}</span>
+      <span class="ol"><a href="${mapLink(o)}" target="_blank" rel="noopener">Chỉ đường</a>${o.phone ? `<span class="mono">ĐT ${esc(o.phone)}</span>` : ""}</span></span></label>`).join("");
+}
+$("oTypes").addEventListener("click", e => { const b = e.target.closest("[data-otype]"); if (!b) return; vo.oType = b.dataset.otype; renderOffices(); });
+$("officeList").addEventListener("change", e => { if (e.target.name === "office"){ vo.office = e.target.value; renderSummary(); } });
+
+$("nearMe").addEventListener("click", () => {
+  const msg = $("nearMsg");
+  if (!navigator.geolocation){ msg.textContent = "Điện thoại không hỗ trợ lấy vị trí. Anh chị chọn tỉnh ở trên."; return; }
+  msg.textContent = "Đang lấy vị trí...";
+  navigator.geolocation.getCurrentPosition(p => {
+    vo.me = {lat: p.coords.latitude, lng: p.coords.longitude};
+    const near = OFFICES.filter(o => o.lat != null).map(o => ({o, d: distKm(vo.me, o)})).sort((a, b) => a.d - b.d)[0];
+    if (near && near.d < 80){ $("o_province").value = near.o.province; vo.officeTouched = true; }
+    msg.textContent = near ? "Đã sắp xếp văn phòng theo khoảng cách." : "Đã lấy vị trí. Các văn phòng chưa có tọa độ nên vẫn xếp theo danh sách.";
+    renderOffices();
+  }, () => { msg.textContent = "Chưa lấy được vị trí. Anh chị cho phép vị trí hoặc chọn tỉnh ở trên."; }, {timeout: 10000});
+});
+
+/* ---------- Bước 4: thông tin chi tiết ---------- */
+function renderDetails(){
+  const box = $("details");
+  if (!state.services.length){ box.innerHTML = '<p class="empty">Chọn dịch vụ ở bước 1 để hiện các câu hỏi chi tiết.</p>'; return; }
+  box.innerHTML = state.services.map(no => {
+    const s = SVC[no], d = state.details[no] || {};
+    const inputs = s.fields.map(([id, label, type, opt]) => {
+      const fid = `d_${no}_${id}`, v = esc(d[id] || "");
+      let ctl;
+      if (type === "select") ctl = `<select id="${fid}" data-s="${no}" data-f="${id}"><option value="">Chọn</option>${opt.map(o => `<option${d[id] === o ? " selected" : ""}>${esc(o)}</option>`).join("")}</select>`;
+      else if (type === "textarea") ctl = `<textarea id="${fid}" data-s="${no}" data-f="${id}" placeholder="${esc(opt)}">${v}</textarea>`;
+      else ctl = `<input id="${fid}" data-s="${no}" data-f="${id}" type="${type === "number" ? "text" : type}" ${type === "number" ? 'inputmode="decimal"' : ""} placeholder="${esc(opt)}" value="${v}">`;
+      return `<label class="f" for="${fid}"${type === "textarea" ? ' style="grid-column:1/-1"' : ""}>${esc(label)}${ctl}</label>`;
+    }).join("");
+    let law = "";
+    if (no === 18){
+      const l = LAWYER[state.lawyer];
+      law = `<div class="row2">
+        <label class="f" for="d_lawyer">Chọn luật sư<select id="d_lawyer"><option value="">Để bên em chọn luật sư phù hợp</option>${LAWYERS.map(x => `<option value="${x.id}"${state.lawyer === x.id ? " selected" : ""}>${esc(x.name)} · ${esc(x.province)}</option>`).join("")}</select></label>
+        <label class="f" for="d_pkg">Gói tư vấn<select id="d_pkg"${l ? "" : " disabled"}><option value="">${l ? "Chọn gói" : "Chọn luật sư trước"}</option>${l ? l.packages.map((p, i) => `<option value="${i}"${String(state.lawyerPkg) === String(i) ? " selected" : ""}>${esc(p.name)} · ${p.price != null ? money(p.price) : "giá liên hệ"}</option>`).join("") : ""}</select></label></div>`;
+    }
+    const fam = no === 1 ? `<div class="sub-h">Sơ đồ thừa kế</div><p class="muted" style="font-size:.88rem">Điền lần lượt bố mẹ, ông bà, các con. Trang tự vẽ sơ đồ, xác định ai được hưởng và giấy tờ của từng người.</p><div id="famBox" style="display:grid;gap:12px"></div>` : "";
+    return `<div class="det-block"><h3>${pad2(no)}. ${esc(s.title)}</h3>${law}<div class="row2">${inputs}</div>${fam}</div>`;
+  }).join("") + (partyRoles(state.services).length ? `<div class="det-block"><h3>Người liên quan</h3><p class="muted" style="font-size:.88rem">Ghi những người sẽ ký hoặc liên quan đến hồ sơ. Mỗi người cần giấy tờ riêng. Chưa có giấy nào thì chọn lý do, bên em hướng dẫn bổ sung.</p><div id="partyInner"></div></div>` : "");
+  renderFam(); renderParties();
+}
+$("details").addEventListener("input", e => {
+  const t = e.target; if (!t.dataset.s) return;
+  (state.details[t.dataset.s] ||= {})[t.dataset.f] = t.value;
+});
+$("details").addEventListener("change", e => {
+  if (e.target.id === "d_lawyer"){ state.lawyer = e.target.value; state.lawyerPkg = ""; renderDetails(); renderSummary(); $("d_pkg").focus(); }
+  if (e.target.id === "d_pkg"){ state.lawyerPkg = e.target.value; renderSummary(); }
+});
+
+/* ---------- Sơ đồ thừa kế & người liên quan ---------- */
+function keepFocus(fn){
+  const a = document.activeElement, id = a && a.id, nm = a && a.type === "radio" ? [a.name, a.value] : null;
+  fn();
+  const el = id ? document.getElementById(id) : nm ? document.querySelector(`input[name="${nm[0]}"][value="${nm[1]}"]`) : null;
+  if (el) el.focus({preventScroll:true});
+}
+function renderFam(){ const b = $("famBox"); if (b) keepFocus(() => b.innerHTML = famFormHtml(state.family)); }
+function renderTreeOnly(){ const t = $("famTree"); if (t){ const ana = famAnalyze(state.family); t.innerHTML = famTreeHtml(state.family, ana) + famResultHtml(state.family, ana); } }
+function renderParties(){
+  const b = $("partyInner"); if (!b) return;
+  const roles = partyRoles(state.services);
+  roles.forEach(ro => { if (!state.parties[ro.k]) state.parties[ro.k] = ro.o.neighbor || ro.o.nodocs ? [] : [partyNew()]; });
+  keepFocus(() => b.innerHTML = partyFormHtml(state.parties, roles));
+}
+function qTarget(el){
+  const ref = el.dataset.q || el.dataset.qs; if (!ref) return null;
+  const [k, i] = ref.split("|"), p = (state.parties[k] || [])[+i];
+  return p ? (el.dataset.qs ? p.spouse : p) : null;
+}
+$("details").addEventListener("input", e => {
+  const t = e.target;
+  if (t.dataset.fp && !t.dataset.doc && t.tagName === "INPUT" && t.type !== "date"){
+    famGet(state.family, t.dataset.fp)[t.dataset.k] = t.value.trim();
+    renderTreeOnly(); renderSummary();
+  }
+  if ((t.dataset.q || t.dataset.qs) && !t.dataset.doc && t.tagName === "INPUT"){ qTarget(t)[t.dataset.k] = t.value.trim(); renderSummary(); }
+});
+$("details").addEventListener("change", e => {
+  const t = e.target;
+  if (t.dataset.ftop){ state.family[t.dataset.ftop] = t.value; renderFam(); renderSummary(); return; }
+  if (t.dataset.fp){
+    const p = famGet(state.family, t.dataset.fp);
+    if (t.dataset.doc){ const d = p.docs[t.dataset.doc] ||= {}; if (t.dataset.reason) d.r = t.value; else d.s = t.value; }
+    else if (t.tagName === "SELECT" || t.type === "date") p[t.dataset.k] = t.dataset.k === "abroad" ? !!t.value : t.value;
+    else if (t.dataset.k === "deathYear") p.deathYear = t.value.trim();
+    else return;
+    renderFam(); renderSummary(); return;
+  }
+  if (t.dataset.q || t.dataset.qs){
+    const p = qTarget(t); if (!p) return;
+    if (t.dataset.doc){ const d = p.docs[t.dataset.doc] ||= {}; if (t.dataset.reason) d.r = t.value; else d.s = t.value; }
+    else if (t.tagName === "SELECT"){
+      const v = t.value, k = t.dataset.k;
+      p[k] = k === "status" ? (v === "Đã mất" ? "dead" : "alive") : k === "abroad" ? v === "Nước ngoài" : v;
+    } else return;
+    renderParties(); renderSummary();
+  }
+});
+$("details").addEventListener("click", e => {
+  const f = state.family, b = e.target.closest("[data-fadd],[data-fdel],[data-qadd],[data-qdel]"); if (!b) return;
+  if (b.dataset.fadd){
+    f.seq = (f.seq || 0) + 1;
+    const rel = b.dataset.fadd, id = (rel === "child" ? "c" : rel === "cspouse" ? "s" : "g") + f.seq;
+    f.people.push(rel === "child" ? {id, rel, of:"both", type:"de", name:"", status:"", docs:{}} : {id, rel, parent:b.dataset.parent, name:"", status:"", docs:{}});
+    renderFam(); renderSummary();
+    const n = document.getElementById(`fp_${id}_name`); if (n) n.focus();
+  }
+  if (b.dataset.fdel){
+    if (b.dataset.sure !== "1"){ b.dataset.sure = "1"; b.textContent = "Bấm lần nữa để xóa"; return; }
+    const id = b.dataset.fdel;
+    f.people = f.people.filter(p => p.id !== id && p.parent !== id);
+    renderFam(); renderSummary();
+  }
+  if (b.dataset.qadd){ (state.parties[b.dataset.qadd] ||= []).push(partyNew()); renderParties(); renderSummary(); }
+  if (b.dataset.qdel){
+    if (b.dataset.sure !== "1"){ b.dataset.sure = "1"; b.textContent = "Bấm lần nữa để xóa"; return; }
+    const [k, i] = b.dataset.qdel.split("|"); state.parties[k].splice(+i, 1); renderParties(); renderSummary();
+  }
+});
+
+/* ---------- Luật sư ---------- */
+const allFields = [...new Set(LAWYERS.flatMap(l => l.fields))];
+$("lwProv").insertAdjacentHTML("beforeend", [...new Set(LAWYERS.map(l => l.province))].map(p => `<option>${esc(p)}</option>`).join(""));
+$("lwField").insertAdjacentHTML("beforeend", allFields.map(f => `<option>${esc(f)}</option>`).join(""));
+function renderLawyers(){
+  const pv = $("lwProv").value, fd = $("lwField").value;
+  const list = LAWYERS.filter(l => (!pv || l.province === pv) && (!fd || l.fields.includes(fd)));
+  $("lawyers").innerHTML = list.length ? list.map(l => `<article class="lawyer">
+    <div class="who"><span class="ava">${esc(l.name.replace(/^Luật sư\s*/i, "").trim().charAt(0) || "L")}</span><div><h3>${esc(l.name)}</h3><div class="org">${esc(l.org)} · ${esc(l.province)}${l.years ? " · " + l.years + " năm kinh nghiệm" : ""}</div></div></div>
+    <div class="tags">${l.fields.map(f => `<span class="pill neutral">${esc(f)}</span>`).join("")}</div>
+    <div class="pkgs">${l.packages.map((p, i) => `<div class="pkg"><span>${esc(p.name)}</span><span class="pr">${p.price != null ? money(p.price) : '<span class="tbd">Liên hệ</span>'}</span><button type="button" class="btn ghost small" data-lawyer="${l.id}" data-pkg="${i}">Đặt gói này</button></div>`).join("")}</div>
+  </article>`).join("") : '<p class="empty">Chưa có luật sư phù hợp bộ lọc. Gọi hotline để bên em kết nối.</p>';
+}
+["lwProv", "lwField"].forEach(id => $(id).addEventListener("change", renderLawyers));
+renderLawyers();
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-lawyer]"); if (!b) return;
+  state.lawyer = b.dataset.lawyer; state.lawyerPkg = b.dataset.pkg;
+  setServices(state.services.includes(18) ? state.services : [...state.services, 18], state.combo);
+  goForm();
+});
+
+/* ---------- Thanh toán ---------- */
+function bankHtml(){
+  const cp = (v, label) => `<button type="button" class="cp" data-copy="${esc(v)}" aria-label="Sao chép ${label}">Sao chép</button>`;
+  return `<div><div class="k">Ngân hàng</div><div class="v">${esc(BANK.bankName)}${BANK.branch ? " · " + esc(BANK.branch) : ""}</div></div>
+    <div class="row"><div><div class="k">Số tài khoản</div><div class="v mono">${esc(BANK.account)}</div></div>${bankReady() ? cp(BANK.account.replace(/\s/g, ""), "số tài khoản") : ""}</div>
+    <div><div class="k">Chủ tài khoản</div><div class="v">${esc(BANK.holder)}</div></div>
+    <div style="font-size:.84rem;opacity:.9">Tài khoản nhận tiền chính thức duy nhất của ${esc(CONFIG.BRAND)}.</div>
+    ${qrUrl({}) ? `<img src="${qrUrl({})}" alt="Mã QR tài khoản ${esc(BANK.bankName)} ${esc(BANK.account)}" style="width:180px;max-width:100%;border-radius:8px;background:#fff" onerror="this.remove()">` : ""}`;
+}
+$("bankCard").innerHTML = bankHtml();
+$("syntaxTxt").textContent = BANK.syntax.replace("{ma}", "<Mã hồ sơ>").replace("{sdt}", "<Số điện thoại>");
+$("syntaxEx").textContent = transferContent({id: "HS260927-4821", phone: "0912345678"});
+document.addEventListener("click", async e => {
+  const b = e.target.closest("[data-copy]"); if (!b) return;
+  try { await navigator.clipboard.writeText(b.dataset.copy); toast("Đã sao chép: " + b.dataset.copy); }
+  catch(_){ toast("Chưa sao chép được, anh chị chép tay giúp: " + b.dataset.copy); }
+});
+
+/* ---------- Bước 4: giấy tờ ---------- */
+function renderDocs(){
+  const box = $("docs");
+  $("quick").hidden = !state.services.length;
+  if (!state.services.length){ box.innerHTML = '<p class="empty">Chọn dịch vụ ở bước 1 để hiện danh sách giấy tờ.</p>'; return; }
+  box.innerHTML = mergedDocs(state.services).map(d => {
+    const st = state.docs[d.id] || "";
+    const opt = (v, t, cls) => `<label><input type="radio" name="doc_${d.id}" value="${v}" class="${cls || ""}"${st === v ? " checked" : ""}><span>${t}</span></label>`;
+    const used = d.services.map(no => pad2(no)).join(", ");
+    return `<div class="doc-row" id="row_${d.id}">
+      <div><div class="nm">${esc(d.name)}</div>
+        <div class="why">${esc(d.why)}${d.notes.length ? ` <b>${esc(d.notes.join("; "))}.</b>` : ""}</div>
+        <div class="tags"><span class="pill ${d.need === 1 ? "bad" : "neutral"}">${d.need === 1 ? "Bắt buộc" : "Tùy trường hợp"}</span><span class="pill neutral">Dịch vụ ${used}</span></div></div>
+      <div class="seg" role="radiogroup" aria-label="${esc(d.name)}">${opt("co", "Đã có")}${opt("chua", "Chưa có", "no")}${opt("ko", "Không áp dụng")}</div>
+      ${st === "chua" ? `<div class="how"><b>Cách bổ sung:</b> ${esc(d.where)}</div>` : ""}</div>`;
+  }).join("");
+}
+$("docs").addEventListener("change", e => {
+  const t = e.target; if (!t.name || !t.name.startsWith("doc_")) return;
+  state.docs[t.name.slice(4)] = t.value;
+  renderDocs(); renderSummary();
+  const again = document.querySelector(`input[name="${t.name}"][value="${t.value}"]`); if (again) again.focus();
+});
+$("quick").addEventListener("click", e => {
+  const b = e.target.closest("[data-all]"); if (!b) return;
+  mergedDocs(state.services).forEach(d => { if (b.dataset.all) state.docs[d.id] = b.dataset.all; else delete state.docs[d.id]; });
+  renderDocs(); renderSummary();
+});
+
+/* ---------- Tạm tính ---------- */
+function renderSummary(){
+  const ev = evaluate(state);
+  $("sSvcs").innerHTML = state.services.length
+    ? state.services.map(no => `<li>${pad2(no)}. ${esc(SVC[no].title)}${ev.combo && ev.combo.free === no ? ' <b style="color:var(--seal)">(tặng)</b>' : ""}</li>`).join("")
+    : '<li class="muted" style="list-style:none;margin-left:-18px">Chưa chọn dịch vụ</li>';
+  $("sGift").hidden = !ev.combo;
+  if (ev.combo) $("sGift").textContent = "Combo " + ev.combo.name + ": " + ev.combo.gift;
+  $("sPrice").textContent = state.services.length ? priceText(ev.price.min, ev.price.max) : "—";
+  $("sPriceNote").textContent = ev.price.partial && state.services.length ? "Có dịch vụ chưa công bố giá, bên em báo khi gọi lại." : "";
+  $("sDays").textContent = daysText(ev.days);
+  $("sDocs").textContent = ev.ready.length + "/" + ev.required.length;
+  const m = $("sMeter"); m.style.width = ev.percent + "%";
+  m.parentElement.className = "meter" + (ev.percent < 40 ? " low" : ev.percent < 100 ? " mid" : "");
+  if (state.services.includes(18) && state.lawyer){
+    $("sSvcs").insertAdjacentHTML("beforeend", `<li style="list-style:none;margin-left:-18px;color:var(--muted);font-size:.84rem">Luật sư: ${esc(lawyerText(state))}</li>`);
+  }
+  $("sVisitWrap").hidden = !vo.visit;
+  if (vo.visit) $("sVisit").textContent = visitText({visit: vo.visit, office: vo.office, officeProvince: $("o_province").value, visitTime: $("o_time").value});
+  $("sMissWrap").hidden = !ev.missing.length;
+  $("sMiss").innerHTML = ev.missing.map(d => `<li>${esc(d.name)}</li>`).join("");
+}
+
+/* ---------- Gửi phiếu ---------- */
+function setErr(k, msg){ $("e_" + k).textContent = msg; const f = $("f_" + k); if (f) f.classList.add("invalid"); }
+function clearErr(k){ $("e_" + k).textContent = ""; const f = $("f_" + k); if (f) f.classList.remove("invalid"); }
+["name", "phone", "email"].forEach(k => $("f_" + k).addEventListener("input", () => clearErr(k)));
+
+$("leadForm").addEventListener("submit", async e => {
+  e.preventDefault();
+  if ($("f_web").value) return;
+  const phone = $("f_phone").value.replace(/[\s.\-]/g, "");
+  const email = $("f_email").value.trim();
+  let first = null;
+  const fail = (k, msg) => { setErr(k, msg); first ||= k === "services" ? $("pickSvcs") : $("f_" + k); };
+  if (!state.services.length) fail("services", "Chọn ít nhất một dịch vụ hoặc một combo.");
+  if ($("f_name").value.trim().length < 2) fail("name", "Nhập họ tên để bên em tiện xưng hô.");
+  if (!/^(0|\+84)\d{9}$/.test(phone)) fail("phone", "Số điện thoại gồm 10 số, bắt đầu bằng 0. Ví dụ 0912345678.");
+  if (email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) fail("email", "Email chưa đúng dạng, ví dụ ten@gmail.com.");
+  if (!$("f_province").value) fail("province", "Chọn tỉnh, thành phố nơi có nhà đất.");
+  if (first){ $("e_submit").textContent = "Còn thông tin chưa đúng, anh chị xem lại chỗ báo đỏ."; first.scrollIntoView({block:"center"}); if (first.focus) first.focus({preventScroll:true}); return; }
+  $("e_submit").textContent = "";
+
+  const now = new Date();
+  const record = {
+    id: newId(), created: now.toLocaleString("vi-VN"), createdISO: now.toISOString(), status: "Mới",
+    name: $("f_name").value.trim(), phone, email,
+    province: $("f_province").value.trim(), ward: $("f_ward").value.trim(), address: $("f_address").value.trim(),
+    note: $("f_note").value.trim(), callTime: $("f_time").value, consent: $("f_consent").checked,
+    services: state.services, combo: state.combo, details: state.details, docs: state.docs,
+    live: $("f_live").value || $("f_province").value,
+    visit: vo.visit, officeProvince: vo.visit === "office" ? $("o_province").value : "", office: vo.visit === "office" ? vo.office : "",
+    visitTime: vo.visit === "office" ? $("o_time").value : "",
+    lawyer: state.services.includes(18) ? (state.lawyer || "") : "", lawyerPkg: state.services.includes(18) ? (state.lawyerPkg ?? "") : "",
+    payStatus: "Chưa thanh toán",
+    family: state.services.includes(1) ? JSON.parse(JSON.stringify(state.family)) : null,
+    parties: Object.fromEntries(partyRoles(state.services).map(ro => [ro.k, JSON.parse(JSON.stringify(state.parties[ro.k] || []))])),
+    appt: "", partner: "", staffNote: "", source: location.hostname || "file"
+  };
+  if (record.office && OFFICE[record.office] && OFFICE[record.office].type !== "vmp") record.partner = OFFICE[record.office].name;
+  const ev = evaluate(record);
+  record.summary = {
+    services: record.services.map(no => pad2(no) + ". " + SVC[no].title).join("; "),
+    missing: ev.missing.map(d => d.name).join("; "),
+    docsReady: ev.ready.length + "/" + ev.required.length,
+    price: priceText(ev.price.min, ev.price.max), days: daysText(ev.days),
+    visit: visitText(record), lawyer: lawyerText(record),
+    heirs: record.family ? (a => Object.entries(a.final).map(([id, x]) => pWho(record.family, famGet(record.family, id)) + " " + fStr(x)).join("; "))(famAnalyze(record.family)) : "",
+    transfer: transferContent(record), payAmount: payAmount(record) ? money(payAmount(record)) : ""
+  };
+
+  const btn = $("submitBtn"); btn.disabled = true; btn.textContent = "Đang gửi...";
+  try {
+    await api("submit", {record});
+  } catch(err){
+    $("e_submit").textContent = "Chưa gửi được phiếu. Anh chị kiểm tra mạng rồi bấm gửi lại, hoặc gọi " + CONFIG.PHONE + ".";
+    btn.disabled = false; btn.textContent = "Gửi phiếu, nhận tư vấn miễn phí"; return;
+  }
+  btn.disabled = false; btn.textContent = "Gửi phiếu, nhận tư vấn miễn phí";
+  lastRecord = record;
+  const amt = payAmount(record), qr = qrUrl(record), tc = transferContent(record);
+  $("dPay").innerHTML = `<div class="sum-k">Thông tin chuyển khoản</div>
+    <p style="font-size:.9rem">${amt ? `Để giữ lịch, anh chị chuyển <b>${money(amt)}</b>.` : "Anh chị chuyển khoản khi đã có báo giá chính thức từ bên em."} Ghi <b>đúng</b> nội dung dưới đây.</p>
+    <div class="pl">
+      <span>Ngân hàng</span><b>${esc(BANK.bankName)}</b><span></span>
+      <span>Số tài khoản</span><b>${esc(BANK.account)}</b>${bankReady() ? `<button type="button" class="btn ghost small" data-copy="${esc(BANK.account.replace(/\s/g, ""))}">Sao chép</button>` : "<span></span>"}
+      <span>Chủ tài khoản</span><b>${esc(BANK.holder)}</b><span></span>
+      ${amt ? `<span>Số tiền</span><b>${money(amt)}</b><button type="button" class="btn ghost small" data-copy="${amt}">Sao chép</button>` : ""}
+      <span>Nội dung</span><b style="color:var(--seal)">${esc(tc)}</b><button type="button" class="btn ghost small" data-copy="${esc(tc)}">Sao chép</button>
+    </div>
+    ${qr ? `<img src="${qr}" alt="Mã QR chuyển khoản đã điền sẵn số tiền và nội dung" onerror="this.remove()">` : ""}
+    <p class="muted" style="font-size:.82rem">Chuyển xong, anh chị chụp màn hình gửi Zalo ${esc(CONFIG.ZALO)} để bên em xác nhận nhanh.</p>`;
+  $("dName").textContent = record.name;
+  $("dCode").textContent = record.id;
+  $("dSummary").innerHTML = `
+    <div>Dịch vụ: <b>${esc(record.summary.services)}</b></div>
+    <div>Phí dịch vụ dự kiến: <b>${esc(record.summary.price)}</b> · Thời gian dự kiến: <b>${esc(record.summary.days)}</b></div>
+    <div>Giấy tờ bắt buộc đã có: <b>${record.summary.docsReady}</b></div>
+    ${record.visit ? `<div>Nộp hồ sơ: <b>${esc(record.summary.visit)}</b>${record.office && OFFICE[record.office] ? ` · <a href="${mapLink(OFFICE[record.office])}" target="_blank" rel="noopener">Chỉ đường</a>` : ""}</div>` : ""}
+    ${ev.missing.length ? `<div><b>Cần bổ sung:</b><ol style="margin:6px 0 0;padding-left:20px">${ev.missing.map(d => `<li>${esc(d.name)}${d.reason ? ` <b>(${esc(d.reason)})</b>` : ""} <span class="muted">— ${esc(d.where)}</span></li>`).join("")}</ol></div>` : ""}`;
+  $("builder").hidden = true; $("done").hidden = false;
+  $("done").scrollIntoView({block:"start"});
+});
+
+$("dDownload").addEventListener("click", async () => {
+  if (!lastRecord) return;
+  const ok = await saveFile(`Phieu-ho-so-${lastRecord.id}-${slug(lastRecord.name)}.doc`, buildSheet(lastRecord, null, "customer"), "application/msword");
+  if (!ok) toast("Chưa tải được phiếu. Anh chị ghi lại mã hồ sơ, bên em sẽ gửi phiếu qua Zalo.");
+});
+$("dAgain").addEventListener("click", () => {
+  $("leadForm").reset(); $("f_consent").checked = true;
+  state.details = {}; state.docs = {}; state.lawyer = ""; state.lawyerPkg = ""; state.family = famNew(); state.parties = {}; setServices([], null);
+  Object.assign(vo, {visit: "", oType: "", office: "", me: null, officeTouched: false});
+  $("officeBox").hidden = true; $("nearMsg").textContent = ""; renderSummary();
+  $("done").hidden = true; $("builder").hidden = false;
+});
+
+function toast(msg){
+  const t = document.createElement("div"); t.className = "toast"; t.textContent = msg;
+  document.body.appendChild(t); setTimeout(() => t.remove(), 3500);
+}
+</script>

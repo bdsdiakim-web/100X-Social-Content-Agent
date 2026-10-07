@@ -29,3 +29,7 @@ database/scraped_temp/
 # Browser & Sessions
 browser_data/
 scripts/tmp_render/
+
+# Máy chủ gói báo cáo trả phí: giữ riêng, KHÔNG đưa lên GitHub công khai
+landing_page_backend/
+netlify_upload/

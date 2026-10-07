@@ -1,0 +1,382 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sổ Hồ Sơ Khách Hàng</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700;800&family=Be+Vietnam+Pro:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+<style>
+body{font-size:15px}
+.bar{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:env(safe-area-inset-top,0px);z-index:10}
+.bar .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;padding-block:12px}
+.bar h1{font-size:1.2rem;font-weight:800}
+.who{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:.88rem}
+main.wrap{display:grid;gap:22px;padding-block:22px 60px}
+.notice{background:var(--amber-soft);color:var(--amber);border-radius:8px;padding:10px 14px;font-size:.88rem}
+.login{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:24px;display:grid;gap:12px;max-width:440px}
+.kpis{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 16px}
+.kpi .k{font:600 .68rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.kpi .v{font-family:var(--f-display);font-weight:800;font-size:1.7rem;font-variant-numeric:tabular-nums;line-height:1.2;margin-top:4px}
+.kpi.alert .v{color:var(--seal)}
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.tools input,.tools select{width:auto;min-width:160px;padding:8px 10px;font-size:.9rem;background:var(--card)}
+.tools .grow{flex:1;min-width:200px}
+.layout{display:grid;grid-template-columns:1fr 300px;gap:22px;align-items:start}
+#list{min-width:980px}
+#list tbody tr{cursor:pointer}
+#list tbody tr:hover td{background:var(--green-soft)}
+#list tbody tr.sel td{background:var(--green-soft)}
+#list td{font-size:.88rem}
+.cust b{display:block}
+.cust span{color:var(--muted);font-size:.8rem}
+.svc-tags{display:flex;flex-wrap:wrap;gap:4px}
+.st{font-size:.78rem}
+.cal{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:10px}
+.cal h2{font-size:1.05rem}
+.cal .it{display:grid;grid-template-columns:56px 1fr;gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:.86rem;cursor:pointer}
+.cal .d{font-family:var(--f-mono);text-align:center;background:var(--green-soft);color:var(--green);border-radius:6px;padding:4px 0;line-height:1.25}
+.cal .d b{display:block;font-size:1.1rem}
+.detail{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:22px;display:grid;gap:20px}
+.d-head{display:flex;flex-wrap:wrap;justify-content:space-between;gap:14px;align-items:flex-start}
+.d-head h2{font-size:1.5rem}
+.d-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.d-grid label.f input,.d-grid label.f select{background:var(--paper)}
+.facts{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.facts div{background:var(--card);padding:12px 14px}
+.facts .k{font:600 .68rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.facts .v{font-weight:600;margin-top:3px}
+.svc-block{border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.svc-block .h{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:10px;padding:12px 16px;background:var(--paper);border-bottom:1px solid var(--line)}
+.svc-block .h h3{font-size:1rem}
+.svc-block .info{padding:12px 16px;font-size:.88rem;display:flex;flex-wrap:wrap;gap:6px 22px;border-bottom:1px solid var(--line)}
+.svc-block .info span{color:var(--muted)}
+.svc-block table{min-width:720px}
+.svc-block td select{padding:5px 8px;font-size:.85rem;width:auto;background:var(--card)}
+.svc-block td.why{font-size:.82rem;color:var(--muted);max-width:420px}
+.acts{display:flex;flex-wrap:wrap;gap:10px}
+@media (max-width:1000px){
+  .layout{grid-template-columns:1fr}
+  .kpis{grid-template-columns:repeat(3,1fr)}
+  .d-grid,.facts{grid-template-columns:1fr 1fr}
+}
+@media (max-width:560px){ .kpis{grid-template-columns:1fr 1fr} .d-grid,.facts{grid-template-columns:1fr} }
+</style>
+
+<div class="bar">
+  <div class="wrap">
+    <h1>Sổ hồ sơ khách hàng <span class="muted" style="font-weight:500;font-size:.9rem">· Vua Mặt Phố</span></h1>
+    <div class="who" id="who"></div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="notice" id="demoNote" hidden>Đang chạy thử: gồm 5 hồ sơ mẫu (đánh dấu "Mẫu") và các phiếu gửi thử từ trang khách hàng trên cùng trình duyệt. Khi nối Google Sheet, trang này đọc dữ liệu thật theo mã truy cập.</div>
+
+  <form class="login" id="login" hidden>
+    <h2 style="font-size:1.3rem">Đăng nhập bằng mã truy cập</h2>
+    <p class="muted" style="font-size:.9rem">Mỗi đơn vị đối tác có mã riêng và chỉ xem được hồ sơ thuộc dịch vụ mình nhận.</p>
+    <label class="f" for="f_code">Mã truy cập<input id="f_code" type="password" autocomplete="current-password"></label>
+    <span class="err" id="e_code"></span>
+    <button class="btn" type="submit">Mở sổ hồ sơ</button>
+  </form>
+
+  <div id="app" hidden style="display:grid;gap:22px">
+    <div class="kpis" id="kpis"></div>
+
+    <div class="tools">
+      <input class="grow" id="q" placeholder="Tìm tên, số điện thoại, mã hồ sơ" aria-label="Tìm kiếm">
+      <select id="fSvc" aria-label="Lọc dịch vụ"><option value="">Tất cả dịch vụ</option></select>
+      <select id="fStatus" aria-label="Lọc trạng thái"><option value="">Tất cả trạng thái</option></select>
+      <select id="fProv" aria-label="Lọc tỉnh"><option value="">Tất cả tỉnh</option></select>
+      <select id="fPartner" aria-label="Lọc đối tác"><option value="">Tất cả đối tác</option><option value="-">Chưa giao đối tác</option></select>
+      <label class="cb" for="fMissing" style="display:flex;gap:6px;align-items:center;font-size:.88rem"><input type="checkbox" id="fMissing" style="width:16px;height:16px"> Chỉ hồ sơ còn thiếu giấy tờ</label>
+      <button class="btn ghost small" type="button" id="exportCsv">Xuất danh sách (.csv)</button>
+      <button class="btn ghost small" type="button" id="reload">Làm mới</button>
+    </div>
+
+    <div class="layout">
+      <div class="table-box">
+        <table id="list">
+          <thead><tr><th>Mã · Ngày</th><th>Khách hàng</th><th>Dịch vụ</th><th>Giấy tờ</th><th>Còn thiếu</th><th>Phí dự kiến</th><th>Thời gian</th><th>Lịch hẹn</th><th>Trạng thái</th></tr></thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+      <aside class="cal">
+        <h2>Lịch làm việc sắp tới</h2>
+        <div id="cal"></div>
+      </aside>
+    </div>
+
+    <div class="detail" id="detail" hidden></div>
+  </div>
+</main>
+
+<script src="data.js"></script>
+<script src="common.js"></script>
+<script src="people.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+let RECORDS = [], ROLE = "admin", WHO = "", CODE = "", selected = null;
+
+const SAMPLES = (() => {
+  const d = n => { const x = new Date(); x.setDate(x.getDate() + n); return x; };
+  const iso = (n, h) => { const x = d(n); return `${x.getFullYear()}-${pad2(x.getMonth() + 1)}-${pad2(x.getDate())}T${pad2(h)}:00`; };
+  const vn = n => d(n).toLocaleString("vi-VN");
+  return [
+    {id:"HS-MAU-01",sample:true,created:vn(-1),status:"Chờ bổ sung giấy tờ",name:"Trần Thị Mai",phone:"0912000001",email:"mai.mau@example.com",province:"Hà Nội",ward:"Xã Đông Anh",address:"Thôn Lỗ Khê",note:"Đất bố mẹ để lại, 3 anh em, em trai ở Hàn Quốc.",callTime:"Buổi tối (19h–21h)",consent:true,
+     services:[1,15,3,7],combo:"C1",details:{1:{thongnhat:"Đã thống nhất",muonchia:"Dồn cho một người đứng tên"}},
+     family:{owners:"both",married:"yes",seq:5,people:[
+       {id:"A",rel:"A",name:"Trần Văn Hùng",status:"dead",deathYear:"2000",will:"Không",docs:{khaitu:{s:"co"},kethon:{s:"co"}}},
+       {id:"B",rel:"B",name:"Nguyễn Thị Lan",status:"dead",deathYear:"2002",will:"Không",docs:{khaitu:{s:"co"}}},
+       {id:"pgf",rel:"pgf",name:"Trần Văn Tư",status:"dead",deathYear:"1990",docs:{khaitu_old:{s:"co"}}},
+       {id:"pgm",rel:"pgm",name:"Phạm Thị Năm",status:"dead",deathYear:"2005",docs:{khaitu:{s:"chua",r:"Bị mất, cần xin lại"}}},
+       {id:"mgf",rel:"mgf",name:"Nguyễn Văn Sáu",status:"dead",deathYear:"1985",docs:{khaitu_old:{s:"chua",r:"Chưa từng làm giấy này"}}},
+       {id:"mgm",rel:"mgm",name:"Lê Thị Bảy",status:"dead",deathYear:"1998",docs:{khaitu_old:{s:"co"}}},
+       {id:"c1",rel:"child",of:"both",type:"de",name:"Trần Thị Mai",status:"alive",docs:{khaisinh:{s:"co"},cccd:{s:"nop"}}},
+       {id:"c2",rel:"child",of:"both",type:"de",name:"Trần Văn Nam",status:"alive",abroad:true,docs:{khaisinh:{s:"co"},cccd:{s:"co"},uyquyen:{s:"chua",r:"Người đó ở xa, ở nước ngoài"}}},
+       {id:"c3",rel:"child",of:"both",type:"de",name:"Trần Văn Bình",status:"dead",deathYear:"1999",docs:{khaisinh:{s:"co"},khaitu:{s:"co"}}},
+       {id:"g4",rel:"gchild",parent:"c3",name:"Trần Minh Khôi",status:"alive",docs:{khaisinh:{s:"chua",r:"Đang giữ, chưa gửi"}}},
+       {id:"s5",rel:"cspouse",parent:"c3",name:"Lê Thị Hoa",status:"alive",docs:{}}]},
+     docs:{cccd:"nop",gcn:"co",khaitu:"co",quanhe:"chua",dichuc:"ko",tuchoi:"ko",honnhan:"co",uyquyen:"chua",tokhai:"co",mienthue:"co",donxin:"co"},
+     appt:iso(1,9),partner:"Văn phòng công chứng (mẫu) – Hà Nội",visit:"office",office:"CC-HN-1",officeProvince:"Hà Nội",live:"Hà Nội",staffNote:"Chờ em trai Nam gửi ủy quyền từ Hàn Quốc; xin khai tử bà nội."},
+    {id:"HS-MAU-02",sample:true,created:vn(-2),status:"Đang xử lý",name:"Lê Văn Phúc",phone:"0912000002",email:"",province:"Bắc Ninh",ward:"Phường Từ Sơn",live:"Hà Nội",address:"",note:"Muốn mua mảnh đất 90 m², sợ vướng quy hoạch.",callTime:"Bất kỳ lúc nào",consent:true,
+     services:[7,5,12,14,15,3],combo:"C3",details:{12:{vande:"Bên bán muốn nhận cọc 30%"}},
+     docs:{thuadat:"nop",gcn:"co",cccd:"co",giapranh:"chua",anhht:"nop",benkia:"nop",coc:"ko",nhucau:"co",sukien:"co",lienquan:"ko",honnhan:"co",uyquyen:"ko",donxin:"co",hopdong:"chua",tokhai:"co",mienthue:"ko",thechap:"ko"},
+     appt:iso(2,14),partner:"Đơn vị đo đạc (mẫu) – Hà Nội",visit:"zalo",live:"Hà Nội",staffNote:""},
+    {id:"HS-MAU-03",sample:true,created:vn(0),status:"Mới",name:"Phạm Minh Tuấn",phone:"0912000003",email:"tuan.mau@example.com",province:"Hải Phòng",ward:"Phường Hồng Bàng",address:"",note:"Mất sổ đỏ khi chuyển nhà.",callTime:"Buổi sáng (8h–11h)",consent:false,
+     services:[4],combo:null,details:{4:{lydo:"Mất sổ"}},docs:{cccd:"co",donxin:"",matso:"chua",gcn:"ko"},appt:"",partner:"",staffNote:""},
+    {id:"HS-MAU-05",sample:true,created:vn(0),status:"Mới",name:"Vũ Quang Huy",phone:"0912000005",email:"",province:"TP Hồ Chí Minh",ward:"Phường Thủ Đức",address:"",note:"Muốn hỏi luật sư về đòi lại tiền cọc.",callTime:"Buổi tối (19h–21h)",consent:true,live:"TP Hồ Chí Minh",visit:"zalo",
+     services:[18],combo:null,lawyer:"LS02",lawyerPkg:"0",payStatus:"Đã chuyển, chờ xác nhận",details:{18:{linhvuc:"Mua bán, đặt cọc",cauhoi:"Bên bán không giao nhà đúng hạn, tôi muốn lấy lại cọc"}},docs:{vuviec:"co",cccd:"co",lienquan:"co"},appt:iso(1,20),partner:"Công ty luật (mẫu) – TP Hồ Chí Minh",staffNote:""},
+    {id:"HS-MAU-04",sample:true,created:vn(-6),status:"Hoàn thành",name:"Đỗ Thu Hà",phone:"0912000004",email:"ha.mau@example.com",province:"Hà Nội",ward:"Phường Cầu Giấy",address:"",note:"Lập vi bằng giao tiền cọc.",callTime:"Buổi chiều (13h–17h)",consent:true,
+     services:[14],combo:null,details:{14:{loaivb:"Giao nhận tiền, đặt cọc"}},docs:{cccd:"nop",sukien:"nop",lienquan:"nop"},appt:iso(-3,10),partner:"Văn phòng thừa phát lại (mẫu) – Hà Nội",visit:"home",live:"Hà Nội",staffNote:"Đã bàn giao vi bằng."}
+  ];
+})();
+
+/* ---------- Tải dữ liệu ---------- */
+async function load(){
+  if (CONFIG.ENDPOINT){
+    const out = await api("list", {code: CODE});
+    RECORDS = out.records; ROLE = out.role; WHO = out.name;
+  } else {
+    let local = [];
+    try { local = JSON.parse(localStorage.getItem(LOCAL_KEY) || "[]"); } catch(e){}
+    const keep = RECORDS.filter(r => r.sample);
+    RECORDS = [...local, ...(keep.length ? keep : SAMPLES)];
+    ROLE = "admin"; WHO = "Chủ tài khoản (chạy thử)";
+  }
+  $("who").innerHTML = `<span class="pill ${ROLE === "admin" ? "ok" : "warn"}">${ROLE === "admin" ? "Quản lý" : "Đối tác"}</span><span>${esc(WHO)}</span>` +
+    (CONFIG.ENDPOINT ? ` <button class="btn ghost small" type="button" id="logout">Thoát</button>` : "");
+  if ($("logout")) $("logout").onclick = () => { try { sessionStorage.removeItem("hoso_code"); } catch(e){} location.reload(); };
+  render();
+}
+
+/* ---------- Bộ lọc ---------- */
+$("fSvc").insertAdjacentHTML("beforeend", SERVICES.map(s => `<option value="${s.no}">${pad2(s.no)}. ${esc(s.title)}</option>`).join(""));
+$("fStatus").insertAdjacentHTML("beforeend", STATUSES.map(s => `<option>${esc(s)}</option>`).join(""));
+$("fPartner").insertAdjacentHTML("beforeend", PARTNER_NAMES.map(n => `<option>${esc(n)}</option>`).join(""));
+$("fProv").insertAdjacentHTML("beforeend", PROVINCES.map(p => `<option>${esc(p)}</option>`).join(""));
+["q", "fSvc", "fStatus", "fProv", "fPartner", "fMissing"].forEach(id => $(id).addEventListener("input", render));
+
+function filtered(){
+  const q = $("q").value.trim().toLowerCase(), sv = Number($("fSvc").value), st = $("fStatus").value, pt = $("fPartner").value, pv = $("fProv").value, miss = $("fMissing").checked;
+  return RECORDS.filter(r => {
+    if (q && !(r.name + " " + r.phone + " " + r.id).toLowerCase().includes(q)) return false;
+    if (sv && !r.services.includes(sv)) return false;
+    if (st && r.status !== st) return false;
+    if (pv && r.province !== pv && r.live !== pv && r.officeProvince !== pv) return false;
+    if (pt === "-" && r.partner) return false;
+    if (pt && pt !== "-" && r.partner !== pt) return false;
+    if (miss && !evaluate(r).missing.length) return false;
+    return true;
+  });
+}
+
+const statusPill = s => `<span class="pill ${s === "Hoàn thành" ? "ok" : s === "Chờ bổ sung giấy tờ" ? "bad" : s === "Mới" ? "warn" : "neutral"} st">${esc(s)}</span>`;
+const apptText = a => a ? new Date(a).toLocaleString("vi-VN", {weekday:"short", day:"2-digit", month:"2-digit", hour:"2-digit", minute:"2-digit"}) : "—";
+
+function render(){
+  const list = filtered();
+  const now = Date.now(), week = now + 7 * 864e5;
+  const upcoming = RECORDS.filter(r => r.appt && new Date(r.appt).getTime() >= now - 36e5 && r.status !== "Hoàn thành").sort((a, b) => new Date(a.appt) - new Date(b.appt));
+  const k = (label, v, alert) => `<div class="kpi${alert && v ? " alert" : ""}"><div class="k">${label}</div><div class="v">${v}</div></div>`;
+  $("kpis").innerHTML =
+    k("Tổng hồ sơ", RECORDS.length) +
+    k("Mới, chưa gọi", RECORDS.filter(r => r.status === "Mới").length, true) +
+    k("Còn thiếu giấy tờ", RECORDS.filter(r => r.status !== "Hoàn thành" && evaluate(r).missing.length).length, true) +
+    k("Đang xử lý", RECORDS.filter(r => r.status === "Đang xử lý").length) +
+    k("Lịch hẹn 7 ngày tới", upcoming.filter(r => new Date(r.appt).getTime() <= week).length);
+
+  $("rows").innerHTML = list.length ? list.map(r => {
+    const ev = evaluate(r);
+    const cls = ev.percent < 40 ? " low" : ev.percent < 100 ? " mid" : "";
+    return `<tr data-id="${esc(r.id)}" class="${selected === r.id ? "sel" : ""}" tabindex="0">
+      <td class="mono">${esc(r.id)}${r.sample ? ' <span class="pill neutral">Mẫu</span>' : ""}<br><span class="muted">${esc(String(r.created).split(" ").pop())}</span></td>
+      <td class="cust"><b>${esc(r.name)}</b><span class="mono">${esc(r.phone)}</span><br><span>${esc([r.ward, r.province].filter(Boolean).join(", "))}</span></td>
+      <td><div class="svc-tags">${r.combo ? `<span class="pill bad">${esc(COMBO[r.combo]?.name || r.combo)}</span>` : ""}${r.services.map(no => `<span class="pill neutral" title="${esc(SVC[no].title)}">${pad2(no)}</span>`).join("")}</div></td>
+      <td><div class="meter${cls}"><i style="width:${ev.percent}%"></i></div><span class="mono muted">${ev.ready.length}/${ev.required.length}</span></td>
+      <td>${ev.missing.length ? `<span class="pill bad">${ev.missing.length} giấy tờ</span>` : '<span class="pill ok">Đủ</span>'}</td>
+      <td class="mono">${esc(priceText(ev.price.min, ev.price.max))}</td>
+      <td class="mono">${daysText(ev.days)}</td>
+      <td>${apptText(r.appt)}</td>
+      <td>${statusPill(r.status)}${r.partner ? `<br><span class="muted" style="font-size:.78rem">${esc(r.partner)}</span>` : ""}</td></tr>`;
+  }).join("") : `<tr><td colspan="9" class="muted">Không có hồ sơ nào khớp bộ lọc.</td></tr>`;
+
+  $("cal").innerHTML = upcoming.length ? upcoming.slice(0, 8).map(r => {
+    const d = new Date(r.appt);
+    return `<div class="it" data-id="${esc(r.id)}"><div class="d">${d.toLocaleDateString("vi-VN", {weekday:"short"})}<b>${pad2(d.getDate())}/${pad2(d.getMonth() + 1)}</b></div>
+      <div><b>${pad2(d.getHours())}:${pad2(d.getMinutes())}</b> · ${esc(r.name)}<br><span class="muted">${esc(r.services.map(no => SVC[no].title).join(", "))}</span></div></div>`;
+  }).join("") : '<p class="muted" style="font-size:.88rem">Chưa có lịch hẹn. Đặt lịch trong phần chi tiết hồ sơ.</p>';
+
+  if (selected) renderDetail();
+}
+
+document.addEventListener("click", e => {
+  const tr = e.target.closest("[data-id]");
+  if (tr && (tr.closest("#rows") || tr.closest("#cal"))){ open(tr.dataset.id); }
+});
+$("rows").addEventListener("keydown", e => { const tr = e.target.closest("[data-id]"); if (tr && e.key === "Enter") open(tr.dataset.id); });
+function open(id){ selected = id; render(); $("detail").scrollIntoView({behavior:"smooth", block:"start"}); }
+
+/* ---------- Chi tiết hồ sơ ---------- */
+function renderDetail(){
+  const r = RECORDS.find(x => x.id === selected);
+  const box = $("detail");
+  if (!r){ box.hidden = true; return; }
+  box.hidden = false;
+  const ev = evaluate(r);
+  const isAdmin = ROLE === "admin";
+  const docSel = d => `<select data-doc="${d.id}" aria-label="Tình trạng ${esc(d.name)}"><option value="">Chưa trả lời</option>${Object.entries(DOC_STATE).map(([v, t]) => `<option value="${v}"${d.state === v ? " selected" : ""}>${t}</option>`).join("")}</select>`;
+
+  const blocks = r.services.map(no => {
+    const s = SVC[no], det = (r.details || {})[no] || {};
+    const sev = evaluate({...r, services:[no], allServices:r.services, combo:null});
+    const info = s.fields.map(([id, label]) => `<div><span>${esc(label)}:</span> ${esc(det[id] || "—")}</div>`).join("");
+    const rows = sev.docs.map(d => `<tr><td>${esc(d.name)}${d.notes.length ? `<br><span class="muted" style="font-size:.8rem">${esc(d.notes.join("; "))}</span>` : ""}</td>
+      <td>${d.need === 1 ? '<span class="pill bad">Bắt buộc</span>' : '<span class="pill neutral">Tùy trường hợp</span>'}</td>
+      <td>${docSel(d)}</td>
+      <td class="why">${d.state === "chua" || !d.state ? `${d.reason ? `<b style="color:var(--seal)">Vì sao thiếu: ${esc(d.reason)}</b><br>` : ""}<b>Lý do:</b> ${esc(d.why)}<br><b>Bổ sung:</b> ${esc(d.where)}` : "—"}</td></tr>`).join("");
+    return `<div class="svc-block"><div class="h"><h3>${pad2(no)}. ${esc(s.title)}${r.combo && COMBO[r.combo]?.free === no ? ' <span class="pill bad">Tặng</span>' : ""}</h3>
+        <div class="acts"><span class="pill ${sev.missing.length ? "bad" : "ok"}">${sev.ready.length}/${sev.required.length} bắt buộc</span><span class="pill neutral">${daysText(s.days)}</span>
+        <button class="btn small" type="button" data-export="${no}">Xuất phiếu gửi đối tác</button></div></div>
+      <div class="info">${info}</div>
+      ${no === 1 && r.family ? (a => `<div style="padding:12px 16px;border-bottom:1px solid var(--line)">${famTreeHtml(r.family, a)}${famResultHtml(r.family, a)}</div>`)(famAnalyze(r.family)) : ""}
+      ${(v => v ? `<div style="padding:12px 16px;border-bottom:1px solid var(--line);overflow-x:auto"><div class="sum-k" style="margin-bottom:6px">Người liên quan</div>${v}</div>` : "")(partyViewHtml({...r, allServices:r.services}, no))}
+      <div style="overflow-x:auto"><table><thead><tr><th>Giấy tờ</th><th>Mức độ</th><th>Tình trạng</th><th>Lý do, cách bổ sung</th></tr></thead><tbody>${rows}</tbody></table></div></div>`;
+  }).join("");
+
+  box.innerHTML = `
+    <div class="d-head">
+      <div><p class="eyebrow">Hồ sơ ${esc(r.id)} · tạo ${esc(r.created)}</p><h2>${esc(r.name)}</h2>
+        <p class="muted"><span class="mono">${esc(r.phone)}</span>${r.email ? " · " + esc(r.email) : ""} · Gọi: ${esc(r.callTime || "—")} · ${r.consent ? "Đồng ý nhận email" : "Không nhận email"}</p>
+        <p class="muted">${esc([r.address, r.ward, r.province].filter(Boolean).join(", ") || "Chưa ghi địa chỉ")}</p></div>
+      <div class="acts">
+        <button class="btn ghost small" type="button" id="copyPhone">Sao chép SĐT</button>
+        <button class="btn ghost small" type="button" id="copyZalo">Sao chép tin nhắn Zalo</button>
+        <button class="btn small" type="button" data-export="all">Xuất toàn bộ hồ sơ</button>
+      </div>
+    </div>
+    ${r.note ? `<div class="notice" style="background:var(--paper);color:var(--ink)"><b>Khách ghi:</b> ${esc(r.note)}</div>` : ""}
+    <div class="facts">
+      <div><div class="k">Phí dự kiến</div><div class="v">${esc(priceText(ev.price.min, ev.price.max))}</div></div>
+      <div><div class="k">Thời gian dự kiến</div><div class="v">${daysText(ev.days)}</div></div>
+      <div><div class="k">Giấy tờ bắt buộc</div><div class="v">${ev.ready.length}/${ev.required.length} · đã cung cấp ${ev.provided.length}</div></div>
+      <div><div class="k">Combo</div><div class="v">${ev.combo ? esc(ev.combo.name) : "Không"}</div></div>
+      ${r.lawyer ? `<div style="grid-column:1/-1"><div class="k">Luật sư khách chọn</div><div class="v">${esc(lawyerText(r))}</div></div>` : ""}
+      <div style="grid-column:1/-1"><div class="k">Chuyển khoản · ${esc(r.payStatus || "Chưa thanh toán")}${payAmount(r) ? " · " + money(payAmount(r)) : ""}</div><div class="v mono">${esc(transferContent(r))}</div></div>
+      <div style="grid-column:1/-1"><div class="k">Cách nộp hồ sơ · khách sống tại ${esc(r.live || r.province || "—")}</div><div class="v">${esc(visitText(r))}${r.office && OFFICE[r.office] ? ` · <a href="${mapLink(OFFICE[r.office])}" target="_blank" rel="noopener">Chỉ đường</a>` : ""}</div></div>
+    </div>
+    ${ev.missing.length ? `<div class="notice" style="background:var(--seal-soft);color:var(--seal)"><b>Còn thiếu ${ev.missing.length} giấy tờ bắt buộc:</b> ${esc(ev.missing.map(d => d.name).join("; "))}</div>` : ""}
+    <div class="d-grid">
+      <label class="f" for="e_status">Trạng thái<select id="e_status">${STATUSES.map(s => `<option${r.status === s ? " selected" : ""}>${esc(s)}</option>`).join("")}</select></label>
+      <label class="f" for="e_appt">Lịch hẹn<input id="e_appt" type="datetime-local" value="${esc(r.appt || "")}"></label>
+      <label class="f" for="e_partner">Giao cho đối tác<select id="e_partner"${isAdmin ? "" : " disabled"}><option value="">Chưa giao</option>${PROVINCES.filter(pv => OFFICES.some(o => o.province === pv && o.type !== "vmp")).map(pv => `<optgroup label="${esc(pv)}">${OFFICES.filter(o => o.province === pv && o.type !== "vmp").map(o => `<option${r.partner === o.name ? " selected" : ""}>${esc(o.name)}</option>`).join("")}</optgroup>`).join("")}${r.partner && !PARTNER_NAMES.includes(r.partner) ? `<option selected>${esc(r.partner)}</option>` : ""}</select></label>
+      <label class="f" for="e_pay">Thanh toán<select id="e_pay"${isAdmin ? "" : " disabled"}>${PAY_STATES.map(s => `<option${(r.payStatus || "Chưa thanh toán") === s ? " selected" : ""}>${esc(s)}</option>`).join("")}</select></label>
+      <label class="f" for="e_note">Ghi chú nội bộ<input id="e_note" value="${esc(r.staffNote || "")}" placeholder="Hẹn nhận bản gốc sổ đỏ..."></label>
+    </div>
+    <div class="acts"><button class="btn" type="button" id="save">Lưu thay đổi</button><span class="muted" id="saveMsg" style="align-self:center;font-size:.88rem"></span></div>
+    ${blocks}`;
+
+  box.querySelectorAll("[data-doc]").forEach(sel => sel.addEventListener("change", () => {
+    if (sel.dataset.doc.includes("|")) setPersonDoc(r, sel.dataset.doc, sel.value); else r.docs = {...(r.docs || {}), [sel.dataset.doc]: sel.value};
+    dirty(r);
+  }));
+  ["e_status", "e_appt", "e_partner", "e_pay", "e_note"].forEach(id => $(id).addEventListener("input", () => $("saveMsg").textContent = "Có thay đổi chưa lưu."));
+  $("save").onclick = () => save(r);
+  $("copyPhone").onclick = () => copy(r.phone);
+  $("copyZalo").onclick = () => copy(zaloText(r));
+}
+
+function dirty(r){ renderDetail(); $("saveMsg").textContent = "Có thay đổi chưa lưu."; }
+
+async function save(r){
+  r.status = $("e_status").value; r.appt = $("e_appt").value; r.staffNote = $("e_note").value.trim();
+  if (ROLE === "admin"){ r.partner = $("e_partner").value; r.payStatus = $("e_pay").value; }
+  r.updated = new Date().toLocaleString("vi-VN");
+  $("saveMsg").textContent = "Đang lưu...";
+  try {
+    if (!r.sample) await api("update", {code: CODE, record: r});
+    $("saveMsg").textContent = r.sample ? "Đã lưu tạm (hồ sơ mẫu không ghi vào dữ liệu)." : "Đã lưu lúc " + r.updated + ".";
+    const keepMsg = $("saveMsg").textContent;
+    render(); $("saveMsg").textContent = keepMsg;
+  } catch(e){ $("saveMsg").textContent = "Chưa lưu được: " + e.message + ". Bấm Lưu lại."; }
+}
+
+async function copy(text){
+  try { await navigator.clipboard.writeText(text); toast("Đã sao chép."); }
+  catch(e){
+    const ta = document.createElement("textarea"); ta.value = text; document.body.appendChild(ta); ta.select();
+    try { document.execCommand("copy"); toast("Đã sao chép."); } catch(_){ toast("Trình duyệt không cho sao chép, hãy chọn và sao chép thủ công."); }
+    ta.remove();
+  }
+}
+
+/* ---------- Xuất file ---------- */
+document.addEventListener("click", async e => {
+  const b = e.target.closest("[data-export]"); if (!b) return;
+  const r = RECORDS.find(x => x.id === selected); if (!r) return;
+  const one = b.dataset.export === "all" ? null : Number(b.dataset.export);
+  const name = one ? `Phieu-${r.id}-DV${pad2(one)}-${slug(SVC[one].title)}-${slug(r.name)}.doc` : `Ho-so-${r.id}-${slug(r.name)}.doc`;
+  const ok = await saveFile(name, buildSheet(r, one, one ? "partner" : "admin"), "application/msword");
+  if (!ok) toast("Chưa xuất được file.");
+});
+
+$("exportCsv").addEventListener("click", async () => {
+  const head = ["Mã hồ sơ","Ngày tạo","Trạng thái","Họ tên","SĐT","Email","Địa chỉ","Dịch vụ","Combo","Giấy tờ bắt buộc đã đủ","Đã cung cấp","Đã có (chưa nộp)","Còn thiếu","Phí dự kiến","Thời gian dự kiến","Cách nộp hồ sơ","Luật sư","Thanh toán","Nội dung CK","Lịch hẹn","Đối tác","Khách ghi","Ghi chú nội bộ"];
+  const q = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const lines = filtered().map(r => {
+    const ev = evaluate(r);
+    return [r.id, r.created, r.status, r.name, "'" + r.phone, r.email, [r.address, r.ward, r.province].filter(Boolean).join(", "),
+      r.services.map(no => pad2(no) + ". " + SVC[no].title).join("; "), r.combo ? COMBO[r.combo]?.name : "",
+      ev.ready.length + "/" + ev.required.length, ev.provided.map(d => d.name).join("; "), ev.have.map(d => d.name).join("; "),
+      ev.missing.map(d => d.name).join("; "), priceText(ev.price.min, ev.price.max), daysText(ev.days), visitText(r), lawyerText(r), r.payStatus || "Chưa thanh toán", transferContent(r), apptText(r.appt), r.partner, r.note, r.staffNote].map(q).join(",");
+  });
+  const ok = await saveFile(`Danh-sach-ho-so-${new Date().toISOString().slice(0, 10)}.csv`, [head.map(q).join(","), ...lines].join("\r\n"), "text/csv");
+  if (!ok) toast("Chưa xuất được file.");
+});
+$("reload").addEventListener("click", () => load().catch(err => toast("Không tải được: " + err.message)));
+
+function toast(msg){
+  const t = document.createElement("div"); t.className = "toast"; t.textContent = msg;
+  document.body.appendChild(t); setTimeout(() => t.remove(), 3000);
+}
+
+/* ---------- Khởi động ---------- */
+async function start(){
+  if (!CONFIG.ENDPOINT){ $("demoNote").hidden = false; $("app").hidden = false; await load(); return; }
+  try { CODE = sessionStorage.getItem("hoso_code") || ""; } catch(e){}
+  if (CODE){ try { await load(); $("app").hidden = false; return; } catch(e){ CODE = ""; } }
+  $("login").hidden = false;
+}
+$("login").addEventListener("submit", async e => {
+  e.preventDefault();
+  CODE = $("f_code").value.trim();
+  if (!CODE){ $("e_code").textContent = "Nhập mã truy cập được cấp."; return; }
+  try {
+    await load();
+    try { sessionStorage.setItem("hoso_code", CODE); } catch(_){}
+    $("login").hidden = true; $("app").hidden = false;
+  } catch(err){ $("e_code").textContent = "Mã không đúng hoặc đã bị thu hồi. Liên hệ chủ hồ sơ để được cấp mã."; }
+});
+start();
+</script>
