@@ -112,6 +112,7 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - ✅ `bang_gia_dat_nam_2026` (01/01–31/12/2026, bản đúng) · `bang_gia_dat_nam_2025`.
 
 ### B6. Văn bản lịch sử (📜 hết hiệu lực — chỉ tra nguồn gốc, quyền theo thời điểm)
+- 📜 `bang_gia_dat_ha_noi_2013_qd51_2012` (**QĐ 51/2012/QĐ-UBND HN** ngày 28/12/2012 — bảng giá đất **năm 2013**, đầy đủ quy định + Bảng 1–10 + phụ lục phân loại xã; giá đất ở/SXKD theo VT1–VT4 từng đường phố). Dùng tra giá đất lịch sử (tính tiền SDĐ cũ, so sánh tăng giá, làm nội dung). ⚠️ Kho CHƯA có bảng giá 2020–2024 (QĐ 30/2019/QĐ-UBND): file khách gửi tên "2020 den 2024" thực chất là bản rút gọn của QĐ 51/2012, không lưu.
 - 📜 `nghi_dinh_45_2014_thu_tien_su_dung_dat` (NĐ 45/2014 — Điều 16 gốc: ai cũng được ghi nợ khi cấp GCN/chuyển mục đích, hạn 5 năm, quá hạn trả theo giá đất lúc trả nợ) · 📜 `nghi_dinh_79_2019_sua_doi_ghi_no_tien_sdd` (NĐ 79/2019, hiệu lực 10/12/2019 — chỉ còn ghi nợ cho TÁI ĐỊNH CƯ thuộc người có công/hộ nghèo/DTTS/vùng khó khăn; quá 5 năm → tiền chậm nộp; Điều 2 chuyển tiếp: nợ trước 01/3/2016 hạn chót 28/02/2021, nợ 01/3/2016–09/12/2019 quá 5 năm → giá đất lúc trả nợ). Dùng để tra sổ ghi nợ cũ; hiện hành xem NĐ 103/2024 khoản 3 điều khoản chuyển tiếp.
 - 📜 `luat_dat_dai_1987` (3-LCT/HĐNN8, 57 Điều) · `luat_dat_dai_1993` (24-L/CTN, hiệu lực 15/10/1993, 89 Điều) · `luat_dat_dai_2003` (13/2003/QH11, hiệu lực 01/7/2004, 146 Điều) · `luat_dat_dai_2013` (45/2013/QH13, hiệu lực 01/7/2014, 212 Điều).
 - 📜 `hien_phap_1980`.
@@ -135,6 +136,8 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - Tên file có dấu tiếng Việt có thể khác chuẩn Unicode (NFC/NFD) → khi copy bằng PowerShell nên dùng `Get-ChildItem` lấy đường dẫn thật thay vì gõ tên.
 
 ---
+
+- 2026-10-07: file "bang gia dat ha noi 2020 den 2024.txt" thực chứa QĐ 51/2012 (giá năm 2013, chỉ phần quy định, không có bảng) — trùng, không nạp.
 
 ## PHẦN D — QUY TRÌNH NẠP VĂN BẢN MỚI (làm đúng thứ tự để kho luôn dễ tra)
 1. **Nhận file:** ưu tiên `.txt` người dùng tự lưu từ Word (Save as → Plain Text → Unicode UTF-8) hoặc `.docx` gốc. Người dùng ở điện thoại: gửi file vào Zalo "Cloud của tôi" → tải về Desktop hoặc `D:\luat dat dai 2024\`.
@@ -161,3 +164,4 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - 2026-10-06: nạp gộp NĐ 49/2026 + NQ 52/2025/NQ-HĐND + QĐ 55, 56/2024 HN. Ghi nhận: Luật Đất đai 2024 đã bị sửa bởi các Luật 43, 47, 58/2024 và 71, 84, 93, 95/2025 — kho CHƯA có bản hợp nhất.
 - 2026-10-06: nạp Luật Đất đai hợp nhất 44/VBHN-VPQH (16/3/2026); bản đồ chủ đề Phần A chuyển sang trỏ file hợp nhất.
 - 2026-10-07: nạp gộp 5 văn bản TANDTC về thừa kế, hôn nhân, tố tụng (CV 250/2026, NQ 02/1990, 04/2017, 02/2020, 01/2024).
+- 2026-10-07: nạp bảng giá đất HN năm 2013 (QĐ 51/2012) vào mục lịch sử.
