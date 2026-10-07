@@ -114,6 +114,7 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - ✅ `bang_gia_dat_nam_2026` (01/01–31/12/2026, bản đúng) · `bang_gia_dat_nam_2025`.
 
 ### B6. Văn bản lịch sử (📜 hết hiệu lực — chỉ tra nguồn gốc, quyền theo thời điểm)
+- 📜 `bang_gia_dat_ha_noi_2007_2008_2010_qd242_2006_qd150_2007_qd124_2009` — GỘP (dò dòng): **QĐ 242/2006/QĐ-UBND** (dòng 5, giá đất **năm 2007**) · **QĐ 150/2007/QĐ-UBND** (dòng 298, giá đất **năm 2008**) · **QĐ 124/2009/QĐ-UBND** (dòng 4677, giá đất **năm 2010**, sau sáp nhập Hà Tây). Còn thiếu năm 2009, 2011, 2012, 2014.
 - 📜 `bang_gia_dat_ha_noi_2020_2024_qd30_2019` (**QĐ 30/2019/QĐ-UBND** ngày 31/12/2019 — quy định và bảng giá đất **01/01/2020–31/12/2024**). Mốc quan trọng: giá tính các hồ sơ, thông báo thuế, ghi nợ, bồi thường giai đoạn 2020–2024.
 - 📜 `bang_gia_dat_ha_noi_2005_2006_qd72_2005_qd05_2006` — GỘP **QĐ 72/2005/QĐ-UB** (dòng 5, bổ sung phụ lục giá đất 2005 của QĐ 199/2004) + **QĐ 05/2006/QĐ-UBND** (dòng 62, **bảng giá đất năm 2006**, VT1–VT4). Hà Nội cũ (trước sáp nhập Hà Tây 2008). Chưa có các năm 2007–2009.
 - 📜 `bang_gia_dat_ha_noi_2015_2019_qd96_2014` (**QĐ 96/2014/QĐ-UBND** ngày 29/12/2014 — bảng giá đất **01/01/2015–31/12/2019**, có thêm cột giá đất thương mại dịch vụ). Chưa có năm 2014 (QĐ 63/2013).
@@ -173,3 +174,4 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - 2026-10-08: nạp Pháp lệnh 02/2020 + NĐ 131/2021 ưu đãi người có công.
 - 2026-10-08: nạp bảng giá đất HN 2005–2006 (QĐ 72/2005, 05/2006) và 2015–2019 (QĐ 96/2014).
 - 2026-10-08: nạp bảng giá đất HN 2020–2024 (QĐ 30/2019).
+- 2026-10-08: nạp bảng giá đất HN 2007, 2008, 2010 (QĐ 242/2006, 150/2007, 124/2009).
