@@ -1,0 +1,236 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Phiếu Góp Ý Giá</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700;800&family=Be+Vietnam+Pro:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+<style>
+.bar{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:env(safe-area-inset-top,0px);z-index:10}
+.bar .wrap{display:flex;justify-content:space-between;align-items:center;gap:10px;padding-block:10px}
+.bar h1{font-size:1.1rem;font-weight:800}
+main.wrap{display:grid;gap:18px;padding-block:18px 120px;max-width:760px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:12px}
+.card h2{font-size:1.1rem}
+.intro{font-size:.92rem;color:var(--muted)}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.grp{font:600 .72rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:6px}
+details.sv{border:1px solid var(--line);border-radius:8px;background:var(--paper)}
+details.sv[open]{background:var(--card)}
+details.sv summary{cursor:pointer;padding:12px 14px;display:flex;justify-content:space-between;gap:10px;align-items:center;font-weight:600;font-size:.95rem;list-style:none}
+details.sv summary::-webkit-details-marker{display:none}
+details.sv summary .now{font:400 .78rem var(--f-mono);color:var(--muted);text-align:right;white-space:nowrap}
+details.sv .body{padding:0 14px 14px;display:grid;gap:10px}
+details.sv .cur{font-size:.82rem;color:var(--muted);background:var(--paper);border-radius:6px;padding:8px 10px}
+details.sv.filled summary{color:var(--green)}
+details.sv.filled summary::after{content:"Đã ghi";font:600 .72rem var(--f-body);background:var(--green-soft);color:var(--green);border-radius:999px;padding:2px 8px}
+.dock{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--card);border-top:1px solid var(--line);padding:10px 16px calc(10px + env(safe-area-inset-bottom,0px));display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.dock .btn{flex:1;min-width:120px;max-width:240px;padding:10px 12px}
+.saved li{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:8px 0;border-top:1px solid var(--line);font-size:.9rem}
+.saved ul{list-style:none;margin:0;padding:0}
+@media (max-width:480px){ .row2{grid-template-columns:1fr} }
+</style>
+
+<div class="bar"><div class="wrap"><h1>Phiếu góp ý giá · <span data-cfg="BRAND"></span></h1><a class="btn ghost small" href="index.html">Xem trang</a></div></div>
+
+<main class="wrap">
+  <p class="intro">Dùng khi đi hỏi ý kiến các đơn vị. Mỗi người góp ý là một phiếu. Ghi xong bấm <b>Lưu phiếu</b>, rồi bấm <b>Phiếu mới</b> cho người tiếp theo. Cuối buổi bấm <b>Gửi Zalo</b> hoặc <b>Tải file</b> để gửi tổng hợp. Phiếu lưu trên điện thoại này, không mất khi tắt trình duyệt.</p>
+
+  <section class="card">
+    <h2>Người góp ý</h2>
+    <div class="row2">
+      <label class="f" for="p_name">Họ tên<input id="p_name" placeholder="Anh Hùng"></label>
+      <label class="f" for="p_org">Đơn vị<input id="p_org" placeholder="Văn phòng công chứng ABC"></label>
+    </div>
+    <div class="row2">
+      <label class="f" for="p_phone">Số điện thoại<input id="p_phone" type="tel" inputmode="tel" placeholder="0912 345 678"></label>
+      <label class="f" for="p_role">Vai trò<select id="p_role"><option>Đơn vị có thể nhận làm dịch vụ</option><option>Chuyên gia, người trong nghề</option><option>Khách hàng tiềm năng</option><option>Khác</option></select></label>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Thông tin văn phòng</h2>
+    <p class="intro">Ghi để đưa văn phòng này vào danh sách cho khách chọn khi muốn đến nộp hồ sơ. Đang đứng tại văn phòng thì bấm <b>Lấy vị trí tại đây</b> để lưu tọa độ.</p>
+    <div class="row2">
+      <label class="f" for="p_type">Loại văn phòng<select id="p_type"><option value="">Chọn</option></select></label>
+      <label class="f" for="p_prov">Tỉnh, thành phố<select id="p_prov"><option value="">Chọn</option></select></label>
+    </div>
+    <label class="f" for="p_addr">Địa chỉ văn phòng<input id="p_addr" placeholder="Số 10 phố Trần Duy Hưng, phường Yên Hòa"></label>
+    <div class="row2">
+      <label class="f" for="p_hours">Giờ làm việc<input id="p_hours" placeholder="Thứ 2 – Thứ 7, 8h – 17h"></label>
+      <label class="f" for="p_svcs">Dịch vụ họ nhận làm (số)<input id="p_svcs" inputmode="numeric" placeholder="1, 3, 15"></label>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center">
+      <button class="btn ghost small" type="button" id="geo">Lấy vị trí tại đây</button>
+      <span class="mono muted" id="geoTxt" style="font-size:.85rem"></span>
+      <input id="p_geo" type="hidden">
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Giá và thời gian từng dịch vụ</h2>
+    <p class="intro">Bấm vào dịch vụ họ biết để ghi. Không cần ghi hết 18 dịch vụ. Tiền ghi kiểu nào cũng được: 3 triệu, 3.000.000...</p>
+    <div id="svcs" style="display:grid;gap:8px"></div>
+  </section>
+
+  <section class="card">
+    <h2>Góp ý vận hành</h2>
+    <label class="f" for="q_combo">Combo nào hợp lý, nên sửa hay thêm combo gì?<textarea id="q_combo"></textarea></label>
+    <label class="f" for="q_nhan">Muốn nhận hồ sơ khách chuyển sang bằng cách nào?<select id="q_nhan"><option value="">Chọn</option><option>Phiếu Word gửi qua Zalo</option><option>Truy cập trực tiếp trang quản lý hồ sơ</option><option>Gọi điện trao đổi</option><option>Cách khác (ghi ở dưới)</option></select></label>
+    <label class="f" for="q_chia">Cách chia phí, hoa hồng đề xuất<textarea id="q_chia" placeholder="Ví dụ: 10% phí dịch vụ cho bên giới thiệu"></textarea></label>
+    <label class="f" for="q_giayto">Giấy tờ nào trong danh sách bị thiếu, thừa hoặc sai?<textarea id="q_giayto"></textarea></label>
+    <label class="f" for="q_khac">Góp ý khác về trang và cách làm việc<textarea id="q_khac"></textarea></label>
+  </section>
+
+  <section class="card">
+    <h2>Phiếu đã lưu trên điện thoại này</h2>
+    <div class="saved"><ul id="saved"></ul></div>
+    <div class="acts" style="display:flex;flex-wrap:wrap;gap:8px">
+      <button class="btn ghost small" type="button" id="copyAll">Sao chép tất cả để gửi Zalo</button>
+      <button class="btn ghost small" type="button" id="csvAll">Tải tất cả (.csv mở bằng Excel)</button>
+    </div>
+  </section>
+</main>
+
+<div class="dock">
+  <button class="btn" type="button" id="save">Lưu phiếu</button>
+  <button class="btn ghost" type="button" id="zalo">Gửi Zalo</button>
+  <button class="btn ghost" type="button" id="new">Phiếu mới</button>
+</div>
+
+<script src="data.js"></script>
+<script src="common.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+document.querySelectorAll("[data-cfg]").forEach(el => el.textContent = CONFIG[el.dataset.cfg]);
+const KEY = "gopy_v1", DRAFT = "gopy_draft_v1";
+const F = [["min","Phí thấp nhất"],["max","Phí cao nhất"],["days","Thời gian thực tế"],["extra","Chi phí chưa gồm (thuế, phí...)"],["note","Góp ý giấy tờ, quy trình"]];
+const GEN = ["p_name","p_org","p_phone","p_role","p_type","p_prov","p_addr","p_hours","p_svcs","p_geo","q_combo","q_nhan","q_chia","q_giayto","q_khac"];
+$("p_type").insertAdjacentHTML("beforeend", Object.entries(OFFICE_TYPES).filter(([k]) => k !== "vmp").map(([k, t]) => `<option value="${k}">${esc(t.name)}</option>`).join(""));
+$("p_prov").insertAdjacentHTML("beforeend", PROVINCES.map(p => `<option>${esc(p)}</option>`).join(""));
+const showGeo = () => $("geoTxt").textContent = $("p_geo").value ? "Đã lưu: " + $("p_geo").value : "";
+$("geo").onclick = () => {
+  if (!navigator.geolocation){ toast("Điện thoại không hỗ trợ lấy vị trí."); return; }
+  $("geoTxt").textContent = "Đang lấy vị trí...";
+  navigator.geolocation.getCurrentPosition(p => {
+    $("p_geo").value = p.coords.latitude.toFixed(6) + ", " + p.coords.longitude.toFixed(6);
+    showGeo(); document.dispatchEvent(new Event("input")); toast("Đã lưu vị trí văn phòng.");
+  }, () => { $("geoTxt").textContent = "Chưa lấy được. Bật định vị và cho phép trình duyệt dùng vị trí."; }, {enableHighAccuracy:true, timeout:15000});
+};
+
+let html = "";
+GROUPS.forEach((g, gi) => {
+  html += `<div class="grp">${esc(g)}</div>`;
+  SERVICES.filter(s => s.g === gi).forEach(s => {
+    const p = PRICE[s.no] || {};
+    html += `<details class="sv" id="sv_${s.no}"><summary><span>${pad2(s.no)}. ${esc(s.title)}</span><span class="now">${daysText(s.days)}</span></summary><div class="body">
+      <div class="cur">Trang đang ghi: phí ${esc(priceText(p.min, p.max))} · thời gian ${daysText(s.days)} · chưa gồm: ${esc(s.extra)}</div>
+      <div class="row2">
+        <label class="f" for="s_${s.no}_min">Phí thấp nhất<input id="s_${s.no}_min" inputmode="decimal" placeholder="3 triệu"></label>
+        <label class="f" for="s_${s.no}_max">Phí cao nhất<input id="s_${s.no}_max" inputmode="decimal" placeholder="8 triệu"></label>
+      </div>
+      <label class="f" for="s_${s.no}_days">Thời gian thực tế<input id="s_${s.no}_days" placeholder="20–30 ngày"></label>
+      <label class="f" for="s_${s.no}_extra">Chi phí chưa gồm<input id="s_${s.no}_extra" placeholder="${esc(s.extra)}"></label>
+      <label class="f" for="s_${s.no}_note">Góp ý giấy tờ, quy trình<textarea id="s_${s.no}_note"></textarea></label>
+    </div></details>`;
+  });
+});
+$("svcs").innerHTML = html;
+
+function read(){
+  const e = {time: new Date().toLocaleString("vi-VN"), services: {}};
+  GEN.forEach(id => e[id] = $(id).value.trim());
+  SERVICES.forEach(s => {
+    const o = {}; F.forEach(([k]) => { const v = $(`s_${s.no}_${k}`).value.trim(); if (v) o[k] = v; });
+    if (Object.keys(o).length) e.services[s.no] = o;
+  });
+  return e;
+}
+function fill(e){
+  GEN.forEach(id => $(id).value = e?.[id] || "");
+  SERVICES.forEach(s => F.forEach(([k]) => $(`s_${s.no}_${k}`).value = e?.services?.[s.no]?.[k] || ""));
+  marks(); showGeo();
+}
+function marks(){ SERVICES.forEach(s => $("sv_" + s.no).classList.toggle("filled", F.some(([k]) => $(`s_${s.no}_${k}`).value.trim()))); }
+
+const load = () => { try { return JSON.parse(localStorage.getItem(KEY) || "[]"); } catch(e){ return []; } };
+const store = list => { try { localStorage.setItem(KEY, JSON.stringify(list)); return true; } catch(e){ return false; } };
+let editing = null;
+
+document.addEventListener("input", () => { marks(); try { localStorage.setItem(DRAFT, JSON.stringify({editing, e: read()})); } catch(e){} });
+
+function text(e){
+  let t = `GÓP Ý – ${e.p_name || "(chưa ghi tên)"}${e.p_org ? " – " + e.p_org : ""}${e.p_phone ? " – " + e.p_phone : ""}\n${e.p_role} · ${e.time}\n`;
+  if (e.p_type || e.p_prov || e.p_addr){
+    t += `Văn phòng: ${e.p_type ? OFFICE_TYPES[e.p_type].name : ""} · ${e.p_prov || ""} · ${e.p_addr || ""}${e.p_hours ? " · " + e.p_hours : ""}${e.p_svcs ? " · nhận DV " + e.p_svcs : ""}${e.p_geo ? "\nTọa độ: " + e.p_geo + " (https://maps.google.com/?q=" + e.p_geo.replace(/\s/g, "") + ")" : ""}\n`;
+  }
+  Object.entries(e.services).forEach(([no, o]) => {
+    t += `\n${pad2(no)}. ${SVC[no].title}\n`;
+    F.forEach(([k, label]) => { if (o[k]) t += `  - ${label}: ${o[k]}\n`; });
+  });
+  [["q_combo","Combo"],["q_nhan","Nhận hồ sơ qua"],["q_chia","Chia phí"],["q_giayto","Giấy tờ"],["q_khac","Khác"]].forEach(([k, l]) => { if (e[k]) t += `\n${l}: ${e[k]}`; });
+  return t.trim();
+}
+
+function renderSaved(){
+  const list = load();
+  $("saved").innerHTML = list.length ? list.map((e, i) => `<li><span><b>${esc(e.p_name || "(chưa ghi tên)")}</b> · ${esc(e.p_org || "")}<br><span class="muted" style="font-size:.8rem">${Object.keys(e.services).length} dịch vụ · ${esc(e.time)}</span></span><span style="display:flex;gap:6px"><button class="btn ghost small" type="button" data-edit="${i}">Mở</button><button class="btn ghost small" type="button" data-del="${i}">Xóa</button></span></li>`).join("")
+    : '<li class="muted">Chưa có phiếu nào.</li>';
+}
+$("saved").addEventListener("click", e => {
+  const ed = e.target.closest("[data-edit]"), del = e.target.closest("[data-del]");
+  const list = load();
+  if (ed){ editing = Number(ed.dataset.edit); fill(list[editing]); window.scrollTo({top:0}); toast("Đang sửa phiếu của " + (list[editing].p_name || "người góp ý")); }
+  if (del){
+    if (del.dataset.confirm !== "1"){ del.dataset.confirm = "1"; del.textContent = "Bấm lần nữa để xóa"; return; }
+    list.splice(Number(del.dataset.del), 1); store(list); editing = null; renderSaved(); toast("Đã xóa phiếu.");
+  }
+});
+
+$("save").onclick = () => {
+  const e = read();
+  if (!e.p_name && !e.p_org){ toast("Ghi tên hoặc đơn vị người góp ý trước khi lưu."); $("p_name").focus(); return; }
+  const list = load();
+  if (editing != null && list[editing]) list[editing] = e; else { list.push(e); editing = list.length - 1; }
+  toast(store(list) ? "Đã lưu phiếu của " + (e.p_name || e.p_org) + "." : "Trình duyệt không cho lưu. Hãy bấm Gửi Zalo để giữ nội dung.");
+  renderSaved();
+};
+$("new").onclick = () => {
+  editing = null; fill(null); try { localStorage.removeItem(DRAFT); } catch(e){}
+  window.scrollTo({top:0}); toast("Phiếu mới. Các phiếu cũ vẫn nằm trong danh sách đã lưu.");
+};
+
+async function copy(t){
+  try { await navigator.clipboard.writeText(t); return true; }
+  catch(e){ const ta = document.createElement("textarea"); ta.value = t; document.body.appendChild(ta); ta.select(); let ok = false; try { ok = document.execCommand("copy"); } catch(_){} ta.remove(); return ok; }
+}
+$("zalo").onclick = async () => {
+  const ok = await copy(text(read()));
+  toast(ok ? "Đã sao chép phiếu này. Mở Zalo, dán vào tin nhắn." : "Không sao chép được, hãy chụp màn hình phiếu.");
+  if (ok && navigator.share) { try { await navigator.share({text: text(read())}); } catch(e){} }
+};
+$("copyAll").onclick = async () => {
+  const list = load(); if (!list.length){ toast("Chưa có phiếu nào được lưu."); return; }
+  toast(await copy(list.map(text).join("\n\n==========\n\n")) ? `Đã sao chép ${list.length} phiếu. Dán vào Zalo để gửi.` : "Không sao chép được.");
+};
+$("csvAll").onclick = async () => {
+  const list = load(); if (!list.length){ toast("Chưa có phiếu nào được lưu."); return; }
+  const q = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const head = ["Thời gian","Người góp ý","Đơn vị","SĐT","Vai trò","Loại văn phòng","Tỉnh","Địa chỉ","Giờ làm việc","Nhận DV","Tọa độ","Số DV","Dịch vụ","Phí thấp nhất","Phí cao nhất","Thời gian thực tế","Chưa gồm","Góp ý DV","Combo","Nhận hồ sơ qua","Chia phí","Giấy tờ","Khác"];
+  const rows = [];
+  list.forEach(e => {
+    const base = [e.time, e.p_name, e.p_org, "'" + (e.p_phone || ""), e.p_role, e.p_type ? OFFICE_TYPES[e.p_type].name : "", e.p_prov, e.p_addr, e.p_hours, e.p_svcs, e.p_geo];
+    const tail = [e.q_combo, e.q_nhan, e.q_chia, e.q_giayto, e.q_khac];
+    const svs = Object.entries(e.services);
+    if (!svs.length) rows.push([...base, "", "", "", "", "", "", "", ...tail]);
+    svs.forEach(([no, o]) => rows.push([...base, pad2(no), SVC[no].title, o.min, o.max, o.days, o.extra, o.note, ...tail]));
+  });
+  const ok = await saveFile(`Gop-y-gia-${new Date().toISOString().slice(0, 10)}.csv`, [head, ...rows].map(r => r.map(q).join(",")).join("\r\n"), "text/csv");
+  if (!ok) toast("Chưa tải được file. Hãy dùng nút Sao chép tất cả.");
+};
+
+function toast(msg){ const t = document.createElement("div"); t.className = "toast"; t.textContent = msg; document.body.appendChild(t); setTimeout(() => t.remove(), 3200); }
+
+try { const d = JSON.parse(localStorage.getItem(DRAFT) || "null"); if (d){ editing = d.editing; fill(d.e); } } catch(e){}
+renderSaved();
+</script>

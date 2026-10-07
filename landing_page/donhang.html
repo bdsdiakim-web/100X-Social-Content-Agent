@@ -1,0 +1,96 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Đơn Báo Cáo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700;800&family=Be+Vietnam+Pro:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+<style>
+main{padding-block:28px 60px;display:grid;gap:18px}
+.top{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between}
+.stats{display:flex;flex-wrap:wrap;gap:12px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;min-width:130px}
+.stat b{display:block;font:800 1.6rem var(--f-display)}
+.stat span{font-size:.8rem;color:var(--muted)}
+.box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;display:grid;gap:12px;max-width:440px}
+.acts{display:flex;flex-wrap:wrap;gap:6px}
+.msg{font-size:.85rem;color:var(--green);white-space:pre-wrap}
+.filters{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.filters select,.filters input{width:auto}
+</style>
+<main class="wrap">
+  <div class="top"><h2>Đơn báo cáo 100k (thừa kế, sổ đỏ)</h2><a href="admin.html">← Sổ hồ sơ khách hàng</a></div>
+  <p class="errmsg" id="demo" hidden style="background:var(--seal-soft);color:var(--seal);padding:10px 14px;border-radius:8px">Chưa nối Google Sheet (CONFIG.ENDPOINT trống): trang này chỉ hiện khi đã nối máy chủ.</p>
+  <div class="box" id="login" hidden>
+    <label class="f">Mã truy cập quản lý<input id="code" type="password" autocomplete="current-password"></label>
+    <div><button class="btn" id="loginBtn" type="button">Vào</button></div>
+    <p class="err" id="loginErr"></p>
+  </div>
+  <div id="app" hidden style="display:grid;gap:18px">
+    <div class="stats" id="stats"></div>
+    <div class="filters">
+      <select id="fPkg"><option value="">Mọi gói</option><option value="thuake">Hồ sơ thừa kế</option><option value="sodo">Hồ sơ sổ đỏ</option></select>
+      <select id="fSt"><option value="">Tất cả</option><option>Chờ thanh toán</option><option>Đã mở khóa</option></select>
+      <input id="fQ" placeholder="Tìm tên, SĐT, mã">
+      <button class="btn ghost small" id="reload" type="button">Làm mới</button>
+    </div>
+    <p class="muted" style="font-size:.88rem">Đối chiếu nội dung chuyển khoản trên app ngân hàng (dạng <b>VMP TK… SĐT</b>) rồi bấm <b>Đã nhận tiền</b>. Hệ thống mở khóa 30 ngày, tự gửi email nếu khách có email; bấm <b>Chép tin Zalo</b> để gửi link cho khách.</p>
+    <div class="table-box"><table><thead><tr><th>Mã · ngày</th><th>Khách</th><th>Nội dung CK</th><th>Trạng thái</th><th>Đã xem</th><th></th></tr></thead><tbody id="rows"></tbody></table></div>
+  </div>
+</main>
+<script src="data.js"></script>
+<script src="common.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+let CODE = "", ORDERS = [];
+const d = s => s ? new Date(s).toLocaleString("vi-VN", {dateStyle:"short", timeStyle:"short"}) : "";
+const linkOf = o => location.origin + location.pathname.replace(/donhang\.html$/, "") + (o.pkg === "sodo" ? "sodo.html" : "thuake.html") + "?ma=" + o.id;
+const zaloMsg = o => `${CONFIG.BRAND} đã nhận ${Number(o.amount).toLocaleString("vi-VN")}đ. Anh/chị mở link sau, nhập số điện thoại ${o.phone} để dùng gói ${o.pkgName || "báo cáo"} trong 30 ngày:\n${linkOf(o)}\nCần hỗ trợ gọi ${CONFIG.PHONE}.`;
+
+async function load(){
+  const out = await api("tk_orders", {code: CODE});
+  ORDERS = out.orders || []; render();
+}
+function render(){
+  const st = $("fSt").value, pk = $("fPkg").value, q = $("fQ").value.trim().toLowerCase();
+  const list = ORDERS.filter(o => (!st || o.status === st) && (!pk || o.pkg === pk) && (!q || [o.id, o.name, o.phone].join(" ").toLowerCase().includes(q)));
+  const wait = ORDERS.filter(o => o.status === "Chờ thanh toán").length, paid = ORDERS.filter(o => o.status === "Đã mở khóa");
+  $("stats").innerHTML = `<div class="stat"><b>${ORDERS.length}</b><span>Tổng đơn</span></div><div class="stat"><b style="color:var(--seal)">${wait}</b><span>Chờ thanh toán</span></div><div class="stat"><b style="color:var(--green)">${paid.length}</b><span>Đã mở khóa</span></div><div class="stat"><b>${money(paid.reduce((s, o) => s + Number(o.amount || 0), 0))}</b><span>Doanh thu</span></div>`;
+  $("rows").innerHTML = list.map(o => `<tr>
+    <td class="mono"><b>${esc(o.id)}</b><br><span class="pill neutral">${esc(o.pkgName || "")}</span><br><small>${esc(d(o.created))}</small></td>
+    <td>${esc(o.name)}<br><a class="mono" href="tel:${esc(o.phone)}">${esc(o.phone)}</a>${o.email ? "<br><small>" + esc(o.email) + "</small>" : ""}</td>
+    <td class="mono">${esc(o.transfer)}<br><small>${money(o.amount)}</small></td>
+    <td><span class="pill ${o.status === "Đã mở khóa" ? "ok" : "warn"}">${esc(o.status)}</span>${o.expires ? "<br><small>Hạn " + esc(d(o.expires)) + "</small>" : ""}</td>
+    <td>${o.runs || 0} lần${o.lastRun ? "<br><small>" + esc(d(o.lastRun)) + "</small>" : ""}</td>
+    <td><div class="acts">${o.status !== "Đã mở khóa" ? `<button class="btn small" data-paid="${esc(o.id)}">Đã nhận tiền</button>` : ""}
+      ${o.status === "Đã mở khóa" ? `<button class="btn ghost small" data-zalo="${esc(o.id)}">Chép tin Zalo</button><a class="btn ghost small" target="_blank" rel="noopener" href="https://zalo.me/${esc(o.phone)}">Mở Zalo khách</a>` : ""}</div>
+      <div class="msg" id="m_${esc(o.id)}"></div></td></tr>`).join("") || `<tr><td colspan="6" class="muted">Chưa có đơn.</td></tr>`;
+}
+document.addEventListener("click", async e => {
+  const p = e.target.closest("[data-paid]"), z = e.target.closest("[data-zalo]");
+  if (p){
+    if (p.dataset.sure !== "1"){ p.dataset.sure = "1"; p.textContent = "Chắc chắn đã nhận? Bấm lần nữa"; return; }
+    p.disabled = true;
+    try { await api("tk_paid", {code: CODE, id: p.dataset.paid}); await load(); const o = ORDERS.find(x => x.id === p.dataset.paid); if (o) copyZalo(o); }
+    catch(err){ p.disabled = false; alert(err.message); }
+  }
+  if (z){ const o = ORDERS.find(x => x.id === z.dataset.zalo); if (o) copyZalo(o); }
+});
+function copyZalo(o){
+  const t = zaloMsg(o), m = $("m_" + o.id);
+  (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(() => { if (m) m.textContent = "Đã chép tin nhắn, dán vào Zalo của khách:\n" + t; }, () => { if (m) m.textContent = t; });
+}
+$("fSt").onchange = render; $("fPkg").onchange = render; $("fQ").oninput = render; $("reload").onclick = () => load().catch(err => alert(err.message));
+$("loginBtn").onclick = async () => {
+  CODE = $("code").value.trim(); $("loginErr").textContent = "";
+  try { await load(); try { sessionStorage.setItem("hoso_code", CODE); } catch(e){} $("login").hidden = true; $("app").hidden = false; }
+  catch(err){ $("loginErr").textContent = err.message; }
+};
+(async () => {
+  if (!CONFIG.ENDPOINT){ $("demo").hidden = false; return; }
+  try { CODE = sessionStorage.getItem("hoso_code") || ""; } catch(e){}
+  if (CODE){ try { await load(); $("app").hidden = false; return; } catch(e){ CODE = ""; } }
+  $("login").hidden = false;
+})();
+</script>
