@@ -114,9 +114,10 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - ✅ `bang_gia_dat_nam_2026` (01/01–31/12/2026, bản đúng) · `bang_gia_dat_nam_2025`.
 
 ### B6. Văn bản lịch sử (📜 hết hiệu lực — chỉ tra nguồn gốc, quyền theo thời điểm)
+- 📜 `bang_gia_dat_ha_noi_2020_2024_qd30_2019` (**QĐ 30/2019/QĐ-UBND** ngày 31/12/2019 — quy định và bảng giá đất **01/01/2020–31/12/2024**). Mốc quan trọng: giá tính các hồ sơ, thông báo thuế, ghi nợ, bồi thường giai đoạn 2020–2024.
 - 📜 `bang_gia_dat_ha_noi_2005_2006_qd72_2005_qd05_2006` — GỘP **QĐ 72/2005/QĐ-UB** (dòng 5, bổ sung phụ lục giá đất 2005 của QĐ 199/2004) + **QĐ 05/2006/QĐ-UBND** (dòng 62, **bảng giá đất năm 2006**, VT1–VT4). Hà Nội cũ (trước sáp nhập Hà Tây 2008). Chưa có các năm 2007–2009.
 - 📜 `bang_gia_dat_ha_noi_2015_2019_qd96_2014` (**QĐ 96/2014/QĐ-UBND** ngày 29/12/2014 — bảng giá đất **01/01/2015–31/12/2019**, có thêm cột giá đất thương mại dịch vụ). Chưa có năm 2014 (QĐ 63/2013).
-- 📜 `bang_gia_dat_ha_noi_2013_qd51_2012` (**QĐ 51/2012/QĐ-UBND HN** ngày 28/12/2012 — bảng giá đất **năm 2013**, đầy đủ quy định + Bảng 1–10 + phụ lục phân loại xã; giá đất ở/SXKD theo VT1–VT4 từng đường phố). Dùng tra giá đất lịch sử (tính tiền SDĐ cũ, so sánh tăng giá, làm nội dung). ⚠️ Kho CHƯA có bảng giá 2020–2024 (QĐ 30/2019/QĐ-UBND): file khách gửi tên "2020 den 2024" thực chất là bản rút gọn của QĐ 51/2012, không lưu.
+- 📜 `bang_gia_dat_ha_noi_2013_qd51_2012` (**QĐ 51/2012/QĐ-UBND HN** ngày 28/12/2012 — bảng giá đất **năm 2013**, đầy đủ quy định + Bảng 1–10 + phụ lục phân loại xã; giá đất ở/SXKD theo VT1–VT4 từng đường phố). Dùng tra giá đất lịch sử (tính tiền SDĐ cũ, so sánh tăng giá, làm nội dung). (Bản gửi lần đầu tên "2020 den 2024" thực chất là QĐ 51/2012 rút gọn — đã bỏ; bảng 2020–2024 đúng xem file `bang_gia_dat_ha_noi_2020_2024_qd30_2019`.)
 - 📜 `nghi_dinh_45_2014_thu_tien_su_dung_dat` (NĐ 45/2014 — Điều 16 gốc: ai cũng được ghi nợ khi cấp GCN/chuyển mục đích, hạn 5 năm, quá hạn trả theo giá đất lúc trả nợ) · 📜 `nghi_dinh_79_2019_sua_doi_ghi_no_tien_sdd` (NĐ 79/2019, hiệu lực 10/12/2019 — chỉ còn ghi nợ cho TÁI ĐỊNH CƯ thuộc người có công/hộ nghèo/DTTS/vùng khó khăn; quá 5 năm → tiền chậm nộp; Điều 2 chuyển tiếp: nợ trước 01/3/2016 hạn chót 28/02/2021, nợ 01/3/2016–09/12/2019 quá 5 năm → giá đất lúc trả nợ). Dùng để tra sổ ghi nợ cũ; hiện hành xem NĐ 103/2024 khoản 3 điều khoản chuyển tiếp.
 - 📜 `luat_dat_dai_1987` (3-LCT/HĐNN8, 57 Điều) · `luat_dat_dai_1993` (24-L/CTN, hiệu lực 15/10/1993, 89 Điều) · `luat_dat_dai_2003` (13/2003/QH11, hiệu lực 01/7/2004, 146 Điều) · `luat_dat_dai_2013` (45/2013/QH13, hiệu lực 01/7/2014, 212 Điều).
 - 📜 `hien_phap_1980`.
@@ -171,3 +172,4 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - 2026-10-07: nạp bảng giá đất HN năm 2013 (QĐ 51/2012) vào mục lịch sử.
 - 2026-10-08: nạp Pháp lệnh 02/2020 + NĐ 131/2021 ưu đãi người có công.
 - 2026-10-08: nạp bảng giá đất HN 2005–2006 (QĐ 72/2005, 05/2006) và 2015–2019 (QĐ 96/2014).
+- 2026-10-08: nạp bảng giá đất HN 2020–2024 (QĐ 30/2019).
