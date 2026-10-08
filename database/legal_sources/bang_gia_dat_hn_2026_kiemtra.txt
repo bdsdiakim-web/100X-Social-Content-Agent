@@ -1,0 +1,42 @@
+KIỂM TRA BẢNG GIÁ ĐẤT HÀ NỘI 2026
+Nguồn: database/legal_sources/bang_gia_dat_ha_noi_2026_ban_word.txt
+Tạo lúc: 2026-10-08T10:32:57.782Z
+Đã sửa 4.135 ký tự "ƣ/Ƣ" (lỗi font khi xuất file) thành "ư/Ư" trước khi đọc.
+
+Phụ lục 5.1 · Khu vực 1 · 424 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng phường: Tây Hồ, Ngọc Hà, Ba Đình, Giảng Võ, Ô Chợ Dừa, Hoàn Kiếm, Văn Miếu - Quốc Tử Giám, Cửa Nam, Hai Bà Trưng
+Phụ lục 5.2 · Khu vực 2 · 111 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng phường: Hồng Hà, Vĩnh Tuy, Bạch Mai, Kim Liên, Đống Đa, Láng
+Phụ lục 5.3 · Khu vực 3 · 283 dòng giá (36 dòng khu đô thị theo mặt cắt) · áp dụng phường: Phú Thượng, Xuân Đỉnh, Nghĩa Đô, Cầu Giấy, Yên Hòa, Thanh Xuân, Khương Đình, Phương Liệt, Định Công, Tương Mai, Hoàng Mai, Vĩnh Hưng, Lĩnh Nam
+Phụ lục 5.4 · Khu vực 4 · 179 dòng giá (48 dòng khu đô thị theo mặt cắt) · áp dụng phường: Thượng Cát, Đông Ngạc, Tây Tựu, Phú Diễn, Xuân Phương, Từ Liêm
+Phụ lục 5.5 · Khu vực 5 · 265 dòng giá (45 dòng khu đô thị theo mặt cắt) · áp dụng phường: Tây Mỗ, Đại Mỗ, Dương Nội, Hà Đông, Thanh Liệt, Hoàng Liệt, Yên Sở, Hà Đông, Kiến Hưng, Yên Nghĩa, Phú Lương
+Phụ lục 5.6 · Khu vực 6 · 136 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng phường: Long Biên, Bồ Đề, Phúc Lợi, Việt Hưng
+Phụ lục 5.7 · Khu vực 7 · 150 dòng giá (3 dòng khu đô thị theo mặt cắt) · áp dụng xã: Tiến Thắng, Yên Lãng, Quang Minh, Mê Linh, Phúc Thịnh, Thư Lâm, Đông Anh, Vĩnh Thanh, Thiên Lộc
+Phụ lục 5.8 · Khu vực 8 · 90 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng xã: Phù Đổng, Thuận An, Gia Lâm, Bát Tràng
+Phụ lục 5.9 · Khu vực 9 · 85 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng xã: Liên Minh, Ô Diên, Đan Phượng, Hoài Đức, Dương Hòa, Đông Sơn, An Khánh
+Phụ lục 5.10 · Khu vực 10 · 156 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng xã: Đại Thanh, Thanh Trì, Ngọc Hồi, Nam Phù, Bình Minh, Tam Hưng, Thường Tín, Hồng Vân, Thanh Oai, Dân Hòa, Thượng Phúc, Chương Dương
+Phụ lục 5.11 · Khu vực 11 · 56 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng xã: Phượng Dực, Phú Xuyên, Chuyên Mỹ, Đại Xuyên
+Phụ lục 5.12 · Khu vực 12 · 107 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng phường, xã: Sơn Tây, Tùng Thiện, Đoài Phương, Phúc Lộc, Phúc Thọ, Hát Môn
+Phụ lục 5.13 · Khu vực 13 · 60 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng xã: Minh Châu, Quảng Oai, Vật Lại, Cổ Đô, Bất Bạt, Suối Hai, Yên Bài, Ba Vì
+Phụ lục 5.14 · Khu vực 14 · 108 dòng giá (14 dòng khu đô thị theo mặt cắt) · áp dụng xã: Thạch Thất, Hoà Lạc, Tây Phương, Yên Xuân, Phú Cát, Kiều Phú, Hưng Đạo, Quốc Oai, Hạ Bằng
+Phụ lục 5.15 · Khu vực 15 · 75 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng xã: Chương Mỹ, Quảng Bị, Hoà Phú, Xuân Mai, Phú Nghĩa, Trần Phú
+Phụ lục 5.16 · Khu vực 16 · 92 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng xã: Phúc Sơn, Ứng Thiên, Ứng Hoà, Mỹ Đức, Vân Đình, Hồng Sơn, Hoà Xá, Hương Sơn
+Phụ lục 5.17 · Khu vực 17 · 64 dòng giá (0 dòng khu đô thị theo mặt cắt) · áp dụng xã: Sóc Sơn, Nội Bài, Trung Giã, Đa Phúc, Kim Anh
+Phụ lục 5.18 · đất nông nghiệp · 19 dòng (5 dòng lấy giá từ ô gộp phía trên)
+
+Tổng: 2441 dòng giá đất phi nông nghiệp.
+
+CÁC ĐIỂM CẦN XEM (7):
+- [5.7] TT 45 Đoạn từ thôn Đức Hậu đến thôn Thanh Vân thuộc xã Tiến Thắng: đất ở VT4 = 4782 cao hơn VT3 = 4383
+- [5.8] TT - Mặt cắt dưới ≤ 30m: TMDV VT2 = 20925 cao hơn VT1 = 19673
+- [5.8] TT - Mặt cắt dưới ≤ 13,5m: TMDV VT2 = 18196 cao hơn VT1 = 17107
+- [5.8] TT - Mặt cắt 22m: TMDV VT2 = 20925 cao hơn VT1 = 19673
+- [5.8] TT - Mặt cắt 15m: TMDV VT2 = 17706 cao hơn VT1 = 17326
+- [5.12] TT 19 Đường tỉnh lộ 418 (82): Đoạn từ ngã ba giao Quốc lộ 21 đến hết địa phận xã Đoài Phương: TMDV VT4 = 1768 cao hơn VT3 = 1541
+- [5.13] TT 39 Đường giao thông liên xã Tiên Phong - Thụy An: Từ giáp đường Quốc lộ 32 đến đoạn giao cắt đường ĐT 413: SXKD VT2 = 1300 cao hơn VT1 = 973
+
+KẾT LUẬN KIỂM TRA (2026-10-08)
+- Cấu trúc: đủ 18 phụ lục (5.1–5.17 đất phi nông nghiệp theo khu vực, 5.18 đất nông nghiệp). Tiêu đề phụ lục 5.3 bị mất chữ "PHỤ" nhưng nội dung đủ.
+- Nhất quán nội bộ tốt: giá các vị trí giảm dần ở 2.434/2.441 dòng; giá cao nhất Hàng Đào, Bà Triệu, Đinh Tiên Hoàng… 702.257.000 đ/m² (khớp số liệu báo chí công bố cho bảng giá 2026).
+- 7 điểm trên là số liệu gốc có giá vị trí sau cao hơn vị trí trước (có thể lỗi trong văn bản). Khi dùng các dòng này cho khách: báo "cần đối chiếu bản chính thức".
+- Khu công nghệ cao Hòa Lạc (Phụ lục 5.14) chỉ có giá TMDV và SXKD, không có giá đất ở: đúng theo văn bản, không phải lỗi.
+- Phụ lục 5.18: khu vực 2 đến 6 để trống do ô gộp với khu vực 1, đã lấy theo giá khu vực 1 (290.000 đ/m²).
+- So với bản trích PDF cũ (bang_gia_dat_nam_2026.txt): 96,5% dòng khớp nguyên dãy giá đất ở; phần lệch do bản PDF bị xáo trộn số giữa các dòng, nên bản Word này là bản dùng để tra số.

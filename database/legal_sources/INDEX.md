@@ -32,7 +32,7 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - **Quy hoạch, chỉ giới đường đỏ**: `luat_quy_hoach_2025` → `luat_sua_doi_quy_hoach_do_thi_nong_thon_2025` → `luat_thu_do_2026`.
 - **Xây dựng, giấy phép xây dựng, xử phạt xây dựng**: `luat_xay_dung_2025_va_van_ban_bo_sung` → `luat_sua_doi_xay_dung_2020` → 🔄 `Thông tư, nghị định liên quan luật xây dựng áp dụng 2026` (15 văn bản 2026, xem B4; **NĐ 339/2026/NĐ-CP xử phạt VPHC xây dựng, nhà ở, kinh doanh BĐS**) → `Thông-tư-38-2026-TT-BXD_Word`. ⚠️ `nghi_dinh_kdbds_ve_xay_dung` (NĐ 94/2024) là về hệ thống thông tin BĐS, KHÔNG phải giấy phép xây dựng.
 - **Nhà ở, chung cư**: `luat_nha_o_2023`. 📝 Định hướng "thời hạn sử dụng chung cư theo niên hạn công trình" mới là DỰ THẢO (`nghi_quyet_278_2026_phien_hop_xay_dung_phap_luat`) — chưa phải luật.
-- **Định giá, giá đất**: `nghi_dinh_71_2024_gia_dat` (+ `cong_thuc_tinh_gia_dat_nd71.md`) → `bang_gia_dat_nam_2026` (giá tính tiền SDĐ lấy theo bảng giá tại thời điểm nộp đủ hồ sơ hợp lệ — NĐ 103 Điều 9 khoản 5).
+- **Định giá, giá đất**: `nghi_dinh_71_2024_gia_dat` (+ `cong_thuc_tinh_gia_dat_nd71.md`) → `bang_gia_dat_hn_2026.json` / `bang_gia_dat_ha_noi_2026_ban_word` (tra số), `bang_gia_dat_nam_2026` (giá tính tiền SDĐ lấy theo bảng giá tại thời điểm nộp đủ hồ sơ hợp lệ — NĐ 103 Điều 9 khoản 5).
 - **Xử phạt vi phạm đất đai**: `nghi_dinh_123_2024_xu_phat_dat_dai` → `luat_xu_ly_vi_pham_hanh_chinh_2026`.
 
 ### A2. Lĩnh vực khác (ngoài BĐS)
@@ -111,7 +111,8 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - ⚠️ QĐ 61 đã bị QĐ 40/2025 sửa (bỏ Điều 15, khoản 2 Điều 16; cấp huyện→cấp xã) — đọc kèm file `van_ban_bo_sung_dat_dai_2026_...`.
 - ✅ `quyet_dinh_61_2024_qd_ubnd_hanoi_full` — **Quyết định 61/2024/QĐ-UBND TOÀN VĂN GỐC** (27/9/2024, hiệu lực 07/10/2024, 19 Điều + Phụ lục I phân loại xã). Thay thế QĐ 20/2017 và 13 quyết định khác (danh sách ở Điều 2). Điều 10 (khai hoang), **11** (hạn mức công nhận đất ở), 12 (nhận chuyển nhượng đất nông nghiệp), **13** (hạn mức giao đất ở), **14** (tách thửa), 15 (xử lý thửa không đủ điều kiện khi thu hồi), 16 (chuyển tiếp). Phụ lục I: xã miền núi/trung du của Ba Vì, Mỹ Đức, Quốc Oai, Sóc Sơn, Sơn Tây, Thạch Thất; 12 huyện còn lại toàn bộ đồng bằng.
 - `quyet_dinh_61_2024_qd_ubnd_tach_thua_hanoi` — bản TỔNG HỢP từ nguồn thứ cấp (lập 12/9/2026), chỉ phần tách thửa. Giữ đối chiếu, ưu tiên trích bản `_full`.
-- ✅ `bang_gia_dat_nam_2026` (01/01–31/12/2026, bản đúng) · ✅ `bang_gia_dat_nam_2025` (bảng giá đất HN năm 2025 – QĐ 71/2024/QĐ-UBND; dòng đầu ghi "…/2024/QĐ-UBND" chỉ là định dạng bản tải, **đã xác nhận là bản chuẩn dùng chính thức**).
+- ⭐ `bang_gia_dat_ha_noi_2026_ban_word` (2026-10-08, bản Word anh chị gửi, ĐÃ đổi chữ "ƣ" lỗi font thành "ư") + **`bang_gia_dat_hn_2026.json`** (dữ liệu có cấu trúc: 17 khu vực, 2.441 dòng giá, giá đơn vị đồng/m², VT1–VT4 cho đất ở/TMDV/SXKD, 139 dòng khu đô thị theo mặt cắt, 19 dòng đất nông nghiệp) + `bang_gia_dat_hn_2026_kiemtra.txt` (7 điểm giá vị trí sau cao hơn vị trí trước, nằm trong số liệu gốc). **DÙNG BẢN NÀY để tra số**; tạo lại bằng `node scripts/parse_bang_gia_dat_hn_2026.js <file .txt> database/legal_sources`.
+- ✅ `bang_gia_dat_nam_2026` (01/01–31/12/2026, bản đúng; ⚠️ trích từ PDF, số các dòng bị xáo trộn với dòng bên cạnh, CHỈ dùng để đọc phần quy định chung, không tra số) · ✅ `bang_gia_dat_nam_2025` (bảng giá đất HN năm 2025 – QĐ 71/2024/QĐ-UBND; dòng đầu ghi "…/2024/QĐ-UBND" chỉ là định dạng bản tải, **đã xác nhận là bản chuẩn dùng chính thức**).
 
 ### B6. Văn bản lịch sử (📜 hết hiệu lực — chỉ tra nguồn gốc, quyền theo thời điểm)
 - 📜 `bang_gia_dat_ha_noi_2014_qd63_2013` (**QĐ 63/2013/QĐ-UBND** ngày 25/12/2013 — bảng giá đất **năm 2014**, theo NQ 27/2013/NQ-HĐND).
