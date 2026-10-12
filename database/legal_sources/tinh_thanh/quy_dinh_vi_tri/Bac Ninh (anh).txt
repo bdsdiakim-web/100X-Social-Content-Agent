@@ -1,0 +1,30 @@
+##### nghi-quyet-128-2025-nq-hdnd_OCR.txt
+- QUY ĐỊNH THÍ CỤ THẺ ĐẺ XÁC ĐỊNH VỊ TRÍ ĐÓI VỚI TỪNG LOẠI ĐẮT, SỐ LƯỢNG VỊ TRÍ ĐẮT TRONG BẢNG GIÁ ĐẮT VÀ BẰNG GIÁ CÁC LOẠI ĐẮT TRÊN ĐỊA BÀN TỈNH BẮC NINH
+- Quy định này quy định tiêu chí cụ thể đề xác định vị trí đối với từng loại đất, số lượng vị trí đất trong bảng giá đất và quyết định bảng giá các loại đất trên địa bàn tỉnh Bắc Ninh.
+- Chương II. QUY ĐỊNH TIÊU CHÍ CỤ THÊ ĐỀ XÁC ĐỊNH VỊ TRÍ ĐÓI VỚI TỪNG LOẠI ĐẮT, SỐ LƯỢNG VỊ TRÍ ĐÁT TRONG BẢNG GIÁ ĐÁT
+- Điều 3. Quy định tiêu chí cụ thể đề xác định vị trí, khu vực đối với từng loại đất
+- a) Đối với nhóm đất nông nghiệp: Vị trí đất trong xây dựng bảng giá đất được xác định theo từng khu vực.
+- b) Đồi với đất phi nông nghiệp: Vị trí đất được xác định gắn với từng đường, đoạn đường, phố, đoạn phố hoặc khu vực và căn cứ vào điều kiện kết cấu hạ tầng kỹ thuật, hạ tầng xã hội, các lợi thế cho sản xuất, kinh doanh; khoảng cách đến trung tâm chính trị, kinh tế, thương mại trong khu vực.
+- a) Việc xác định vị trí của từng thửa đất căn cứ vào khả năng sinh lợi, điều kiện kết cầu hạ tầng thuận lợi cho sinh hoạt, sản xuất, kinh doanh, dịch vụ, khoảng cách so với trục đường giao thông quy định cụ thể như sau:
+- Vị trí 1: Là vị trí tiếp giáp mặt đường của các đường phó, các trục đường
+- Vị trí 2: Áp dụng đối với các thửa đất nằm ở các ngõ hoặc đường nhánh của đường chính có ít nhất một mặt giáp với ngõ hoặc đường nhánh mà có mặt cắt
+- rộng từ năm mét trở lên (>5) và có chiều sâu ngõ dưới 100 mét (tính từ sát mép lòng đường chính đến đầu thửa đất < 100m)
+- Vị trí 3: Áp dụng đối với các thửa đất nằm ở ngõ hoặc đường nhánh của các đường phố chính; có ít nhất một mặt giáp với ngõ hoặc đường nhánh mà có mặt cắt rộng từ năm mét trở lên (>5) và có chiều sâu ngõ trên 100 mét (tính từ sát mép
+- lòng đường chính đến đầu thửa đất > 100m), có mức sinh lợi và điều kiện kết cầu hạ tầng kém hơn vị trí 2
+- Vị trí 4: Áp dụng đối với thửa đắt không thuộc các vị trí nêu trên.
+- c) Các thửa đất năm ở vị trí 2, 3, 4 như đã nêu trên có ngõ thông với nhiều ngõ có giá đất khác nhau thì áp dụng theo vị trí có mức giá cao nhât.
+- d) Trường hợp các thửa đất có thể xác định vị trí thửa đất thuộc khu vực xã hoặc đoạn đường thì áp dụng theo vị trí có giá cao hơn.
+- 5. Quy định cụ thể vị trí đối với thửa đất phi nông nghiệp không phải là đất ở tại đô thị, các trục đường giao thông tại nông thôn (quốc lộ, tỉnh lộ, đường liên xã, phường) có chiều sâu lớn, như sau:
+- Vị trí 1: Tính từ mặt đường (Cbỉ giới giao, cho thuê đất) vào sâu đến 50m. Vị trí 2: Tính từ trên 50m vào sâu đến 100m.
+- Khu vực 1: Áp dụng đối với các thửa đất có khả năng sinh lợi, có điều kiện kết cầu hạ tầng tốt nhất của xã, ở vị trí tiếp giáp với các trục đường giao thông (trừ các đường giao thông đã quy định giá đất trong Bảng giá đát) hoặc nằm tại trung tâm xã hoặc năm gần một trong các khu vực như: UBND xã, trường học, trạm y tế, chợ, khu thương mại, dịch vụ, khu du lịch, khu công nghiệp, cụm công nghiệp.
+- Khu vực 2: Áp dụng đối với các thửa đất có khả năng sinh lợi và có điều kiện kết cầu hạ tầng kém thuận lợi hơn khu vực 1, năm ở ven các trục đường giao thông liên thôn và đất tiếp giáp với đất của khu vực 1;
+- Khu vực 3: Áp dụng đối với các thửa đất nằm ở những vị trí còn lại, có khả năng sinh lợi và có điều kiện kết cầu hạ tằng thấp kém hơn khu vực 1, khu vực 2 trong xã.
+- b) Phân vị trí đất: Trong 1 khu vực được chia từ 1 đến 3 vị trí, xác định VỊ trí quy định như sau:
+- Vị trí 2: Áp dụng đối với các thửa đất tiếp giáp với các thửa đất năm ở vị trí 1, có khả năng sinh lợi và kết cầu hạ tầng kém hơn các thửa đất nằm ở vi trí 1.
+- Vị trí 3: Áp dụng đối với các thửa. đất tiếp giáp với các thửa đất năm ở vị trí 2, có khả năng sinh lợi và kết cầu hạ tầng kém hơn các thửa đất nằm ở vịtrí2 và các vị trí còn lại của thửa đất.
+- ===== TRANG 6 ===== 6 Điều 4. Quy định số lượng vị trí đất trong bảng giá đất 1. Đối với đất nông nghiệp, quy định vị trí theo nhóm xã
+- Vị trí 1: Các xã, phường phát triển kinh tế xã hội, điều kiện kết cầu hạ tầng thuận lợi nhất;
+- Vị trí 2: Các xã, phường phát triển kinh tế xã hội, điều kiện kết cấu hạ tầng kém thuận lợi hơn;
+- Vị trí 3: Các xã, phường phát triển kinh tế xã hội, điều kiện kết cầu hạ tằng kém thuận lợi nhất;
+- a) Vị trí 2 bằng 80% giá đất của vị trí 1 b) Vị trí 3 băng 60% giá đất của vị trí 1; c) Vị trí 4 băng 40% giá đất của vị trí 1. Điều 6. Xác định giá đất đối với một số loại đất khác trong bảng giá đất
+

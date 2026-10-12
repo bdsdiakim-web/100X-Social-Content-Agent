@@ -1,0 +1,183 @@
+##### Da nang 09_2020_QD-UBND_440454.docx
+- a) Căn cứ đất ở mặt tiền đường phố và ven đường kiệt (hoặc hẻm) mà phân loại theo 5 vị trí sau đây:
+- - Vị trí 2: Đất ở ven các đường kiệt có độ rộng từ 4,5m trở lên.
+- - Vị trí 3: Đất ở ven các đường kiệt có độ rộng từ 3m đến dưới 4,5m.
+- - Vị trí 4: Đất ở ven các đường kiệt có độ rộng từ 1,7m đến dưới 3m.
+- b) Độ rộng của đường kiệt (tính từ thửa đất đến đường phố chính) được xác định bằng mặt cắt ngang nơi hẹp nhất của khoảng cách hai bờ tường (hoặc hai bờ rào) đối diện của đường kiệt, bao gồm: vỉa hè, cống thoát nước có đanh đậy hai bên đường kiệt (phần mặt đường lưu thông được, thuộc đất công).
+- c) Đối với các đường kiệt là vị trí 2, vị trí 3 là đường đất thì giá đất tính bằng 0,8 so với giá đất ở các đường kiệt cùng vị trí 2, 3 trong Bảng giá đất (vị trí 4 và 5 không áp dụng hệ số này). Đối với các đường kiệt có độ rộng lòng đường từ 5,5m trở lên và có vỉa hè (do không đủ điều kiện đặt tên đường) thì giá đất tính bằng 1,2 so với giá đất ở tại vị trí 2.
+- d) Căn cứ để xác định vị trí đất là Giấy chứng nhận quyền sử dụng đất; Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở; Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất và các giấy tờ hợp pháp khác. Trường hợp thửa đất không có các giấy tờ nêu trên hoặc thửa đất có kiệt đi ra nhiều đường phố, thì vị trí thửa đất được xác định theo kiệt của đường phố gần nhất.
+- 2. Hệ số khoảng cách: Tùy theo khoảng cách từ thửa đất đến đường phố mà các vị trí 2, 3, 4 và 5 có các hệ số như sau:
+- - Hệ số 1,00: Áp dụng cho các thửa đất cách đường phố dưới 50m.
+- - Hệ số 0,95: Áp dụng cho các thửa đất cách đường phố từ 50m đến dưới 100m.
+- - Hệ số 0,90: Áp dụng cho các thửa đất cách đường phố từ 100m đến dưới 150m.
+- - Hệ số 0,85: Áp dụng cho các thửa đất cách đường phố từ 150m đến dưới 200m.
+- - Hệ số 0,80: Áp dụng cho các thửa đất cách đường phố từ 200m trở lên.
+- b) Điểm mốc để tính khoảng cách áp dụng hệ số tại điểm a nêu trên được tính từ mép trong vỉa hè (đối với đường có vỉa hè), hoặc mép đường (đối với đường không có vỉa hè).
+- b) Trường hợp các đường phố giao nhau có giá đất khác nhau thì giá đất của các thửa đất ở trong phạm vi 50m thuộc các đường phố có giá đất thấp hơn được nhân thêm hệ số 1,1 nhưng không vượt quá giá đất của đường phố có giá cao nhất tại nơi các đường phố giao nhau. Trường hợp vệt 50m chia thành 2 phần thì căn cứ vào 2 phần chiều dài (một phần thuộc phạm vi 50m giáp ranh và một phần ngoài phạm vi 50m giáp ranh) để xác định giá đất của thửa đất. Trường hợp phần thuộc phạm vi 50m giáp ranh có chiều dài lớn hơn hoặc bằng phần ngoài phạm vi 50m giáp ranh thì toàn bộ thửa đất tính theo giá đất giáp ranh. Trường hợp phần phạm vi thuộc 50m giáp ranh có chiều dài nhỏ hơn phần ngoài phạm vi 50m giáp ranh thì không tính giá đất giáp ranh.
+- a) Ngoài hệ số giá đất giáp ranh quy định tại khoản 4 Điều này, trường hợp thửa đất có vị trí thuận lợi thì được áp dụng hệ số sau đây:
+- - Vị trí đất nằm ở góc ngã ba đường phố được nhân thêm hệ số 1,2;
+- - Vị trí đất nằm ở góc ngã tư đường phố được nhân thêm hệ số 1,3;
+- - Vị trí đất có ba mặt tiền đường phố trở lên được nhân thêm hệ số 1,4;
+- - Vị trí đất có hai mặt tiền đường phố (mặt trước và mặt sau) được nhân thêm hệ số 1,1;
+- - Vị trí đất tại góc bo cong (có hai mặt tiền nhưng không phải ở vị trí ngã ba, ngã tư) được nhân thêm hệ số 1,05;
+- - Vị trí đất có mặt tiền đường phố và đường kiệt bên hông hoặc đường kiệt mặt sau (với bề rộng đường kiệt từ 3m trở lên) được nhân thêm hệ số 1,05.
+- b) Trường hợp thửa đất có nhiều mặt tiền hướng ra nhiều đường phố nhưng không xác định được mặt tiền chính theo hướng đường phố nào thì lấy theo đường phố có mặt cắt lớn nhất; đồng thời được nhân với hệ số quy định tại điểm a khoản này.
+- c) Trường hợp xác định giá đất cụ thể thì tùy theo vị trí, diện tích và thời điểm, Sở Tài nguyên và Môi trường đề xuất các hệ số trên cho phù hợp, trình UBND thành phố xem xét, quyết định.
+- 6. Hệ số giá đất áp dụng đối với vị trí đất có độ cao trung bình thấp hơn tim đường.
+- a) Hệ số 0,9: Đối với phần diện tích đất thấp hơn tim đường từ 1,0m đến 2,0m.
+- b) Hệ số 0,8: Đối với phần diện tích đất thấp hơn tim đường trên 2,0m.
+- a) Đối với đất ven đường đá, sỏi, cấp phối thì nhân hệ số 0,9 so với giá đất ven đường bê tông hoặc đường nhựa tương ứng.
+- b) Đối với đất ven đường đất thì nhân hệ số 0,8 so với giá đất ven đường bê tông hoặc đường nhựa tương ứng.
+- c) Đối với đất ven đường (chưa được đặt tên) mà đường đó có vỉa hè hai bên thì nhân hệ số 1,2 so với giá đất ven đường bê tông hoặc đường nhựa tương ứng.
+- 2. Hệ số khoảng cách: Đối với các đường thuộc các thôn quy định tại Phụ lục II mà xuất phát từ các đường Quốc lộ 1A (đoạn thuộc địa bàn huyện Hòa Vang), Quốc lộ 14B, ĐT 605, ĐT 601, ĐT 602, đường Bà Nà - Suối Mơ, đường Hải Vân - Túy Loan (đoạn thuộc địa bàn huyện Hòa Vang), đường Hòa Phước - Hòa Khương và đường Nguyễn Tất Thành (đoạn thuộc địa bàn huyện Hòa Vang) thì những thửa đất gần các đường nêu trên áp dụng thêm các hệ số sau:
+- b) Điểm mốc để tính khoảng cách áp dụng hệ số tại điểm a nêu trên được tính từ mép trong vỉa hè (đối với đường có vỉa hè) hoặc mép đường (đối với đường không có vỉa hè).
+- a) Trường hợp chiều rộng lòng đường có chênh lệch nhỏ hơn 0,5m so với đường đã được quy định giá đất thì giá đất được tính theo giá đất của đường có mặt cắt liền kề thấp hơn (Ví dụ: Giá đất đường 5,6m đến dưới 6m thì giá đất được tính theo giá đất đường 5,5m).
+- b) Trường hợp chiều rộng lòng đường có chênh lệch lớn hơn 0,5m so với đường có chiều rộng lòng đường đã quy định giá đất thì giá đất được tính bình quân của 2 đường có mặt cắt liền kề trong cùng một khu dân cư (Ví dụ: Giá đất đường từ 6m đến 7m thì giá đất được tính bình quân của đường 5,5m và đường 7,5m).
+- 3. Ngoài giá đất quy định tại khoản 2 Điều này, khi xác định giá đất tại đô thị và nông thôn đối với những đường chưa được đặt tên tại các khu dân cư được áp dụng các hệ số theo quy định tại Điều 3 hoặc Điều 4 của quy định này.
+- 3. Khi xác định giá đất thương mại dịch vụ, giá đất sản xuất kinh doanh phi nông nghiệp không phải là đất thương mại dịch vụ tại đô thị và nông thôn phải áp dụng các hệ số theo quy định tại Điều 3 hoặc Điều 4 Quy định này. Ngoài ra, còn phải áp dụng thêm các quy định sau:
+- a) Quy định cách xác định giá đất cho từng vị trí của thửa đất (tính theo chiều sâu của thửa đất):
+- - Vị trí 1: Tính từ ranh giới thửa đất gần nhất với mép trong vỉa hè đối với đường có vỉa hè, hoặc mép đường đối với đường không có vỉa hè vào 50m (từ 0m đến ≤ 50m) nhân hệ số k = 1,0.
+- - Vị trí 2: Từ trên 50m đến 100m (từ > 50m đến ≤ 100m), nhân hệ số k = 0,9.
+- b) Hệ số vị trí xác định theo chiều sâu thửa đất tại điểm a nêu trên chỉ áp dụng đối với các thửa đất thuộc vị trí 1, vị trí 2 tại các Phụ lục I, Phụ lục III, Phụ lục IV và vị trí 1 các đường đã đặt tên tại Phụ lục II, vị trí 1 các đường: Quốc lộ 1A, Quốc lộ 14B, ĐT 605, ĐT 601 (trừ đoạn thuộc xã Hòa Bắc), ĐT 602, đường Bà Nà - Suối Mơ, đường Hải Vân - Túy Loan, đường Quảng Xương, đường Hòa Phước - Hòa Khương và đường Nguyễn Tất Thành tại Phụ lục II kèm theo quy định.
+- c) Đối với các thửa đất có 02 mặt tiền trở lên, có chiều dài cạnh thửa đất tính từ góc ngã ba, ngã tư lớn hơn 50m thì chỉ áp dụng hệ số đặc biệt cho phần diện tích trong phạm vi 50m tính từ góc ngã ba, ngã tư.
+- d) Đối với phần diện tích vừa bị che khuất, vừa nằm trong phạm vi chiều sâu từ 50m trở lên thì được áp dụng cả hai hệ số vị trí theo chiều sâu thửa đất và hệ số che khuất đối với phần diện tích đó.
+- 2. Trường hợp thửa đất hoặc khu đất có vị trí 02 mặt tiền trở lên thì thửa đất hoặc khu đất đó được nhân (x) thêm hệ số 1,1 cho mỗi góc ngã 3 hoặc ngã 4 đối với phần diện tích trong phạm vi chiều rộng và chiều ngang 50m; đồng thời áp dụng thêm hệ số vị trí xác định theo chiều sâu thửa đất theo quy định tại điểm a khoản 3 Điều 6 của quy định này.
+- a) Vị trí 1 gồm các quận và huyện Hòa Vang (trừ các xã quy định tại điểm b khoản này).
+
+##### Da nang 12_2022_QD-UBND_519866.docx
+- “3. Hệ số khu vực theo chiều sâu và hệ số che khuất của thửa đất:
+- a) Quy định cách xác định giá đất cho từng khu vực của thửa đất (tính theo chiều sâu của thửa đất)
+- - Khu vực 1: Tính từ ranh giới thửa đất gần nhất với mép trong vỉa hè đối với đường có vỉa hè, hoặc mép đường đối với đường không có vỉa hè vào 25m (từ 0m đến ≤ 25m) nhân hệ số k = 1,00.
+- - Khu vực 2: Từ trên 25m đến 50m (từ >25m đến ≤50m), nhân hệ số k = 0,80.
+- - Khu vực 3: Từ trên 50m đến 100m (từ >50m đến ≤100m), nhân hệ số k = 0,70.
+- - Hệ số khu vực nêu trên chỉ áp dụng đối với trường hợp thửa đất không tiếp giáp với đường phố khác. Trường hợp thửa đất có tiếp giáp với đường phố khác, khi áp dụng các hệ số nêu trên mà có nhiều phương án giá đất khác nhau thì lựa chọn phương án có giá đất cao nhất.
+- c) Đối với phần diện tích vừa bị che khuất vừa nằm trong phạm vi chiều sâu từ 25m trở lên thì chỉ áp dụng hệ số thấp hơn trong hai hệ số tại điểm a và điểm b khoản này.”
+- a) Trường hợp thửa đất có vị trí thuận lợi thì được áp dụng hệ số sau đây:
+- - Vị trí đất nằm ở góc ngã ba đường phố được nhân thêm hệ số 1,1;
+- - Vị trí đất nằm ở góc ngã tư đường phố được nhân thêm hệ số 1,2;
+- - Vị trí đất có ba mặt tiền đường phố trở lên được nhân thêm hệ số 1,3;
+- - Vị trí đất có hai mặt tiền đường phố (mặt trước và mặt sau) được nhân thêm hệ số 1,05;
+- - Vị trí đất tại góc bo cong (có hai mặt tiền nhưng không phải ở vị trí ngã ba, ngã tư) được nhân thêm hệ số 1,05;
+- - Vị trí đất có mặt tiền đường phố và đường kiệt bên hông hoặc đường kiệt mặt sau (với bề rộng đường kiệt từ 3m trở lên) được nhân thêm hệ số 1,05.
+- - Diện tích đất áp dụng các hệ số nêu trên chỉ tính trong khu vực chiều ngang 25m và chiều sâu 25m tính từ góc ngã ba, ngã tư, góc đường bo cong. Đối với các thửa đất có 03 mặt tiền trở lên mà có chiều dài cạnh thửa đất tính từ góc ngã ba, ngã tư, góc đường bo cong lớn hơn 25m thì chỉ áp dụng hệ số 03 mặt tiền trở lên cho phần diện tích trong khu vực 25m kể từ góc ngã 3, ngã 4, góc đường bo cong.
+- b) Trường hợp thửa đất có nhiều mặt tiền hướng ra nhiều đường phố thì lấy theo đường phố có giá đất cao nhất; đồng thời, được nhân với hệ số quy định tại điểm a khoản này
+- c) Trường hợp xác định giá đất cụ thể thì tùy theo vị trí, diện tích và thời điểm, Sở Tài nguyên và Môi trường đề xuất các hệ số trên cho phù hợp, trình UBND thành phố xem xét, quyết định.”
+- “Trường hợp thửa đất bị tác động bởi các hệ số theo quy định tại Điều này, khi xác định giá đất phải nhân các hệ số tác động với giá đất quy định tại các phụ lục Bảng giá đất kèm theo.”
+- “3. Hệ số khu vực theo chiều sâu và hệ số che khuất của thửa đất
+- a) Quy định cách xác định giá đất cho từng khu vực của thửa đất (tính theo chiều sâu của thửa đất)
+- - Khu vực 1: Tính từ ranh giới thửa đất gần nhất với mép trong vỉa hè đối với đường có vỉa hè, hoặc mép đường đối với đường không có vỉa hè vào 25m (từ 0m đến ≤ 25m) nhân hệ số k = 1,00.
+- - Khu vực 2: Từ trên 25m đến 50m (từ >25m đến ≤50m), nhân hệ số k = 0,80.
+- - Khu vực 3: Từ trên 50m đến 100m (từ >50m đến ≤100m), nhân hệ số k = 0,70.
+- - Hệ số khu vực nêu trên chỉ áp dụng đối với trường hợp thửa đất không tiếp giáp với đường phố khác. Trường hợp thửa đất có tiếp giáp với đường phố khác, khi áp dụng các hệ số nêu trên mà có nhiều phương án giá đất khác nhau thì lựa chọn phương án có giá đất cao nhất.
+- c) Đối với phần diện tích vừa bị che khuất vừa nằm trong khu vực chiều sâu từ 25m trở lên thì chỉ áp dụng một hệ số thấp hơn trong hai hệ số tại điểm a và điểm b khoản này.
+- b) Trường hợp các đường giao nhau có giá đất khác nhau thì giá đất của các thửa đất ở trong phạm vi 50m thuộc các đường có giá đất thấp hơn được nhân thêm hệ số 1,1 nhưng không vượt quá giá đất của đường có giá cao nhất tại nơi các đường giao nhau. Trường hợp vệt 50m chia thành 2 phần thì căn cứ vào 2 phần chiều dài (một phần thuộc phạm vi 50m giáp ranh và một phần ngoài phạm vi 50m giáp ranh) để xác định giá đất của thửa đất. Trường hợp phần thuộc phạm vi 50m giáp ranh có chiều dài lớn hơn hoặc bằng phần ngoài phạm vi 50m giáp ranh thì toàn bộ thửa đất tính theo giá đất giáp ranh. Trường hợp phần phạm vi thuộc 50m giáp ranh có chiều dài nhỏ hơn phần ngoài phạm vi 50m giáp ranh thì không tính giá đất giáp ranh.
+- a) Trường hợp thửa đất có vị trí thuận lợi thì được áp dụng hệ số sau đây:
+- - Vị trí đất nằm ở góc ngã ba đường phố được nhân thêm hệ số 1,1;
+- - Vị trí đất nằm ở góc ngã tư đường phố được nhân thêm hệ số 1,2;
+- - Vị trí đất có ba mặt tiền đường phố trở lên được nhân thêm hệ số 1,3;
+- - Vị trí đất có hai mặt tiền đường phố (mặt trước và mặt sau) được nhân thêm hệ số 1,05;
+- - Vị trí đất tại góc bo cong (có hai mặt tiền nhưng không phải ở vị trí ngã ba, ngã tư) được nhân thêm hệ số 1,05;
+- - Vị trí đất có mặt tiền đường phố và đường kiệt bên hông hoặc đường kiệt mặt sau (với bề rộng đường kiệt từ 3m trở lên) được nhân thêm hệ số 1,05.
+- - Diện tích đất áp dụng các hệ số nêu trên chỉ tính trong khu vực chiều ngang 25m và chiều sâu 25m tính từ góc ngã ba, ngã tư, góc đường bo cong. Đối với các thửa đất có 03 mặt tiền trở lên mà có chiều dài cạnh thửa đất tính từ góc ngã ba, ngã tư lớn hơn 25m thì chỉ áp dụng hệ số 03 mặt tiền trở lên cho phần diện tích trong khu vực 25m kể từ góc ngã 3, ngã 4, góc đường bo cong
+- b) Trường hợp thửa đất có nhiều mặt tiền hướng ra nhiều đường phố thì lấy theo đường phố có giá đất cao nhất; đồng thời được nhân với hệ số quy định tại điểm a khoản này
+- c) Trường hợp xác định giá đất cụ thể thì tùy theo vị trí, diện tích và thời điểm, Sở Tài nguyên và Môi trường đề xuất các hệ số trên cho phù hợp, trình UBND thành phố xem xét, quyết định.
+- 6. Các hệ số quy định tại khoản 3, khoản 4 và khoản 5 nêu trên chỉ áp dụng cho đất ở tại nông thôn của các đường đã đặt tên thuộc vị trí 1 tại Phụ lục II, III kèm theo Quyết định số 07/2021/QĐ-UBND và Phụ lục IIA, IIIA kèm theo Quyết định này.
+- Trường hợp thừa đất bị tác động bởi các hệ số theo quy định tại Điều này, khi xác định giá đất phải nhân các hệ số tác động với giá đất quy định tại các phụ lục Bảng giá đất kèm theo.”
+- “3. Hệ số khu vực theo chiều sâu và hệ số che khuất của thửa đất
+- a) Quy định cách xác định giá đất cho từng khu vực của thửa đất (tính theo chiều sâu của thửa đất):
+- - Khu vực 1: Tính từ ranh giới thửa đất gần nhất với mép trong vỉa hè đối với đường có vỉa hè, hoặc mép đường đối với đường không có vỉa hè vào 25m (từ 0m đến ≤ 25m) nhân hệ số k = 1,00
+- - Khu vực 2: Từ trên 25m đến 50m (từ >25m đến ≤50m), nhân hệ số k = 0,90
+- - Khu vực 3: Từ trên 50m đến 100m (từ >50m đến ≤100m), nhân hệ số k = 0,75.
+- - Hệ số khu vực nêu trên chỉ áp dụng đối với trường hợp thửa đất không tiếp giáp với đường phố khác, Trường hợp thửa đất có tiếp giáp với đường phố khác, khi áp dụng các hệ số nêu trên mà có nhiều phương án giá đất khác nhau thì lựa chọn phương án có giá đất cao nhất.
+- b) Hệ số che khuất của thửa đất: Đối với thửa đất có phần diện tích đất bị che khuất mặt tiền bởi phần đất của chủ sử dụng khác thì toàn bộ phần đất bị che khuất tính bằng 0,7 giá đất quy định tại các bảng phụ lục đính kèm.
+- c) Đối với phần diện tích vừa bị che khuất, vừa nằm trong khu vực chiều sâu từ 25m trở lên thì chỉ áp dụng hệ số thấp hơn trong hai hệ số tại điểm a và điểm b khoản này.
+- b) Trường hợp các đường giao nhau có giá đất khác nhau thì giá đất của các thửa đất ở trong phạm vi 50m thuộc các đường có giá đất thấp hơn được nhân thêm hệ số 1,1 nhưng không vượt quá giá đất của đường có giá cao nhất tại nơi các đường giao nhau. Trường hợp vệt 50m chia thành 2 phần thì căn cứ vào 2 phần chiều dài (một phần thuộc phạm vi 50m giáp ranh và một phần ngoài phạm vi 50m giáp ranh) để xác định giá đất của thửa đất. Trường hợp phần thuộc phạm vi 50m giáp ranh có chiều dài lớn hơn hoặc bằng phần ngoài phạm vi 50m giáp ranh thì toàn bộ thửa đất tính theo giá đất giáp ranh. Trường hợp phần phạm vi thuộc 50m giáp ranh có chiều dài nhỏ hơn phần ngoài phạm vi 50m giáp ranh thì không tính giá đất giáp ranh.
+- a) Trường hợp thửa đất có vị trí thuận lợi thì được áp dụng hệ số sau đây:
+- - Vị trí đất nằm ở góc ngã ba đường phố được nhân thêm hệ số 1,1;
+- - Vị trí đất nằm ở góc ngã tư đường phố được nhân thêm hệ số 1,2;
+- - Vị trí đất có ba mặt tiền đường phố trở lên được nhân thêm hệ số 1,3;
+- - Vị trí đất có hai mặt tiền đường phố (mặt trước và mặt sau) được nhân thêm hệ số 1,05;
+- - Vị trí đất tại góc bo cong (có hai mặt tiền nhưng không phải ở vị trí ngã ba, ngã tư) được nhân thêm hệ số 1,05;
+- - Vị trí đất có mặt tiền đường phố và đường kiệt bên hông hoặc đường kiệt mặt sau (với bề rộng đường kiệt từ 3m trở lên) được nhân thêm hệ số 1,05.
+- - Diện tích đất áp dụng các hệ số nêu trên chỉ tính trong khu vực chiều ngang 25m và chiều sâu 25m tính từ góc ngã ba, ngã tư, góc đường bo cong. Đối với các thửa đất có 03 mặt tiền trở lên mà có chiều dài cạnh thửa đất tính từ góc ngã ba, ngã tư lớn hơn 25m thì chỉ áp dụng hệ số 03 mặt tiền trở lên cho phần diện tích trong khu vực 25m kể từ góc ngã 3, ngã 4, góc đường bo cong
+- b) Trường hợp thửa đất có nhiều mặt tiền hướng ra nhiều đường phố thì lấy theo đường phố có giá đất cao nhất; đồng thời được nhân với hệ số quy định tại điểm a khoản này
+- c) Trường hợp xác định giá đất cụ thể thì tùy theo vị trí, diện tích và thời điểm, Sở Tài nguyên và Môi trường đề xuất các hệ số trên cho phù hợp, trình UBND thành phố xem xét, quyết định.
+- 6. Trường hợp thửa đất bị tác động bởi các hệ số theo quy định tại Điều này, khi xác định giá đất phải nhân các hệ số tác động với giá đất quy định tại các phụ lục Bảng giá đất kèm theo, cụ thể:
+- a) Đối với giá đất thương mại dịch vụ, giá đất sản xuất kinh doanh phi nông nghiệp không phải là đất thương mại dịch vụ tại đô thị: Áp dụng các hệ số quy định tại khoản 3, khoản 4 và khoản 5 nêu trên cho vị trí 1, vị trí 2 của các đường quy định tại Bảng giá đất.
+- b) Đối với giá đất thương mại dịch vụ, giá đất sản xuất kinh doanh phi nông nghiệp không phải là đất thương mại dịch vụ tại nông thôn: Áp dụng các hệ số quy định tại Điều 4 Quyết định số 09/2020/QĐ-UBND và các hệ số quy định tại khoản 3, khoản 4 và khoản 5 nêu trên cho vị trí 1 của các đường quy định tại Bảng giá đất.”
+- a) Hệ số đối với thửa đất đặc biệt: Trường hợp thửa đất hoặc khu đất có vị trí 02 mặt tiền trở lên thì thửa đất hoặc khu đất đó được nhân (x) thêm hệ số 1,1 cho mỗi góc ngã 3 hoặc ngã 4 đối với phần diện tích trong khu vực chiều rộng và chiều ngang 50m
+- b) Hệ số hệ số khu vực xác định theo chiều sâu thửa đất, như sau:
+- - Khu vực 1: Tính từ ranh giới thửa đất gần nhất với mép trong vỉa hè đối với đường có vỉa hè, hoặc mép đường đối với đường không có vỉa hè vào 50m (từ 0m đến ≤ 50m) nhân hệ số k = 1,0
+- - Khu vực 2: Từ trên 50m đến 100m (từ >50m đến ≤ 100m), nhân hệ số k = 0,9
+
+##### Da nang 30_2022_QD-UBND_548042.docx
+- Ghi chú: Giá đất từ Vị trí 2 đến Vị trí 5 giữ nguyên không thay đổi.
+- Ghi chú: Giá đất từ Vị trí 2 đến Vị trí 5 giữ nguyên không thay đổi.
+
+##### Da nang 57_2023_QD-UBND_591876.docx
+- “2. Giá các loại đất quy định tại Quyết định này được sử dụng làm cơ sở để áp dụng phương pháp hệ số điều chỉnh giá đất trong các trường hợp quy định quy định tại các điểm a, b, c và d khoản 4 Điều 114, khoản 2 Điều 172 và khoản 3 Điều 189 của Luật Đất đai, xác định giá đất để làm giá khởi điểm đấu giá quyền sử dụng đất khi Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê mà thửa đất hoặc khu đất của dự án có giá trị (tính theo giá đất trong bảng giá đất) dưới 30 tỷ đồng; xác định giá đất để làm căn cứ tính tiền thuê đất khi Nhà nước cho thuê đất thu tiền thuê đất hàng năm mà phải xác định lại đơn giá thuê đất để điều chỉnh cho chu kỳ tiếp theo; xác định giá đất để làm cơ sở xác định giá khởi điểm đấu giá quyền sử dụng đất khi Nhà nước cho thuê đất thu tiền thuê đất hàng năm.”
+- “3. Hệ số khu vực theo chiều sâu và hệ số che khuất của thửa đất:
+- a) Quy định cách xác định giá đất cho từng khu vực của thửa đất (tính theo chiều sâu của thửa đất)
+- - Khu vực 1: Tính từ ranh giới thửa đất gần nhất với mép trong vỉa hè đối với đường có vỉa hè, hoặc mép đường đối với đường không có vỉa hè vào 25m (từ 0m đến ≤ 25m) nhân hệ số k = 1,00.
+- - Khu vực 2: Từ trên 25m đến 50m (từ >25m đến ≤50m), nhân hệ số k= 0,80.
+- - Khu vực 3: Từ trên 50m đến 100m (từ >50m đến ≤100m), nhân hệ số k= 0,70.
+- - Khu vực 4: Từ trên 100m đến 150m (từ >100m đến ≤150m), nhân hệ số k =0,6.
+- - Khu vực 5: Từ trên 150m đến 200m (từ >150m đến ≤200m), nhân hệ số k =0,5.
+- - Trường hợp thửa đất tiếp giáp với nhiều đường phố khác, khi áp dụng các hệ số nêu trên mà có nhiều phương án giá đất khác nhau thì lựa chọn phương án có giá đất cao nhất.
+- c) Đối với phần diện tích vừa bị che khuất vừa nằm trong phạm vi chiều sâu từ 25m trở lên thì chỉ áp dụng hệ số thấp hơn trong hai hệ số tại điểm a và điểm b khoản này.”
+- “3. Hệ số khu vực theo chiều sâu và hệ số che khuất của thửa đất
+- a) Quy định cách xác định giá đất cho từng khu vực của thửa đất (tính theo chiều sâu của thửa đất)
+- - Khu vực 1: Tính từ ranh giới thửa đất gần nhất với mép trong vỉa hè đối với đường có vỉa hè, hoặc mép đường đối với đường không có vỉa hè vào 25m (từ 0m đến ≤ 25m) nhân hệ số k = 1,00.
+- - Khu vực 2: Từ trên 25m đến 50m (từ >25m đến ≤50m), nhân hệ số k= 0,80.
+- - Khu vực 3: Từ trên 50m đến 100m (từ >50m đến ≤100m), nhân hệ số k= 0,70.
+- - Khu vực 4: Từ trên 100m đến 150m (từ >100m đến ≤150m), nhân hệ số k= 0,6.
+- - Khu vực 5: Từ trên 150m đến 200m (từ >150m đến ≤200m), nhân hệ số k= 0,5.
+- - Trường hợp thửa đất tiếp giáp với nhiều đường phố khác, khi áp dụng các hệ số nêu trên mà có nhiều phương án giá đất khác nhau thì lựa chọn phương án có giá đất cao nhất.
+- c) Đối với phần diện tích vừa bị che khuất vừa nằm trong khu vực chiều sâu từ 25m trở lên thì chỉ áp dụng một hệ số thấp hơn trong hai hệ số tại điểm a và điểm b khoản này.”
+- “3. Hệ số khu vực theo chiều sâu và hệ số che khuất của thửa đất
+- a) Quy định cách xác định giá đất cho từng khu vực của thửa đất (tính theo chiều sâu của thửa đất):
+- - Khu vực 1: Tính từ ranh giới thửa đất gần nhất với mép trong vỉa hè đối với đường có vỉa hè, hoặc mép đường đối với đường không có vỉa hè vào 25m (từ 0m đến ≤ 25m) nhân hệ số k = 1,00
+- - Khu vực 2: Từ trên 25m đến 50m (từ >25m đến ≤50m), nhân hệ số k= 0,90
+- - Khu vực 3: Từ trên 50m đến 100m (từ >50m đến ≤100m), nhân hệ số k= 0,75.
+- - Khu vực 4: Từ trên 100m đến 150m (từ >100m đến ≤150m), nhân hệ số k =0,6.”
+- - Khu vực 5: Từ trên 150m đến 200m (từ >150m đến ≤200m), nhân hệ số k =0,5.”
+- - Trường hợp thửa đất tiếp giáp với nhiều đường phố khác, khi áp dụng các hệ số nêu trên mà có nhiều phương án giá đất khác nhau thì lựa chọn phương án có giá đất cao nhất.
+- b) Hệ số che khuất của thửa đất: Đối với thửa đất có phần diện tích đất bị che khuất mặt tiền bởi phần đất của chủ sử dụng khác thì toàn bộ phần đất bị che khuất tính bằng 0,7 giá đất quy định tại các bảng phụ lục đính kèm.
+- c) Đối với phần diện tích vừa bị che khuất, vừa nằm trong khu vực chiều sâu từ 25m trở lên thì chỉ áp dụng hệ số thấp hơn trong hai hệ số tại điểm a và điểm b khoản này”
+
+##### QuangNam 23_2025_QD-UBND_649802.docx
+- + Bãi bỏ đoạn 3.5 “ Đường ĐH 13.QS đoạn từ ngõ Thuấn đến giáp địa giới QX2” theo bảng giá đất hiện hành nằm trong mục đường xã nên bãi bỏ để bổ sung mới tuyến đường ĐH13 độc lập nhằm thuận lợi trong việc theo dõi và quản lý;
+- - Bãi bỏ đoạn 7.4.1 “Đoạn từ ngõ ông hai Dương đến ngõ nhà ông Đào do đoạn này là đường xã đã được nâng cấp lên tuyến ĐH 20.QS
+- + Bãi bỏ đoạn 2.3 “Đoạn từ ngõ ông Nhi đến ngõ ông Bảy Thống” nhập vào mục 9.1 - Các tuyến đường GTNT để thuận lợi công tác quản lý hạ tầng
+- - Bãi bỏ Kiệt từ nhà ông Trần Đình Thiết đến nhà ông Nguyễn Thanh Sơn. (mục 15.2).
+- - Bãi bỏ đoạn: “QL1A ( Ngõ Bà Hường) - hết trường Nguyến Du (Phía Bắc), hết Khu dân cư chợ Kế Xuyên (Phía Nam)” tại Mục 2.1.1.
+
+##### QuangNam 24_2019_QD-UBND_434612.docx
+- 3. Căn cứ vào bảng giá đất thuộc nhóm đất nông nghiệp đã được UBND tỉnh phê duyệt tại Quyết định này, UBND cấp huyện có trách nhiệm xác định ranh giới từng vị trí đất nông nghiệp để áp dụng các mức giá tương ứng cho phù hợp với tình hình thực tế tại địa phương.
+- a) Thửa đất không tiếp giáp trực tiếp với các trục đường giao thông (quốc lộ, tỉnh lộ, huyện lộ) nhưng có mặt tiền hướng ra trục giao thông, có một lối đi duy nhất từ trục đường giao thông vào một nhà hoặc nhóm nhà và bị phân cách bởi một hoặc nhiều thửa đất khác phía trước của chủ sử dụng đất khác (bị che khuất hoặc không bị che khuất bởi nhà, vật kiến trúc) thì giá đất tính theo trục đường giao thông đó nhân (x) với các hệ số tương ứng theo quy định dưới đây:
+- Lối đi vào thửa đất có mặt cắt rộng từ 2,5 mét trở lên (tính nơi hẹp nhất): Hệ số 0,70 áp dụng cho phần diện tích của thửa đất cách cột mốc lộ giới (hoặc lề đường) trong phạm vi dưới 50 mét; hệ số 0,50 áp dụng cho phần diện tích còn lại của thửa đất từ vạch 50 mét trở lên.
+- Lối đi vào thửa đất có mặt cắt rộng dưới 2,5 mét (tính nơi hẹp nhất): Hệ số 0,60 áp dụng cho phần diện tích của thửa đất cách cột mốc lộ giới (hoặc lề đường) trong phạm vi dưới 50 mét; hệ số 0,40 áp dụng cho phần diện tích còn lại của thửa đất từ vạch 50 mét trở lên.
+- Trường hợp thửa đất không tiếp giáp trực tiếp với các trục đường giao thông (quốc lộ, tỉnh lộ, huyện lộ) nhưng có từ hai lối đi trở lên từ các trục đường giao thông vào một nhà hoặc nhóm nhà và bị phân cách bởi một hoặc nhiều thửa đất khác phía trước của chủ sử dụng đất khác (bị che khuất hoặc không bị che khuất bởi nhà, vật kiến trúc) thì giá đất tính theo trục đường giao thông có giá đất cao hôn nhân (x) với các hệ số tương ứng nêu trên.
+- b) Thửa đất có mặt tiền sát lề đường giao thông hoặc cột mốc lộ giới (quốc lộ, tỉnh lộ, huyện lộ) được áp dụng hệ số phân vệt chiều sâu như sau:
+- Hệ số 1,00 áp dụng cho phần diện tích của thửa đất trong phạm vi chiều sâu dưới 25 mét; hệ số 0,70 áp dụng cho phần diện tích của thửa đất trong phạm vi chiều sâu từ 25 mét đến dưới 50 mét; hệ số 0,50 áp dụng cho phần diện tích đất có chiều sâu từ 50 mét trở lên.
+- c) Trường hợp thửa đất có mặt tiền liền kề đường giao thông (quốc lộ, tỉnh lộ, huyện lộ) nhưng có một phần diện tích đất bị che khuất mặt tiền bởi phần đất của thửa đất khác (thửa đất có hình chữ L, T) thì phần diện tích bị che khuất được tính bằng 70% giá đất mặt tiền nhân với các hệ số tương ứng được quy định tại điểm b, khoản 2 Điều này.
+- d) Đối với những thửa đất có 02 mặt tiền nằm trên các tuyến đường quốc lộ, tỉnh lộ, huyện lộ: áp dụng hệ số 1,10 (vị trí ngã ba), 1,20 (vị trí ngã tư trở lên) nhân (x) với giá đất của đường có giá cao hơn.
+- 2. Phân loại vị trí: Trong từng đường, phố; đoạn đường, đoạn phố có thể phân thành các vị trí định giá đất, trong đó vị trí 1 là vị trí mà tại đó các thửa đất có các yếu tố và điều kiện thuận lợi nhất, các vị trí tiếp theo là vị trí mà tại đó các thửa đất có các yếu tố và điều kiện kém thuận lợi hơn so với vị trí liền kề trước đó.
+- a) Hệ số phân vạch chiều sâu: Những thửa đất ở có mặt tiền các đường phố (không áp dụng đối với các thửa đất có mặt tiền nằm ở kiệt, hẻm) được áp dụng hệ số chiều sâu như sau:
+- Hệ số 1,00 áp dụng cho phần diện tích của thửa đất trong phạm vi chiều sâu dưới 25 mét; hệ số 0,70 áp dụng cho phần diện tích thửa đất trong phạm vi chiều sâu từ 25 mét đến dưới 50 mét; hệ số 0,50 áp dụng cho phần diện tích đất có chiều sâu từ 50 mét trở lên.
+- b) Trường hợp thửa đất có mặt tiền liền kề đường phố, nhưng có một phần diện tích đất bị che khuất mặt tiền bởi phần đất của thửa đất khác (thửa đất có hình chữ L, T) thì phần diện tích bị che khuất được tính bằng 70% giá đất mặt tiền nhân với các hệ số tương ứng được quy định tại điểm a, khoản 3 Điều này.
+- c) Đối với những thửa đất có 2 mặt tiền trở lên: áp dụng hệ số 1,10 (vị trí ngã ba), 1,20 (vị trí ngã tư trở lên) nhân (x) với giá đất của đường có giá cao hơn.
+- d) Đối với các thửa đất ở nằm ở vị trí mặt tiền các kiệt, hẻm của từng đoạn đường phố mà chưa xác định giá tại Bảng giá đất kèm theo Quyết định này thì được áp dụng hệ số khoảng cách và hệ số mặt cắt so với vị trí liền kề trước đó để xác định giá:
+- Hệ số khoảng cách: Hệ số 0,5 áp dụng cho các thửa đất cách lề đường phố hoặc kiệt, hẻm dưới 50 mét; hệ số 0,4 áp dụng cho các thửa đất cách lề đường phố hoặc kiệt, hẻm từ 50 mét đến dưới 100 mét; hệ số 0,3 áp dụng cho các thửa đất cách lề đường phố hoặc kiệt, hẻm từ 100 mét đến dưới 200 mét; hệ số 0,2 áp dụng cho các thửa đất cách lề đường phố hoặc kiệt, hẻm từ 200 mét trở lên.
+- Hệ số mặt cắt: Hệ số 1,0 áp dụng đối với kiệt, hẻm có mặt cắt ngang rộng trên 4mét; hệ số 0,9 áp dụng đối với kiệt, hẻm có mặt cắt ngang rộng từ trên 2,5mét đến 4mét; hệ số 0,7 áp dụng đối với kiệt, hẻm có mặt cắt ngang rộng từ 1,5mét đến 2,5mét; hệ số 0,5 áp dụng đối với kiệt, hẻm có mặt cắt ngang rộng dưới 1,5mét.
+- Độ rộng của kiệt, hẻm được tính ở nơi hẹp nhất. Trường hợp kiệt, hẻm có 02 lối vào từ 02 đường, phố chính thì sau khi áp dụng cách tính giá đất theo 02 đường phố chính đó mà giá đất nào cao hơn thì áp dụng giá đất cao hơn đó.
+- 5. Thửa đất mang tên đường, phố, kiệt, hẻm nào thì vị trí và giá đất tính theo con đường, phố, kiệt, hẻm đó; trừ trường hợp những thửa đất có vị trí 2 mặt tiền trở lên.
+- Cơ sở để xác định tên đường, phố, kiệt, hẻm, vị trí đất: Căn cứ vào các loại giấy tờ về quyền sử dụng đất, quyền sở hữu nhà ở và tài sản gắn liền với đất; biển số nhà, sổ đăng ký hộ khẩu hoặc các giấy tờ pháp lý khác có liên quan đến vị trí đất ở, nhà ở. Trường hợp thửa đất chưa xác định được tên đường, phố, kiệt, hẻm nào hoặc thửa đất có nhiều đường, phố, kiệt, hẻm đi vào thì giá đất được tính theo đường, phố, kiệt, hẻm vào gần nhất hoặc đường, phố, kiệt, hẻm có giá đất cao nhất.
+- 7. Đối với các kiệt, hẻm thuộc đất ở đô thị không quy định mức giá đất cụ thể theo từng tuyến, đoạn đường nêu tại Bảng giá đất của từng địa phương thì giá đất được xác định theo quy định tại khoản 3, khoản 5 và khoản 6 Điều này.
+- 4. Giá đất thương mại, dịch vụ quy định tại Quyết định này là giá đất theo hiện trạng của thời hạn 70 năm và không áp dụng các hệ số quy định tại điểm b, điểm c, khoản 2, Điều 4 và điểm a, điểm b, khoản 3, Điều 5 của Quy định này.
+- 5. Đối với những thửa đất thương mại, dịch vụ có 2 mặt tiền trở lên mà có diện tích dưới 5.000m2: áp dụng hệ số 1,10 (vị trí ngã ba), 1,20 (vị trí ngã tư trở lên) nhân (x) với giá đất của đường có giá cao hơn. Đối với những thửa đất thương mại, dịch vụ ở vị trí 02 mặt tiền trở lên mà có diện tích đất từ 5.000 m2 trở lên thì không áp dụng hệ số 1,1 (vị trí ngã ba) và 1,2 (vị trí ngã tư trở lên).
+- 6. Thửa đất mang tên đường, phố, kiệt, hẻm nào thì vị trí và giá đất tính theo con đường, phố, kiệt, hẻm đó; trường hợp những thửa đất có vị trí 2 mặt tiền trở lên thì giá đất tính theo quy định tại khoản 5 Điều này. Cơ sở để xác định tên đường, phố, kiệt, hẻm, vị trí đất thực hiện theo quy định tại khoản 5 Điều 5 Quy định này.
+- 4. Giá đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ quy định tại Quyết định này là giá đất theo hiện trạng của thời hạn 70 năm và không áp dụng các hệ số quy định tại điểm b, điểm c, điểm d, khoản 2 Điều 4 và điểm a, điểm b, điểm c, khoản 3, Điều 5 của Quy định này.
+- 5. Thửa đất mang tên đường, phố, kiệt, hẻm nào thì vị trí và giá đất tính theo đường, phố, kiệt, hẻm đó. Cơ sở để xác định tên đường, phố, kiệt, hẻm, vị trí đất thực hiện theo quy định tại khoản 5 Điều 5 Quy định này.
+- 2. Sở Tài chính chịu trách nhiệm chủ trì, phối hợp với UBND cấp huyện theo dõi tình hình biến động giá đất thị trường để tham mưu UBND tỉnh ban hành hệ số điều chỉnh giá đất theo quy định.
+

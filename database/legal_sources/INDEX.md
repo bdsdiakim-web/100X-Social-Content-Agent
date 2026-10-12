@@ -8,6 +8,8 @@
 
 ---
 
+> 🗺️ **Bảng giá đất + quy định vị trí CÁC TỈNH/THÀNH khác Hà Nội (34 tỉnh):** tra ở `tinh_thanh/CAY_TRA_CUU.md` (bản copy .txt từ D:KHO_PHAP_LUAT_DAT_DAI, thêm 2026-10-12). Bản gốc PDF/Word chỉ có trên máy, không lên GitHub.
+
 ## PHẦN A — BẢN ĐỒ TRA CỨU THEO CHỦ ĐỀ
 
 ### A1. Chủ đề bất động sản (ưu tiên cao nhất)
@@ -134,6 +136,12 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 
 ---
 
+### B8. Bảng giá đất + quy định vị trí CÁC TỈNH/THÀNH khác Hà Nội (34 tỉnh) — tra ở `tinh_thanh/CAY_TRA_CUU.md`
+- `tinh_thanh/van_ban_txt/<Tỉnh>/*.txt` (văn bản bảng giá), `tinh_thanh/quy_dinh_vi_tri/<Tỉnh>.txt` (xác định vị trí), `tinh_thanh/bang_gia_json/<Tỉnh>.jsonl` (dòng giá trích tự động — CHỈ để lọc nhanh, phải đối chiếu .txt/bản gốc trước khi nói số với khách).
+- Nguồn: bản copy từ `D:\KHO_PHAP_LUAT_DAT_DAI` (bản gốc PDF/Word 1,3 GB chỉ có trên máy, không lên GitHub). Tỉnh có "(anh)" = OCR từ ảnh, có thể sai chữ/số. PDF chuyển txt có thể xáo trộn số giữa các dòng cạnh nhau (xem ghi chú bảng giá 2026 ở trên).
+- Một số tỉnh mới có jsonl + quy định vị trí, CHƯA có txt văn bản (Daklak, Dien Bien, Dong Thap, Gia lai, Ha Tinh, Lam Dong, Lang Son, Lao Cai, Nghe An, Ninh Binh, Phu Tho, Quang Ngai, Thai Nguyen, Thanh Hoa) — danh sách cập nhật tự động trong `CAY_TRA_CUU.md`.
+- Nạp văn bản tỉnh mới: `node scripts/nap_van_ban_moi.js "<file>" ten.txt --tinh "Ten Tinh"` (tự dựng lại cây).
+
 ## PHẦN C — LƯU Ý KỸ THUẬT & SAI TÊN FILE ĐÃ PHÁT HIỆN
 - `bang_gia_dat_nam_2026` bản cũ (nguồn .docx) thực chất là QĐ 05/2006/QĐ-UBND (giá đất 2006) → đã chuyển `_archive_wrong_data/`. Bản hiện tại là đúng.
 - `nghi_dinh_103_2024_nd_cp.txt` (bản scan lỗi 117 bytes) → đã thay bằng `nghi_dinh_103_2024_tien_su_dung_dat.txt`, bản cũ ở `_archive_wrong_data/`.
@@ -153,6 +161,7 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 3. **Đặt tên file chuẩn:** chữ thường không dấu, nối gạch dưới: `loai_so_nam_chu_de.txt`. Ví dụ `nghi_dinh_101_2024_dat_dai.txt`, `bo_luat_hinh_su_hop_nhat_2025.txt`, `quyet_dinh_61_2024_qd_ubnd_hanoi_full.txt`. Loại: `luat_`, `bo_luat_`, `nghi_dinh_`, `nghi_quyet_`, `thong_tu_`, `quyet_dinh_`, `hien_phap_`, `cong_van_`. Mỗi văn bản 1 file; file gộp nhiều văn bản thì ghi rõ danh sách trong INDEX.
 4. **Cập nhật INDEX:** (a) thêm vào đúng nhóm ở **PHẦN B** kèm ký hiệu trạng thái; (b) gắn vào các chủ đề liên quan ở **PHẦN A** — đặc biệt nếu văn bản mới sửa đổi/tháo gỡ văn bản cũ thì ghi rõ "ưu tiên hơn văn bản X"; (c) nếu văn bản mới thay thế văn bản cũ → đổi văn bản cũ sang 📜, không xóa; (d) ghi 1 dòng vào **PHẦN E**.
 5. **Commit git ngay** (`database/legal_sources/`) để không mất khi có phiên khác ghi đè file.
+6. **Nạp nhanh bằng script (khi có thông tư/nghị định/văn bản tỉnh mới):** `node scripts/nap_van_ban_moi.js "<đường dẫn file>" ten_chuan.txt` (thêm `--tinh "Ten Tinh"` nếu là văn bản tỉnh). Script copy vào đúng chỗ, in 15 dòng đầu để xác minh, ghi dòng "CHỜ GẮN" vào PHẦN E. Sau đó VẪN phải làm bước 2 (xác minh) và bước 4 (gắn PHẦN A/B, xóa chữ "CHỜ GẮN").
 
 ---
 
@@ -178,3 +187,4 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - 2026-10-08: nạp bảng giá đất HN 2020–2024 (QĐ 30/2019).
 - 2026-10-08: nạp bảng giá đất HN 2007, 2008, 2010 (QĐ 242/2006, 150/2007, 124/2009).
 - 2026-10-08: nạp bảng giá đất HN 2014 (QĐ 63/2013).
+- 2026-10-12: gom bản copy .txt/.jsonl 34 tỉnh/thành từ D:\KHO_PHAP_LUAT_DAT_DAI vào `tinh_thanh/` (thêm An Giang chuyển txt mới); dựng `CAY_TRA_CUU.md` + script `scripts/nap_van_ban_moi.js`.

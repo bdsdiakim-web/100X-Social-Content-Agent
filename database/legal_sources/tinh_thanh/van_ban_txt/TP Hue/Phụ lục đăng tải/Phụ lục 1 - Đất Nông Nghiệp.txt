@@ -1,0 +1,1236 @@
+NGUON FILE: TP Hue/Phụ lục đăng tải/Phụ lục 1 - Đất Nông Nghiệp.xlsx
+DINH DANG: .xlsx
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- SHEET: 1. Phường An Cựu ---
+1. Phường An Cựu |  |  |  | Mẫu số 37
+BẢNG 1.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG AN CỰU
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất |  |  | 1.1111111111111112
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3 | 1.2878787878787878
+1 | Phường An Cựu | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường An Cựu | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường An Cựu | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường An Cựu | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường An Cựu | 33000 | 29000 | 24000
+
+--- SHEET: 2. Phường Hương An ---
+2. Phường Hương An |  |  |  | Mẫu số 37 | 1.15
+BẢNG 2.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương An | 40000 | 35000 | 29000 | 0.7333333333333333
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương An | 46000 | 40000 | 34000 | 0.7333333333333333
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương An | 8000 | 6900 | 6300 | 0.7884615384615384
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương An | 6000 | 5000 | 5000 | 0.7884615384615384
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương An | 33000 | 29000 | 24000 | 0.7391304347826086
+
+--- SHEET: 3. Phường Hương Trà ---
+3. Phường Hương Trà |  |  |  | Mẫu số 37
+BẢNG 3.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Trà | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Trà | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Trà | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Trà | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Trà | 33000 | 29000 | 24000
+
+--- SHEET: 4. Phường Kim Long ---
+4. Phường Kim Long |  |  |  | Mẫu số 37
+BẢNG 4.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG KIM LONG
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Long | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Long | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Long | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Long | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Long | 33000 | 29000 | 24000
+
+--- SHEET: 5. Phường Phú Xuân ---
+5. Phường Phú Xuân |  |  |  | Mẫu số 37
+BẢNG 5.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Xuân | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Xuân | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Xuân | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Xuân | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Xuân | 33000 | 29000 | 24000
+
+--- SHEET: 6. Phường Thuận Hóa ---
+6. Phường Thuận Hóa |  |  |  | Mẫu số 37
+BẢNG 6.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận Hóa | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận Hóa | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận Hóa | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận Hóa | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận Hóa | 33000 | 29000 | 24000
+
+--- SHEET: 7. Phường Thủy Xuân ---
+7. Phường Thủy Xuân |  |  |  | Mẫu số 37 | 1.15
+BẢNG 7.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thủy Xuân | 40000 | 35000 | 29000 | 0.7333333333333333
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thủy Xuân | 46000 | 40000 | 34000 | 0.7333333333333333
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thủy Xuân | 6000 | 5000 | 5000 | 0.7884615384615384
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thủy Xuân | 8000 | 6900 | 6300
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thủy Xuân | 20000 | 16000 | 14000 | 0.7058823529411765
+
+--- SHEET: 8. Phường Vỹ Dạ ---
+8. Phường Vỹ Dạ |  |  |  | Mẫu số 37
+BẢNG 8.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG VỸ DẠ
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Vỹ Dạ | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Vỹ Dạ | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Vỹ Dạ | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Vỹ Dạ | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Vỹ Dạ | 33000 | 29000 | 24000
+
+--- SHEET: 9. Phường Dương Nỗ ---
+9. Phường Dương Nỗ |  |  |  | Mẫu số 37
+BẢNG 9.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG DƯƠNG NỖ
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Dương Nỗ | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Dương Nỗ | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Dương Nỗ | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Dương Nỗ | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Dương Nỗ | 33000 | 29000 | 24000
+
+--- SHEET: 10. Phường Hóa Châu ---
+10. Phường Hóa Châu |  |  |  | Mẫu số 37
+BẢNG 10.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hóa Châu | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hóa Châu | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hóa Châu | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hóa Châu | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hóa Châu | 33000 | 29000 | 24000
+
+--- SHEET: 11. Phường Hương Thủy ---
+11. Phường Hương Thủy |  |  |  | Mẫu số 37 | 1.15
+BẢNG 11.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG HƯƠNG THỦY
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Thủy | 40000 | 35000 | 29000 | 0.7142857142857143
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Thủy | 46000 | 40000 | 34000 | 0.7142857142857143
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Thủy | 8000 | 6900 | 6300 | 0.7105263157894737
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Thủy | 6000 | 5000 | 5000 | 0.7105263157894737
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Hương Thủy | 33000 | 29000 | 24000 | 0.7058823529411765
+
+--- SHEET: 12. Phường Kim Trà ---
+12. Phường Kim Trà |  |  |  | Mẫu số 37 | 1.15
+BẢNG 12.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG KIM TRÀ
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Trà | 40000 | 35000 | 29000 | 0.7142857142857143
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Trà | 46000 | 40000 | 34000 | 0.7142857142857143
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Trà | 8000 | 6900 | 6300 | 0.7105263157894737
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Trà | 6000 | 5000 | 5000 | 0.7105263157894737
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Kim Trà | 33000 | 29000 | 24000 | 0.7058823529411765
+
+--- SHEET: 13. Phường Mỹ Thượng ---
+13. Phường Mỹ Thượng |  |  |  | Mẫu số 37
+BẢNG 13.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG MỸ THƯỢNG
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Mỹ Thượng | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Mỹ Thượng | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Mỹ Thượng | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Mỹ Thượng | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Mỹ Thượng | 33000 | 29000 | 24000
+
+--- SHEET: 14.Phường Phong Dinh ---
+14.Phường Phong Dinh |  |  |  | Mẫu số 37
+BẢNG 14.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Dinh | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Dinh | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Dinh | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Dinh | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Dinh | 33000 | 29000 | 24000
+
+--- SHEET: 15. Phường Phong Điền ---
+15. Phường Phong Điền |  |  |  | Mẫu số 37 | 1.15
+BẢNG 15.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Thu (cũ) | 40000 | 35000 | 29000 | 0.7333333333333333
+2 | Xã Phong Mỹ (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Mỹ | 29000 | 24000 | 21000
+3 | Xã Phong Mỹ (cũ) bao gồm các thôn : Tân Mỹ, Lưu Hiền Hoà, Đông Thái, Huỳnh Trúc, Phong Thu, Phú Kinh Phường | 27000 | 23000 | 19000
+4 | Xã Phong Xuân (cũ) bao gồm các thôn: Phong Hoà, Tân Lập, Bình An | 29000 | 24000 | 21000
+5 | Xã Phong Xuân (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Xuân | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Thu (cũ) | 46000 | 40000 | 34000 | 0.7333333333333333
+2 | Xã Phong Mỹ (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Mỹ | 32000 | 26000 | 24000
+3 | Xã Phong Mỹ (cũ) bao gồm các thôn : Tân Mỹ, Lưu Hiền Hoà, Đông Thái, Huỳnh Trúc, Phong Thu, Phú Kinh Phường | 30000 | 26000 | 21000
+4 | Xã Phong Xuân (cũ) bao gồm các thôn: Phong Hoà, Tân Lập, Bình An | 32000 | 26000 | 24000
+5 | Xã Phong Xuân (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Xuân | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Thu (cũ) | 8000 | 6900 | 6300 | 0.7884615384615384
+2 | Xã Phong Mỹ (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Mỹ | 6200 | 5200 | 4700
+3 | Xã Phong Mỹ (cũ) bao gồm các thôn : Tân Mỹ, Lưu Hiền Hoà, Đông Thái, Huỳnh Trúc, Phong Thu, Phú Kinh Phường | 6000 | 5200 | 4300
+4 | Xã Phong Xuân (cũ) bao gồm các thôn: Phong Hoà, Tân Lập, Bình An | 6200 | 5200 | 4700
+5 | Xã Phong Xuân (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Xuân | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+Số TT | Phân vùng | Giá đất
+ |  | VT1 | VT2 | VT3
+1 | Phường Phong Thu (cũ) | 6000 | 5000 | 5000
+2 | Xã Phong Mỹ (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Mỹ | 5000 | 4000 | 4000
+3 | Xã Phong Mỹ (cũ) bao gồm các thôn : Tân Mỹ, Lưu Hiền Hoà, Đông Thái, Huỳnh Trúc, Phong Thu, Phú Kinh Phường | 4500 | 4000 | 3000
+4 | Xã Phong Xuân (cũ) bao gồm các thôn: Phong Hoà, Tân Lập, Bình An | 5000 | 4000 | 4000
+5 | Xã Phong Xuân (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Xuân | 4500 | 4000 | 3000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Thu (cũ) | 33000 | 29000 | 24000 | 0.7391304347826086
+2 | Xã Phong Mỹ (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Mỹ | 28000 | 24000 | 20000
+3 | Xã Phong Mỹ (cũ) bao gồm các thôn : Tân Mỹ, Lưu Hiền Hoà, Đông Thái, Huỳnh Trúc, Phong Thu, Phú Kinh Phường | 24000 | 20000 | 17000
+4 | Xã Phong Xuân (cũ) bao gồm các thôn: Phong Hoà, Tân Lập, Bình An | 28000 | 24000 | 20000
+5 | Xã Phong Xuân (cũ) bao gồm các thôn và các vùng núi cao còn lại của xã Phong Xuân | 24000 | 20000 | 17000
+
+--- SHEET: 16. Phường Phong Phú ---
+16. Phường Phong Phú |  |  |  | Mẫu số 37 | 1.15
+BẢNG 16.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG PHONG PHÚ
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Phú | 40000 | 35000 | 29000 | 0.7142857142857143
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Phú | 46000 | 40000 | 34000 | 0.7142857142857143
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Phú | 8000 | 6900 | 6300 | 0.7105263157894737
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Phú | 6000 | 5000 | 5000 | 0.7105263157894737
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Phú | 33000 | 29000 | 24000 | 0.7058823529411765
+
+--- SHEET: 17. Phường Phong Quảng ---
+17. Phường Phong Quảng |  |  |  | Mẫu số 37
+BẢNG 17.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG PHONG QUẢNG
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Quảng | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Quảng | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Quảng | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Quảng | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Quảng | 33000 | 29000 | 24000
+
+--- SHEET: 18. Phường Phong Thái ---
+18. Phường Phong Thái |  |  |  | Mẫu số 37
+BẢNG 18.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG PHONG THÁI
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất |  |  | 1.0526315789473684
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3 | 1.2990196078431373
+1 | Phường Phong Sơn (cũ) | 40000 | 35000 | 29000
+2 | Phường Phong Hiền (cũ) | 40000 | 35000 | 29000
+3 | Xã Phong An (cũ) | 30000 | 25000 | 22000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Sơn (cũ) | 46000 | 40000 | 34000
+2 | Phường Phong Hiền (cũ) | 46000 | 40000 | 34000
+3 | Xã Phong An (cũ) | 33000 | 27000 | 24000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Sơn (cũ) | 8000 | 6900 | 6300
+2 | Phường Phong Hiền (cũ) | 8000 | 6900 | 6300
+3 | Xã Phong An (cũ) | 7000 | 5900 | 5300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Sơn (cũ) | 6000 | 5000 | 5000
+2 | Phường Phong Hiền (cũ) | 6000 | 5000 | 5000
+3 | Xã Phong An (cũ) | 5000 | 4000 | 4000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phong Sơn (cũ) | 33000 | 29000 | 24000
+2 | Phường Phong Hiền (cũ) | 33000 | 29000 | 24000
+3 | Xã Phong An (cũ) | 29000 | 25000 | 20000
+
+--- SHEET: 19. Phường Phú Bài ---
+19. Phường Phú Bài |  |  |  | Mẫu số 37
+BẢNG 19.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Bài | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Bài | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Bài | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Bài | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Bài | 33000 | 29000 | 24000
+
+--- SHEET: 20. Phường Thanh Thủy ---
+20. Phường Thanh Thủy |  |  |  | Mẫu số 37
+BẢNG 20.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thanh Thủy | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thanh Thủy | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thanh Thủy | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thanh Thủy | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thanh Thủy | 33000 | 29000 | 24000
+
+--- SHEET: 21. Phường Thuận An ---
+21. Phường Thuận An |  |  |  | Mẫu số 37
+BẢNG 21.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận An | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận An | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận An | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận An | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Thuận An | 33000 | 29000 | 24000
+
+--- SHEET: 22. Xã A Lưới 2 ---
+22. Xã A Lưới 2 |  |  |  | Mẫu số 37
+BẢNG 22.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ A LƯỚI 2
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 2 | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 2 | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 2 | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 2 | 4500 | 4000 | 3000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 2 | 24000 | 20000 | 17000
+
+--- SHEET: 23. Xã Chân Mây - Lăng Cô ---
+23. Xã Chân Mây - Lăng Cô |  | Mẫu số 37 |  |  | 1.15
+BẢNG 23.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Chân Mây - Lăng Cô | 40000 | 35000 | 29000 | 0.7333333333333333
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Chân Mây - Lăng Cô | 46000 | 40000 | 34000 | 0.7333333333333333
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Chân Mây - Lăng Cô | 8000 | 6900 | 6300 | 0.7884615384615384
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Chân Mây - Lăng Cô | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Chân Mây - Lăng Cô | 33000 | 29000 | 24000 | 0.7391304347826086
+
+--- SHEET: 24. Xã Hưng Lộc ---
+24. Xã Hưng Lộc |  |  |  | Mẫu số 37
+BẢNG 24.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ HƯNG LỘC
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị trấn Lộc Sơn (cũ) | 40000 | 35000 | 29000
+2 | Xã Lộc Bổn (cũ) | 40000 | 35000 | 29000
+3 | Xã Xuân Lộc (cũ) | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị trấn Lộc Sơn (cũ) | 46000 | 40000 | 34000
+2 | Xã Lộc Bổn (cũ) | 46000 | 40000 | 34000
+3 | Xã Xuân Lộc (cũ) | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị trấn Lộc Sơn (cũ) | 8000 | 6900 | 6300
+2 | Xã Lộc Bổn (cũ) | 8000 | 6900 | 6300
+3 | Xã Xuân Lộc (cũ) | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị trấn Lộc Sơn (cũ) | 6000 | 5000 | 5000
+2 | Xã Lộc Bổn (cũ) | 6000 | 5000 | 5000
+3 | Xã Xuân Lộc (cũ) | 4500 | 4000 | 3000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị trấn Lộc Sơn (cũ) | 33000 | 29000 | 24000
+2 | Xã Lộc Bổn (cũ) | 33000 | 29000 | 24000
+3 | Xã Xuân Lộc (cũ) | 24000 | 20000 | 17000
+
+--- SHEET: 25. Xã Khe Tre ---
+25. Xã Khe Tre |  |  |  | Mẫu số 37 | 1.2
+BẢNG 25.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ KHE TRE
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Hương Lộc (cũ) | 40000 | 35000 | 29000 | 0.7333333333333333
+2 | Thị trấn Khe Tre (cũ) | 27000 | 23000 | 19000 | 0.7142857142857143
+3 | Xã Hương Phú (cũ) | 27000 | 23000 | 19000 | 0.7142857142857143
+4 | Xã Thượng Lộ (cũ) | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Hương Lộc (cũ) | 46000 | 40000 | 34000 | 0.7333333333333333
+2 | Thị trấn Khe Tre (cũ) | 30000 | 26000 | 21000 | 0.7142857142857143
+3 | Xã Hương Phú (cũ) | 30000 | 26000 | 21000 | 0.7142857142857143
+4 | Xã Thượng Lộ (cũ) | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Hương Lộc (cũ) | 8000 | 6900 | 6300 | 0.7884615384615384
+2 | Thị trấn Khe Tre (cũ) | 6000 | 5200 | 4300 | 0.7105263157894737
+3 | Xã Hương Phú (cũ) | 6000 | 5200 | 4300 | 0.7105263157894737
+4 | Xã Thượng Lộ (cũ) | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Hương Lộc (cũ) | 6000 | 5000 | 5000 | 0.7884615384615384
+2 | Thị trấn Khe Tre (cũ) | 4500 | 4000 | 3000 | 0.7105263157894737
+3 | Xã Hương Phú (cũ) | 4500 | 4000 | 3000 | 0.7105263157894737
+4 | Xã Thượng Lộ (cũ) | 4500 | 4000 | 3000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Hương Lộc (cũ) | 33000 | 29000 | 24000 | 0.7391304347826086
+2 | Thị trấn Khe Tre (cũ) | 24000 | 20000 | 17000 | 0.7058823529411765
+3 | Xã Hương Phú (cũ) | 24000 | 20000 | 17000 | 0.7058823529411765
+4 | Xã Thượng Lộ (cũ) | 24000 | 20000 | 17000
+
+--- SHEET: 26. Xã Phú Lộc ---
+26. Xã Phú Lộc |  |  |  | Mẫu số 37 | 1.15
+BẢNG 26.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị Trấn Phú Lộc (cũ) | 40000 | 35000 | 29000 | 0.7333333333333333
+2 | Xã Lộc Trì (cũ) | 40000 | 35000 | 29000
+3 | Xã Lộc Bình (cũ) | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị Trấn Phú Lộc (cũ) | 46000 | 40000 | 34000 | 0.7333333333333333
+2 | Xã Lộc Trì (cũ) | 46000 | 40000 | 34000
+3 | Xã Lộc Bình (cũ) | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị Trấn Phú Lộc (cũ) | 8000 | 6900 | 6300 | 0.7884615384615384
+2 | Xã Lộc Trì (cũ) | 8000 | 6900 | 6300
+3 | Xã Lộc Bình (cũ) | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ XÃ PHÚ LỘC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị Trấn Phú Lộc (cũ) | 6000 | 5000 | 5000
+2 | Xã Lộc Trì (cũ) | 6000 | 5000 | 5000
+3 | Xã Lộc Bình (cũ) | 4500 | 4000 | 3000
+BẢNG 4: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Thị Trấn Phú Lộc (cũ) | 33000 | 29000 | 24000 | 0.7391304347826086
+2 | Xã Lộc Trì (cũ) | 33000 | 29000 | 24000
+3 | Xã Lộc Bình (cũ) | 24000 | 20000 | 17000
+
+--- SHEET: 27. Phường Phú Vang ---
+27. Phường Phú Vang |  |  |  | Mẫu số 37
+BẢNG 27.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Vang | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Vang | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Vang | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Vang | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Phường Phú Vang | 33000 | 29000 | 24000
+
+--- SHEET: 28. Xã Quảng Điền ---
+28. Xã Quảng Điền |  |  |  | Mẫu số 37
+BẢNG 28.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ QUẢNG ĐIỀN
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất |  |  | 1.1111111111111112
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3 | 1.2878787878787878
+1 | Xã Quảng Điền | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Quảng Điền | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Quảng Điền | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Quảng Điền | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Quảng Điền | 33000 | 29000 | 24000
+
+--- SHEET: 29. Xã A Lưới 1 ---
+29. Xã A Lưới 1 |  |  |  | Mẫu số 37
+BẢNG 29.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ A LƯỚI 1
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 1 | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 1 | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 1 | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 1 | 4500 | 4000 | 3000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 1 | 24000 | 20000 | 17000
+
+--- SHEET: 30. Xã A Lưới 3 ---
+30. Xã A Lưới 3 |  |  |  | Mẫu số 37
+BẢNG 30.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ A LƯỚI 3
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 3 | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 3 | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 3 | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 3 | 4500 | 4000 | 3000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 3 | 24000 | 20000 | 17000
+
+--- SHEET: 31. Xã A Lưới 4 ---
+31. Xã A Lưới 4 |  |  |  | Mẫu số 37
+BẢNG 31.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ A LƯỚI 4
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 4 | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 4 | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 4 | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 4 | 4500 | 4000 | 3000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất nuôi trồng thuỷ sản tư vấn đề xuất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 4 | 24000 | 20000 | 17000
+
+--- SHEET: 32. Xã A Lưới 5 ---
+32. Xã A Lưới 5 |  |  |  | Mẫu số 37
+BẢNG 32.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ A LƯỚI 5
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 5 | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 5 | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 5 | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 5 | 4500 | 4000 | 3000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã A Lưới 5 | 24000 | 20000 | 17000
+
+--- SHEET: 33. Xã Bình Điền ---
+33. Xã Bình Điền |  |  |  | Mẫu số 37
+BẢNG 33.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Bình Điền | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Bình Điền | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Bình Điền | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Bình Điền | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Bình Điền | 33000 | 29000 | 24000
+
+--- SHEET: 34.Xã Đan Điền ---
+34.Xã Đan Điền |  |  |  | Mẫu số 37
+BẢNG 34.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Đan Điền | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Đan Điền | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Đan Điền | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Đan Điền | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Đan Điền | 33000 | 29000 | 24000
+
+--- SHEET: 35. Xã Lộc An ---
+35. Xã Lộc An |  |  |  | Mẫu số 37
+BẢNG 35.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ LỘC AN
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Lộc An (cũ) | 40000 | 35000 | 29000 | 1.2237762237762237
+2 | Xã Lộc Điền (cũ) | 40000 | 35000 | 29000
+3 | Xã Lộc Hòa (cũ) | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Lộc An (cũ) | 46000 | 40000 | 34000 | 1.2878787878787878
+2 | Xã Lộc Điền (cũ) | 46000 | 40000 | 34000
+3 | Xã Lộc Hòa (cũ) | 30000 | 26000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3 | 1.3271604938271604
+1 | Xã Lộc An (cũ) | 8000 | 6900 | 6300
+2 | Xã Lộc Điền (cũ) | 8000 | 6900 | 6300
+3 | Xã Lộc Hòa (cũ) | 6000 | 5200 | 4300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Lộc An (cũ) | 6000 | 5000 | 5000 | 1.2195121951219512
+2 | Xã Lộc Điền (cũ) | 6000 | 5000 | 5000
+3 | Xã Lộc Hòa (cũ) | 4500 | 4000 | 3000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Lộc An (cũ) | 33000 | 29000 | 24000 | 1.2083333333333333
+2 | Xã Lộc Điền (cũ) | 33000 | 29000 | 24000
+3 | Xã Lộc Hòa (cũ) | 24000 | 20000 | 17000
+ |  |  |  |  | 1.3271604938271604
+
+--- SHEET: 36. Xã Long Quảng ---
+36. Xã Long Quảng |  |  |  | Mẫu số 37
+BẢNG 36.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Long Quảng | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Long Quảng | 29000 | 24000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Long Quảng | 5200 | 4500 | 3700
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Long Quảng | 4400 | 3800 | 3100
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Long Quảng | 20000 | 16000 | 14000
+
+--- SHEET: 37. Xã Nam Đông ---
+37. Xã Nam Đông |  |  |  | Mẫu số 37
+BẢNG 37.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Nam Đông | 27000 | 23000 | 19000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Nam Đông | 29000 | 24000 | 21000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Nam Đông | 5200 | 4500 | 3700
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Nam Đông | 4400 | 3800 | 3100
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Nam Đông | 20000 | 16000 | 14000
+
+--- SHEET: 38. Xã Phú Hồ ---
+38. Xã Phú Hồ |  |  |  | Mẫu số 37
+BẢNG 38.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ PHÚ HỒ
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2 |  |  |  |  | 1.2878787878787878
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Phú Hồ | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Phú Hồ | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Phú Hồ | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Phú Hồ | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Phú Hồ | 33000 | 29000 | 24000
+
+--- SHEET: 39. Xã Phú Vinh ---
+39. Xã Phú Vinh |  |  |  | Mẫu số 37 | 1.15
+BẢNG 39.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Phú Vinh | 40000 | 35000 | 29000 | 0.7333333333333333
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Phú Vinh | 46000 | 40000 | 34000 | 0.7333333333333333
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Phú Vinh | 8000 | 6900 | 6300 | 0.7884615384615384
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | 0 | Giá đất
+Số TT | 0 | VT1 | VT2 | VT3
+1 | Xã Phú Vinh | 6000 | 5000 | 5000 | 0.7884615384615384
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Phú Vinh | 33000 | 29000 | 24000 | 0.7391304347826086
+
+--- SHEET: 40. Xã Vinh Lộc ---
+40. Xã Vinh Lộc |  |  |  | Mẫu số 37
+BẢNG 40.1: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM GỒM ĐẤT TRỒNG LÚA VÀ ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Vinh Lộc | 40000 | 35000 | 29000
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Vinh Lộc | 46000 | 40000 | 34000
+BẢNG 3: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Vinh Lộc | 8000 | 6900 | 6300
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG PHÒNG HỘ
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Vinh Lộc | 6000 | 5000 | 5000
+BẢNG 5: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: Đồng/m2
+Số TT | Tên đơn vị hành chính | Giá đất
+Số TT | Tên đơn vị hành chính | VT1 | VT2 | VT3
+1 | Xã Vinh Lộc | 33000 | 29000 | 24000

@@ -1,0 +1,43 @@
+##### du-thao-qd.docx
+- Việc xác định vị trí đất căn cứ vào năng suất cây trồng, điều kiện kết cấu hạ tầng, các lợi thế cho sản xuất, kinh doanh khác (đối với đất trồng cây hàng năm, đất trồng cây lâu năm, đất rừng sản xuất); khoảng cách từ nơi cư trú của cộng đồng người sử dụng đất đến nơi sản xuất, khoảng cách từ nơi sản xuất đến thị trường tiêu thụ tập trung sản phẩm (đối với đất nuôi trồng thủy sản, đất rừng sản xuất) được xác định 03 vị trí.
+- 1. Vị trí 1: Là vị trí mà tại đó các thửa đất có năng suất cây trồng cao, các yếu tố và điều kiện thuận lợi nhất.
+- 2. Vị trí 2: Là vị trí mà tại đó các thửa đất cónăng suất cây trồng, điều kiện kết cấu hạ tầng, các lợi thế cho sản xuất, kinh doanh khác kém hơn so với vị trí 1 (đối với đất trồng cây hàng năm, đất trồng cây lâu năm, đất rừng sản xuất); khoảng cách từ nơi cư trú của cộng đồng người sử dụng đất đến nơi sản xuất, khoảng cách từ nơi sản xuất đến thị trường tiêu thụ tập trung sản phẩm có xa hơn so với vị trí 1 (đối với đất nuôi trồng thủy sản, đất rừng sản xuất).
+- 3. Vị trí 3: Là vị trí không thuận lợi về giao thông; năng suất cây trồng thấp; điều kiện tưới tiêu không chủ động; không có kết cấu hạ tầng và các lợi thế cho sản xuất, kinh doanh khác; xa nơi cư trú người sử dụng đất, xa thị trường tiêu thụ tập trung sản phẩm.
+- Điều 6. Xác định loại đường phố, nhóm đường phố, vị trí đất đối với đất phi nông nghiệp tại các tuyến đường đã được đặt tên:
+- Đối với đất ở tại đô thị, đất thương mại, dịch vụ tại đô thị, đất sản xuất kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ tại đô thị (sau đây gọi là đất phi nông nghiệp tại đô thị): Vị trí đất được xác định gắn với từng đường, đoạn đường, phố, đoạn phố (sau đây gọi là đường phố) và căn cứ vào điều kiện kết cấu hạ tầng kỹ thuật, hạ tầng xã hội, các lợi thế cho sản xuất, kinh doanh; khoảng cách đến trung tâm chính trị, kinh tế, thương mại trong khu vực và xác định như sau:
+- 3. Xác định vị trí đất: Việc xác định vị trí đất theo từng đường phố căn cứ vào điều kiện kết cấu hạ tầng kỹ thuật, hạ tầng xã hội, các lợi thế cho sản xuất, kinh doanh và được xác định 04 vị trí để định giá đất.
+- a) Vị trí 1: Tất cả các thửa có mặt tiền là đường phố trong đô thị, khoảng cách xác định cho vị trí 1 tính từ mặt tiếp giáp với đường phố kéo dài về sau đến 25 mét.
+- - Các thửa đất nằm liền kề vị trí 1 thuộc các đường kiệt của đường phố, có mặt cắt đường < 2,5m, khoảng cách xác định cho vị trí 2 tính tại đường phân giữa vị trí 1 và vị trí 2 kéo dài thêm 25 mét.
+- - Các thửa đất mặt tiền thuộc các đường kiệt của đường phố, có mặt cắt đường 2,5m, khoảng cách xác định cho vị trí 2 tính tại đường phân giữa vị trí 1 và vị trí 2 đến dưới 100 mét.
+- - Các thửa đất nằm liền kề vị trí 2 thuộc các đường kiệt của đường phố, có mặt cắt đường < 2,5m, khoảng cách xác định cho vị trí 3 tính tại đường phân giữa vị trí 2 và vị trí 3 kéo dài thêm 25 mét.
+- - Các thửa đất mặt tiền thuộc các đường kiệt của đường phố, có mặt cắt đường 2,5m, khoảng cách xác định cho vị trí 3 tính tại đường phân giữa vị trí 2 và vị trí 3 đến hết đường kiệt.
+- - Các thửa đất nằm liền kề vị trí 2 thuộc các đường kiệt của đường kiệt của đường phố, có mặt cắt đường 2,5m, khoảng cách xác định cho vị trí 3 tính từ đường phân vị trí 2 kéo dài tiếp theo đến dưới 100 mét.
+- - Các thửa đất nằm liền kề vị trí 3 thuộc các đường kiệt của đường phố, có mặt cắt đường <2,5m, khoảng cách xác định cho vị trí 4 tính từ đường phân vị trí 3 cho đến hết đường kiệt.
+- - Các thửa đất nằm liền kề vị trí 3 thuộc các đường kiệt của đường kiệt của đường phố, có mặt cắt đường 2,5m, khoảng cách xác định cho vị trí 4 tính từ đường phân vị trí 3 kéo dài đến hết đường kiệt.
+- - Các thửa đất còn lại có điều kiện về giao thông và sinh hoạt kém hơn vị trí 3.
+- đ) Xác định vị trí đất để tính giá đất cho một số trường hợp đặc thù:
+- + Vị trí 1: Từ mặt tiếp giáp với đường phố kéo dài về phía sau là 25 mét.
+- + Vị trí 2: Từ đường phân giữa vị trí 1 và vị trí 2 kéo dài về phía sau 20 mét.
+- + Vị trí 3: Từ đường phân giửa vị trí 2 và vị trí 3 kéo dài về phía sau đến hết ranh giới thửa đất.
+- - Các thửa đất mang tên đường phố nào thì xác định vị trí theo đường phố đó để áp giá đất. Đối với các thửa đất chưa có tên đường phố hoặc các thửa đất tách ra từ thửa đất có tên đường phố, xác định vị trí theo đường phố có khoảng cách gần nhất để áp giá.
+- - Các thửa đất có vị trí từ 2 mặt đường phố trở lên thì việc xác định giá đất theo đường phố có giá đất cao nhất làm đơn giá chuẩn và cộng thêm vào đơn giá chuẩn (+) 5% đơn giá vị trí 1 của đường phố có giá cao thứ hai.
+- Điều 7. Xác định vị trí đất đối với nhóm đất phi nông nghiệp ở ven đường giao thông chính và các khu vực còn lại: Vị trí đất được xác định gắn đường, đoạn đường hoặc khu vực và thực hiện như sau:
+- a) Vị trí 1: Là vị trí có ít nhất một mặt tiếp giáp với đường giao thông.
+- b) Vị trí 2: Là vị trí nằm liền kề vị trí 1, có ít nhất một mặt tiếp giáp với “đường kiệt” của đường giao thông, có mặt cắt đường 2,5m, khoảng cách xác định từ điểm tiếp giáp với đường giao thông đến 100 mét.
+- - Là vị trí nằm liền kề vị trí 2, có ít nhất một mặt tiếp giáp với “đường kiệt” của đường giao thông, có mặt cắt đường 2,5m, khoảng cách xác định từ điểm tiếp giáp với vị trí 2 đến 100 mét.
+- - Là vị trí nằm liền kề vị trí 1, có ít nhất một mặt tiếp giáp đường kiệt của đường giao thông, có mặt cắt đường < 2,5m, khoảng cách xác định từ điểm tiếp giáp với vị trí 1 đến 100 mét.
+- - Vùng 3: Đất phi nông nghiệp tại nông thôn các vị trí còn lại trên địa bàn xã.
+- b) Phân vị trí đất theo vùng: Mỗi vùng được phân thành 2 vị trí căn cứ vào mức độ thuận lợi trong từng khu vực. Riêng vùng không phân vị trí.
+- 2. Việc xác định vị trí đất được thực hiện theo Điều 6, Điều 7 quy định này.
+- 2. Việc xác định vị trí đất được thực hiện theo Điều 6, Điều 7 quy định này.
+- 1. Đối với các thửa đất dùng để đầu tư các dự án thương mại, dịch vụ; sản xuất kinh doanh thuộc khu vực nông thôn nằm ven đường giao thông, khu dân cư, khu quy hoạch, khu đô thị mới, khu công nghiệp có diện tích từ 2.000 m2 trở lên thì vị trí và hệ số giá đất giữa các vị trí xác định như sau:
+- - Vị trí 1: Tính từ mặt tiếp giáp đường giao thông đến chiều sâu tối đa là 25 mét.
+- - Vị trí 2: Tính từ đường phân giữa vị trí 1 và vị trí 2 kéo dài chiều sâu thêm 20 mét.
+- - Vị trí 3: Tính từ đường phân giới vị trí 2 và vị trí 3 kéo sâu đến hết ranh giới thửa đất.
+- - Các thửa đất nằm trong khu quy hoạch, khu đô thị mới, giá đất vị trí 2 tính bằng 60% giá đất vị trí 1; giá đất vị trí 3 tính bằng 40% giá đất vị trí 1.
+- 2. Các thửa đất mặt tiền đường phố nhưng bị ngăn cách với đường phố bởi điều kiện tự nhiên (sông, hồ) hoặc các công trình công cộng khác như đường sắt, công viên... thì không tính giá theo vị trí 1 của đường phố đó mà tùy thuộc vào vị trí của thửa đất để áp giá theo Bảng giá đất này.
+- 3. Việc xác định vị trí thửa đất có nguồn gốc từ hợp thửa của 2 hay nhiều thửa đất có vị trí khác nhau trong Bảng giá đất như sau:
+- a) Đối với đất ở nông thôn: Xác định vị trí theo khoản 1, khoản 2 Điều 12.
+- b) Đối với đất ở đô thị: Xác định vị trí theo khoản 1, khoản 2 Điều 14.
+- 4. Giá đất ở trong khu Cảng hàng không quốc tế Phú Bài được xác định theo giá đất ở vị trí 2 đường Lê Trọng Tấn.
+

@@ -1,0 +1,21 @@
+##### Bang gia dat Lai Chau 2026.docx
+- - Vị trí 1: Phải đảm bảo các điều kiện về yếu tố khoảng cách và lợi thế cho sản xuất nông nghiệp và có ít nhất một yếu tố khoảng cách như sau:
+- + Phần diện tích đất tiếp giáp sau vị trí 1 và kết hợp với ít nhất 01 trong 04 yếu tố lợi thế cho sản xuất nông nghiệp là: Địa hình bằng phẳng; thời tiết, khí hậu thuận lợi cho sản xuất nông nghiệp; độ phì nhiêu cao; tưới tiêu chủ động.
+- + Phần diện tích đất đảm bảo điều kiện về khoảng cách của vị trí 1 nhưng không đạt điều kiện về lợi thế cho sản xuất nông nghiệp của vị trí 1.
+- Trường hợp vị trí 2, cùng cánh đồng (ruộng lúa), cùng đồi (đất nương, đồi chè) với vị trí 1 và có ít nhất 02 trong 04 yếu tố lợi thế cho sản xuất nông nghiệp được xếp vào vị trí 1.
+- + Phần diện tích đất đảm bảo điều kiện về khoảng cách của vị trí 2 nhưng không đạt điều kiện về lợi thế cho sản xuất nông nghiệp của vị trí 2.
+- Trường hợp vị trí 3, cùng cánh đồng (ruộng lúa), cùng đồi (đất nương) với vị trí 2 và có ít nhất 01 trong 04 yếu tố lợi thế cho sản xuất nông nghiệp là: Địa hình bằng phẳng; thời tiết, khí hậu thuận lợi cho sản xuất nông nghiệp; độ phì nhiêu cao; tưới tiêu chủ động thì được xếp vào vị trí 2.
+- - Khu vực 1: Phần diện tích đất thuộc khu vực tiếp giáp Quốc lộ, đường tỉnh, đường xã, đường giao thông nông thôn tại trung tâm xã hoặc cụm xã đến mét thứ 1.000; Phần diện tích đất nằm trong khu thương mại, dịch vụ, chợ, khu du lịch, khu công nghiệp hoặc gần ranh giới ngoài cùng của khu thương mại, dịch vụ, chợ, khu du lịch, khu công nghiệp có khả năng sinh lợi, có kết cấu hạ tầng thuận lợi cho sinh hoạt, kinh doanh và cung cấp dịch vụ đến mét thứ 1.000 và được chia làm 3 vị trí:
+- + Vị trí 1: Phần diện tích đất cách mép ngoài cùng của vỉa hè, chỉ giới đường giao thông hoặc mép ngoài cùng của đường giao thông nông thôn (đối với nơi chưa có quy hoạch) ≤ 40 m; phần diện tích đất nằm trong khu thương mại, dịch vụ, chợ, khu du lịch, khu công nghiệp hoặc gần ranh giới ngoài cùng của khu thương mại, dịch vụ, chợ, khu du lịch, khu công nghiệp ≤ 40 m.
+- + Vị trí 2: Phần diện tích đất sau vị trí 1 (sau mét thứ 40) đến mét thứ 100.
+- + Vị trí 3: Phần diện tích còn lại của khu vực 1 không thuộc vị trí 1 và vị trí 2.
+- - Khu vực 2: Phần diện tích đất thuộc khu vực tiếp giáp đường giao thông liên xã, liên thôn, bản đến mét thứ 1000; khu vực đất gần ranh giới ngoài cùng của khu vực 1 đến mét thứ 1000 và được phân thành 02 vị trí như sau:
+- + Vị trí 1: Phần diện tích đất cách ranh giới ngoài cùng của khu vực 1 ≤ 40 m; Phần diện tích đất cách mép ngoài cùng của đường giao thông ≤ 40 m.
+- + Vị trí 2: Phần diện tích đất còn lại của khu vực 2 không thuộc vị trí 1.
+- - Khu vực 3: Phần diện tích đất phi nông nghiệp còn lại trên địa bàn xã không thuộc khu vực 1 hoặc khu vực 2.
+- - Vị trí 1: Phần diện tích đất có vị trí cách đường, phố, tính từ chỉ giới quy hoạch hành lang an toàn giao thông ≤ 20 m;
+- - Vị trí 2: Phần diện tích đất sau vị trí 1 (sau mét thứ 20) đến mét thứ 40.
+- - Vị trí 3: Phần diện tích đất sau vị trí 2 (sau mét thứ 40) đến mét thứ 60.
+- - Vị trí còn lại: Các vị trí còn lại không thuộc vị trí 1, vị trí 2, vị trí 3.
+- a) Trường hợp thửa đất có vị trí tiếp giáp với 2 đường, tuyến đường, phố trở lên có giá trong bảng giá đất thì xác định giá theo đường, tuyến đường, phố có mức giá cao nhất; vị trí 1 được tính hệ số bằng 1,2 giá đất của đường, tuyến đường, phố có giá đất cao nhất. Các vị trí còn lại được xác định theo vị trí của đường, tuyến đường, phố có khoảng cách gần nhất; nếu thửa đất có khoảng cách đến các đường, tuyến đường, phố bằng nhau thì áp dụng theo đường, tuyến đường, phố có giá cao nhất. Trường hợp thửa đất không tiếp giáp với tuyến đường, đoạn đường, phố, khu dân cư có giá nhưng tiếp giáp với đường ngõ, ngách đi chung (đường ngõ, ngách do Nhà nước quản lý) chưa có giá thì được xác định theo giá đất của vị trí còn lại trong Bảng giá đất.
+

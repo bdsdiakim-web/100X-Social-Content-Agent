@@ -1,0 +1,713 @@
+##### PL-I-DL.pdf
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau:
+- Đinh Tiên Hoàng Hết đường (Hẻm 59 Nguyễn Du) 9.600 2.400 1.900 1.400
+- 16 Chu Văn An Lý Thái Tổ Hà Huy Tập 38.500 Võ Nguyên Giáp Hẻm 05, 14 Cù Chính Lan 11.300 4.000 3.400 1.900
+- Hẻm 05, 14 Cù Chính Lan Hết đường (Hẻm 53/15 Lê Duẩn) 6.800 2.400 2.000 1.400
+- 32 Đoàn Thị Điểm Lý Thường Kiệt Tịnh xá Ngọc Quang (Thửa đất số 102, Tờ bản đồ số 8) 11.300 4.000 3.400 2.300
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Phan Đình Giót Bên phải Nguyễn Công Trứ; Bên trái hẻm 105 Lê Hồng Phong 75.600 15.100 13.600 9.800
+- Bên phải Nguyễn Công Trứ; Bên trái hẻm 105 Lê Hồng Phong Quang Trung 90.000 18.000 16.200 11.700
+- Nguyễn Văn Trỗi Bên phải: Đoàn Thị Điểm; Bên trái: Số nhà 323 Lý Thường Kiệt 33.800 12.000 10.000 7.500
+- Bên phải: Đoàn Thị Điểm; Bên trái: Số nhà 323 Lý Thường Kiệt Hết đường 22.500 9.000 7.000 5.500
+- Hẻm 383 Trần Phú Hết ranh giới phường Buôn Ma Thuột (giáp phường Thành Nhất) 9.000 2.700 2.300 1.400
+- Võ Nguyên Giáp (Bùng binh) Mai Thị Lựu và Hẻm 135 Trần Quý Cáp 27.000 7.600 6.800 4.100
+- 188 Hẻm 2 Phan Chu Trinh Nguyễn Tất Thành Phan Chu Trinh 37.400
+- 191 Hẻm 40 Nguyễn Tất Thành Nguyễn Tất Thành Hẻm 59 Hùng Vương 20.000 11.300 10.000 3.600
+- 192 Hẻm 166 Nguyễn Tri Phương (Sơn Khinh cũ) Nguyễn Tri Phương
+- Hẻm 02 Nguyễn Đình Chiểu (Đối diện Nhà thi đấu tỉnh): Nguyễn Đình Chiểu đến hết đường (Nhà sách Giáo dục)
+- - Hẻm 52 Hồ Tùng Mậu (đoạn 1) từ đường Hồ Tùng Mậu đến thửa đất số 58, 59, 60; Tờ bản đồ số 16
+- - Hẻm 52 Hồ Tùng Mậu (Đoạn 2) từ thửa 100; Tờ bản đồ số 16 đến bên phải hẻm 105 đường Lê Hồng Phong (Thửa đất số 140; Tờ bản đồ số 13).đường Lê Hồng Phong
+- Hẻm đường Quang Trung (Về phía bên trái): Trong khoảng từ đường Xô Viết Nghệ Tĩnh đến đường Đinh Công Tráng - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Hẻm đường Lê Hồng Phong (Phía dọc suối Đốc Học): Trong khoảng từ đường Nguyễn Công Trứ đến đường Quang Trung - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất
+- - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Hẻm đường Hồ Tùng Mậu (Về phía bên phải): Trong khoảng từ đường Lê Hồng Phong đến hết hẻm 52 Hồ Tùng Mậu - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Khu dân cư Tổ dân phố 10, phường Tân Lợi cũ (Cạnh Thi hành án dân sự tỉnh) - Đường ngang nối Hà Huy Tập - Ngô Văn Năm (Hẻm 04 Hà Huy Tập) - Hẻm 06 Hà Huy Tập - Hẻm 24 Hà Huy Tập
+- Đối với Các vị trí 2, 3 và 4 đến Các trục đường chính Tổ dân phố 9 được trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 5 Công chúa Ngọc Hân (cũ: Đường D8, hẻm 32 Phạm Hùng) Phạm Hùng Lý Nhân Tông 21.500
+- 7 Dã Tượng (thuộc khu tái định cư tổ dân phố 9, phường Tân An) Làng văn hóa dân tộc Hẻm 266 Nguyễn Chí Thanh 22.500
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- 69 Hẻm 129 Nguyễn Chí Thanh Nguyễn Chí Thanh Dã Tượng 19.500 12.700 11.700 4.900
+- 78 Hẻm 28 Lê Thị Hồng Gấm Lê Thị Hồng Gấm Hết thửa đất số 141, 144; tờ bản đồ số 246 19.500
+- 79 Hẻm 40 Lý Tự Trọng Lý Tự Trọng Tôn Đức Thắng và Hẻm 53 Ngô Gia Tự 25.200 8.800 7.600 4.300
+- 80 Hẻm 51 Nguyễn Tất Thành Nguyễn Tất Thành Nguyễn Kinh Chi 27.000 81 Hẻm 53 Ngô Gia Tự Ngô Gia Tự Hẻm 40 Lý Tự Trọng 25.200 8.800 7.600 4.300
+- 82 Hẻm 57 Nguyễn Tất Thành Nguyễn Tất Thành Hết thửa đất số 54; Tờ bản đồ số 212 23.600
+- 52 Các vị trí 2, 3 và 4 đến đường Phạm Văn Đồng (Quốc lộ 26) được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 90 Khu dân cư Tổ dân phố 9, phường Tân An - Đường giao với hẻm 146 Nguyễn Chí Thanh - Đường giao với đường Dã Tượng
+- Các vị trí 2, 3 và 4 đến Nguyễn Văn Linh (Quốc lộ 14): đoạn từ Đường số 8A và đường số 25B đến Hết địa bàn phường và đường 31B; Đường số 25B; 27B và 31B: Từ Nguyễn Văn Linh (Quốc lộ 14) đến đường số 22B, Tổ dân phố Thiên Sơn được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến Đường nối từ cuối đường Nguyễn Xuân Nguyên đến đường Vành Đai QL14-QL26: đoạn từ Ngã 4 giao với đường N7 đến Ngã 4 cuối khu dân cư Buôn Ea Nao B được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 Đường vào tổ dân phố Kiên Cường (Đường 1A): đoạn từ đường 20A và đường N10 đến Ngã tư giao đường KC10, Tổ dân phố Kiên Cường được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến Đường giao thông Vành Đai QL26 - QL14 đi Tỉnh Lộ 8: đoạn từ Hết thửa 94 và 719; Tờ bản đồ số 14 đến Hết ngã tư sân bóng Buôn Ko Tam (Hết thửa đất số 321; Tờ bản đồ số 85 và thửa đất số 566, Tờ bản đồ số 84), Buôn Krông A và Buôn Krông B được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 52 Hẻm 349 Phạm Văn Đồng Phạm Văn Đồng Hết thửa đất số 41, 42, tờ bản đồ số 19 12.000 4.200 3.600 2.400
+- 53 Hẻm 363 Phạm Văn Đồng Phạm Văn Đồng Hết thửa đất số 15, 17, tờ bản đồ số 39 12.000 4.200 3.600 2.400
+- 56 9.000 7.000 5.500 4.000 Hẻm đường Nguyễn Văn Cừ (Về phía bên phải): Từ Nguyễn Tất Thành (Bùng binh Km3) đến cầu Ea Nao (trong phạm vi 200m tính hết vị trí thửa đất)
+- 32.100 - Đường nội bộ khu dân cư quy hoạch 8m (giao với hẻm 193 Nguyễn Văn Cừ) 23.000
+- - Đường Nguyễn Hồng Ưng (Hẻm 119 Nguyễn Văn Cừ) Lê Vụ Nguyễn Văn Cừ 39.000
+- 74 Đường số 7 quy hoạch rộng 11,5m Đường hẻm 23A Trần Quý Cáp Hết lô LK8-33 12.000
+- 76 Đường hẻm số 04 Võ Thị Sáu Trần Quý Cáp Hết lô BT2-02 18.200
+- - Đường nội bộ khu dân cư quy hoạch rộng 16,5m vuông góc với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ)
+- - Đường nội bộ khu dân cư quy hoạch rộng 16,5m song song với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ)
+- - Đường nội bộ khu dân cư quy hoạch rộng 18m ((đường Hoàng Minh Giám, vuông góc với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ))
+- Các hẻm cấp 1 đường Nguyễn Lương Bằng (Cả 2 bên), đoạn từ Nguyễn Văn Cừ (Bùng binh Km5) đến Đường vào buôn Kom Leo (Hết thửa đất số 50; Tờ bản đồ số 193) trong phạm vi 300m tính hết vị trí thửa đất
+- Các hẻm cấp 1 đường Nguyễn Thái Bình (Cả 2 bên), đoạn từ Đường vào buôn Kom Leo (Hết thửa đất số 50; Tờ bản đồ số 193) đến Hết thửa đất số 397; 410, tờ bản đồ 193 trong phạm vi 300m tính hết vị trí thửa đất
+- Đối với Các vị trí 2, 3 và 4 đến đường trục dọc, ngang đường vào buôn Kom Leo được trong khoảng cách 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến đến đường, đoạn đường có tên trong Bảng giá được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 89 Đường vào Viện KH NLN Tây Nguyên (Cũ) (Hẻm 75 Nguyễn Lương Bằng)
+- Võ Văn Kiệt Ngã 3 đường (Hết thửa đất số 817, 21; tờ bản đồ số 90) 6.000 2.400 2.100 1.500
+- Hết Hội trường Tổ dân phố 10 và thửa đất số 39, 52, Tờ bản đồ số 74 (Sát đường hẻm)
+- Hết Hội trường Tổ dân phố 10 và thửa đất số 39, 52, Tờ bản đồ số 74 (Sát đường hẻm)
+- Ngã tư hẻm 83 Tố Hữu (Hết thửa đất số 48 và 49; Tờ bản đồ số 100) 4.500 2.300 1.900 1.700
+- Ngã tư hẻm 83 Tố Hữu (Hết thửa đất số 48 và 49; Tờ bản đồ số 100)
+- Bên phải Hẻm 38 Tố Hữu (hết thửa đất số 37, Tờ bản đồ số 144); bên trái hết thửa đất số 238, Tờ bản đồ số 97
+- Bên phải Hẻm 38 Tố Hữu (hết thửa đất số 37, Tờ bản đồ số 144); bên trái hết thửa đất số 238, Tờ bản đồ số 97
+- Phan Bội Châu Yết Kiêu và Hẻm 17 Trương Công Định 33.200 11.600 10.000 6.600
+- Yết Kiêu và Hẻm 17 Trương Công Định Trần Phú 30.600 10.700 9.200 6.100
+- 51 Hẻm 610 Lê Duẩn Lê Duẩn Hết ranh giới phường Thành Nhất (hết thửa đất số 48, tờ bản đồ số 79) 8.300 3.300 2.900 2.100
+- Nguyễn An Ninh Đầu ranh Đài phát thanh và hẻm 610 Lê Duẩn 31.200 8.100 6.600 3.700
+- Đầu ranh Đài phát thanh và hẻm 610 Lê Duẩn Đường 30 tháng 4 23.500 7.100 6.300 4.000
+- Lê Duẩn Hẻm 21 Nguyễn An Ninh và Hết thửa đất số 79; Tờ bản đồ số 228 16.000 5.600 4.800 2.700
+- Hẻm 21 Nguyễn An Ninh và Hết thửa đất số 79; Tờ bản đồ số 228 Cổng Trại giam 14.000 4.900 4.200 2.400
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất (trừ Khu dân cư Tổ dân phố 15) được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Lê Duẩn Nguyễn Trường Tộ và hẻm 70 Y Wang 26.400 7.900 6.600 4.000
+- Hẻm 174 Y Wang và đường giao thông đi qua Hồ Trúc Cầu Ea Kniêr 15.200 5.300 4.600 2.600
+- 41 Hẻm 33 Lê Thị Riêng Lê Thị Riêng Đặng Thuỳ Trâm (Tượng đài Lý Tự Trọng) 7.100 3.000 2.700 1.800
+- - Trục đường D1 Hẻm 120/26 Y Wang Hết ranh giới quy hoạch khu dân cư trường Hành chính cũ 21.000
+- 47 Hẻm số 552 đường Lê Duẩn (Chỉ áp dụng cho các thửa đất mặt tiền hẻm 552)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- - Thăng Long Hẻm phía Nam Trường mầm non Phường Phú Thạnh cũ 4.500 2.700 2.200 1.300
+- - Hẻm phía Nam Trường mầm non Phường Phú Thạnh cũ Đường sắt 3.000 2.400 1.700 1.000
+- 24 Thăng Long - Đường 3 tháng 2 Trần Kiệt 7.000 4.700 3.400 2.000
+- - Trần Kiệt Điểm giao đường sắt và đường 3 tháng 2 6.000 4.300 3.100 1.800
+- Đường Trần Kiệt (Trừ Khu dân cư tạo quỹ đất để huy động vốn phục vụ dự án đường Bạch Đằng giai đoạn 2 (khu đất số 4), tại phường Phú Đông, Phú Thạnh, thành phố Tuy Hòa cũ (Sau khi đã đầu tư hạ tầng); Khu nhà ở K2-K6 đường Hùng Vương, phường Phú Đông cũ)
+- - Đường Đoàn Khuê (rộng 12,5m) 20.300 - Đường Hùng Vương (rộng 42m) 36.800 - Đường Trần Kiệt (30m) 27.100 - Đường Trần Toại (rộng 16m) 21.000 - Đường Trần Khánh Dư (rộng 20m) 23.100
+- Đường Trần Khánh Dư và đường hẻm dọc QL.1 (đoạn từ đường Phan Đình Phùng đến nhà ông Sang), khu phố 4
+
+##### PL-II-DL.pdf
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- 10 Các tuyến đường còn lại trong các khu dân cư chưa có tên trong bảng giá Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu giãn dân cách Quốc lộ 14C 600 mét Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn từ giáp xã Ea Ktur Đến Ngã tư đường QL27 giao với Tỉnh lộ 10 (tỉnh lộ 690) tính cả 2 bên đường
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn Từ ngã tư Quốc lộ 27 đến giáp xã Hòa Hiệp cũ (Cả hai bên đường dọc QL 27)
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn từ giáp xã Hòa Hiệp cũ đến hết thôn Thành Công
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 (còn lại)
+- 13 Đồng Khởi (đường D-03) Võ Văn Kiệt (đường N1) Đường Nguyễn Chí Thanh (nối dài) 4.825
+- 30 Hẻm của đường Nguyễn Chí Thanh Đầu đường Nguyễn Chí Thanh Hết nhà ông Kar Sơ Vinh 1.000
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Ngã tư Điện Biên Phủ và Võ Văn Kiệt Ngã ba Điện Biên Phủ - Y Jút 1.000 430 370 240
+- Ngã ba Phạm Văn Đồng và Lý Thường Kiệt Ngã ba Phạm Văn Đồng và 30-4 600 260 220 160
+- Ngã tư Võ Văn Kiệt và Lê Quý Đôn Ngã tư Võ Văn Kiệt và Điện Biên
+- Ngã tư Võ Văn Kiệt và Điện Biên Phủ Ngã ba Võ Văn Kiệt và Đinh Núp 1.000 450 240 120
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các trục đường khu dân cư các buôn Ngô A, Ngô B, Cư Phiăng, buôn Tliêr còn lại 90 Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Dọc trục đường chính Đường nội bộ Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Võ Văn Kiệt Hết ranh giới thửa đất số 2, tờ bản đồ số 65 400 320 280
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đến đường hẻm (phía Bắc đường), đối diện nhà nghỉ Hoàng Long 2.000 1.000 700 400
+- Hết ranh giới thửa đất nhà nghỉ Hoàng Long (phía Nam đường) và đường hẻm (phía Bắc đường), đối diện nhà nghỉ Hoàng Long
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Ngã ba đường xuống hồ sinh thái (Ngã ba nhà ông Lực, phía Đông và đường hẻm đối diện Ngã ba, phía Tây đường)
+- Ngã ba đường xuống hồ sinh thái (Ngã ba nhà ông Lực, phía Đông và đường hẻm đối diện Ngã ba, phía Tây đường)
+- Phạm Hồng Thái (phía Tây đường) Hẻm Bình Tâm (phía Tây đường) 17.900 8.950 6.270 3.580
+- Hẻm Bình Tâm (phía Tây đường) Xô Viết Nghệ Tĩnh (phía Tây đường) 12.200 6.100 4.270 2.440
+- Đường Ama Khê (phía Đông đường) và đường hẻm (phía Tây đường)
+- Đường Ama Khê (phía Đông đường) và đường hẻm (phía Tây đường)
+- Đường hẻm (hết ranh giới thửa số 128 cũ phía Nam và thửa số 112 phía Bắc, tờ bản đồ số 16 mới)
+- Đường hẻm (hết ranh giới thửa số 128 cũ phía Nam và thửa số 112 phía Bắc, tờ bản đồ số 16 mới)
+- Hết ranh giới thửa đất 28, tờ bản đồ số 112 (phía Tây đường) và đường hẻm vào nhà bà Tục (phía Đông đường)
+- Hết ranh giới thửa đất số 28, tờ bản đồ số 112 (phía Tây đường) và đường hẻm vào nhà bà Tục (phía Đông đường)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu dân cư Tân Sơn - Cao Bằng (vị trí 1 các trục đường chính) Khu dân cư thôn Hòa An (vị trí 1 các trục đường chính) Khu dân cư thôn Hòa Nam (vị trí 1 các trục đường chính) Khu dân cư thôn Nam Thắng (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Hưng - Tân Bình (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Lập (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Nam (vị trí 1 các trục đường chính)
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Các trục đường của thôn 1, 2, 3, 4, 4 A, 5, 6, buôn Kniêr, buôn Kplang các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đường Quang Trung Hết ranh giới thửa đất nhà ông Hùng (Hẻm 2) 2.500 1.500 1.000 750
+- Lý Thường Kiệt Km 0 + 350 (ngã ba đi đội 6, thôn 1A - xã Cư Ni) 9.750 6.750 4.870
+- Hết cây xăng Nam Tây Nguyên Đường hẻm (hết ranh giới thửa đất ông Nguyễn Văn Nhung - Lên) 1.500 900 600 450
+- Đường hẻm (Hết ranh giới thửa đất ông Nguyễn Văn Nhung - Lên) Hết đường 1.600 960 640 480
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu dân cư thôn 8 và Thôn 12 Khu dân cư Trung tâm xã Khu vực các thôn 1A, 1 B, 2 A, 2 B, 2 C, 9 Khu vực các thôn 3 A, 3 B, 4, 5, 6A, 6 B, 7 A, 7 B, 10, 11, 14 Khu tái định cư số 1 (Thôn Yang San) Khu vực các thôn 2, 3, thôn 4 Cư Elang, 6 E, 6 D, Ea Rớt, Văn Kiều Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Ngã ba nhà ông Hoàn Hết ranh giới đất Trường tiểu học Lý Thường Kiệt 200 170 150 130
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đường ngang thông ra đường Giải Phóng 540 Đường đối diện lò mổ 540 Đường dọc quy hoạch dân cư khu F 480 Ngã tư đường Lý Thường Kiệt và Đường Vành Đai Hết đường quy hoạch 480 360
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đường giao thông đi Buôn M'O (Vị trí 2; 3 được tính trong khoảng cách 200m không dùng hệ số khoảng cách)
+- 1 Quốc lộ 26 (Vị trí 2; 3 được tính trong khoảng cách 300m không dùng hệ số khoảng cách)
+- Đường liên xã đi xã Krông Á (Vị trí 2; 3 được tính trong khoảng cách 200m không dùng hệ số khoảng cách)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 14 Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 16 Đường từ nhà ông Nguyễn Văn Kiệt (Quốc lộ 29) đến hết nhà bà Hồ Thị Thành thôn Phú Thịnh
+- - Trụ sở Công an xã Vân Hoà - 150m Đầu Dốc Đỏ 460 320 230 170
+
+##### PL-III-DL.pdf
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau:
+- 32 Đoàn Thị Điểm Lý Thường Kiệt Tịnh xá Ngọc Quang (Thửa đất số 102, Tờ bản đồ số 8) 5.650 2.000 1.700 1.150
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Phan Đình Giót Bên phải Nguyễn Công Trứ; Bên trái hẻm 105 Lê Hồng Phong 37.800 7.550 6.800 4.900
+- Bên phải Nguyễn Công Trứ; Bên trái hẻm 105 Lê Hồng Phong Quang Trung 45.000 9.000 8.100 5.850
+- Nguyễn Văn Trỗi Bên phải: Đoàn Thị Điểm; Bên trái: Số nhà 323 Lý Thường Kiệt 16.900 6.000 5.000 3.750
+- Bên phải: Đoàn Thị Điểm; Bên trái: Số nhà 323 Lý Thường Kiệt Hết đường 11.250 4.500 3.500 2.750
+- Hẻm 383 Trần Phú Hết ranh giới phường Buôn Ma Thuột (giáp phường Thành Nhất) 4.500 1.350 1.150 700
+- Võ Nguyên Giáp (Bùng binh) Mai Thị Lựu và Hẻm 135 Trần Quý Cáp 13.500 3.800 3.400 2.050
+- 188 Hẻm 2 Phan Chu Trinh Nguyễn Tất Thành Phan Chu Trinh 18.700
+- 191 Hẻm 40 Nguyễn Tất Thành Nguyễn Tất Thành Hẻm 59 Hùng Vương 10.000 5.650 5.000 1.800
+- 192 Hẻm 166 Nguyễn Tri Phương (Sơn Khinh cũ) Nguyễn Tri Phương
+- Hẻm 02 Nguyễn Đình Chiểu (Đối diện Nhà thi đấu tỉnh): Nguyễn Đình Chiểu đến hết đường (Nhà sách Giáo dục)
+- - Hẻm 52 Hồ Tùng Mậu (đoạn 1) từ đường Hồ Tùng Mậu đến thửa đất số 58, 59, 60; Tờ bản đồ số 16
+- - Hẻm 52 Hồ Tùng Mậu (Đoạn 2) từ thửa 100; Tờ bản đồ số 16 đến bên phải hẻm 105 đường Lê Hồng Phong (Thửa đất số 140; Tờ bản đồ số 13).đường Lê Hồng Phong
+- Hẻm đường Quang Trung (Về phía bên trái): Trong khoảng từ đường Xô Viết Nghệ Tĩnh đến đường Đinh Công Tráng - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Hẻm đường Lê Hồng Phong (Phía dọc suối Đốc Học): Trong khoảng từ đường Nguyễn Công Trứ đến đường Quang Trung - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất
+- - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Hẻm đường Hồ Tùng Mậu (Về phía bên phải): Trong khoảng từ đường Lê Hồng Phong đến hết hẻm 52 Hồ Tùng Mậu - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Khu dân cư Tổ dân phố 10, phường Tân Lợi cũ (Cạnh Thi hành án dân sự tỉnh) - Đường ngang nối Hà Huy Tập - Ngô Văn Năm (Hẻm 04 Hà Huy Tập) - Hẻm 06 Hà Huy Tập - Hẻm 24 Hà Huy Tập
+- Đối với Các vị trí 2, 3 và 4 đến Các trục đường chính Tổ dân phố 9 được trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 5 Công chúa Ngọc Hân (cũ: Đường D8, hẻm 32 Phạm Hùng) Phạm Hùng Lý Nhân Tông 10.750
+- 7 Dã Tượng (thuộc khu tái định cư tổ dân phố 9, phường Tân An) Làng văn hóa dân tộc Hẻm 266 Nguyễn Chí Thanh 11.250
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 52 Các vị trí 2, 3 và 4 đến đường Phạm Văn Đồng (Quốc lộ 26) được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 69 Hẻm 129 Nguyễn Chí Thanh Nguyễn Chí Thanh Dã Tượng 9.750 6.350 5.850 2.450
+- 78 Hẻm 28 Lê Thị Hồng Gấm Lê Thị Hồng Gấm Hết thửa đất số 141, 144; tờ bản đồ số 246 9.750
+- 79 Hẻm 40 Lý Tự Trọng Lý Tự Trọng Tôn Đức Thắng và Hẻm 53 Ngô Gia Tự 12.600 4.400 3.800 2.150
+- 80 Hẻm 51 Nguyễn Tất Thành Nguyễn Tất Thành Nguyễn Kinh Chi 13.500 81 Hẻm 53 Ngô Gia Tự Ngô Gia Tự Hẻm 40 Lý Tự Trọng 12.600 4.400 3.800 2.150
+- 82 Hẻm 57 Nguyễn Tất Thành Nguyễn Tất Thành Hết thửa đất số 54; Tờ bản đồ số 212 11.800
+- 90 Khu dân cư Tổ dân phố 9, phường Tân An - Đường giao với hẻm 146 Nguyễn Chí Thanh - Đường giao với đường Dã Tượng
+- Các vị trí 2, 3 và 4 đến Đường nối từ cuối đường Nguyễn Xuân Nguyên đến đường Vành Đai QL14-QL26: đoạn từ Ngã 4 giao với đường N7 đến Ngã 4 cuối khu dân cư Buôn Ea Nao B được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 Đường vào tổ dân phố Kiên Cường (Đường 1A): đoạn từ đường 20A và đường N10 đến Ngã tư giao đường KC10, Tổ dân phố Kiên Cường được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến Đường giao thông Vành Đai QL26 - QL14 đi Tỉnh Lộ 8: đoạn từ Hết thửa 94 và 719; Tờ bản đồ số 14 đến Hết ngã tư sân bóng Buôn Ko Tam (Hết thửa đất số 321; Tờ bản đồ số 85 và thửa đất số 566, Tờ bản đồ số 84), Buôn Krông A và Buôn Krông B được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến Nguyễn Văn Linh (Quốc lộ 14): đoạn từ Đường số 8A và đường số 25B đến Hết địa bàn phường và đường 31B; Đường số 25B; 27B và 31B: Từ Nguyễn Văn Linh (Quốc lộ 14) đến đường số 22B, Tổ dân phố Thiên Sơn được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 52 Hẻm 349 Phạm Văn Đồng Phạm Văn Đồng Hết thửa đất số 41, 42, tờ bản đồ số 19 6.000 2.100 1.800 1.200
+- 53 Hẻm 363 Phạm Văn Đồng Phạm Văn Đồng Hết thửa đất số 15, 17, tờ bản đồ số 39 6.000 2.100 1.800 1.200
+- 54 Hẻm 413 Phạm Văn Đồng Phạm Văn Đồng Mậu Thân 6.000 2.100 1.800 1.200
+- - Đường nội bộ khu dân cư quy hoạch rộng 16,5m vuông góc với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ) - Đường nội bộ khu dân cư quy hoạch rộng 16,5m song song với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ) - Đường nội bộ khu dân cư quy hoạch rộng 18m ((đường Hoàng Minh Giám, vuông góc với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ)) Khu dân cư buôn Păn Lăm - Kô Siêr
+- Hẻm đường Nguyễn Văn Cừ (Về phía bên phải): Từ Nguyễn Tất Thành (Bùng binh Km3) đến cầu Ea Nao (trong phạm vi 200m tính hết vị trí thửa đất)
+- Các hẻm cấp 1 đường Nguyễn Lương Bằng (Cả 2 bên), đoạn từ Nguyễn Văn Cừ (Bùng binh Km5) đến Đường vào buôn Kom Leo (Hết thửa đất số 50; Tờ bản đồ số 193) trong phạm vi 300m tính hết vị trí thửa đất
+- Các hẻm cấp 1 đường Nguyễn Thái Bình (Cả 2 bên), đoạn từ Đường vào buôn Kom Leo (Hết thửa đất số 50; Tờ bản đồ số 193) đến Hết thửa đất số 397; 410, tờ bản đồ 193 trong phạm vi 300m tính hết vị trí thửa đất
+- Đối với Các vị trí 2, 3 và 4 đến đường trục dọc, ngang đường vào buôn Kom Leo được trong khoảng cách 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến đến đường, đoạn đường có tên trong Bảng giá được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 89 Đường vào Viện KH NLN Tây Nguyên (Cũ) (Hẻm 75 Nguyễn Lương Bằng)
+- Võ Văn Kiệt Ngã 3 đường (Hết thửa đất số 817, 21; tờ bản đồ số 90) 3.000 1.200 1.050 750
+- Hết Hội trường Tổ dân phố 10 và thửa đất số 39, 52, Tờ bản đồ số 74 (Sát đường hẻm)
+- Hết Hội trường Tổ dân phố 10 và thửa đất số 39, 52, Tờ bản đồ số 74 (Sát đường hẻm)
+- Ngã tư hẻm 83 Tố Hữu (Hết thửa đất số 48 và 49; Tờ bản đồ số 100) 2.250 1.150 950 850
+- Ngã tư hẻm 83 Tố Hữu (Hết thửa đất số 48 và 49; Tờ bản đồ số 100)
+- Bên phải Hẻm 38 Tố Hữu (hết thửa đất số 37, Tờ bản đồ số 144); bên trái hết thửa đất số 238, Tờ bản đồ số 97
+- Bên phải Hẻm 38 Tố Hữu (hết thửa đất số 37, Tờ bản đồ số 144); bên trái hết thửa đất số 238, Tờ bản đồ số 97
+- Phan Bội Châu Yết Kiêu và Hẻm 17 Trương Công Định 16.600 5.800 5.000 3.300
+- Yết Kiêu và Hẻm 17 Trương Công Định Trần Phú 15.300 5.350 4.600 3.050
+- 51 Hẻm 610 Lê Duẩn Lê Duẩn Hết ranh giới phường Thành Nhất (hết thửa đất số 48, tờ bản đồ số 79) 4.150 1.650 1.450 1.050
+- 76 600 530 500 Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất (trừ Khu dân cư Tổ dân phố 15) được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 8 Đỗ Văn Cầm 98 Y Wang Hẻm 120 Y Wang 4.000 1.800 1.600 1.000
+- Nguyễn An Ninh Đầu ranh Đài phát thanh và hẻm 610 Lê Duẩn 15.600 4.050 3.300 1.850
+- Đầu ranh Đài phát thanh và hẻm 610 Lê Duẩn Đường 30 tháng 4 11.750 3.550 3.150 2.000
+- Lê Duẩn Hẻm 21 Nguyễn An Ninh và Hết thửa đất số 79; Tờ bản đồ số 228 8.000 2.800 2.400 1.350
+- Hẻm 21 Nguyễn An Ninh và Hết thửa đất số 79; Tờ bản đồ số 228 Cổng Trại giam 7.000 2.450 2.100 1.200
+- Lê Duẩn Nguyễn Trường Tộ và hẻm 70 Y Wang 13.200 3.950 3.300 2.000
+- Hẻm 174 Y Wang và đường giao thông đi qua Hồ Trúc Cầu Ea Kniêr 7.600 2.650 2.300 1.300
+- Hẻm 21/9 Nguyễn An Ninh Đào Duy Anh và Trần Thủ Độ 2.700 1.200 1.100 700
+- 40 Hẻm 23; 25 Mai Thị Lựu Mai Thị Lựu Hẻm 33 Lê Thị Riêng 3.350 1.400 1.250 850
+- 41 Hẻm 33 Lê Thị Riêng Lê Thị Riêng Đặng Thuỳ Trâm (Tượng đài Lý Tự Trọng) 3.550 1.500 1.350 900
+- - Trục đường D1 Hẻm 120/26 Y Wang Hết ranh giới quy hoạch khu dân cư trường Hành chính cũ 10.500
+- 47 Hẻm số 552 đường Lê Duẩn (Chỉ áp dụng cho các thửa đất mặt tiền hẻm 552)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- 10 Các tuyến đường còn lại trong các khu dân cư chưa có tên trong bảng giá Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu giãn dân cách Quốc lộ 14C 600 mét Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn từ giáp xã Ea Ktur Đến Ngã tư đường QL27 giao với Tỉnh lộ 10 (tỉnh lộ 690) tính cả 2 bên đường
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn Từ ngã tư Quốc lộ 27 đến giáp xã Hòa Hiệp cũ (Cả hai bên đường dọc QL 27) Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn từ giáp xã Hòa Hiệp cũ đến hết thôn Thành Công Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 (còn lại)
+- 101 Võ Văn Kiệt (đường N0-8) Đồng Khởi (đường D0-3) Đường D0-2 1.880
+- 102 Võ Văn Kiệt (đường số 3) Lê Duẩn Đồng Khởi (đường D0-3) 930
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- 9 40 Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Ngã tư Điện Biên Phủ và Võ Văn Kiệt Ngã ba Điện Biên Phủ - Y Jút 400 172 148 96
+- Ngã ba Phạm Văn Đồng và Lý Thường Kiệt Ngã ba Phạm Văn Đồng và 30-4 240 104 88 64
+- Các hẻm đường Phạm Văn Đồng 144 60 52 48 25 Tản Đà Ngã ba Tản Đà và Nguyễn Huệ Ngã ba Tản Đà và 30-4 600 260 220 96
+- Ngã tư Võ Văn Kiệt và Lê Quý Đôn Ngã tư Võ Văn Kiệt và Điện Biên
+- Ngã tư Võ Văn Kiệt và Điện Biên Phủ Ngã ba Võ Văn Kiệt và Đinh Núp 400 180 96 48
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Dọc trục đường chính Đường nội bộ Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Võ Văn Kiệt Hết ranh giới thửa đất số 2, tờ bản đồ số 65 160 128 112
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đến đường hẻm (phía Bắc đường), đối diện nhà nghỉ Hoàng Long 800 400 280 160
+- Hết ranh giới thửa đất nhà nghỉ Hoàng Long (phía Nam đường) và đường hẻm (phía Bắc đường), đối diện nhà nghỉ Hoàng Long
+- Ngã ba đường xuống hồ sinh thái (Ngã ba nhà ông Lực, phía Đông và đường hẻm đối diện Ngã ba, phía Tây đường)
+- Ngã ba đường xuống hồ sinh thái (Ngã ba nhà ông Lực, phía Đông và đường hẻm đối diện Ngã ba, phía Tây đường)
+- Phạm Hồng Thái (phía Tây đường) Hẻm Bình Tâm (phía Tây đường) 7.160 3.580 2.508 1.432
+- Hẻm Bình Tâm (phía Tây đường) Xô Viết Nghệ Tĩnh (phía Tây đường) 4.880 2.440 1.708 976
+- Đường Ama Khê (phía Đông đường) và đường hẻm (phía Tây đường)
+- Đường Ama Khê (phía Đông đường) và đường hẻm (phía Tây đường)
+- Đường hẻm (hết ranh giới thửa số 128 cũ phía Nam và thửa số 112 phía Bắc, tờ bản đồ số 16 mới)
+- Đường hẻm (hết ranh giới thửa số 128 cũ phía Nam và thửa số 112 phía Bắc, tờ bản đồ số 16 mới)
+- Hết ranh giới thửa đất 28, tờ bản đồ số 112 (phía Tây đường) và đường hẻm vào nhà bà Tục (phía Đông đường)
+- Hết ranh giới thửa đất số 28, tờ bản đồ số 112 (phía Tây đường) và đường hẻm vào nhà bà Tục (phía Đông đường)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu dân cư thôn Hòa Nam (vị trí 1 các trục đường chính) Khu dân cư thôn Nam Thắng (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Hưng - Tân Bình (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Lập (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Nam (vị trí 1 các trục đường chính)
+- Khu dân cư Tân Sơn - Cao Bằng (vị trí 1 các trục đường chính) Khu dân cư thôn Hòa An (vị trí 1 các trục đường chính)
+- Các trục đường của thôn 1, 2, 3, 4, 4 A, 5, 6, buôn Kniêr, buôn Kplang các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đường Quang Trung Hết ranh giới thửa đất nhà ông Hùng (Hẻm 2) 1.000 600 400 300
+- Lý Thường Kiệt Km 0 + 350 (ngã ba đi đội 6, thôn 1A - xã Cư Ni) 3.900 2.700 1.948
+- Hết cây xăng Nam Tây Nguyên Đường hẻm (hết ranh giới thửa đất ông Nguyễn Văn Nhung - Lên) 600 360 240 180
+- Đường hẻm (Hết ranh giới thửa đất ông Nguyễn Văn Nhung - Lên) Hết đường 640 384 256 192
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Ngã ba nhà ông Hoàn Hết ranh giới đất Trường tiểu học Lý Thường Kiệt 80 68 60 52
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu dân cư thôn 2, 5, 7, 9, 12, 13 Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đường ngang thông ra đường Giải Phóng 216 Đường đối diện lò mổ 216 Đường dọc quy hoạch dân cư khu F 192 Ngã tư đường Lý Thường Kiệt và Đường Vành Đai Hết đường quy hoạch 192 144
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đường liên xã đi xã Krông Á (Vị trí 2; 3 được tính trong khoảng cách 200m không dùng hệ số khoảng cách)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 1 Quốc lộ 26 (Vị trí 2; 3 được tính trong khoảng cách 300m không dùng hệ số khoảng cách)
+- Đường giao thông đi Buôn M'O (Vị trí 2; 3 được tính trong khoảng cách 200m không dùng hệ số khoảng cách)
+- 14 Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- - Thăng Long Hẻm phía Nam Trường mầm non Phường Phú Thạnh cũ 2.250 1.350 1.100 650
+- - Hẻm phía Nam Trường mầm non Phường Phú Thạnh cũ Đường sắt 1.500 1.200 850 500
+- 24 Thăng Long - Đường 3 tháng 2 Trần Kiệt 3.500 2.350 1.700 1.000
+- - Trần Kiệt Điểm giao đường sắt và đường 3 tháng 2 3.000 2.150 1.550 900
+- Đường Trần Kiệt (Trừ Khu dân cư tạo quỹ đất để huy động vốn phục vụ dự án đường Bạch Đằng giai đoạn 2 (khu đất số 4), tại phường Phú Đông, Phú Thạnh, thành phố Tuy Hòa cũ (Sau khi đã đầu tư hạ tầng); Khu nhà ở K2-K6 đường Hùng Vương, phường Phú Đông cũ)
+- - Đường Đoàn Khuê (rộng 12,5m) 10.150 - Đường Hùng Vương (rộng 42m) 18.400 - Đường Trần Kiệt (30m) 13.550 - Đường Trần Toại (rộng 16m) 10.500 - Đường Trần Khánh Dư (rộng 20m) 11.550
+- - Trục đường quy hoạch rộng 16m 3.000 A72 PHƯỜNG HÒA HIỆP 1 Trần Kiệt 2.350 1.400 950 600
+- Đường Trần Khánh Dư và đường hẻm dọc QL.1 (đoạn từ đường Phan Đình Phùng đến nhà ông Sang), khu phố 4
+- 16 Đường từ nhà ông Nguyễn Văn Kiệt (Quốc lộ 29) đến hết nhà bà Hồ Thị Thành thôn Phú Thịnh
+- Đường từ ngã ba Giai Sơn đến đường sắt Phú Hòa (Đường từ ngã ba Giai Sơn đến trường tiểu học Số 2 cũ + Khu vực 1 cũ)
+
+##### PL-IV-DL.pdf
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau:
+- 32 Đoàn Thị Điểm Lý Thường Kiệt Tịnh xá Ngọc Quang (Thửa đất số 102, Tờ bản đồ số 8) 4.520 1.600 1.360 920
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Phan Đình Giót Bên phải Nguyễn Công Trứ; Bên trái hẻm 105 Lê Hồng Phong 30.240 6.040 5.440 3.920
+- Bên phải Nguyễn Công Trứ; Bên trái hẻm 105 Lê Hồng Phong Quang Trung 36.000 7.200 6.480 4.680
+- Nguyễn Văn Trỗi Bên phải: Đoàn Thị Điểm; Bên trái: Số nhà 323 Lý Thường Kiệt 13.520 4.800 4.000 3.000
+- Bên phải: Đoàn Thị Điểm; Bên trái: Số nhà 323 Lý Thường Kiệt Hết đường 9.000 3.600 2.800 2.200
+- Hẻm 383 Trần Phú Hết ranh giới phường Buôn Ma Thuột (giáp phường Thành Nhất) 3.600 1.080 920 560
+- Võ Nguyên Giáp (Bùng binh) Mai Thị Lựu và Hẻm 135 Trần Quý Cáp 10.800 3.040 2.720 1.640
+- Khu dân cư Tổ dân phố 10, phường Tân Lợi cũ (Cạnh Thi hành án dân sự tỉnh) - Đường ngang nối Hà Huy Tập - Ngô Văn Năm (Hẻm 04 Hà Huy Tập) - Hẻm 06 Hà Huy Tập - Hẻm 24 Hà Huy Tập
+- 188 Hẻm 2 Phan Chu Trinh Nguyễn Tất Thành Phan Chu Trinh 14.960
+- 191 Hẻm 40 Nguyễn Tất Thành Nguyễn Tất Thành Hẻm 59 Hùng Vương 8.000 4.520 4.000 1.440
+- 192 Hẻm 166 Nguyễn Tri Phương (Sơn Khinh cũ) Nguyễn Tri Phương
+- - Hẻm 52 Hồ Tùng Mậu (đoạn 1) từ đường Hồ Tùng Mậu đến thửa đất số 58, 59, 60; Tờ bản đồ số 16
+- - Hẻm 52 Hồ Tùng Mậu (Đoạn 2) từ thửa 100; Tờ bản đồ số 16 đến bên phải hẻm 105 đường Lê Hồng Phong (Thửa đất số 140; Tờ bản đồ số 13).đường Lê Hồng Phong
+- Hẻm đường Quang Trung (Về phía bên trái): Trong khoảng từ đường Xô Viết Nghệ Tĩnh đến đường Đinh Công Tráng - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Hẻm đường Lê Hồng Phong (Phía dọc suối Đốc Học): Trong khoảng từ đường Nguyễn Công Trứ đến đường Quang Trung - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất
+- - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Hẻm đường Hồ Tùng Mậu (Về phía bên phải): Trong khoảng từ đường Lê Hồng Phong đến hết hẻm 52 Hồ Tùng Mậu - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Hẻm 02 Nguyễn Đình Chiểu (Đối diện Nhà thi đấu tỉnh): Nguyễn Đình Chiểu đến hết đường (Nhà sách Giáo dục)
+- Đối với Các vị trí 2, 3 và 4 đến Các trục đường chính Tổ dân phố 9 được trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 5 Công chúa Ngọc Hân (cũ: Đường D8, hẻm 32 Phạm Hùng) Phạm Hùng Lý Nhân Tông 8.600
+- 7 Dã Tượng (thuộc khu tái định cư tổ dân phố 9, phường Tân An) Làng văn hóa dân tộc Hẻm 266 Nguyễn Chí Thanh 9.000
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 52 Các vị trí 2, 3 và 4 đến đường Phạm Văn Đồng (Quốc lộ 26) được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 69 Hẻm 129 Nguyễn Chí Thanh Nguyễn Chí Thanh Dã Tượng 7.800 5.080 4.680 1.960
+- 78 Hẻm 28 Lê Thị Hồng Gấm Lê Thị Hồng Gấm Hết thửa đất số 141, 144; tờ bản đồ số 246 7.800
+- 79 Hẻm 40 Lý Tự Trọng Lý Tự Trọng Tôn Đức Thắng và Hẻm 53 Ngô Gia Tự 10.080 3.520 3.040 1.720
+- 80 Hẻm 51 Nguyễn Tất Thành Nguyễn Tất Thành Nguyễn Kinh Chi 10.800 81 Hẻm 53 Ngô Gia Tự Ngô Gia Tự Hẻm 40 Lý Tự Trọng 10.080 3.520 3.040 1.720
+- 82 Hẻm 57 Nguyễn Tất Thành Nguyễn Tất Thành Hết thửa đất số 54; Tờ bản đồ số 212 9.440
+- 90 Khu dân cư Tổ dân phố 9, phường Tân An - Đường giao với hẻm 146 Nguyễn Chí Thanh - Đường giao với đường Dã Tượng
+- Các vị trí 2, 3 và 4 đến Đường nối từ cuối đường Nguyễn Xuân Nguyên đến đường Vành Đai QL14-QL26: đoạn từ Ngã 4 giao với đường N7 đến Ngã 4 cuối khu dân cư Buôn Ea Nao B được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến Đường giao thông Vành Đai QL26 - QL14 đi Tỉnh Lộ 8: đoạn từ Hết thửa 94 và 719; Tờ bản đồ số 14 đến Hết ngã tư sân bóng Buôn Ko Tam (Hết thửa đất số 321; Tờ bản đồ số 85 và thửa đất số 566, Tờ bản đồ số 84), Buôn Krông A và Buôn Krông B được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 Đường vào tổ dân phố Kiên Cường (Đường 1A): đoạn từ đường 20A và đường N10 đến Ngã tư giao đường KC10, Tổ dân phố Kiên Cường được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến Nguyễn Văn Linh (Quốc lộ 14): đoạn từ Đường số 8A và đường số 25B đến Hết địa bàn phường và đường 31B; Đường số 25B; 27B và 31B: Từ Nguyễn Văn Linh (Quốc lộ 14) đến đường số 22B, Tổ dân phố Thiên Sơn được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 52 Hẻm 349 Phạm Văn Đồng Phạm Văn Đồng Hết thửa đất số 41, 42, tờ bản đồ số 19 4.800 1.680 1.440 960
+- 53 Hẻm 363 Phạm Văn Đồng Phạm Văn Đồng Hết thửa đất số 15, 17, tờ bản đồ số 39 4.800 1.680 1.440 960
+- Hẻm đường Nguyễn Văn Cừ (Về phía bên phải): Từ Nguyễn Tất Thành (Bùng binh Km3) đến cầu Ea Nao (trong phạm vi 200m tính hết vị trí thửa đất)
+- Các hẻm cấp 1 đường Nguyễn Lương Bằng (Cả 2 bên), đoạn từ Nguyễn Văn Cừ (Bùng binh Km5) đến Đường vào buôn Kom Leo (Hết thửa đất số 50; Tờ bản đồ số 193) trong phạm vi 300m tính hết vị trí thửa đất
+- Các hẻm cấp 1 đường Nguyễn Thái Bình (Cả 2 bên), đoạn từ Đường vào buôn Kom Leo (Hết thửa đất số 50; Tờ bản đồ số 193) đến Hết thửa đất số 397; 410, tờ bản đồ 193 trong phạm vi 300m tính hết vị trí thửa đất
+- - Đường nội bộ khu dân cư quy hoạch rộng 16,5m vuông góc với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ) - Đường nội bộ khu dân cư quy hoạch rộng 16,5m song song với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ) - Đường nội bộ khu dân cư quy hoạch rộng 18m ((đường Hoàng Minh Giám, vuông góc với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ)) Khu dân cư buôn Păn Lăm - Kô Siêr
+- Đối với Các vị trí 2, 3 và 4 đến đường trục dọc, ngang đường vào buôn Kom Leo được trong khoảng cách 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 89 Đường vào Viện KH NLN Tây Nguyên (Cũ) (Hẻm 75 Nguyễn Lương Bằng)
+- Võ Văn Kiệt Ngã 3 đường (Hết thửa đất số 817, 21; tờ bản đồ số 90) 2.400 960 840 600
+- Hết Hội trường Tổ dân phố 10 và thửa đất số 39, 52, Tờ bản đồ số 74 (Sát đường hẻm)
+- Hết Hội trường Tổ dân phố 10 và thửa đất số 39, 52, Tờ bản đồ số 74 (Sát đường hẻm)
+- Các vị trí 2, 3 và 4 đến đến đường, đoạn đường có tên trong Bảng giá được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Ngã tư hẻm 83 Tố Hữu (Hết thửa đất số 48 và 49; Tờ bản đồ số 100) 1.800 920 760 680
+- Ngã tư hẻm 83 Tố Hữu (Hết thửa đất số 48 và 49; Tờ bản đồ số 100)
+- Bên phải Hẻm 38 Tố Hữu (hết thửa đất số 37, Tờ bản đồ số 144); bên trái hết thửa đất số 238, Tờ bản đồ số 97
+- Bên phải Hẻm 38 Tố Hữu (hết thửa đất số 37, Tờ bản đồ số 144); bên trái hết thửa đất số 238, Tờ bản đồ số 97
+- Phan Bội Châu Yết Kiêu và Hẻm 17 Trương Công Định 13.280 4.640 4.000 2.640
+- Yết Kiêu và Hẻm 17 Trương Công Định Trần Phú 12.240 4.280 3.680 2.440
+- 49 Hẻm 17 Trương Công Định Trương Công Định Phan Đình Phùng 3.320 1.480 1.320
+- 50 Hẻm 383 Trần Phú Trần Phú Nguyễn Trung Trực 2.640 1.320 1.200 680
+- 51 Hẻm 610 Lê Duẩn Lê Duẩn Hết ranh giới phường Thành Nhất (hết thửa đất số 48, tờ bản đồ số 79) 3.320 1.320 1.160 840
+- Nguyễn An Ninh Đầu ranh Đài phát thanh và hẻm 610 Lê Duẩn 12.480 3.240 2.640 1.480
+- Đầu ranh Đài phát thanh và hẻm 610 Lê Duẩn Đường 30 tháng 4 9.400 2.840 2.520 1.600
+- Lê Duẩn Hẻm 21 Nguyễn An Ninh và Hết thửa đất số 79; Tờ bản đồ số 228 6.400 2.240 1.920 1.080
+- Hẻm 21 Nguyễn An Ninh và Hết thửa đất số 79; Tờ bản đồ số 228 Cổng Trại giam 5.600 1.960 1.680 960
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất (trừ Khu dân cư Tổ dân phố 15) được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Lê Duẩn Nguyễn Trường Tộ và hẻm 70 Y Wang 10.560 3.160 2.640 1.600
+- Hẻm 174 Y Wang và đường giao thông đi qua Hồ Trúc Cầu Ea Kniêr 6.080 2.120 1.840 1.040
+- 41 Hẻm 33 Lê Thị Riêng Lê Thị Riêng Đặng Thuỳ Trâm (Tượng đài Lý Tự Trọng) 2.840 1.200 1.080 720
+- - Trục đường D1 Hẻm 120/26 Y Wang Hết ranh giới quy hoạch khu dân cư trường Hành chính cũ 8.400
+- 47 Hẻm số 552 đường Lê Duẩn (Chỉ áp dụng cho các thửa đất mặt tiền hẻm 552)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- 10 Các tuyến đường còn lại trong các khu dân cư chưa có tên trong bảng giá Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu giãn dân cách Quốc lộ 14C 600 mét Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn từ giáp xã Ea Ktur Đến Ngã tư đường QL27 giao với Tỉnh lộ 10 (tỉnh lộ 690) tính cả 2 bên đường
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn Từ ngã tư Quốc lộ 27 đến giáp xã Hòa Hiệp cũ (Cả hai bên đường dọc QL 27) Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn từ giáp xã Hòa Hiệp cũ đến hết thôn Thành Công Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 (còn lại)
+- 23 Hẻm 2 đường Lê Duẩn Đường Lê Duẩn Đường đi vào Trung tâm dạy nghề 416 24 Hẻm 1 đường Lê Duẩn Đường Lê Duẩn Giáp tường rào Bệnh viện huyện 520 25 Hẻm 1 đường Nguyễn Du Đường Nguyễn Du Hẻm Điện Biên Phủ (đường số 11) 320 26 Hẻm 1 đường Nguyễn Du Đường Nguyễn Du (chi cục thuế) Hẻm 1 đường Lê Duẩn 400
+- 27 Hẻm 1, 2 Hùng Vương Hùng Vương Hoàng Văn Thụ 364 255 182 28 Hẻm Bà Triệu - Mai Hắc Đế Bà Triệu Mai Hắc Đế 1.400 29 Hẻm của đường Mai Hắc Đế Đầu đường Mai Hắc Đế Đến hết đường 312
+- 30 Hẻm của đường Nguyễn Chí Thanh Đầu đường Nguyễn Chí Thanh Hết nhà ông Kar Sơ Vinh 400
+- 101 Võ Văn Kiệt (đường N0-8) Đồng Khởi (đường D0-3) Đường D0-2 1.880
+- 102 Võ Văn Kiệt (đường số 3) Lê Duẩn Đồng Khởi (đường D0-3) 930
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Ngã tư Điện Biên Phủ và Võ Văn Kiệt Ngã ba Điện Biên Phủ - Y Jút 400 172 148 96
+- Ngã ba Phạm Văn Đồng và Lý Thường Kiệt Ngã ba Phạm Văn Đồng và 30-4 240 104 88 64
+- Các hẻm đường Phạm Văn Đồng 144 60 52 48 25 Tản Đà Ngã ba Tản Đà và Nguyễn Huệ Ngã ba Tản Đà và 30-4 600 260 220 96
+- Ngã tư Võ Văn Kiệt và Lê Quý Đôn Ngã tư Võ Văn Kiệt và Điện Biên
+- Ngã tư Võ Văn Kiệt và Điện Biên Phủ Ngã ba Võ Văn Kiệt và Đinh Núp 400 180 96 48
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Dọc trục đường chính Đường nội bộ Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Võ Văn Kiệt Hết ranh giới thửa đất số 2, tờ bản đồ số 65 160 128 112
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đến đường hẻm (phía Bắc đường), đối diện nhà nghỉ Hoàng Long 800 400 280 160
+- Hết ranh giới thửa đất nhà nghỉ Hoàng Long (phía Nam đường) và đường hẻm (phía Bắc đường), đối diện nhà nghỉ Hoàng Long
+- Ngã ba đường xuống hồ sinh thái (Ngã ba nhà ông Lực, phía Đông và đường hẻm đối diện Ngã ba, phía Tây đường)
+- Ngã ba đường xuống hồ sinh thái (Ngã ba nhà ông Lực, phía Đông và đường hẻm đối diện Ngã ba, phía Tây đường)
+- Phạm Hồng Thái (phía Tây đường) Hẻm Bình Tâm (phía Tây đường) 7.160 3.580 2.508 1.432
+- Hẻm Bình Tâm (phía Tây đường) Xô Viết Nghệ Tĩnh (phía Tây đường) 4.880 2.440 1.708 976
+- Đường Ama Khê (phía Đông đường) và đường hẻm (phía Tây đường)
+- Đường Ama Khê (phía Đông đường) và đường hẻm (phía Tây đường)
+- Đường hẻm (hết ranh giới thửa số 128 cũ phía Nam và thửa số 112 phía Bắc, tờ bản đồ số 16 mới)
+- Đường hẻm (hết ranh giới thửa số 128 cũ phía Nam và thửa số 112 phía Bắc, tờ bản đồ số 16 mới)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Hết ranh giới thửa đất 28, tờ bản đồ số 112 (phía Tây đường) và đường hẻm vào nhà bà Tục (phía Đông đường)
+- Hết ranh giới thửa đất số 28, tờ bản đồ số 112 (phía Tây đường) và đường hẻm vào nhà bà Tục (phía Đông đường)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu dân cư thôn Hòa Nam (vị trí 1 các trục đường chính) Khu dân cư thôn Nam Thắng (vị trí 1 các trục đường chính)
+- Khu dân cư Tân Sơn - Cao Bằng (vị trí 1 các trục đường chính) Khu dân cư thôn Hòa An (vị trí 1 các trục đường chính)
+- Khu dân cư thôn Tân Hưng - Tân Bình (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Lập (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Nam (vị trí 1 các trục đường chính)
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Các trục đường của thôn 1, 2, 3, 4, 4 A, 5, 6, buôn Kniêr, buôn Kplang các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đường Quang Trung Hết ranh giới thửa đất nhà ông Hùng (Hẻm 2) 1.000 600 400 300
+- Lý Thường Kiệt Km 0 + 350 (ngã ba đi đội 6, thôn 1A - xã Cư Ni) 3.900 2.700 1.948
+- Hết cây xăng Nam Tây Nguyên Đường hẻm (hết ranh giới thửa đất ông Nguyễn Văn Nhung - Lên) 600 360 240 180
+- Đường hẻm (Hết ranh giới thửa đất ông Nguyễn Văn Nhung - Lên) Hết đường 640 384 256 192
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Ngã ba nhà ông Hoàn Hết ranh giới đất Trường tiểu học Lý Thường Kiệt 80 68 60 52
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đường ngang thông ra đường Giải Phóng 216 Đường đối diện lò mổ 216 Đường dọc quy hoạch dân cư khu F 192 Ngã tư đường Lý Thường Kiệt và Đường Vành Đai Hết đường quy hoạch 192 144
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Dãy 2 dân cư thôn 9 Dãy 2 dân cư thôn 18 Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đường giao thông đi Buôn M'O (Vị trí 2; 3 được tính trong khoảng cách 200m không dùng hệ số khoảng cách)
+- Đường liên xã đi xã Krông Á (Vị trí 2; 3 được tính trong khoảng cách 200m không dùng hệ số khoảng cách)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 1 Quốc lộ 26 (Vị trí 2; 3 được tính trong khoảng cách 300m không dùng hệ số khoảng cách)
+- 14 Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- - Thăng Long Hẻm phía Nam Trường mầm non Phường Phú Thạnh cũ 2.250 1.350 1.100 650
+- - Hẻm phía Nam Trường mầm non Phường Phú Thạnh cũ Đường sắt 1.500 1.200 850 500
+- 24 Thăng Long - Đường 3 tháng 2 Trần Kiệt 3.500 2.350 1.700 1.000
+- - Trần Kiệt Điểm giao đường sắt và đường 3 tháng 2 3.000 2.150 1.550 900
+- Đường Trần Kiệt (Trừ Khu dân cư tạo quỹ đất để huy động vốn phục vụ dự án đường Bạch Đằng giai đoạn 2 (khu đất số 4), tại phường Phú Đông, Phú Thạnh, thành phố Tuy Hòa cũ (Sau khi đã đầu tư hạ tầng); Khu nhà ở K2-K6 đường Hùng Vương, phường Phú Đông cũ)
+- - Đường Đoàn Khuê (rộng 12,5m) 10.150 - Đường Hùng Vương (rộng 42m) 18.400 - Đường Trần Kiệt (30m) 13.550 - Đường Trần Toại (rộng 16m) 10.500 - Đường Trần Khánh Dư (rộng 20m) 11.550
+- - Trục đường quy hoạch rộng 16m 3.000 A72 PHƯỜNG HÒA HIỆP 1 Trần Kiệt 2.350 1.400 950 600
+- 55 Đường hẻm phố - Hòa Hiệp Nhà ông Lợi, khu phố Thọ Lâm 450 250 150 130
+- Đường Trần Khánh Dư và đường hẻm dọc QL.1 (đoạn từ đường Phan Đình Phùng đến nhà ông Sang), khu phố 4
+- 16 Đường từ nhà ông Nguyễn Văn Kiệt (Quốc lộ 29) đến hết nhà bà Hồ Thị Thành thôn Phú Thịnh
+- Đường từ ngã ba Giai Sơn đến đường sắt Phú Hòa (Đường từ ngã ba Giai Sơn đến trường tiểu học Số 2 cũ + Khu vực 1 cũ)
+
+##### PL-IX-DL.pdf
+- Các thửa đất tiếp giáp Quốc lộ27; Các thửa đất tiếp giáp đường liên xã từNgã ba Quốc lộ27 đến Cầu trắng, từNgã ba Quốc lộ27 đến Giáp xã Ea Hu (xã Ea Bhốk cũ), từNgã ba Quốc lộ27 (giáp chợHòa Hiệp) đến Đường liên thôn tuyến 2 song song Quốc lộ27 (xã Dray Bhăng cũ). Các thửa đất tiếp giáp Tỉnh lộ10, đường liên thôn song song Tỉnh lộ10. Các thửa đất tiếp giáp các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từmốc lộgiới Quốc lộ27. Các thửa đất tiếp giáp đường trục chính thôn 4 từNgã ba Quốc lộ27 đến Ngã ba đường liên xã (xã Ea Bhốk cũ). Khu vực sản xuất nông nghiệp của Công ty TNHH MTV Cà phê Ea Ktur, Chi nhánh Công ty TNHH MTV Cao su 19/8. Khu vực sản xuất nông nghiệp còn lại thuộc thôn Nam Hòa, Kim Châu (xã Dray Bhăng cũ).
+- Các thửa đất tiếp giáp Quốc lộ27; tiếp giáp các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từmốc lộgiới Quốc lộ27; tiếp giáp đường liên xã, liên thôn; Khu vực sản xuất nông nghiệp của Công ty TNHH MTV Cà phê Việt Thắng, Cà phê Việt Đức bao các thửa đất nằm tiếp giáp và có bán kính 300 m. và các thửa đất tiếp giáp đường trục chính thôn.
+
+##### PL-V-DL.pdf
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau:
+- 32 Đoàn Thị Điểm Lý Thường Kiệt Tịnh xá Ngọc Quang (Thửa đất số 102, Tờ bản đồ số 8) 4.520 1.600 1.360 920
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Phan Đình Giót Bên phải Nguyễn Công Trứ; Bên trái hẻm 105 Lê Hồng Phong 30.240 6.040 5.440 3.920
+- Bên phải Nguyễn Công Trứ; Bên trái hẻm 105 Lê Hồng Phong Quang Trung 36.000 7.200 6.480 4.680
+- Nguyễn Văn Trỗi Bên phải: Đoàn Thị Điểm; Bên trái: Số nhà 323 Lý Thường Kiệt 13.520 4.800 4.000 3.000
+- Bên phải: Đoàn Thị Điểm; Bên trái: Số nhà 323 Lý Thường Kiệt Hết đường 9.000 3.600 2.800 2.200
+- Hẻm 383 Trần Phú Hết ranh giới phường Buôn Ma Thuột (giáp phường Thành Nhất) 3.600 1.080 920 560
+- Võ Nguyên Giáp (Bùng binh) Mai Thị Lựu và Hẻm 135 Trần Quý Cáp 10.800 3.040 2.720 1.640
+- - Đường ngang nối Hà Huy Tập - Ngô Văn Năm (Hẻm 04 Hà Huy Tập) - Hẻm 06 Hà Huy Tập - Hẻm 24 Hà Huy Tập
+- 188 Hẻm 2 Phan Chu Trinh Nguyễn Tất Thành Phan Chu Trinh 14.960
+- 191 Hẻm 40 Nguyễn Tất Thành Nguyễn Tất Thành Hẻm 59 Hùng Vương 8.000 4.520 4.000 1.440
+- 192 Hẻm 166 Nguyễn Tri Phương (Sơn Khinh cũ) Nguyễn Tri Phương
+- Hẻm 02 Nguyễn Đình Chiểu (Đối diện Nhà thi đấu tỉnh): Nguyễn Đình Chiểu đến hết đường (Nhà sách Giáo dục)
+- - Hẻm 52 Hồ Tùng Mậu (đoạn 1) từ đường Hồ Tùng Mậu đến thửa đất số 58, 59, 60; Tờ bản đồ số 16
+- - Hẻm 52 Hồ Tùng Mậu (Đoạn 2) từ thửa 100; Tờ bản đồ số 16 đến bên phải hẻm 105 đường Lê Hồng Phong (Thửa đất số 140; Tờ bản đồ số 13).đường Lê Hồng Phong
+- Hẻm đường Quang Trung (Về phía bên trái): Trong khoảng từ đường Xô Viết Nghệ Tĩnh đến đường Đinh Công Tráng - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Hẻm đường Lê Hồng Phong (Phía dọc suối Đốc Học): Trong khoảng từ đường Nguyễn Công Trứ đến đường Quang Trung - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất
+- - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Hẻm đường Hồ Tùng Mậu (Về phía bên phải): Trong khoảng từ đường Lê Hồng Phong đến hết hẻm 52 Hồ Tùng Mậu - Trong phạm vi 200m tính hết vị trí thửa đất - Ngoài phạm vi 200m tính hết vị trí thửa đất - Đối với Các vị trí 2, 3 và 4 được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến Các trục đường chính Tổ dân phố 9 được trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 5 Công chúa Ngọc Hân (cũ: Đường D8, hẻm 32 Phạm Hùng) Phạm Hùng Lý Nhân Tông 8.600
+- 7 Dã Tượng (thuộc khu tái định cư tổ dân phố 9, phường Tân An) Làng văn hóa dân tộc Hẻm 266 Nguyễn Chí Thanh 9.000
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đường N1, Khu dân cư Hà Huy Tập và hẻm 723 Hà Huy Tập (Trừ Khu dân cư Hà Huy Tập, phường Tân An)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 52 Các vị trí 2, 3 và 4 đến đường Phạm Văn Đồng (Quốc lộ 26) được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 69 Hẻm 129 Nguyễn Chí Thanh Nguyễn Chí Thanh Dã Tượng 7.800 5.080 4.680 1.960
+- 78 Hẻm 28 Lê Thị Hồng Gấm Lê Thị Hồng Gấm Hết thửa đất số 141, 144; tờ bản đồ số 246 7.800
+- 79 Hẻm 40 Lý Tự Trọng Lý Tự Trọng Tôn Đức Thắng và Hẻm 53 Ngô Gia Tự 10.080 3.520 3.040 1.720
+- 80 Hẻm 51 Nguyễn Tất Thành Nguyễn Tất Thành Nguyễn Kinh Chi 10.800 81 Hẻm 53 Ngô Gia Tự Ngô Gia Tự Hẻm 40 Lý Tự Trọng 10.080 3.520 3.040 1.720
+- 82 Hẻm 57 Nguyễn Tất Thành Nguyễn Tất Thành Hết thửa đất số 54; Tờ bản đồ số 212 9.440
+- 90 Khu dân cư Tổ dân phố 9, phường Tân An - Đường giao với hẻm 146 Nguyễn Chí Thanh - Đường giao với đường Dã Tượng
+- Các vị trí 2, 3 và 4 đến Đường giao thông Vành Đai QL26 - QL14 đi Tỉnh Lộ 8: đoạn từ Hết thửa 94 và 719; Tờ bản đồ số 14 đến Hết ngã tư sân bóng Buôn Ko Tam (Hết thửa đất số 321; Tờ bản đồ số 85 và thửa đất số 566, Tờ bản đồ số 84), Buôn Krông A và Buôn Krông B được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến Nguyễn Văn Linh (Quốc lộ 14): đoạn từ Đường số 8A và đường số 25B đến Hết địa bàn phường và đường 31B; Đường số 25B; 27B và 31B: Từ Nguyễn Văn Linh (Quốc lộ 14) đến đường số 22B, Tổ dân phố Thiên Sơn được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến Đường nối từ cuối đường Nguyễn Xuân Nguyên đến đường Vành Đai QL14-QL26: đoạn từ Ngã 4 giao với đường N7 đến Ngã 4 cuối khu dân cư Buôn Ea Nao B được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 Đường vào tổ dân phố Kiên Cường (Đường 1A): đoạn từ đường 20A và đường N10 đến Ngã tư giao đường KC10, Tổ dân phố Kiên Cường được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 52 Hẻm 349 Phạm Văn Đồng Phạm Văn Đồng Hết thửa đất số 41, 42, tờ bản đồ số 19 4.800 1.680 1.440 960
+- 53 Hẻm 363 Phạm Văn Đồng Phạm Văn Đồng Hết thửa đất số 15, 17, tờ bản đồ số 39 4.800 1.680 1.440 960
+- - Đường nội bộ khu dân cư quy hoạch rộng 16,5m vuông góc với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ) - Đường nội bộ khu dân cư quy hoạch rộng 16,5m song song với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ) - Đường nội bộ khu dân cư quy hoạch rộng 18m ((đường Hoàng Minh Giám, vuông góc với đường Nguyễn Hồng Ưng (hẻm 119 Nguyễn Văn Cừ)) Khu dân cư buôn Păn Lăm - Kô Siêr
+- Hẻm đường Nguyễn Văn Cừ (Về phía bên phải): Từ Nguyễn Tất Thành (Bùng binh Km3) đến cầu Ea Nao (trong phạm vi 200m tính hết vị trí thửa đất)
+- Các hẻm cấp 1 đường Nguyễn Lương Bằng (Cả 2 bên), đoạn từ Nguyễn Văn Cừ (Bùng binh Km5) đến Đường vào buôn Kom Leo (Hết thửa đất số 50; Tờ bản đồ số 193) trong phạm vi 300m tính hết vị trí thửa đất
+- Các hẻm cấp 1 đường Nguyễn Thái Bình (Cả 2 bên), đoạn từ Đường vào buôn Kom Leo (Hết thửa đất số 50; Tờ bản đồ số 193) đến Hết thửa đất số 397; 410, tờ bản đồ 193 trong phạm vi 300m tính hết vị trí thửa đất
+- 89 Đường vào Viện KH NLN Tây Nguyên (Cũ) (Hẻm 75 Nguyễn Lương Bằng)
+- Võ Văn Kiệt Ngã 3 đường (Hết thửa đất số 817, 21; tờ bản đồ số 90) 2.400 960 840 600
+- Hết Hội trường Tổ dân phố 10 và thửa đất số 39, 52, Tờ bản đồ số 74 (Sát đường hẻm)
+- Hết Hội trường Tổ dân phố 10 và thửa đất số 39, 52, Tờ bản đồ số 74 (Sát đường hẻm)
+- Đối với Các vị trí 2, 3 và 4 đến đường trục dọc, ngang đường vào buôn Kom Leo được trong khoảng cách 200m tính hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Các vị trí 2, 3 và 4 đến đến đường, đoạn đường có tên trong Bảng giá được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Ngã tư hẻm 83 Tố Hữu (Hết thửa đất số 48 và 49; Tờ bản đồ số 100) 1.800 920 760 680
+- Ngã tư hẻm 83 Tố Hữu (Hết thửa đất số 48 và 49; Tờ bản đồ số 100)
+- Bên phải Hẻm 38 Tố Hữu (hết thửa đất số 37, Tờ bản đồ số 144); bên trái hết thửa đất số 238, Tờ bản đồ số 97
+- Bên phải Hẻm 38 Tố Hữu (hết thửa đất số 37, Tờ bản đồ số 144); bên trái hết thửa đất số 238, Tờ bản đồ số 97
+- Phan Bội Châu Yết Kiêu và Hẻm 17 Trương Công Định 13.280 4.640 4.000 2.640
+- Yết Kiêu và Hẻm 17 Trương Công Định Trần Phú 12.240 4.280 3.680 2.440
+- 49 Hẻm 17 Trương Công Định Trương Công Định Phan Đình Phùng 3.320 1.480 1.320
+- 50 Hẻm 383 Trần Phú Trần Phú Nguyễn Trung Trực 2.640 1.320 1.200 680
+- 51 Hẻm 610 Lê Duẩn Lê Duẩn Hết ranh giới phường Thành Nhất (hết thửa đất số 48, tờ bản đồ số 79) 3.320 1.320 1.160 840
+- Nguyễn An Ninh Đầu ranh Đài phát thanh và hẻm 610 Lê Duẩn 12.480 3.240 2.640 1.480
+- Đầu ranh Đài phát thanh và hẻm 610 Lê Duẩn Đường 30 tháng 4 9.400 2.840 2.520 1.600
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất (trừ Khu dân cư Tổ dân phố 15) được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Lê Duẩn Hẻm 21 Nguyễn An Ninh và Hết thửa đất số 79; Tờ bản đồ số 228 6.400 2.240 1.920 1.080
+- Hẻm 21 Nguyễn An Ninh và Hết thửa đất số 79; Tờ bản đồ số 228 Cổng Trại giam 5.600 1.960 1.680 960
+- Lê Duẩn Nguyễn Trường Tộ và hẻm 70 Y Wang 10.560 3.160 2.640 1.600
+- Hẻm 174 Y Wang và đường giao thông đi qua Hồ Trúc Cầu Ea Kniêr 6.080 2.120 1.840 1.040
+- 41 Hẻm 33 Lê Thị Riêng Lê Thị Riêng Đặng Thuỳ Trâm (Tượng đài Lý Tự Trọng) 2.840 1.200 1.080 720
+- - Trục đường D1 Hẻm 120/26 Y Wang Hết ranh giới quy hoạch khu dân cư trường Hành chính cũ 8.400
+- 47 Hẻm số 552 đường Lê Duẩn (Chỉ áp dụng cho các thửa đất mặt tiền hẻm 552)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu giãn dân cách Quốc lộ 14C 600 mét Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- 10 Các tuyến đường còn lại trong các khu dân cư chưa có tên trong bảng giá Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn từ giáp xã Ea Ktur Đến Ngã tư đường QL27 giao với Tỉnh lộ 10 (tỉnh lộ 690) tính cả 2 bên đường
+- Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn Từ ngã tư Quốc lộ 27 đến giáp xã Hòa Hiệp cũ (Cả hai bên đường dọc QL 27) Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 đoạn từ giáp xã Hòa Hiệp cũ đến hết thôn Thành Công Các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từ mốc lộ giới đường Quốc lộ 27 (còn lại)
+- 30 Hẻm của đường Nguyễn Chí Thanh Đầu đường Nguyễn Chí Thanh Hết nhà ông Kar Sơ Vinh 400
+- 101 Võ Văn Kiệt (đường N0-8) Đồng Khởi (đường D0-3) Đường D0-2 1.880
+- 102 Võ Văn Kiệt (đường số 3) Lê Duẩn Đồng Khởi (đường D0-3) 930
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Ngã tư Điện Biên Phủ và Võ Văn Kiệt Ngã ba Điện Biên Phủ - Y Jút 400 172 148 96
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Ngã ba Phạm Văn Đồng và Lý Thường Kiệt Ngã ba Phạm Văn Đồng và 30-4 240 104 88 64
+- Các hẻm đường Phạm Văn Đồng 144 60 52 48 25 Tản Đà Ngã ba Tản Đà và Nguyễn Huệ Ngã ba Tản Đà và 30-4 600 260 220 96
+- Ngã tư Võ Văn Kiệt và Lê Quý Đôn Ngã tư Võ Văn Kiệt và Điện Biên
+- Ngã tư Võ Văn Kiệt và Điện Biên Phủ Ngã ba Võ Văn Kiệt và Đinh Núp 400 180 96 48
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Dọc trục đường chính Đường nội bộ Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Võ Văn Kiệt Hết ranh giới thửa đất số 2, tờ bản đồ số 65 160 128 112
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đến đường hẻm (phía Bắc đường), đối diện nhà nghỉ Hoàng Long 800 400 280 160
+- Hết ranh giới thửa đất nhà nghỉ Hoàng Long (phía Nam đường) và đường hẻm (phía Bắc đường), đối diện nhà nghỉ Hoàng Long
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Ngã ba đường xuống hồ sinh thái (Ngã ba nhà ông Lực, phía Đông và đường hẻm đối diện Ngã ba, phía Tây đường)
+- Ngã ba đường xuống hồ sinh thái (Ngã ba nhà ông Lực, phía Đông và đường hẻm đối diện Ngã ba, phía Tây đường)
+- Phạm Hồng Thái (phía Tây đường) Hẻm Bình Tâm (phía Tây đường) 7.160 3.580 2.508 1.432
+- Hẻm Bình Tâm (phía Tây đường) Xô Viết Nghệ Tĩnh (phía Tây đường) 4.880 2.440 1.708 976
+- Đường Ama Khê (phía Đông đường) và đường hẻm (phía Tây đường)
+- Đường Ama Khê (phía Đông đường) và đường hẻm (phía Tây đường)
+- Đường hẻm (hết ranh giới thửa số 128 cũ phía Nam và thửa số 112 phía Bắc, tờ bản đồ số 16 mới)
+- Đường hẻm (hết ranh giới thửa số 128 cũ phía Nam và thửa số 112 phía Bắc, tờ bản đồ số 16 mới)
+- Hết ranh giới thửa đất 28, tờ bản đồ số 112 (phía Tây đường) và đường hẻm vào nhà bà Tục (phía Đông đường)
+- Hết ranh giới thửa đất số 28, tờ bản đồ số 112 (phía Tây đường) và đường hẻm vào nhà bà Tục (phía Đông đường)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy theo mức giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Khu dân cư thôn Hòa Nam (vị trí 1 các trục đường chính) Khu dân cư thôn Nam Thắng (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Hưng - Tân Bình (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Lập (vị trí 1 các trục đường chính) Khu dân cư thôn Tân Nam (vị trí 1 các trục đường chính)
+- Khu dân cư Tân Sơn - Cao Bằng (vị trí 1 các trục đường chính) Khu dân cư thôn Hòa An (vị trí 1 các trục đường chính)
+- Các trục đường của thôn 1, 2, 3, 4, 4 A, 5, 6, buôn Kniêr, buôn Kplang các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá xây dựng thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đường Quang Trung Hết ranh giới thửa đất nhà ông Hùng (Hẻm 2) 1.000 600 400 300
+- Lý Thường Kiệt Km 0 + 350 (ngã ba đi đội 6, thôn 1A - xã Cư Ni) 3.900 2.700 1.948
+- Hết cây xăng Nam Tây Nguyên Đường hẻm (hết ranh giới thửa đất ông Nguyễn Văn Nhung - Lên) 600 360 240 180
+- Đường hẻm (Hết ranh giới thửa đất ông Nguyễn Văn Nhung - Lên) Hết đường 640 384 256 192
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Ngã ba nhà ông Hoàn Hết ranh giới đất Trường tiểu học Lý Thường Kiệt 80 68 60 52
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đường ngang thông ra đường Giải Phóng 216 Đường đối diện lò mổ 216 Đường dọc quy hoạch dân cư khu F 192 Ngã tư đường Lý Thường Kiệt và Đường Vành Đai Hết đường quy hoạch 192 144
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất. Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Dãy 2 dân cư thôn 9 Dãy 2 dân cư thôn 18 Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đường giao thông đi Buôn M'O (Vị trí 2; 3 được tính trong khoảng cách 200m không dùng hệ số khoảng cách)
+- Đường liên xã đi xã Krông Á (Vị trí 2; 3 được tính trong khoảng cách 200m không dùng hệ số khoảng cách)
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- 1 Quốc lộ 26 (Vị trí 2; 3 được tính trong khoảng cách 300m không dùng hệ số khoảng cách)
+- 14 Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200m tính hết vị trí thửa đất. Ngoài 200m được tính mức giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- Đối với Các vị trí 2, 3 và 4 đến đường, đoạn đường có tên trong Bảng giá đất được tính trong phạm vi 200 m đến hết vị trí thửa đất (không tính hệ số khoảng cách). Ngoài 200m được tính theo các Quy định Bảng giá đất mà có giá nhỏ hơn mức giá sau đây thì lấy giá theo giá như sau:
+- - Thăng Long Hẻm phía Nam Trường mầm non Phường Phú Thạnh cũ 2.250 1.350 1.100 650
+- - Hẻm phía Nam Trường mầm non Phường Phú Thạnh cũ Đường sắt 1.500 1.200 850 500
+- 24 Thăng Long - Đường 3 tháng 2 Trần Kiệt 3.500 2.350 1.700 1.000
+- - Trần Kiệt Điểm giao đường sắt và đường 3 tháng 2 3.000 2.150 1.550 900
+- Đường Trần Kiệt (Trừ Khu dân cư tạo quỹ đất để huy động vốn phục vụ dự án đường Bạch Đằng giai đoạn 2 (khu đất số 4), tại phường Phú Đông, Phú Thạnh, thành phố Tuy Hòa cũ (Sau khi đã đầu tư hạ tầng); Khu nhà ở K2-K6 đường Hùng Vương, phường Phú Đông cũ)
+- - Đường Đoàn Khuê (rộng 12,5m) 10.150 - Đường Hùng Vương (rộng 42m) 18.400 - Đường Trần Kiệt (30m) 13.550 - Đường Trần Toại (rộng 16m) 10.500 - Đường Trần Khánh Dư (rộng 20m) 11.550
+- - Trục đường quy hoạch rộng 16m 3.000 A72 PHƯỜNG HÒA HIỆP 1 Trần Kiệt 2.350 1.400 950 600
+- 55 Đường hẻm phố - Hòa Hiệp Nhà ông Lợi, khu phố Thọ Lâm 450 250 150 130
+- Đường Trần Khánh Dư và đường hẻm dọc QL.1 (đoạn từ đường Phan Đình Phùng đến nhà ông Sang), khu phố 4
+- 16 Đường từ nhà ông Nguyễn Văn Kiệt (Quốc lộ 29) đến hết nhà bà Hồ Thị Thành thôn Phú Thịnh
+- Đường từ ngã ba Giai Sơn đến đường sắt Phú Hòa (Đường từ ngã ba Giai Sơn đến trường tiểu học Số 2 cũ + Khu vực 1 cũ)
+
+##### PL-VIII-DL.pdf
+- + Buôn Đũng, TDP 2 Cư Êbur (Tính cả phạm vi ngoài 1000m). Vị trí 2:
+- + Phần còn lại của TDP 8 Tân Tiến. + TDP 6 Tự An, TDP 6A Tự An, TDP 7 Tự An, TDP 8 Tự An, TDP 10 Tự An. + TDP 4 Tân Thành, TDP 5 Tân Thành, TDP 6 Tân Thành, TDP 9 Tân Thành. Vị trí 3:
+- Các thửa đất tiếp giáp Quốc lộ27; Các thửa đất tiếp giáp đường liên xã từNgã ba Quốc lộ27 đến Cầu trắng, từNgã ba Quốc lộ27 đến Giáp xã Ea Hu (xã Ea Bhốk cũ), từNgã ba Quốc lộ27 (giáp chợHòa Hiệp) đến Đường liên thôn tuyến 2 song song Quốc lộ27 (xã Dray Bhăng cũ). Các thửa đất tiếp giáp Tỉnh lộ10, đường liên thôn song song Tỉnh lộ10. Các thửa đất tiếp giáp các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từmốc lộgiới Quốc lộ27. Các thửa đất tiếp giáp đường trục chính thôn 4 từNgã ba Quốc lộ27 đến Ngã ba đường liên xã (xã Ea Bhốk cũ). Khu vực sản xuất nông nghiệp của Công ty TNHH MTV Cà phê Ea Ktur, Chi nhánh Công ty TNHH MTV Cao su 19/8. Khu vực sản xuất nông nghiệp còn lại thuộc thôn Nam Hòa, Kim Châu (xã Dray Bhăng cũ).
+- Các thửa đất tiếp giáp Quốc lộ27; tiếp giáp các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từmốc lộgiới Quốc lộ27; tiếp giáp đường liên xã, liên thôn; Khu vực sản xuất nông nghiệp của Công ty TNHH MTV Cà phê Việt Thắng, Cà phê Việt Đức bao các thửa đất nằm tiếp giáp và có bán kính 300 m. và các thửa đất tiếp giáp đường trục chính thôn.
+
+##### PL-X-DL.pdf
+- 10 Xã Ea Bung Vị trí 1: Toàn xã xác định 1 vị trí. 11 Xã Ia RVê Vị trí 1: Toàn xã xác định 1 vị trí. 12 Xã Ia Lốp Vị trí 1: Toàn xã xác định 1 vị trí. 13 Xã Ea Ning Vị trí 1: Toàn xã xác định 1 vị trí. 14 Xã Dray Bhăng Vị trí 1: Vị trí 2:
+- 15 Xã Ea Ktur Vị trí 1: Toàn xã xác định 1 vị trí. 16 Xã Krông Ana Vị trí 1: Toàn xã xác định 1 vị trí. 17 Xã Dur Kmăl Vị trí 1: Toàn xã xác định 1 vị trí. 18 Xã Ea Na Vị trí 1: Toàn xã xác định 1 vị trí. 19 Xã Liên Sơn Lắk Vị trí 1: Vị trí 2: Khu vực còn lại.
+- Vị trí 2: Khu vực còn lại. 21 Xã Nam Ka Vị trí 1: Buôn Krái, buôn Phôk. Vị trí 2: Khu vực còn lại. 22 Xã Đắk Phơi Vị trí 1:
+- 38 Xã Ea Drăng Vị trí 1: Vị trí 2: Buôn B’lếch, Lê Đá, Lê B. Vị trí 3:
+- 39 Xã Ea Wy Vị trí 1: Toàn xã xác định 1 vị trí. 40 Xã Ea H'leo Vị trí 1: Vị trí 2: Vị trí 1: Các khu vực còn lại 41 Xã Ea Hiao Vị trí 1:
+- 42 Xã Krông Pắc Vị trí 1: Thị trấn Phước An cũ. Vị trí 2: Xã Ea Yông cũ. Vị trí 3: Xã Hòa An cũ.
+- 44 Xã Tân Tiến Vị trí 1: Xã Tân Tiến cũ. Vị trí 2: Xã Ea Yiêng cũ. Vị trí 3: Xã Ea Uy cũ.
+- 48 Xã Ea Kar Vị trí 1: Toàn xã xác định 1 vị trí. 49 Xã Ea Ô Vị trí 1: Toàn xã xác định 1 vị trí. 50 Xã Ea Knốp Vị trí 1: Toàn xã xác định 1 vị trí. 51 Xã Cư Yang Vị trí 1: Toàn xã xác định 1 vị trí. 52 Xã Ea Păl Vị trí 1: Toàn xã xác định 1 vị trí. 53 Xã M'Drắk Vị trí 1: Vị trí 2: Các khu vực còn lại. 54 Xã Ea Riêng Vị trí 1:
+
+##### PL-XIII-DL.pdf
+- Xã Dray Bhăng Các thửa đất tiếp giáp Quốc lộ27; Các thửa đất tiếp giáp đường liên xã từNgã ba Quốc lộ27 đến Cầu trắng, từNgã ba Quốc lộ27 đến Giáp xã Ea Hu (xã Ea Bhốk cũ), từNgã ba Quốc lộ27 (giáp chợHòa Hiệp) đến Đường liên thôn tuyến 2 song song Quốc lộ27 (xã Dray Bhăng cũ). Các thửa đất tiếp giáp Tỉnh lộ10, đường liên thôn song song Tỉnh lộ10. Các thửa đất tiếp giáp các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từmốc lộgiới Quốc lộ27. Các thửa đất tiếp giáp đường trục chính thôn 4 từNgã ba Quốc lộ27 đến Ngã ba đường liên xã (xã Ea Bhốk cũ). Khu vực sản xuất nông nghiệp của Công ty TNHH MTV Cà phê Ea Ktur, Chi nhánh Công ty TNHH MTV Cao su 19/8. Khu vực sản xuất nông nghiệp còn lại thuộc thôn Nam Hòa, Kim Châu (xã Dray Bhăng cũ).
+- Vị trí còn lại xã Dray Bhăng cũ. Xã Ea Ktur Các thửa đất tiếp giáp Quốc lộ27; tiếp giáp các đường thuộc khu dân cư trong phạm vi bán kính 300m tính từmốc lộgiới Quốc lộ27; tiếp giáp đường liên xã, liên thôn; Khu vực sản xuất nông nghiệp của Công ty TNHH MTV Cà phê Việt Thắng, Cà phê Việt Đức bao các thửa đất nằm tiếp giáp và có bán kính 300 m. và các thửa đất tiếp giáp đường trục chính thôn.
+

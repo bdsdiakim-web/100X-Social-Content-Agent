@@ -1,0 +1,448 @@
+NGUON: Can tho/Cantho nghi-quyet-41-pl2.pdf
+LOAI TEP: .pdf
+LUU Y: Van ban trich xuat tu dong, can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+Thành phố Cần Thơ
+ĐVT: 1.000 đồng/m 2
+VT1
+VT2
+1
+Phường Ninh Kiều
+390
+350
+2
+Phường Cái Khế
+390
+350
+3
+Phường Tân An
+390
+350
+4
+Phường An Bình
+390
+350
+5
+Phường Bình Thủy
+350
+320
+6
+Phường Long Tuyền
+310
+280
+7
+Phường Thới An Đông
+350
+320
+8
+Phường Cái Răng
+250
+230
+9
+Phường Hưng Phú
+250
+230
+10
+Phường Ô Môn
+250
+230
+11
+Phường Phước Thới
+250
+230
+12
+Phường Thới Long
+250
+230
+13
+Phường Trung Nhứt
+210
+190
+14
+Phường Thuận Hưng
+250
+230
+15
+Phường Thốt Nốt
+250
+230
+16
+Phường Tân Lộc
+250
+230
+17
+Phường Phú Lợi
+130
+120
+18
+Phường Sóc Trăng
+130
+120
+19
+Phường Mỹ Xuyên
+100
+90
+20
+Phường Ngã Năm
+100
+90
+21
+Phường Mỹ Quới
+90
+80
+22
+Phường Khánh Hòa
+80
+70
+23
+Phường Vĩnh Châu
+100
+90
+24
+Phường Vĩnh Phước
+100
+90
+25
+Phường Vị Thanh
+260
+240
+26
+Phường Vị Tân
+260
+240
+27
+Phường Long Bình
+150
+140
+28
+Phường Long Mỹ
+210
+190
+29
+Phường Long Phú 1
+190
+170
+30
+Phường Đại Thành
+260
+240
+31
+Phường Ngã Bảy
+260
+240
+32
+Xã Phong Điền
+180
+160
+Số TT
+Tên đơn vị hành chính
+PHỤ LỤC II
+BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+(Ban hành kèm theo Nghị quyết số 41/2025/NQ-HĐND ngày 31 tháng 12 năm 2025 
+của Hội đồng nhân dân thành phố Cần Thơ)
+Giá đất
+
+--- TRANG 2 ---
+2
+ĐVT: 1.000 đồng/m 2
+VT1
+VT2
+Số TT
+Tên đơn vị hành chính
+Giá đất 
+33
+Xã Nhơn Ái
+180
+160
+34
+Xã Trường Long
+140
+130
+35
+Xã Thới Lai
+150
+140
+36
+Xã Đông Thuận
+120
+110
+37
+Xã Trường Xuân
+120
+110
+38
+Xã Trường Thành
+150
+140
+39
+Xã Cờ Đỏ
+150
+140
+40
+Xã Đông Hiệp
+120
+110
+41
+Xã Trung Hưng
+120
+110
+42
+Xã Thạnh Phú
+110
+100
+43
+Xã Thới Hưng
+110
+100
+44
+Xã Vĩnh Thạnh
+110
+100
+45
+Xã Vĩnh Trinh
+110
+100
+46
+Xã Thạnh An
+110
+100
+47
+Xã Thạnh Quới
+110
+100
+48
+Xã Hòa Tú
+80
+70
+49
+Xã Gia Hòa
+80
+70
+50
+Xã Nhu Gia
+80
+70
+51
+Xã Ngọc Tố
+80
+70
+52
+Xã Trường Khánh
+80
+70
+53
+Xã Đại Ngãi
+90
+80
+54
+Xã Tân Thạnh
+80
+70
+55
+Xã Long Phú
+90
+80
+56
+Xã Nhơn Mỹ
+90
+80
+57
+Xã An Lạc Thôn
+80
+70
+58
+Xã Kế Sách
+80
+70
+59
+Xã Thới An Hội
+80
+70
+60
+Xã Đại Hải
+80
+70
+61
+Xã Phú Tâm
+80
+70
+62
+Xã An Ninh
+80
+70
+63
+Xã Thuận Hòa
+80
+70
+64
+Xã Hồ Đắc Kiện
+80
+70
+65
+Xã Mỹ Tú
+80
+70
+66
+Xã Long Hưng
+80
+70
+67
+Xã Mỹ Hương
+80
+70
+68
+Xã Tân Long
+80
+70
+69
+Xã Phú Lộc
+80
+70
+70
+Xã Vĩnh Lợi
+80
+70
+
+--- TRANG 3 ---
+3
+ĐVT: 1.000 đồng/m 2
+VT1
+VT2
+Số TT
+Tên đơn vị hành chính
+Giá đất 
+71
+Xã Lâm Tân
+80
+70
+72
+Xã Thạnh Thới An
+80
+70
+73
+Xã Tài Văn
+80
+70
+74
+Xã Liêu Tú
+80
+70
+75
+Xã Lịch Hội Thượng
+80
+70
+76
+Xã Trần Đề
+80
+70
+77
+Xã An Thạnh
+80
+70
+78
+Xã Cù Lao Dung
+80
+70
+79
+Xã Phong Nẫm
+80
+70
+80
+Xã Mỹ Phước
+80
+70
+81
+Xã Lai Hòa
+80
+70
+82
+Xã Vĩnh Hải
+80
+70
+83
+Xã Hỏa Lựu
+180
+160
+84
+Xã Vị Thủy
+140
+130
+85
+Xã Vĩnh Thuận Đông
+130
+120
+86
+Xã Vị Thanh 1
+130
+120
+87
+Xã Vĩnh Tường
+120
+110
+88
+Xã Vĩnh Viễn
+120
+110
+89
+Xã Xà Phiên
+110
+100
+90
+Xã Lương Tâm
+110
+100
+91
+Xã Thạnh Xuân
+200
+180
+92
+Xã Tân Hòa
+210
+190
+93
+Xã Trường Long Tây
+120
+110
+94
+Xã Châu Thành
+210
+190
+95
+Xã Đông Phước
+210
+190
+96
+Xã Phú Hữu
+190
+170
+97
+Xã Tân Bình
+120
+110
+98
+Xã Hòa An
+130
+120
+99
+Xã Phương Bình
+120
+110
+100
+Xã Tân Phước Hưng
+130
+120
+101
+Xã Hiệp Hưng
+140
+130
+102
+Xã Phụng Hiệp
+120
+110
+103
+Xã Thạnh Hòa
+130
+120
