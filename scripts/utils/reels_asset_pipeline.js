@@ -329,10 +329,9 @@ async function getLocalMusic() {
     const musicDir = path.join(__dirname, '..', '..', 'media-input', 'background-music');
     if (!fs.existsSync(musicDir)) return null;
 
-    const files = fs.readdirSync(musicDir).filter(f => !f.startsWith('.') && (f.toLowerCase().endsWith('.mp3') || f.toLowerCase().endsWith('.wav') || f.toLowerCase().endsWith('.m4a')));
-    if (files.length === 0) return null;
-
-    const randomFile = files[Math.floor(Math.random() * files.length)];
+    // Quy định 2026-10-06: toàn bộ video chỉ dùng đúng 1 bản nhạc nền này.
+    const randomFile = 'Suno - AI Music.mp3';
+    if (!fs.existsSync(path.join(musicDir, randomFile))) return null;
 
     console.log(`[Music] Đã nạp nhạc nền Local: ${randomFile}`);
     return `${MICRO_SERVER_URL}/media-input/background-music/${encodeURIComponent(randomFile)}`;

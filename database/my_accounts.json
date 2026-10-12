@@ -1,6 +1,25 @@
 {
+  "accounts": [
+    {
+      "id": "fb_page_vuamatpho",
+      "platform": "Facebook",
+      "type": "Fanpage",
+      "name": "Làm Sổ Đỏ & Pháp Lý Nhà Đất",
+      "url": "https://www.facebook.com/VuaMatPho/",
+      "is_default": true
+    },
+    {
+      "id": "fb_profile_huuanh",
+      "platform": "Facebook",
+      "type": "Profile",
+      "name": "Phùng Hữu Anh (Vua Mặt Phố)",
+      "url": "https://www.facebook.com/Vuamatphohanoi",
+      "is_default": false
+    }
+  ],
   "channels": [
-    "Facebook",
+    "Facebook Fanpage (Làm Sổ Đỏ & Pháp Lý Nhà Đất)",
+    "Facebook Cá Nhân (Phùng Hữu Anh)",
     "TikTok",
     "YouTube Shorts",
     "Instagram Reels",

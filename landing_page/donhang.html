@@ -18,9 +18,16 @@ main{padding-block:28px 60px;display:grid;gap:18px}
 .msg{font-size:.85rem;color:var(--green);white-space:pre-wrap}
 .filters{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .filters select,.filters input{width:auto}
+.tabs{display:flex;gap:8px;flex-wrap:wrap}
+.tabs button{font:700 .95rem var(--f-display);padding:10px 18px;border-radius:999px;border:2px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
+.tabs button[aria-selected="true"]{border-color:var(--green);background:var(--green);color:var(--on-green)}
+.tabs .n{display:inline-block;min-width:20px;padding:0 6px;margin-left:6px;border-radius:999px;background:var(--seal);color:#fff;font-size:.75rem}
+.dtform{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;display:grid;gap:12px}
+.dtform .row{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+small{color:var(--muted)}
 </style>
 <main class="wrap">
-  <div class="top"><h2>Đơn báo cáo 100k (thừa kế, sổ đỏ)</h2><a href="admin.html">← Sổ hồ sơ khách hàng</a></div>
+  <div class="top"><h2>Đơn báo cáo Hồ sơ nhà đất</h2><a href="admin.html">← Sổ hồ sơ khách hàng</a></div>
   <p class="errmsg" id="demo" hidden style="background:var(--seal-soft);color:var(--seal);padding:10px 14px;border-radius:8px">Chưa nối Google Sheet (CONFIG.ENDPOINT trống): trang này chỉ hiện khi đã nối máy chủ.</p>
   <div class="box" id="login" hidden>
     <label class="f">Mã truy cập quản lý<input id="code" type="password" autocomplete="current-password"></label>
@@ -29,68 +36,134 @@ main{padding-block:28px 60px;display:grid;gap:18px}
   </div>
   <div id="app" hidden style="display:grid;gap:18px">
     <div class="stats" id="stats"></div>
-    <div class="filters">
-      <select id="fPkg"><option value="">Mọi gói</option><option value="thuake">Hồ sơ thừa kế</option><option value="sodo">Hồ sơ sổ đỏ</option></select>
-      <select id="fSt"><option value="">Tất cả</option><option>Chờ thanh toán</option><option>Đã mở khóa</option></select>
-      <input id="fQ" placeholder="Tìm tên, SĐT, mã">
-      <button class="btn ghost small" id="reload" type="button">Làm mới</button>
+    <div class="tabs" role="tablist"><button type="button" data-tab="don">Đơn hàng</button><button type="button" data-tab="ht">Hoàn tiền<span class="n" id="nHt" hidden></span></button><button type="button" data-tab="gt">Giới thiệu<span class="n" id="nGt" hidden></span></button><button type="button" data-tab="dt">Link đối tác</button>
+      <button class="btn ghost small" id="reload" type="button" style="margin-left:auto">Làm mới</button></div>
+
+    <div data-pane="don" style="display:grid;gap:12px">
+      <div class="filters">
+        <select id="fSt"><option value="">Tất cả</option><option>Chờ thanh toán</option><option>Đã mở khóa</option></select>
+        <select id="fSrc"><option value="">Mọi nguồn</option><option value="ref">Có người giới thiệu</option><option value="dt">Qua link đối tác</option></select>
+        <select id="fDt"><option value="">Mọi đối tác</option></select>
+        <input id="fQ" placeholder="Tìm tên, SĐT, mã">
+      </div>
+      <p class="muted" style="font-size:.88rem">Đối chiếu nội dung chuyển khoản trên app ngân hàng (dạng <b>VMP HS… SĐT</b>) và <b>số tiền cần nhận</b> (ưu đãi 100.000đ chỉ áp dụng nếu khách chuyển trước giờ hết ưu đãi ghi bên dưới; xem giờ giao dịch trên app ngân hàng), rồi bấm <b>Đã nhận tiền</b>. Hệ thống mở khóa 90 ngày, tự gửi email nếu khách có email; bấm <b>Chép tin Zalo</b> để gửi link cho khách.</p>
+      <div class="table-box"><table><thead><tr><th>Mã · ngày</th><th>Khách</th><th>Tiền · nội dung CK</th><th>Trạng thái</th><th>Nguồn</th><th>Đã xem</th><th></th></tr></thead><tbody id="rows"></tbody></table></div>
     </div>
-    <p class="muted" style="font-size:.88rem">Đối chiếu nội dung chuyển khoản trên app ngân hàng (dạng <b>VMP TK… SĐT</b>) rồi bấm <b>Đã nhận tiền</b>. Hệ thống mở khóa 30 ngày, tự gửi email nếu khách có email; bấm <b>Chép tin Zalo</b> để gửi link cho khách.</p>
-    <div class="table-box"><table><thead><tr><th>Mã · ngày</th><th>Khách</th><th>Nội dung CK</th><th>Trạng thái</th><th>Đã xem</th><th></th></tr></thead><tbody id="rows"></tbody></table></div>
+
+    <div data-pane="ht" hidden style="display:grid;gap:12px">
+      <p class="muted" style="font-size:.88rem">Khách gửi yêu cầu ngay cuối báo cáo. Máy chủ tự so giờ gửi với giờ mở khóa: trong 60 phút là <b>đủ điều kiện</b> (hoàn 100% trong 10 ngày làm việc (không tính thứ Bảy, Chủ nhật)), quá 60 phút là không đủ. Chỉ hoàn <b>về đúng tài khoản khách đã chuyển</b> (tìm nội dung VMP HS… trên sao kê). Mọi yêu cầu hoàn về tài khoản khác: không hợp lệ, từ chối. Chuyển xong bấm <b>Đã hoàn</b>. Bảng tổng hợp nằm ở trang tính HoanTien (cột N–O).</p>
+      <div class="table-box"><table><thead><tr><th>Gửi lúc</th><th>Mã · khách</th><th>Số tiền</th><th>Kết quả</th><th>Lý do</th><th>Xử lý</th></tr></thead><tbody id="htRows"></tbody></table></div>
+    </div>
+
+    <div data-pane="gt" hidden style="display:grid;gap:12px">
+      <p class="muted" style="font-size:.88rem">Hoa hồng: 5 khách đầu 20%, từ khách thứ 6 30% (tính trên số tiền khách thực trả). Chỉ tính đơn đã mở khóa, qua 60 phút, không hoàn tiền. Trả 2 tuần một lần: chuyển khoản cho người giới thiệu rồi bấm <b>Đã trả</b> (ghi ngày trả cho mọi đơn đến hạn).</p>
+      <div class="table-box"><table><thead><tr><th>Mã giới thiệu</th><th>Người giới thiệu</th><th>Tài khoản nhận</th><th>Khách</th><th>Chờ trả</th><th>Đã trả</th><th></th></tr></thead><tbody id="gtRows"></tbody></table></div>
+    </div>
+
+    <div data-pane="dt" hidden style="display:grid;gap:12px">
+      <div class="dtform"><b id="dtTitle">Thêm văn phòng đối tác</b>
+        <p class="muted" style="font-size:.86rem">Khách vào qua link đối tác sẽ thấy số điện thoại, Zalo của đối tác ở phần liên hệ tư vấn (báo cáo, file Word, email). Link thường vẫn hiện số của Vua Mặt Phố. Hoa hồng bằng tiền cho luật sư, công chứng chưa bật (cần kiểm tra quy định nghề nghiệp).</p>
+        <div class="row">
+          <label class="f">Tên văn phòng<input id="dtTen" placeholder="Văn phòng luật sư An Bình"></label>
+          <label class="f">Người liên hệ<input id="dtNguoi" placeholder="Nguyễn Văn An"></label>
+          <label class="f">Chức danh<input id="dtCd" placeholder="Luật sư / Công chứng viên"></label>
+          <label class="f">Số điện thoại<input id="dtSdt" type="tel" inputmode="tel"></label>
+          <label class="f">Zalo <small>bỏ trống nếu trùng SĐT</small><input id="dtZalo" type="tel" inputmode="tel"></label>
+          <label class="f">Địa chỉ<input id="dtDc"></label>
+          <label class="f">Trạng thái<select id="dtSt"><option>Hoạt động</option><option>Khóa</option></select></label>
+          <label class="f">Ghi chú<input id="dtNote"></label>
+        </div>
+        <div class="acts"><button class="btn" type="button" id="dtSave">Lưu, tạo link</button><button class="btn ghost" type="button" id="dtNew" hidden>Thêm mới</button><span class="msg" id="dtMsg"></span></div>
+      </div>
+      <div class="table-box"><table><thead><tr><th>Mã · văn phòng</th><th>Liên hệ</th><th>Link riêng</th><th>Khách</th><th></th></tr></thead><tbody id="dtRows"></tbody></table></div>
+    </div>
   </div>
 </main>
 <script src="data.js"></script>
 <script src="common.js"></script>
 <script>
 const $ = id => document.getElementById(id);
-let CODE = "", ORDERS = [];
+let CODE = "", D = {orders:[], refunds:[], refs:[], partners:[]}, EDIT = "";
 const d = s => s ? new Date(s).toLocaleString("vi-VN", {dateStyle:"short", timeStyle:"short"}) : "";
-const linkOf = o => location.origin + location.pathname.replace(/donhang\.html$/, "") + (o.pkg === "sodo" ? "sodo.html" : "thuake.html") + "?ma=" + o.id;
-const zaloMsg = o => `${CONFIG.BRAND} đã nhận ${Number(o.amount).toLocaleString("vi-VN")}đ. Anh/chị mở link sau, nhập số điện thoại ${o.phone} để dùng gói ${o.pkgName || "báo cáo"} trong 30 ngày:\n${linkOf(o)}\nCần hỗ trợ gọi ${CONFIG.PHONE}.`;
+const linkOf = o => location.origin + location.pathname.replace(/donhang\.html$/, "") + "hoso.html" + "?ma=" + o.id;
+const goi = o => { const p = String(o.name || "").trim().split(/\s+/); const x = o.xung && o.xung !== "anh/chị" ? o.xung : "anh/chị"; return x + " " + (p[p.length - 1] || ""); };
+const zaloMsg = o => `Chào ${goi(o)}, ${CONFIG.BRAND} đã nhận ${Number(o.amount).toLocaleString("vi-VN")}đ, cảm ơn ${goi(o)} đã tin tưởng. Mở link sau, nhập số điện thoại ${o.phone} để xem báo cáo thừa kế và sổ đỏ trong 90 ngày (mở khóa lúc ${o.unlockedTxt || ""}; thấy không đáng thì gửi yêu cầu hoàn tiền cuối báo cáo hoặc nhắn Zalo này trước ${o.refundUntilTxt || "60 phút sau khi mở khóa"} để được hoàn 100%):\n${linkOf(o)}\nCần hỗ trợ gọi ${CONFIG.PHONE}.`;
+const copy = (t, m) => (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(() => { if (m) m.textContent = "Đã chép:\n" + t; }, () => { if (m) m.textContent = t; });
 
 async function load(){
   const out = await api("tk_orders", {code: CODE});
-  ORDERS = out.orders || []; render();
+  D = {orders: out.orders || [], refunds: out.refunds || [], refs: out.refs || [], partners: out.partners || []};
+  $("fDt").innerHTML = `<option value="">Mọi đối tác</option>` + D.partners.map(p => `<option value="${esc(p.ma)}">${esc(p.ten)}</option>`).join("");
+  render();
+}
+function setTab(t){
+  document.querySelectorAll("[data-tab]").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === t));
+  document.querySelectorAll("[data-pane]").forEach(p => p.hidden = p.dataset.pane !== t);
 }
 function render(){
-  const st = $("fSt").value, pk = $("fPkg").value, q = $("fQ").value.trim().toLowerCase();
-  const list = ORDERS.filter(o => (!st || o.status === st) && (!pk || o.pkg === pk) && (!q || [o.id, o.name, o.phone].join(" ").toLowerCase().includes(q)));
-  const wait = ORDERS.filter(o => o.status === "Chờ thanh toán").length, paid = ORDERS.filter(o => o.status === "Đã mở khóa");
-  $("stats").innerHTML = `<div class="stat"><b>${ORDERS.length}</b><span>Tổng đơn</span></div><div class="stat"><b style="color:var(--seal)">${wait}</b><span>Chờ thanh toán</span></div><div class="stat"><b style="color:var(--green)">${paid.length}</b><span>Đã mở khóa</span></div><div class="stat"><b>${money(paid.reduce((s, o) => s + Number(o.amount || 0), 0))}</b><span>Doanh thu</span></div>`;
-  $("rows").innerHTML = list.map(o => `<tr>
-    <td class="mono"><b>${esc(o.id)}</b><br><span class="pill neutral">${esc(o.pkgName || "")}</span><br><small>${esc(d(o.created))}</small></td>
-    <td>${esc(o.name)}<br><a class="mono" href="tel:${esc(o.phone)}">${esc(o.phone)}</a>${o.email ? "<br><small>" + esc(o.email) + "</small>" : ""}</td>
-    <td class="mono">${esc(o.transfer)}<br><small>${money(o.amount)}</small></td>
-    <td><span class="pill ${o.status === "Đã mở khóa" ? "ok" : "warn"}">${esc(o.status)}</span>${o.expires ? "<br><small>Hạn " + esc(d(o.expires)) + "</small>" : ""}</td>
+  const O = D.orders, st = $("fSt").value, src = $("fSrc").value, dt = $("fDt").value, q = $("fQ").value.trim().toLowerCase();
+  const list = O.filter(o => (!st || o.status === st) && (!src || (src === "ref" ? o.ref : o.dt)) && (!dt || String(o.dt).toUpperCase() === dt.toUpperCase()) && (!q || [o.id, o.name, o.phone].join(" ").toLowerCase().includes(q)));
+  const paid = O.filter(o => o.status === "Đã mở khóa"), htWait = D.refunds.filter(r => r.st === "Chờ hoàn"), gtDue = D.refs.filter(r => r.choTra > 0);
+  $("stats").innerHTML = `<div class="stat"><b>${O.length}</b><span>Tổng đơn (gồm khách mới xem thử)</span></div><div class="stat"><b style="color:var(--seal)">${O.length - paid.length}</b><span>Chờ thanh toán</span></div><div class="stat"><b style="color:var(--green)">${paid.length}</b><span>Đã mở khóa</span></div><div class="stat"><b>${money(paid.reduce((s, o) => s + Number(o.amount || 0), 0))}</b><span>Doanh thu</span></div><div class="stat"><b>${money(htWait.reduce((s, r) => s + Number(r.amount || 0), 0)) || "0 đ"}</b><span>Phải hoàn (${htWait.length})</span></div><div class="stat"><b>${money(gtDue.reduce((s, r) => s + r.choTra, 0)) || "0 đ"}</b><span>Hoa hồng đến hạn</span></div>`;
+  $("nHt").hidden = !htWait.length; $("nHt").textContent = htWait.length; $("nGt").hidden = !gtDue.length; $("nGt").textContent = gtDue.length;
+  const now = Date.now();
+  $("rows").innerHTML = list.map(o => {
+    const promoOn = o.promoUntil && new Date(o.promoUntil) > now;
+    return `<tr>
+    <td class="mono"><b>${esc(o.id)}</b><br><small>${esc(d(o.created))}</small></td>
+    <td>${esc(o.xung && o.xung !== "anh/chị" ? o.xung + " · " : "")}${esc(o.name)}<br><a class="mono" href="tel:${esc(o.phone)}">${esc(o.phone)}</a>${o.email ? "<br><small>" + esc(o.email) + "</small>" : ""}</td>
+    <td class="mono">${o.status === "Đã mở khóa" ? `<b>${money(o.amount)}</b>` : `Cần nhận <b>${money(o.payNow)}</b>${o.promoUntilTxt ? `<br><small>${promoOn ? "Ưu đãi 100k đến " : "Ưu đãi hết lúc "}${esc(o.promoUntilTxt)}</small>` : ""}`}<br><small>${esc(o.transfer)}</small></td>
+    <td><span class="pill ${o.status === "Đã mở khóa" ? "ok" : "warn"}">${esc(o.status)}</span>${o.refund ? `<br><span class="pill bad">${esc(o.refund)}</span>` : ""}${o.unlockedTxt ? "<br><small>Mở khóa " + esc(o.unlockedTxt) + "</small><br><small>Hạn hoàn tiền " + esc(o.refundUntilTxt) + "</small>" : ""}${o.expires ? "<br><small>Hạn dùng " + esc(d(o.expires)) + "</small>" : ""}</td>
+    <td>${o.ref ? `<span class="pill neutral">GT ${esc(o.ref)}</span>` : ""}${o.dt ? `<br><span class="pill ok">${esc(o.dt)}</span>` : ""}${!o.ref && !o.dt ? "<small>Trực tiếp</small>" : ""}</td>
     <td>${o.runs || 0} lần${o.lastRun ? "<br><small>" + esc(d(o.lastRun)) + "</small>" : ""}</td>
-    <td><div class="acts">${o.status !== "Đã mở khóa" ? `<button class="btn small" data-paid="${esc(o.id)}">Đã nhận tiền</button>` : ""}
-      ${o.status === "Đã mở khóa" ? `<button class="btn ghost small" data-zalo="${esc(o.id)}">Chép tin Zalo</button><a class="btn ghost small" target="_blank" rel="noopener" href="https://zalo.me/${esc(o.phone)}">Mở Zalo khách</a>` : ""}</div>
-      <div class="msg" id="m_${esc(o.id)}"></div></td></tr>`).join("") || `<tr><td colspan="6" class="muted">Chưa có đơn.</td></tr>`;
+    <td><div class="acts">${o.status !== "Đã mở khóa" ? `<button class="btn small" data-paid="${esc(o.id)}">Đã nhận tiền</button>` : `<button class="btn ghost small" data-zalo="${esc(o.id)}">Chép tin Zalo</button><a class="btn ghost small" target="_blank" rel="noopener" href="https://zalo.me/${esc(o.phone)}">Mở Zalo khách</a>`}</div>
+      <div class="msg" id="m_${esc(o.id)}"></div></td></tr>`; }).join("") || `<tr><td colspan="7" class="muted">Chưa có đơn.</td></tr>`;
+  $("htRows").innerHTML = D.refunds.map(r => `<tr><td><small>${esc(r.at)}</small></td><td class="mono"><b>${esc(r.id)}</b><br>${esc(r.name)}<br><a href="tel:${esc(r.phone)}">${esc(r.phone)}</a></td><td class="mono">${money(r.amount)}</td>
+    <td><span class="pill ${/^Đủ/.test(r.kq) ? "ok" : "bad"}">${esc(r.kq)}</span><br><small>Hạn ${esc(r.until)}</small></td><td>${esc(r.reasons)}${r.note ? "<br><small>" + esc(r.note) + "</small>" : ""}</td>
+    <td>${r.st === "Chờ hoàn" ? `<button class="btn small" data-ht="${r.row}">Đã hoàn</button>` : `<span class="pill neutral">${esc(r.st)}</span>${r.done ? "<br><small>" + esc(r.done) + "</small>" : ""}`}</td></tr>`).join("") || `<tr><td colspan="6" class="muted">Chưa có yêu cầu hoàn tiền.</td></tr>`;
+  $("gtRows").innerHTML = D.refs.map(r => `<tr><td class="mono"><b>${esc(r.ma)}</b></td><td>${esc(r.name)}<br><a href="tel:${esc(r.phone)}">${esc(r.phone)}</a></td><td>${r.acc ? esc(r.bank) + "<br><span class=mono>" + esc(r.acc) + "</span><br><small>" + esc(r.holder) + "</small>" : "<small>Chưa có, nhắn Zalo xin số tài khoản</small>"}</td>
+    <td>${r.khach} khách<br><small>mức ${r.khach >= 5 ? 30 : 20}%</small></td><td class="mono"><b>${money(r.choTra) || "0 đ"}</b></td><td class="mono">${money(r.daTra) || "0 đ"}</td>
+    <td>${r.choTra ? `<div class="acts"><button class="btn ghost small" data-gtck="${esc(r.ma)}">Chép nội dung CK</button><button class="btn small" data-gt="${esc(r.ma)}">Đã trả</button></div><div class="msg" id="g_${esc(r.ma)}"></div>` : ""}</td></tr>`).join("") || `<tr><td colspan="7" class="muted">Chưa có người giới thiệu nào có khách.</td></tr>`;
+  $("dtRows").innerHTML = D.partners.map(p => `<tr><td class="mono"><b>${esc(p.ma)}</b><br>${esc(p.ten)}${p.st === "Khóa" ? ' <span class="pill bad">Khóa</span>' : ""}</td><td>${esc((p.chucdanh ? p.chucdanh + " " : "") + p.nguoi)}<br><a href="tel:${esc(p.sdt)}">${esc(p.sdt)}</a>${p.diachi ? "<br><small>" + esc(p.diachi) + "</small>" : ""}</td>
+    <td><small class="mono">${esc(p.link)}</small></td><td>${p.khach} xem thử<br><small>${p.daMua} đã mua</small></td><td><div class="acts"><button class="btn ghost small" data-dtcopy="${esc(p.ma)}">Chép link</button><button class="btn ghost small" data-dtedit="${esc(p.ma)}">Sửa</button></div><div class="msg" id="d_${esc(p.ma)}"></div></td></tr>`).join("") || `<tr><td colspan="5" class="muted">Chưa có đối tác.</td></tr>`;
+}
+function dtFill(p){
+  EDIT = p ? p.ma : "";
+  $("dtTitle").textContent = p ? "Sửa đối tác " + p.ma : "Thêm văn phòng đối tác";
+  $("dtTen").value = p ? p.ten : ""; $("dtNguoi").value = p ? p.nguoi : ""; $("dtCd").value = p ? p.chucdanh : ""; $("dtSdt").value = p ? p.sdt : ""; $("dtZalo").value = p && p.zalo !== p.sdt ? p.zalo : ""; $("dtDc").value = p ? p.diachi : ""; $("dtSt").value = p ? p.st : "Hoạt động"; $("dtNote").value = p ? p.note : "";
+  $("dtNew").hidden = !p; $("dtMsg").textContent = "";
 }
 document.addEventListener("click", async e => {
-  const p = e.target.closest("[data-paid]"), z = e.target.closest("[data-zalo]");
-  if (p){
-    if (p.dataset.sure !== "1"){ p.dataset.sure = "1"; p.textContent = "Chắc chắn đã nhận? Bấm lần nữa"; return; }
-    p.disabled = true;
-    try { await api("tk_paid", {code: CODE, id: p.dataset.paid}); await load(); const o = ORDERS.find(x => x.id === p.dataset.paid); if (o) copyZalo(o); }
-    catch(err){ p.disabled = false; alert(err.message); }
-  }
-  if (z){ const o = ORDERS.find(x => x.id === z.dataset.zalo); if (o) copyZalo(o); }
+  const tab = e.target.closest("[data-tab]"); if (tab){ setTab(tab.dataset.tab); return; }
+  const p = e.target.closest("[data-paid]"), z = e.target.closest("[data-zalo]"), h = e.target.closest("[data-ht]"), g = e.target.closest("[data-gt]"), gc = e.target.closest("[data-gtck]"), dc = e.target.closest("[data-dtcopy]"), de = e.target.closest("[data-dtedit]");
+  const sure = (b, t) => { if (b.dataset.sure !== "1"){ b.dataset.sure = "1"; b.textContent = t; return false; } b.disabled = true; return true; };
+  try {
+    if (p && sure(p, "Chắc chắn đã nhận đủ? Bấm lần nữa")){ await api("tk_paid", {code: CODE, id: p.dataset.paid}); await load(); const o = D.orders.find(x => x.id === p.dataset.paid); if (o) copy(zaloMsg(o), $("m_" + o.id)); }
+    if (z){ const o = D.orders.find(x => x.id === z.dataset.zalo); if (o) copy(zaloMsg(o), $("m_" + o.id)); }
+    if (h && sure(h, "Đã chuyển hoàn? Bấm lần nữa")){ await api("ht_xong", {code: CODE, row: h.dataset.ht}); await load(); }
+    if (gc){ const r = D.refs.find(x => x.ma === gc.dataset.gtck); copy(`Hoa hong gioi thieu ${r.ma} ${CONFIG.BRAND.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/gi, "d")}`, $("g_" + r.ma)); }
+    if (g && sure(g, "Đã chuyển khoản hoa hồng? Bấm lần nữa")){ const r = await api("aff_tra", {code: CODE, ma: g.dataset.gt}); alert("Đã ghi trả " + money(r.tong) + " cho " + r.don + " đơn."); await load(); }
+    if (dc){ const x = D.partners.find(y => y.ma === dc.dataset.dtcopy); copy(x.link, $("d_" + x.ma)); }
+    if (de){ dtFill(D.partners.find(y => y.ma === de.dataset.dtedit)); window.scrollTo({top: 0, behavior: "smooth"}); }
+  } catch(err){ alert(err.message); load(); }
 });
-function copyZalo(o){
-  const t = zaloMsg(o), m = $("m_" + o.id);
-  (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(() => { if (m) m.textContent = "Đã chép tin nhắn, dán vào Zalo của khách:\n" + t; }, () => { if (m) m.textContent = t; });
-}
-$("fSt").onchange = render; $("fPkg").onchange = render; $("fQ").oninput = render; $("reload").onclick = () => load().catch(err => alert(err.message));
+$("dtNew").onclick = () => dtFill(null);
+$("dtSave").onclick = async () => {
+  $("dtMsg").textContent = "Đang lưu…";
+  try { const r = await api("dt_save", {code: CODE, dt: {ma: EDIT, ten: $("dtTen").value, nguoi: $("dtNguoi").value, chucdanh: $("dtCd").value, sdt: $("dtSdt").value, zalo: $("dtZalo").value, diachi: $("dtDc").value, st: $("dtSt").value, note: $("dtNote").value}});
+    await load(); dtFill(D.partners.find(x => x.ma === r.ma)); copy(r.link, $("dtMsg")); }
+  catch(err){ $("dtMsg").textContent = err.message; }
+};
+$("fSt").onchange = render; $("fSrc").onchange = render; $("fDt").onchange = render; $("fQ").oninput = render; $("reload").onclick = () => load().catch(err => alert(err.message));
 $("loginBtn").onclick = async () => {
   CODE = $("code").value.trim(); $("loginErr").textContent = "";
-  try { await load(); try { sessionStorage.setItem("hoso_code", CODE); } catch(e){} $("login").hidden = true; $("app").hidden = false; }
+  try { await load(); try { sessionStorage.setItem("hoso_code", CODE); } catch(e){} $("login").hidden = true; $("app").hidden = false; setTab("don"); }
   catch(err){ $("loginErr").textContent = err.message; }
 };
 (async () => {
   if (!CONFIG.ENDPOINT){ $("demo").hidden = false; return; }
   try { CODE = sessionStorage.getItem("hoso_code") || ""; } catch(e){}
-  if (CODE){ try { await load(); $("app").hidden = false; return; } catch(e){ CODE = ""; } }
+  if (CODE){ try { await load(); $("app").hidden = false; setTab("don"); return; } catch(e){ CODE = ""; } }
   $("login").hidden = false;
 })();
 </script>

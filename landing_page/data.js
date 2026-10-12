@@ -13,7 +13,7 @@ const CONFIG = {
   PHONE2: "0988 410 000",
   ZALO: "0911 530 000",
   EMAIL: "Vuamatphohanoi@gmail.com",
-  ADDRESS: "[địa chỉ văn phòng, đang cập nhật]",
+  ADDRESS: "81 Giang Văn Minh, phường Ngọc Hà, Hà Nội",
   // Dán URL Web App của Google Apps Script vào đây. Để trống = chạy thử, lưu trên trình duyệt.
   ENDPOINT: "https://script.google.com/macros/s/AKfycbwj6AT0zecdNFNuJFMIqIOcDP7z22LHvmr_mDHYcTPpfmNm5BqCoCU-amRwz-7t9ox5/exec"
 };
@@ -144,7 +144,7 @@ const SERVICES = [
   {no:16,g:4,title:"Giải quyết tranh chấp đất đai, nhà cửa",desc:"Tư vấn hướng xử lý, hỗ trợ hòa giải ở cơ sở, kết nối luật sư khi cần.",days:[30,180],extra:"Phí luật sư, án phí (nếu có)",
     docs:[["gcn",2,"Giấy tờ đất của các bên"],["chungcu",1],["hoagiai",2]],
     fields:[["loaitc","Loại tranh chấp","select",["Ranh giới, lối đi","Thừa kế","Mua bán, đặt cọc","Khác"]],["dahg","Đã hòa giải ở xã chưa","select",["Chưa","Đã hòa giải, không thành"]],["diendien","Tóm tắt diễn biến","textarea","Nhà bên cạnh xây lấn 0,5 m sang đất nhà tôi từ năm 2023..."]]},
-  {no:18,g:4,title:"Tư vấn trực tiếp với luật sư",desc:"Chọn luật sư hợp tác với Vua Mặt Phố, đặt lịch tư vấn qua điện thoại, video hoặc gặp tại văn phòng. Phí theo bảng giá từng luật sư.",days:[1,3],extra:"Phí soạn văn bản, đại diện tham gia tố tụng (nếu có) báo riêng",
+  {no:18,g:4,title:"Tư vấn trực tiếp",desc:"Đặt lịch tư vấn về hồ sơ nhà đất qua điện thoại, video hoặc gặp tại văn phòng. Bên em báo phí trước khi tư vấn.",days:[1,3],extra:"Phí soạn văn bản, đại diện tham gia tố tụng (nếu có) báo riêng",
     docs:[["vuviec",1],["cccd",2],["lienquan",2,"Ảnh chụp giấy tờ liên quan vụ việc"]],
     fields:[["linhvuc","Lĩnh vực cần tư vấn","select",["Đất đai, sổ đỏ","Thừa kế","Mua bán, đặt cọc","Tranh chấp","Xây dựng","Khác"]],["cauhoi","Câu hỏi chính muốn hỏi luật sư","textarea","Bố tôi mất không để lại di chúc, anh cả đang giữ sổ đỏ và không chịu chia..."]]},
   {no:17,g:5,title:"Dịch vụ công đất đai, nhà cửa",desc:"Nộp hồ sơ trực tuyến, xin trích lục, trích sao, xác nhận thông tin.",days:[3,15],extra:"Phí, lệ phí nhà nước",

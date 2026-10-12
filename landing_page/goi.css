@@ -81,3 +81,102 @@ footer{border-top:1px solid var(--line);padding-block:28px;color:var(--muted);fo
   body{background:#fff} .tk-report{border:0;padding:0}
   .tk-sec{break-inside:avoid-page}
 }
+/* ---------- Trang Hồ sơ nhà đất (hoso.html) ---------- */
+#lam .wrap,.formbox,.stepbody,.teaser,#tkResult{min-width:0}
+#lam .wrap,.formbox,.stepbody{grid-template-columns:minmax(0,1fr)}
+.formbox{display:grid;gap:14px}
+.btn.big{font-size:1.05rem;padding:14px 22px}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:16px}
+.svccard{display:grid;gap:10px;align-content:start;background:var(--card);border:2px solid var(--seal);border-radius:12px;padding:22px;text-decoration:none;color:var(--ink)}
+.svccard h2{font-size:clamp(1.15rem,2.4vw,1.4rem)}
+.svccard p{color:var(--muted)}
+.svccard .btn{justify-self:start;white-space:normal;text-align:left}
+.tabs{display:flex;gap:8px;flex-wrap:wrap}
+.tabs button{font:700 1.05rem var(--f-display);padding:12px 22px;border-radius:999px;border:2px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
+.tabs button[aria-selected="true"]{border-color:var(--green);background:var(--green);color:var(--on-green)}
+.steps{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.steps button{display:flex;align-items:center;gap:8px;font:600 .88rem var(--f-body);padding:6px 12px 6px 6px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--muted);cursor:pointer}
+.steps button span{width:24px;height:24px;border-radius:50%;display:grid;place-items:center;background:var(--paper);font-family:var(--f-mono);font-size:.8rem}
+.steps button[aria-current="step"]{border-color:var(--green);color:var(--green)}
+.steps button[aria-current="step"] span{background:var(--green);color:var(--on-green)}
+.stepbody{display:grid;gap:12px}
+.stepnav{display:flex;justify-content:space-between;gap:10px}
+.drows{display:grid;gap:0;border-top:1px dashed var(--line);padding-top:8px}
+.drows .t{font:600 .7rem var(--f-mono);color:var(--muted);text-transform:uppercase;letter-spacing:.06em;padding-bottom:4px}
+.drow{display:grid;grid-template-columns:1fr auto;gap:6px 12px;align-items:center;padding:8px 0;border-bottom:1px solid var(--line)}
+.drow:last-child{border-bottom:0}
+.dname{font-size:.92rem}
+.drow .seg span{padding:7px 14px;font-size:.88rem}
+.seg input.warn:checked + span{background:var(--amber);color:var(--card)}
+.dreason{grid-column:1/-1;max-width:420px}
+.dreason select{background:var(--card)}
+.runbar{position:sticky;bottom:0;z-index:5;background:var(--paper);padding-block:10px;border-top:1px solid var(--line)}
+.refund{background:var(--green-soft);color:var(--ink);border-left:4px solid var(--green);border-radius:6px;padding:10px 14px;font-size:.92rem}
+.tk-sum{background:var(--green-soft);border:2px solid var(--green);border-radius:12px;padding:16px 18px;display:grid;gap:8px}
+.tk-sum-h{font:800 1.15rem var(--f-display);color:var(--green)}
+.tk-sum ul{margin:0;padding-left:20px;display:grid;gap:6px}
+.teaser{border-color:var(--seal);background:var(--card)}
+.tk-bar{height:8px;border-radius:4px;background:var(--line);overflow:hidden;margin-top:6px;max-width:360px}
+.tk-bar i{display:block;height:100%;background:var(--green)}
+.tk-refund{font-size:.88rem;background:var(--amber-soft);color:var(--ink);border-radius:6px;padding:8px 12px}
+.tk-plan{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.tk-plan li{display:grid;grid-template-columns:96px 1fr;gap:12px;align-items:start}
+.tk-wk{font:700 .8rem var(--f-mono);color:var(--on-green);background:var(--green);border-radius:6px;padding:6px 8px;text-align:center}
+.tk-plan p{font-size:.9rem;color:var(--muted);margin-top:4px}
+.tk-draft{white-space:pre-wrap;font:inherit;font-size:.9rem;background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:14px;margin:0;overflow-x:auto}
+.reptools{max-width:none}
+@media (max-width:600px){ .drow{grid-template-columns:1fr} .tk-plan li{grid-template-columns:1fr} .tabs button{flex:1} }
+/* Tra giá đất Hà Nội 2026 */
+.giabox{display:grid;gap:10px;border:1px solid var(--green);border-radius:10px;padding:14px;background:var(--card)}
+.gialist{display:grid;gap:6px;max-height:340px;overflow:auto}
+.giarow{display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start;border:1px solid var(--line);border-radius:8px;padding:8px 10px;cursor:pointer;background:var(--paper)}
+.giarow input{width:auto;margin-top:4px}
+.giarow small{display:block;color:var(--muted);font-size:.82rem}
+.giarow.on{border-color:var(--green);background:var(--green-soft)}
+.giaused{background:var(--paper);border:1px dashed var(--green);border-radius:8px;padding:10px 14px;font-size:.92rem}
+.warnli{color:var(--amber)}
+/* ---------- Đợt 2: cá nhân hóa, ưu đãi, chi phí trung thực, hoàn tiền, giới thiệu ---------- */
+.me{border:2px solid var(--green);border-radius:12px;padding:16px;background:var(--card);display:grid;gap:12px}
+.me h3{font-size:1.1rem}
+.me .row2{grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr))}
+.me-ok{display:flex;flex-wrap:wrap;align-items:center;gap:10px;justify-content:space-between;background:var(--green-soft);border-radius:10px;padding:12px 14px}
+.welcome{background:var(--amber-soft);border:1px solid var(--amber);border-radius:10px;padding:12px 16px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin-top:18px}
+.prog{display:grid;gap:6px;font-size:.92rem;color:var(--green);font-weight:600}
+.prog .tk-bar{max-width:none}
+.partner{border:1px solid var(--green);background:var(--green-soft);border-radius:10px;padding:10px 14px;font-size:.92rem;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.tk-hello{background:var(--paper);border-left:4px solid var(--seal);border-radius:8px;padding:12px 16px;display:grid;gap:6px;font-size:.95rem}
+.tk-hi{font-family:var(--f-display);font-size:1.1rem;color:var(--seal)}
+.tk-honest-top{font-size:.86rem;color:var(--muted);border:1px dashed var(--line);border-radius:8px;padding:8px 12px}
+.tk-honest{background:var(--amber-soft);border:1px solid var(--amber);border-radius:10px;padding:12px 14px;font-size:.92rem;display:grid;gap:6px}
+.tk-cost td small,.tk-cost th small{display:block;font-weight:400;color:var(--muted);font-size:.78rem}
+.tk-cost-sum td{background:var(--green-soft)}
+.tk-hard{background:var(--amber-soft);border:2px solid #D9822B;border-radius:10px;padding:12px 14px;display:grid;gap:6px;font-size:.92rem}
+.tk-hard > b{color:var(--amber)}
+.tk-locked{display:grid;border:1px dashed var(--seal);border-radius:12px;overflow:hidden}
+.tk-locked > *{grid-area:1/1}
+.tk-locked-in{filter:blur(4px);user-select:none;pointer-events:none;padding:16px;display:grid;gap:10px;color:var(--muted)}
+.tk-locked-txt{position:relative;background:color-mix(in srgb,var(--card) 82%,transparent);padding:16px 18px;display:grid;gap:6px;align-content:center;font-size:.93rem}
+.tk-locked-txt ul{margin:0;padding-left:20px;display:grid;gap:4px}
+.offer{border:2px solid var(--seal);border-radius:12px;padding:16px;background:var(--card);display:grid;gap:12px}
+.offer-h{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:baseline}
+.offer-h .now{font:800 2rem var(--f-display);color:var(--seal)}
+.offer-h .old{text-decoration:line-through;color:var(--muted);font-size:1.05rem}
+.cd{font:700 1.4rem var(--f-mono);color:var(--seal);background:var(--seal-soft);border-radius:8px;padding:4px 12px}
+.offer.expired{border-color:var(--line)}
+.offer.expired .cd{color:var(--muted);background:var(--paper)}
+.tk-thanks{border-top:2px dashed var(--line);padding-top:12px;display:grid;gap:6px}
+.tk-sign{font-size:.95rem}
+.sig{font-family:"Dancing Script",cursive;font-size:1.6rem;color:var(--green);line-height:1.3}
+.tk-mau{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.tk-mau li{display:grid;grid-template-columns:1fr auto;gap:4px 12px;align-items:center;border:1px solid var(--line);border-radius:8px;padding:10px 12px;background:var(--paper)}
+.tk-mau li small{display:block;color:var(--muted);font-size:.82rem}
+.tk-noweb{display:none}
+.refbox,.affbox{border:1px solid var(--line);border-radius:12px;padding:16px;background:var(--card);display:grid;gap:10px}
+.affbox{border-color:var(--green)}
+.refbox .checks label,.chk label{display:flex;gap:8px;align-items:flex-start;font-size:.92rem;cursor:pointer}
+.chk{display:grid;gap:6px}
+.chk input{width:auto;margin-top:4px}
+.hardnote{background:var(--amber-soft);border:2px solid #D9822B;border-radius:10px;padding:10px 14px;font-size:.9rem}
+.hardnote b{color:var(--amber)}
+.toast{position:fixed;left:50%;bottom:86px;transform:translateX(-50%);z-index:30;background:var(--green);color:var(--on-green);padding:12px 18px;border-radius:999px;font-weight:600;box-shadow:0 6px 24px rgba(0,0,0,.18);max-width:calc(100vw - 32px);text-align:center}
+@media (max-width:600px){ .tk-mau li{grid-template-columns:1fr} .offer-h .now{font-size:1.7rem} }

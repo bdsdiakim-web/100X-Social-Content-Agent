@@ -10,18 +10,23 @@ const {
 } = require('./utils/tiktok_client');
 
 // Chỉ cần quyền đăng video trực tiếp lên trang cá nhân là đủ cho nhu cầu đăng bài tự động.
-const SCOPES = ['user.info.basic', 'video.publish'];
+const SCOPES = ['user.info.basic', 'video.publish', 'video.upload'];
 
 function ask(question) {
     const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
     return new Promise((resolve) => rl.question(question, (answer) => { rl.close(); resolve(answer.trim()); }));
 }
 
+const VERIFIER_FILE = require('path').join(__dirname, '..', 'credentials', '.tiktok_pkce_verifier');
+
 async function main() {
     const { client_key, client_secret } = loadCredentials();
-    const { codeVerifier, codeChallenge } = generatePKCE();
+    const argCode = process.argv[2];
+    const { codeVerifier, codeChallenge } = argCode ? { codeVerifier: require('fs').readFileSync(VERIFIER_FILE, 'utf8').trim() } : generatePKCE();
+    if (!argCode) require('fs').writeFileSync(VERIFIER_FILE, codeVerifier);
     const state = crypto.randomBytes(8).toString('hex');
 
+    if (!argCode) {
     const authUrl = new URL(AUTHORIZE_URL);
     authUrl.searchParams.set('client_key', client_key);
     authUrl.searchParams.set('response_type', 'code');
@@ -35,7 +40,10 @@ async function main() {
     console.log(authUrl.toString());
     console.log('\n=== BƯỚC 2: Sau khi cấp quyền, TikTok sẽ chuyển bạn tới 1 trang hiển thị mã (code). Copy mã đó rồi dán vào đây. ===\n');
 
-    const code = await ask('Dán mã (code) vào đây rồi Enter: ');
+    console.log('Sau khi có mã, chạy lại: node scripts/tiktok_authorize.js <code>');
+    return;
+    }
+    const code = decodeURIComponent(argCode).trim();
     if (!code) {
         throw new Error('Chưa nhập mã xác thực.');
     }

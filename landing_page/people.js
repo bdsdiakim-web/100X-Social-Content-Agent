@@ -342,7 +342,7 @@ function famTreeHtml(f, ana){
 function famResultHtml(f, ana){
   return `<div class="fres">
     ${ana.warn.length ? `<div class="fwarn"><b>Cần bổ sung thông tin</b><ul>${ana.warn.map(w => `<li>${esc(w)}</li>`).join("")}</ul></div>` : ""}
-    <div class="fwarn" style="background:var(--green-soft);color:var(--green)"><b>Muốn biết mỗi người được bao nhiêu phần trăm?</b> Báo cáo riêng 100.000đ: phần trăm từng người theo hàng thừa kế 1, 2, 3, kiểm tra di chúc, giấy tờ còn thiếu, quy trình, thuế phí. <a href="thuake.html">Xem báo cáo thừa kế →</a></div>
+    <div class="fwarn" style="background:var(--green-soft);color:var(--green)"><b>Muốn biết mỗi người được bao nhiêu phần trăm?</b> Xem tóm tắt miễn phí, mở lộ trình đầy đủ 199.000đ: phần trăm từng người, giấy thiếu, giấy sai, kế hoạch từng tuần, dự thảo văn bản. <a href="hoso.html#thuake">Lấy lộ trình chia thừa kế cho gia đình tôi →</a></div>
   </div>`;
 }
 

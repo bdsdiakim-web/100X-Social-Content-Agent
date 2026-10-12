@@ -8,7 +8,7 @@ const API_BASE = 'https://open.tiktokapis.com/v2';
  * Đăng 1 video lên TikTok qua Content Posting API (chính thức, không dùng trình duyệt
  * giả lập như Facebook -> tránh rủi ro khóa tài khoản do TikTok chống bot rất gắt).
  */
-async function publishToTiktok({ videoPath, caption, privacyLevel = 'SELF_ONLY', disableComment = false, disableDuet = false, disableStitch = false }) {
+async function publishToTiktok({ videoPath, caption, privacyLevel = 'SELF_ONLY', disableComment = false, disableDuet = false, disableStitch = false, draft = false }) {
     if (!fs.existsSync(videoPath)) {
         throw new Error(`Không tìm thấy video tại: ${videoPath}`);
     }
@@ -18,21 +18,22 @@ async function publishToTiktok({ videoPath, caption, privacyLevel = 'SELF_ONLY',
     console.log(`🚀 [TikTok] Đang khởi tạo phiên đăng cho: ${path.basename(videoPath)} (${(videoSize / 1024 / 1024).toFixed(1)}MB)...`);
 
     // BƯỚC 1: khởi tạo (init) — TikTok trả về publish_id + upload_url để tải video lên.
-    const initRes = await fetch(`${API_BASE}/post/publish/video/init/`, {
+    const initUrl = draft ? `${API_BASE}/post/publish/inbox/video/init/` : `${API_BASE}/post/publish/video/init/`;
+    const initRes = await fetch(initUrl, {
         method: 'POST',
         headers: {
             Authorization: `Bearer ${accessToken}`,
             'Content-Type': 'application/json; charset=UTF-8',
         },
         body: JSON.stringify({
-            post_info: {
+            ...(draft ? {} : { post_info: {
                 title: caption,
                 privacy_level: privacyLevel, // SELF_ONLY khi test sandbox; đổi PUBLIC_TO_EVERYONE sau khi app được duyệt
                 disable_comment: disableComment,
                 disable_duet: disableDuet,
                 disable_stitch: disableStitch,
                 video_cover_timestamp_ms: 1000,
-            },
+            } }),
             source_info: {
                 source: 'FILE_UPLOAD',
                 video_size: videoSize,
@@ -93,6 +94,7 @@ async function publishToTiktok({ videoPath, caption, privacyLevel = 'SELF_ONLY',
 
 if (require.main === module) {
     const [, , videoPath, caption, privacyLevel] = process.argv;
+    const draft = privacyLevel === 'DRAFT';
     if (!videoPath || !caption) {
         console.log('Usage: node scripts/tiktok_publish.js <video_path> <caption> [privacyLevel=SELF_ONLY]');
         process.exit(1);
@@ -101,6 +103,7 @@ if (require.main === module) {
         videoPath,
         caption,
         privacyLevel: privacyLevel || 'SELF_ONLY',
+        draft,
     }).catch((err) => {
         console.error('❌ Lỗi đăng TikTok:', err.message);
         process.exit(1);
