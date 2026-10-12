@@ -50,7 +50,9 @@ let o = [
 for (const p of [...all].sort()) {
   const d = path.join(vb, p);
   const files = fs.existsSync(d) ? ls(d).filter(f => f.endsWith('.txt')) : [];
-  const fl = files.length
+  const fl = files.length > 8
+    ? BT + 'van_ban_txt/' + p + '/' + BT + ' (' + files.length + ' file, mỗi file 1 xã/phụ lục — dùng Grep theo tên xã/đường)'
+    : files.length
     ? files.map(f => BT + 'van_ban_txt/' + p + '/' + f + BT + ' (' + kb(path.join(d, f)) + ')').join('<br>')
     : '—';
   const q = qd.has(p + '.txt') ? BT + 'quy_dinh_vi_tri/' + p + '.txt' + BT : '—';

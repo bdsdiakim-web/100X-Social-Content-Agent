@@ -1,0 +1,1369 @@
+NGUON FILE: Dien Bien/dat-nong-nghiep.xlsx
+DINH DANG: .xlsx
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- SHEET: foxz --- [SHEET AN]
+
+--- SHEET: results --- [SHEET AN]
+
+--- SHEET: results_2 --- [SHEET AN]
+
+--- SHEET: 1. P Điện Biên Phủ ---
+ |  |  |  |  |  | PHỤ LỤC VII: BẢNG GIÁ ĐẤT NÔNG NGHIỆP
+ |  |  |  |  |  | (Ban hành kèm theo Nghị quyết số ….........QĐ-HĐND ngày ….. tháng …... năm …... / Của HĐND tỉnh Điện Biên)
+1. PHƯỜNG ĐIỆN BIÊN PHỦ |  |  |  |  |  | 1. PHƯỜNG ĐIỆN BIÊN PHỦ
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 82 | 80 | 78 |  | - | Các phường cũ: Tân Thanh; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 82 | 80 | 78 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Minh | 70 | 68 | 66 |  | - | Xã Thanh Minh (cũ) | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 70 | 68 | 66 |  | - | Các phường cũ: Tân Thanh ; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Minh | 60 | 58 | 56 |  | - | Xã Thanh Minh (cũ) | 60 | 58 | 56 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 70 | 68 | 66 |  | - | Các phường cũ: Tân Thanh ; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Minh | 60 | 58 | 56 |  | - | Xã Thanh Minh (cũ) | 60 | 58 | 56 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 60 | 58 | 56 |  | - | Các phường (cũ): Tân Thanh; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 60 | 58 | 56 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Minh | 40 | 38 | 36 |  | - | Xã Thanh Minh (cũ) | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 82 | 80 | 78 |  | - | Các phường cũ: Tân Thanh ; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 82 | 80 | 78 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Minh | 70 | 68 | 66 |  | - | Xã Thanh Minh (cũ) | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình và xã Thanh Minh | 9 | 8 | 7 |  |  | Các phường cũ: Tân Thanh; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình và xã Thanh Minh (cũ) | 9 | 8 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng |  |  |  |  | - | Đất rừng phòng hộ, rừng đặc dụng |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình và xã Thanh Minh | 8 | 7 | 6 |  |  | Các phường cũ: Tân Thanh; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình và xã Thanh Minh (cũ) | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 70 | 68 | 66 |  | - | Các phường cũ: Tân Thanh; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Minh | 70 | 68 | 66 |  | - | Xã Thanh Minh (cũ) | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 82 | 80 | 78 |  | - | Các phường cũ: Tân Thanh; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 82 | 80 | 78 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Minh | 70 | 68 | 66 |  | - | Xã Thanh Minh (cũ) | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 2. P Mường Thanh ---
+1. PHƯỜNG MƯỜNG THANH |  |  |  |  |  | 1. PHƯỜNG MƯỜNG THANH
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 82 | 80 | 78 |  | - | Các phường cũ: Nam Thanh; Noong Bua | 82 | 80 | 78 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Xương | 80 | 75 | 68 |  | - | Xã Thanh Xương (cũ) | 80 | 75 | 68 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 70 | 68 | 66 |  | - | Các phường cũ: Nam Thanh; Noong Bua | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Xương | 62 | 58 | 55 |  | - | Xã Thanh Xương (cũ) | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 70 | 68 | 66 |  | - | Các phường cũ: Nam Thanh; Noong Bua | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Xương | 60 | 55 | 52 |  | - | Xã Thanh Xương (cũ) | 60 | 55 | 52 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 60 | 58 | 56 |  | - | Các phường cũ: Nam Thanh; Noong Bua | 60 | 58 | 56 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Xương | 47 | 45 | 42 |  | - | Xã Thanh Xương (cũ) | 47 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 82 | 80 | 78 |  | - | Các phường cũ: Nam Thanh; Noong Bua | 82 | 80 | 78 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Xương | 70 | 66 | 60 |  | - | Xã Thanh Xương (cũ) | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình và xã Thanh Minh | 9 | 8 | 7 |  |  | Các phường cũ: Nam Thanh; Noong Bua | 9 | 8 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Xương | 9 | 8 | 8 |  | - | Xã Thanh Xương (cũ) | 9 | 8 | 8 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng |  |  |  |  | - | Đất rừng phòng hộ, rừng đặc dụng |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình và xã Thanh Minh | 8 | 7 | 6 |  |  | Các phường cũ: Nam Thanh; Noong Bua | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Xương | 9 | 8 | 8 |  | - | Xã Thanh Xương (cũ) | 9 | 8 | 8 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 70 | 68 | 66 |  | - | Các phường cũ: Nam Thanh; Noong Bua | 70 | 68 | 66 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Xương | 62 | 58 | 55 |  | - | Xã Thanh Xương (cũ) | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Nam Thanh; Tân Thanh; Noong Bua; Mường Thanh; Him Lam; Thanh Trường; Thanh Bình | 82 | 80 | 78 |  | - | Các phường cũ: Nam Thanh; Noong Bua | 82 | 80 | 78 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Thanh Xương | 70 | 66 | 60 |  | - | Xã Thanh Xương (cũ) | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 3. P Mường Lay ---
+1. PHƯỜNG MƯỜNG LAY |  |  |  |  |  | 1. PHƯỜNG MƯỜNG LAY
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Sông Đà, Na Lay và xã Lay Nưa | 56 | 52 | 48 |  | - | Các phường cũ: Sông Đà, Na Lay và xã Lay Nưa | 56 | 52 | 48 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 44 | 40 | 36 |  | - | Xã Sá Tổng (cũ) | 44 | 40 | 36 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Sông Đà, Na Lay và xã Lay Nưa | 42 | 38 | 34 |  | - | Các phường cũ: Sông Đà, Na Lay và xã Lay Nưa | 42 | 38 | 34 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 33 | 29 | 26 |  | - | Xã Sá Tổng (cũ) | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các phường: Sông Đà, Na Lay và xã Lay Nưa | 34 | 30 | 26 |  | - | Các phường cũ: Sông Đà, Na Lay và xã Lay Nưa | 34 | 30 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 24 | 22 | 20 |  | - | Xã Sá Tổng (cũ) | 24 | 22 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các phường: Sông Đà, Na Lay và xã Lay Nưa | 24 | 20 | 17 |  | - | Các phường cũ: Sông Đà, Na Lay và xã Lay Nưa | 24 | 20 | 17 |  | 0 | 0 | 0 | #DIV/0!
+ | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 21 | 17 | 14 |  | - | Xã Sá Tổng (cũ) | 21 | 17 | 14 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các phường: Sông Đà, Na Lay và xã Lay Nưa | 46 | 42 | 38 |  | - | Các phường cũ: Sông Đà, Na Lay và xã Lay Nưa | 46 | 42 | 38 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 39 | 35 | 32 |  | - | Xã Sá Tổng (cũ) | 39 | 35 | 32 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 6 |  | - | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các phường: Sông Đà, Na Lay và xã Lay Nưa | 56 | 50 | 46 |  | - | Các phường cũ: Sông Đà, Na Lay và xã Lay Nưa | 56 | 50 | 46 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 52 | 48 | 46 |  | - | Xã Sá Tổng (cũ) | 52 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các phường: Sông Đà, Na Lay và xã Lay Nưa | 46 | 42 | 38 |  | - | Các phường cũ: Sông Đà, Na Lay và xã Lay Nưa | 46 | 42 | 38 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 39 | 35 | 32 |  | - | Xã Sá Tổng (cũ) | 39 | 35 | 32 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 4. Xã Mường Nhé ---
+1. XÃ MƯỜNG NHÉ |  |  |  |  |  | 1. XÃ MƯỜNG NHÉ
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Xã Mường Nhé | 47 | 39 | 31 |  | - | Xã Mường Nhé (cũ) | 47 | 39 | 31 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã Chung Chải (cũ) | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 37 | 31 | 26 |  | - | Xã Nậm Vì (cũ) | 37 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Xã Mường Nhé | 36 | 30 | 26 |  | - | Xã Mường Nhé (cũ) | 36 | 30 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 35 | 28 | 24 |  | - | Xã Chung Chải (cũ) | 35 | 28 | 24 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 30 | 25 | 22 |  | - | Xã Nậm Vì (cũ) | 30 | 25 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Xã Mường Nhé | 34 | 29 | 23 |  | - | Xã Mường Nhé (cũ) | 34 | 29 | 23 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 31 | 28 | 22 |  | - | Xã Chung Chải (cũ) | 31 | 28 | 22 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 28 | 24 | 20 |  | - | Xã Nậm Vì (cũ) | 28 | 24 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Xã Mường Nhé | 25 | 21 | 17 |  | - | Xã Mường Nhé (cũ) | 25 | 21 | 17 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 23 | 20 | 16 |  | - | Xã Chung Chải (cũ) | 23 | 20 | 16 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 21 | 19 | 17 |  | - | Xã Nậm Vì (cũ) | 21 | 19 | 17 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Xã Mường Nhé | 47 | 39 | 31 |  | - | Xã Mường Nhé (cũ) | 47 | 39 | 31 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã Chung Chải (cũ) | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 31 | 26 |  | - | Xã Nậm Vì (cũ) | 35 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 6 | 6 |  | - | Đất rừng sản xuất | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Xã Mường Nhé | 47 | 39 | 31 |  | - | Xã Mường Nhé (cũ) | 47 | 39 | 31 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 37 | 29 |  | - | Xã Chung Chải (cũ) | 42 | 37 | 29 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 30 | 26 |  | - | Xã Nậm Vì (cũ) | 35 | 30 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Xã Mường Nhé | 47 | 39 | 31 |  | - | Xã Mường Nhé (cũ) | 47 | 39 | 31 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã Chung Chải (cũ) | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 31 | 26 |  | - | Xã Nậm Vì (cũ) | 35 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 5. Xã Sín Thầu ---
+2. XÃ SÍN THẦU |  |  |  |  |  | 2. XÃ SÍN THẦU
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Các xã cũ: Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 37 | 31 | 26 |  | - | Xã Sen Thượng (cũ) | 37 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 35 | 28 | 24 |  | - | Các xã cũ: Leng Su Sìn, Sín Thầu | 35 | 28 | 24 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 30 | 25 | 22 |  | - | Xã Sen Thượng (cũ) | 30 | 25 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 31 | 28 | 22 |  | - | Các xã cũ: Leng Su Sìn, Sín Thầu | 31 | 28 | 22 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 28 | 24 | 20 |  | - | Xã Sen Thượng (cũ) | 28 | 24 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 23 | 20 | 16 |  | - | Các xã cũ: Leng Su Sìn, Sín Thầu | 23 | 20 | 16 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 21 | 19 | 17 |  | - | Xã Sen Thượng (cũ) | 21 | 19 | 17 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Các xã cũ: Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 31 | 26 |  | - | Xã Sen Thượng (cũ) | 35 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 6 | 6 |  | - | Đất rừng sản xuất | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 37 | 29 |  | - | Các xã cũ: Leng Su Sìn, Sín Thầu | 42 | 37 | 29 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 30 | 26 |  | - | Xã Sen Thượng (cũ) | 35 | 30 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Các xã cũ: Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 31 | 26 |  | - | Xã Sen Thượng (cũ) | 35 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 6.Xã Mường Toong ---
+3. XÃ MƯỜNG TOONG |  |  |  |  |  | 3. XÃ MƯỜNG TOONG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã cũ: Mường Toong | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 37 | 31 | 26 |  | - | Xã cũ: Huổi Lếch | 37 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 35 | 28 | 24 |  | - | Xã cũ: Mường Toong | 35 | 28 | 24 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 30 | 25 | 22 |  | - | Xã cũ: Huổi Lếch | 30 | 25 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 31 | 28 | 22 |  | - | Xã cũ: Mường Toong | 31 | 28 | 22 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 28 | 24 | 20 |  | - | Xã cũ: Huổi Lếch | 28 | 24 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 23 | 20 | 16 |  | - | Xã cũ: Mường Toong | 23 | 20 | 16 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 21 | 19 | 17 |  | - | Xã cũ: Huổi Lếch | 21 | 19 | 17 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã cũ: Mường Toong | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 31 | 26 |  | - | Xã cũ: Huổi Lếch | 35 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 6 | 6 |  | - | Đất rừng sản xuất | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 37 | 29 |  | - | Xã cũ: Mường Toong | 42 | 37 | 29 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 30 | 26 |  | - | Xã cũ: Huổi Lếch | 35 | 30 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã cũ: Mường Toong | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 31 | 26 |  | - | Xã cũ: Huổi Lếch | 35 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 7. Xã Nậm Kè ---
+4. XÃ NẬM KÈ |  |  |  |  |  | 4. XÃ NẬM KÈ
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã cũ: Nậm Kè | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 37 | 31 | 26 |  | - | Xã cũ: Pá Mỳ | 37 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 35 | 28 | 24 |  | - | Xã cũ: Nậm Kè | 35 | 28 | 24 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 30 | 25 | 22 |  | - | Xã cũ: Pá Mỳ | 30 | 25 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 31 | 28 | 22 |  | - | Xã cũ: Nậm Kè | 31 | 28 | 22 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 28 | 24 | 20 |  | - | Xã cũ: Pá Mỳ | 28 | 24 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 23 | 20 | 16 |  | - | Xã cũ: Nậm Kè | 23 | 20 | 16 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 21 | 19 | 17 |  | - | Xã cũ: Pá Mỳ | 21 | 19 | 17 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã cũ: Nậm Kè | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 31 | 26 |  | - | Xã cũ: Pá Mỳ | 35 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 6 | 6 |  | - | Đất rừng sản xuất | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 37 | 29 |  | - | Xã cũ: Nậm Kè | 42 | 37 | 29 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 30 | 26 |  | - | Xã cũ: Pá Mỳ | 35 | 30 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã cũ: Nậm Kè | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nậm Vì, Huổi Lếch, Pá Mỳ, Sen Thượng | 35 | 31 | 26 |  | - | Xã cũ: Pá Mỳ | 35 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 8. Xã Quảng Lâm ---
+5.  XÃ QUẢNG LÂM |  |  |  |  |  | 5.  XÃ QUẢNG LÂM
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã Quảng Lâm (cũ) | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 35 | 28 | 23 |  | - | Xã Na Cô Sa (cũ) | 35 | 28 | 23 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 35 | 28 | 24 |  | - | Xã Quảng Lâm (cũ) | 35 | 28 | 24 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 28 | 25 | 22 |  | - | Xã Na Cô Sa (cũ) | 28 | 25 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 31 | 28 | 22 |  | - | Xã Quảng Lâm (cũ) | 31 | 28 | 22 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 25 | 21 |  | - | Xã Na Cô Sa (cũ) | 30 | 25 | 21 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 23 | 20 | 16 |  | - | Xã Quảng Lâm (cũ) | 23 | 20 | 16 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 22 | 20 | 18 |  | - | Xã Na Cô Sa (cũ) | 22 | 20 | 18 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã Quảng Lâm (cũ) | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 26 | 22 |  | - | Xã Na Cô Sa (cũ) | 30 | 26 | 22 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Huyện Mường Nhé |  |  |  |  |  | Huyện Mường Nhé (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 6 | 6 |  | - | Đất rừng sản xuất | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 6 | 5 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Huyện Nậm Pồ |  |  |  |  |  | Huyện Nậm Pồ (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 9 | 7 | 7 |  | - | Đất rừng sản xuất | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 37 | 29 |  | - | Xã Quảng Lâm (cũ) | 42 | 37 | 29 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 40 | 35 | 33 |  | - | Xã Na Cô Sa (cũ) | 40 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quảng Lâm, Nậm Kè, Mường Toong, Chung Chải, Leng Su Sìn, Sín Thầu | 42 | 34 | 28 |  | - | Xã Quảng Lâm (cũ) | 42 | 34 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 26 | 22 |  | - | Xã Na Cô Sa (cũ) | 30 | 26 | 22 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 9. Xã Nà Hỳ ---
+6. XÃ NÀ HỲ |  |  |  |  |  | 6. XÃ NÀ HỲ
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Khu quy hoạch trung tâm huyện lỵ, xã Nà Hỳ | 45 | 38 | 30 |  | - | Xã Nà Hỳ (cũ) | 45 | 38 | 30 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 38 | 30 | 25 |  | - | Xã Nà Khoa (cũ) | 38 | 30 | 25 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 35 | 28 | 23 |  | - | Các xã cũ: Nậm Nhừ, Nậm Chua | 35 | 28 | 23 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Khu quy hoạch trung tâm huyện lỵ, xã Nà Hỳ | 38 | 33 | 28 |  | - | Xã Nà Hỳ (cũ) | 38 | 33 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 32 | 28 | 25 |  | - | Xã Nà Khoa (cũ) | 32 | 28 | 25 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 28 | 25 | 22 |  | - | Các xã cũ: Nậm Nhừ, Nậm Chua | 28 | 25 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Khu quy hoạch trung tâm huyện lỵ, xã Nà Hỳ | 35 | 30 | 25 |  | - | Xã Nà Hỳ (cũ) | 35 | 30 | 25 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 32 | 27 | 23 |  | - | Xã Nà Khoa (cũ) | 32 | 27 | 23 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 25 | 21 |  | - | Các xã cũ: Nậm Nhừ, Nậm Chua | 30 | 25 | 21 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Khu quy hoạch trung tâm huyện lỵ, xã Nà Hỳ | 28 | 25 | 23 |  | - | Xã Nà Hỳ (cũ) | 28 | 25 | 23 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 25 | 22 | 19 |  | - | Xã Nà Khoa (cũ) | 25 | 22 | 19 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 22 | 20 | 18 |  | - | Các xã cũ: Nậm Nhừ, Nậm Chua | 22 | 20 | 18 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Khu quy hoạch trung tâm huyện lỵ, xã Nà Hỳ | 40 | 36 | 32 |  | - | Xã Nà Hỳ (cũ) | 40 | 36 | 32 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 35 | 30 | 25 |  | - | Xã Nà Khoa (cũ) | 35 | 30 | 25 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 26 | 22 |  | - | Các xã cũ: Nậm Nhừ, Nậm Chua | 30 | 26 | 22 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 9 | 7 | 7 |  | - | Đất rừng sản xuất | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Khu quy hoạch trung tâm huyện lỵ, xã Nà Hỳ | 53 | 45 | 40 |  | - | Xã Nà Hỳ (cũ) | 53 | 45 | 40 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 45 | 38 | 35 |  | - | Xã Nà Khoa (cũ) | 45 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 40 | 35 | 33 |  | - | Các xã cũ: Nậm Nhừ, Nậm Chua | 40 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Khu quy hoạch trung tâm huyện lỵ, xã Nà Hỳ | 40 | 36 | 32 |  | - | Xã Nà Hỳ (cũ) | 40 | 36 | 32 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 35 | 30 | 25 |  | - | Xã Nà Khoa (cũ) | 35 | 30 | 25 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 26 | 22 |  | - | Các xã cũ: Nậm Nhừ, Nậm Chua | 30 | 26 | 22 |  | 0 | 0 | 0 | #DIV/0!
+ |  |  |  |  |  |  |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+
+--- SHEET: 10. Xã Mường Chà ---
+7. XÃ MƯỜNG CHÀ |  |  |  |  |  | 7. XÃ MƯỜNG CHÀ
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 40 | 33 | 26 |  | - | Các xã cũ: Chà Nưa, Chà Cang, Pa Tần | 40 | 33 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 35 | 28 | 23 |  | - | Xã Nậm Tin (cũ) | 35 | 28 | 23 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 35 | 29 | 26 |  | - | Các xã cũ: Chà Nưa, Chà Cang, Pa Tần | 35 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 28 | 25 | 22 |  | - | Xã Nậm Tin (cũ) | 28 | 25 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 33 | 28 | 23 |  | - | Các xã cũ: Chà Nưa, Chà Cang, Pa Tần | 33 | 28 | 23 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 25 | 21 |  | - | Xã Nậm Tin (cũ) | 30 | 25 | 21 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 26 | 23 | 21 |  | - | Các xã cũ: Chà Nưa, Chà Cang, Pa Tần | 26 | 23 | 21 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 22 | 20 | 18 |  | - | Xã Nậm Tin (cũ) | 22 | 20 | 18 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 37 | 33 | 29 |  | - | Các xã cũ: Chà Nưa, Chà Cang, Pa Tần | 37 | 33 | 29 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 26 | 22 |  | - | Xã Nậm Tin (cũ) | 30 | 26 | 22 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 9 | 7 | 7 |  | - | Đất rừng sản xuất | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 48 | 40 | 36 |  | - | Các xã cũ: Chà Nưa, Chà Cang, Pa Tần | 48 | 40 | 36 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 40 | 35 | 33 |  | - | Xã Nậm Tin (cũ) | 40 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 37 | 33 | 29 |  | - | Các xã cũ: Chà Nưa, Chà Cang, Pa Tần | 37 | 33 | 29 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 26 | 22 |  | - | Xã Nậm Tin (cũ) | 30 | 26 | 22 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 11. Xã Nà Bủng ---
+8. XÃ NÀ BỦNG |  |  |  |  |  | 8. XÃ NÀ BỦNG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 38 | 30 | 25 |  | - | Các xã cũ: Nà Bủng, Vàng Đán | 38 | 30 | 25 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 32 | 28 | 25 |  | - | Các xã cũ: Nà Bủng, Vàng Đán | 32 | 28 | 25 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 32 | 27 | 23 |  | - | Các xã cũ: Nà Bủng, Vàng Đán | 32 | 27 | 23 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 25 | 22 | 19 |  | - | Các xã cũ: Nà Bủng, Vàng Đán | 25 | 22 | 19 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 35 | 30 | 25 |  | - | Các xã cũ: Nà Bủng, Vàng Đán | 35 | 30 | 25 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 9 | 7 | 7 |  | - | Đất rừng sản xuất | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 45 | 38 | 35 |  | - | Các xã cũ: Nà Bủng, Vàng Đán | 45 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Khoa, Nà Bủng, Vàng Đán | 35 | 30 | 25 |  | - | Các xã cũ: Nà Bủng, Vàng Đán | 35 | 30 | 25 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 12. Xã Chà Tở ---
+9. XÃ CHÀ TỞ |  |  |  |  |  | 9. XÃ CHÀ TỞ
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 40 | 33 | 26 |  | - | Xã Chà Tở (cũ) | 40 | 33 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 35 | 28 | 23 |  | - | Xã Nậm Khăn (cũ) | 35 | 28 | 23 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 35 | 29 | 26 |  | - | Xã Chà Tở (cũ) | 35 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 28 | 25 | 22 |  | - | Xã Nậm Khăn (cũ) | 28 | 25 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 33 | 28 | 23 |  | - | Xã Chà Tở (cũ) | 33 | 28 | 23 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 25 | 21 |  | - | Xã Nậm Khăn (cũ) | 30 | 25 | 21 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 26 | 23 | 21 |  | - | Xã Chà Tở (cũ) | 26 | 23 | 21 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 22 | 20 | 18 |  | - | Xã Nậm Khăn (cũ) | 22 | 20 | 18 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 37 | 33 | 29 |  | - | Xã Chà Tở (cũ) | 37 | 33 | 29 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 26 | 22 |  | - | Xã Nậm Khăn (cũ) | 30 | 26 | 22 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 9 | 7 | 7 |  | - | Đất rừng sản xuất | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 48 | 40 | 36 |  | - | Xã Chà Tở (cũ) | 48 | 40 | 36 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 40 | 35 | 33 |  | - | Xã Nậm Khăn (cũ) | 40 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 37 | 33 | 29 |  | - | Xã Chà Tở (cũ) | 37 | 33 | 29 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Na Cô Sa, Nậm Nhừ, Nậm Tin, Nậm Chua, Nậm Khăn | 30 | 26 | 22 |  | - | Xã Nậm Khăn (cũ) | 30 | 26 | 22 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 13. Xã Si Pa Phìn ---
+10. XÃ SI PA PHÌN |  |  |  |  |  | 10. XÃ SI PA PHÌN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 40 | 33 | 26 |  | - | Các xã (cũ): Si Pa Phìn, Phìn Hồ | 40 | 33 | 26 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 35 | 29 | 26 |  | - | Các xã (cũ): Si Pa Phìn, Phìn Hồ | 35 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 33 | 28 | 23 |  | - | Các xã (cũ): Si Pa Phìn, Phìn Hồ | 33 | 28 | 23 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 26 | 23 | 21 |  | - | Các xã (cũ): Si Pa Phìn, Phìn Hồ | 26 | 23 | 21 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 37 | 33 | 29 |  | - | Các xã (cũ): Si Pa Phìn, Phìn Hồ | 37 | 33 | 29 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 9 | 7 | 7 |  | - | Đất rừng sản xuất | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 48 | 40 | 36 |  | - | Các xã (cũ): Si Pa Phìn, Phìn Hồ | 48 | 40 | 36 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Si Pha Phìn, Chà Nưa, Chà Cang, Chà Tở, Pa Tần, Phìn Hồ | 37 | 33 | 29 |  | - | Các xã (cũ): Si Pa Phìn, Phìn Hồ | 37 | 33 | 29 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 14. Xã Na Sang ---
+11. XÃ NA SANG |  |  |  |  |  | 11. XÃ NA SANG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ)
+- | Thị trấn Mường Chà | 58 | 54 | 50 |  | - | Thị trấn Mường Chà (cũ) | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi Lèng, Mường Tùng | 50 | 46 | 42 |  | - | Các xã cũ: Na Sang, Sa Lông | 50 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 44 | 40 | 36 |  | - | Xã Ma Thì Hồ (cũ) | 44 | 40 | 36 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Chà | 44 | 42 | 40 |  | - | Thị trấn Mường Chà (cũ) | 44 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi Lèng, Mường Tùng | 36 | 32 | 28 |  | - | Các xã cũ: Na Sang, Sa Lông | 36 | 32 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 33 | 29 | 26 |  | - | Xã Ma Thì Hồ (cũ) | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Chà | 36 | 34 | 32 |  | - | Thị trấn Mường Chà (cũ) | 36 | 34 | 32 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 27 | 25 | 23 |  | - | Các xã cũ: Na Sang, Sa Lông | 27 | 25 | 23 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 24 | 22 | 20 |  | - | Xã Ma Thì Hồ (cũ) | 24 | 22 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Chà; các xã: Mường Mươn, Na Sang, Sa Lông, Huổi Lèng, Mường Tùng | 24 | 20 | 17 |  | - | Thị trấn Mường Chà (cũ); các xã cũ: Na Sang, Sa Lông | 24 | 20 | 17 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 21 | 17 | 14 |  | - | Xã Ma Thì Hồ (cũ) | 21 | 17 | 14 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 2: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Chà | 58 | 54 | 50 |  | - | Thị trấn Mường Chà (cũ) | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 52 | 48 | 46 |  | - | Các xã cũ: Na Sang, Sa Lông | 52 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 52 | 48 | 46 |  | - | Xã Ma Thì Hồ (cũ) | 52 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 3: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Chà | 48 | 44 | 42 |  | - | Thị trấn Mường Chà (cũ) | 48 | 44 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 42 | 38 | 34 |  | - | Các xã cũ: Na Sang, Sa Lông | 42 | 38 | 34 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 39 | 35 | 32 |  | - | Xã Ma Thì Hồ (cũ) | 39 | 35 | 32 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất Lâm nghiệp |  |  |  |  |  | Bảng 4: Đất Lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 6 |  | - | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Chà | 48 | 44 | 42 |  | - | Thị trấn Mường Chà (cũ) | 48 | 44 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 42 | 38 | 34 |  | - | Các xã cũ: Na Sang, Sa Lông | 42 | 38 | 34 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 39 | 35 | 32 |  | - | Xã Ma Thì Hồ (cũ) | 39 | 35 | 32 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 15. Xã Mường Tùng ---
+12. XÃ MƯỜNG TÙNG |  |  |  |  |  | 12. XÃ MƯỜNG TÙNG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi Lèng, Mường Tùng | 50 | 46 | 42 |  | - | Các xã cũ: Huổi Lèng, Mường Tùng | 50 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi Lèng, Mường Tùng | 36 | 32 | 28 |  | - | Các xã cũ: Huổi Lèng, Mường Tùng | 36 | 32 | 28 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 27 | 25 | 23 |  | - | Các xã cũ: Huổi Lèng, Mường Tùng | 27 | 25 | 23 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Chà; các xã: Mường Mươn, Na Sang, Sa Lông, Huổi Lèng, Mường Tùng | 24 | 20 | 17 |  | - | Các xã cũ: Huổi Lèng, Mường Tùng | 24 | 20 | 17 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 2: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 52 | 48 | 46 |  | - | Các xã cũ: Huổi Lèng, Mường Tùng | 52 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 3: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 42 | 38 | 34 |  | - | Các xã cũ: Huổi Lèng, Mường Tùng | 42 | 38 | 34 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất Lâm nghiệp |  |  |  |  |  | Bảng 4: Đất Lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 6 |  | - | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 42 | 38 | 34 |  | - | Các xã cũ: Huổi Lèng, Mường Tùng | 42 | 38 | 34 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 16. Xã Pa Ham ---
+13. XÃ PA HAM |  |  |  |  |  | 13. XÃ PA HAM
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 44 | 40 | 36 |  | - | Các xã cũ: Pa Ham, Hừa Ngài | 44 | 40 | 36 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 33 | 29 | 26 |  | - | Các xã cũ: Pa Ham, Hừa Ngài | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 24 | 22 | 20 |  | - | Các xã cũ: Pa Ham, Hừa Ngài | 24 | 22 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 21 | 17 | 14 |  | - | Các xã cũ: Pa Ham, Hừa Ngài | 21 | 17 | 14 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 2: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 52 | 48 | 46 |  | - | Các xã cũ: Pa Ham, Hừa Ngài | 52 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 3: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 39 | 35 | 32 |  | - | Các xã cũ: Pa Ham, Hừa Ngài | 39 | 35 | 32 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất Lâm nghiệp |  |  |  |  |  | Bảng 4: Đất Lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 6 |  | - | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 39 | 35 | 32 |  | - | Các xã cũ: Pa Ham, Hừa Ngài | 39 | 35 | 32 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 17. Xã Nậm Nèn ---
+14. XÃ NẬM NÈN |  |  |  |  |  | 14. XÃ NẬM NÈN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 44 | 40 | 36 |  | - | Các xã cũ: Nậm Nèn, Huổi Mí | 44 | 40 | 36 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 33 | 29 | 26 |  | - | Các xã cũ: Nậm Nèn, Huổi Mí | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 24 | 22 | 20 |  | - | Các xã cũ: Nậm Nèn, Huổi Mí | 24 | 22 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 21 | 17 | 14 |  | - | Các xã cũ: Nậm Nèn, Huổi Mí | 21 | 17 | 14 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 2: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 52 | 48 | 46 |  | - | Các xã cũ: Nậm Nèn, Huổi Mí | 52 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 3: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 39 | 35 | 32 |  | - | Các xã cũ: Nậm Nèn, Huổi Mí | 39 | 35 | 32 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất Lâm nghiệp |  |  |  |  |  | Bảng 4: Đất Lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 6 |  | - | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Ma Thì Hồ, Sá Tổng, Pa Ham, Nậm Nèn, Hừa Ngài, Huổi Mí | 39 | 35 | 32 |  | - | Các xã cũ: Nậm Nèn, Huổi Mí | 39 | 35 | 32 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 18. Xã Mường Pồn ---
+15. MƯỜNG PỒN |  |  |  |  |  | 15. MƯỜNG PỒN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 70 | 65 | 58 |  | - | Xã cũ vùng ngoài: Mường Pồn | 70 | 65 | 58 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi Lèng, Mường Tùng | 50 | 46 | 42 |  | - | Xã cũ: Mường Mươn | 50 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 55 | 52 | 47 |  | - | Xã cũ vùng ngoài: Mường Pồn | 55 | 52 | 47 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi Lèng, Mường Tùng | 36 | 32 | 28 |  | - | Xã cũ: Mường Mươn | 36 | 32 | 28 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 50 | 47 | 43 |  | - | Xã cũ vùng ngoài: Mường Pồn | 50 | 47 | 43 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 27 | 25 | 23 |  | - | Xã cũ: Mường Mươn | 27 | 25 | 23 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 40 | 37 | 35 |  | - | Xã cũ vùng ngoài: Mường Pồn | 40 | 37 | 35 |  | 0 | 0 | 0 | #DIV/0!
+- | Thị trấn Mường Chà; các xã: Mường Mươn, Na Sang, Sa Lông, Huổi Lèng, Mường Tùng | 24 | 20 | 17 |  | - | Xã cũ: Mường Mươn | 24 | 20 | 17 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 70 | 66 | 60 |  | - | Xã cũ vùng ngoài: Mường Pồn | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 42 | 38 | 34 |  | - | Xã cũ: Mường Mươn | 42 | 38 | 34 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  |  | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 8 | 7 | 7 |  | - | Xã cũ vùng ngoài: Mường Pồn | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Xã Mường Mươn |  |  |  |  | - | Xã cũ: Mường Mươn |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
++ | Đất rừng sản xuất | 8 | 7 | 6 |  | + | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
++ | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | + | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 57 | 54 | 50 |  | - | Xã cũ vùng ngoài: Mường Pồn | 57 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 52 | 48 | 46 |  | - | Xã cũ: Mường Mươn | 52 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 58 | 54 | 50 |  | - | Xã cũ vùng ngoài: Mường Pồn | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Mươn, Na Sang, Sa Lông, Huổi lèng, Mường Tùng | 42 | 38 | 34 |  | - | Xã cũ: Mường Mươn | 42 | 38 | 34 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 19. Xã Tủa Chùa ---
+16. XÃ TỦA CHÙA |  |  |  |  |  | 16. XÃ TỦA CHÙA
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Thị trấn Tủa Chùa |  |  |  |  |  | Thị trấn Tủa Chùa (cũ)
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tủa Chùa | 46 | 42 | 39 |  | - | Thị trấn Tủa Chùa (cũ) | 46 | 42 | 39 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 39 | 35 | 33 |  | - | Xã cũ: Mường Báng | 39 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 58 | 55 | 50 |  | - | Xã cũ: Nà Tòng | 58 | 55 | 50 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tủa Chùa | 39 | 35 | 33 |  | - | Thị trấn Tủa Chùa (cũ) | 39 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 33 | 29 | 26 |  | - | Xã cũ: Mường Báng, | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 50 | 46 | 42 |  | - | Xã cũ: Nà Tòng | 50 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tủa Chùa | 33 | 29 | 26 |  | - | Thị trấn Tủa Chùa (cũ) | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 26 | 23 | 21 |  | - | Xã cũ: Mường Báng, | 26 | 23 | 21 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 42 | 38 | 35 |  | - | Xã cũ: Nà Tòng | 42 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tủa Chùa | 23 | 20 | 17 |  | - | Thị trấn Tủa Chùa (cũ) | 23 | 20 | 17 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 21 | 18 | 16 |  | - | Xã cũ: Mường Báng, | 21 | 18 | 16 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 35 | 30 | 27 |  | - | Xã cũ: Nà Tòng | 35 | 30 | 27 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tủa Chùa | 39 | 35 | 33 |  | - | Thị trấn Tủa Chùa (cũ) | 39 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 33 | 29 | 26 |  | - | Xã cũ: Mường Báng, | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 50 | 45 | 40 |  |  | Xã cũ: Nà Tòng | 50 | 45 | 40 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Huyện Tủa Chùa |  |  |  |  |  | Huyện Tủa Chùa (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 7 |  | - | Đất rừng sản xuất | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Huyện Tuần Giáo |  |  |  |  |  | Huyện Tuần Giáo (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 9 | 7 | 7 |  |  | + Xã cũ: Nà Tòng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Huyện Tủa Chùa |  |  |  |  |  | Huyện Tủa Chùa (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tủa Chùa | 39 | 35 | 33 |  | - | Thị trấn Tủa Chùa (cũ) | 39 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 36 | 33 | 26 |  | - | Xã cũ: Mường Báng, | 36 | 33 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Huyện Tuần Giáo |  |  |  |  |  | Huyện Tuần Giáo (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 58 | 55 | 50 |  | - | Xã cũ: Nà Tòng | 58 | 55 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Huyện Tủa Chùa |  |  |  |  |  | Huyện Tủa Chùa (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tủa Chùa | 39 | 35 | 33 |  | - | Thị trấn Tủa Chùa (cũ) | 39 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 33 | 29 | 26 |  | - | Xã cũ: Mường Báng, | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Huyện Tuần Giáo |  |  |  |  |  | Huyện Tuần Giáo (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 50 | 45 | 40 |  | - | Xã cũ: Nà Tòng | 50 | 45 | 40 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 20. Xã Sín Chải ---
+17. XÃ SÍN CHẢI |  |  |  |  |  | 17. XÃ SÍN CHẢI
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Lao Xả Phình, Tả Sìn Thàng, Sín Chải | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Lao Xả Phình, Tả Sìn Thàng, Sín Chải | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 21 | 18 | 16 |  | - | Các xã cũ: Lao Xả Phình, Tả Sìn Thàng, Sín Chải | 21 | 18 | 16 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 20 | 16 | 13 |  | - | Các xã cũ: Lao Xả Phình, Tả Sìn Thàng, Sín Chải | 20 | 16 | 13 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Lao Xả Phình, Tả Sìn Thàng, Sín Chải | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 7 |  | - | Đất rừng sản xuất | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 33 | 26 | 23 |  | - | Các xã cũ: Lao Xả Phình, Tả Sìn Thàng, Sín Chải | 33 | 26 | 23 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Lao Xả Phình, Tả Sìn Thàng, Sín Chải | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 21. Xã Sính Phìn ---
+18. XÃ SÍNH PHÌN |  |  |  |  |  | 18. XÃ SÍNH PHÌN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 39 | 35 | 33 |  | - | Xã cũ: Sính Phình | 39 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Tả Phìn, Trung Thu | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 33 | 29 | 26 |  | - | Xã cũ: Sính Phình | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Tả Phìn, Trung Thu | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 26 | 23 | 21 |  | - | Xã cũ: Sính Phình | 26 | 23 | 21 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 21 | 18 | 16 |  | - | Các xã cũ: Tả Phìn, Trung Thu | 21 | 18 | 16 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 21 | 18 | 16 |  | - | Xã cũ: Sính Phình | 21 | 18 | 16 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 20 | 16 | 13 |  | - | Các xã cũ: Tả Phìn, Trung Thu | 20 | 16 | 13 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 33 | 29 | 26 |  | - | Xã cũ: Sính Phình | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Tả Phìn, Trung Thu | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 7 |  | - | Đất rừng sản xuất | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 36 | 33 | 26 |  | - | Xã cũ: Sính Phình | 36 | 33 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 33 | 26 | 23 |  | - | Các xã cũ: Tả Phìn, Trung Thu | 33 | 26 | 23 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 33 | 29 | 26 |  | - | Xã cũ: Sính Phình | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Tả Phìn, Trung Thu | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 22. Xã Tủa Thàng ---
+19. XÃ TỦA THÀNG |  |  |  |  |  | 19. XÃ TỦA THÀNG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Tủa Thàng, Huổi Só | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Tủa Thàng, Huổi Só | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 21 | 18 | 16 |  | - | Các xã cũ: Tủa Thàng, Huổi Só | 21 | 18 | 16 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 20 | 16 | 13 |  | - | Các xã cũ: Tủa Thàng, Huổi Só | 20 | 16 | 13 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Tủa Thàng, Huổi Só | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 7 |  | - | Đất rừng sản xuất | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 33 | 26 | 23 |  | - | Các xã cũ: Tủa Thàng, Huổi Só | 33 | 26 | 23 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Tả Phìn, Tủa Thàng, Trung Thu, Lao Xả Phình, Tả Sìn Thàng, Sín Chải, Huổi Só | 26 | 23 | 20 |  | - | Các xã cũ: Tủa Thàng, Huổi Só | 26 | 23 | 20 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 23. Xã Sáng Nhè ---
+20. XÃ SÁNG NHÈ |  |  |  |  |  | 20. XÃ SÁNG NHÈ
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 39 | 35 | 33 |  | - | Các xã cũ: Mường Đun, Xá Nhè | 39 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 50 |  | - | Xã cũ: Phình Sáng | 55 | 52 | 50
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 33 | 29 | 26 |  | - | Các xã cũ: Mường Đun, Xá Nhè | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 46 | 45 | 42 |  | - | Xã cũ: Phình Sáng | 46 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 26 | 23 | 21 |  | - | Các xã cũ: Mường Đun, Xá Nhè | 26 | 23 | 21 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 40 | 38 | 35 |  | - | Xã cũ: Phình Sáng | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 21 | 18 | 16 |  | - | Các xã cũ: Mường Đun, Xá Nhè | 21 | 18 | 16 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 30 | 28 | 26 |  | - | Xã cũ: Phình Sáng | 30 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 33 | 29 | 26 |  | - | Các xã cũ: Mường Đun, Xá Nhè | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Xã cũ: Phình Sáng | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Huyện Tủa Chùa |  |  |  |  |  | Huyện Tủa Chùa |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất | 8 | 7 | 7 |  | - | Đất rừng sản xuất | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 8 | 7 | 5 |  | 0 | 0 | 0 | #DIV/0!
+ | Huyện Tuần Giáo |  |  |  |  |  | Huyện Tuần Giáo |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 9 | 7 | 7 |  |  | Xã cũ: Phình Sáng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 36 | 33 | 26 |  | - | Các xã cũ: Mường Đun, Xá Nhè | 36 | 33 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 48 |  | - | Xã cũ: Phình Sáng | 55 | 52 | 48 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Mường Báng, Mường Đun, Xá Nhè, Sính Phình | 33 | 29 | 26 |  | - | Các xã cũ: Mường Đun, Xá Nhè | 33 | 29 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Xã cũ: Phình Sáng | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 24. Xã Tuần Giáo ---
+21. XÃ TUẦN GIÁO |  |  |  |  |  | 21. XÃ TUẦN GIÁO
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ)
+- | Thị trấn Tuần Giáo | 70 | 60 | 55 |  | - | Thị trấn Tuần Giáo (cũ) | 70 | 60 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 62 | 58 | 55 |  | - | Các xã cũ: Quài Cang, Quài Nưa | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tuần Giáo | 60 | 55 | 50 |  | - | Thị trấn Tuần Giáo (cũ) | 60 | 55 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 55 | 52 | 50 |  | - | Các xã cũ: Quài Cang, Quài Nưa | 55 | 52 | 50 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tuần Giáo | 50 | 46 | 42 |  | - | Thị trấn Tuần Giáo (cũ) | 50 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 48 | 46 | 42 |  | - | Các xã cũ: Quài Cang, Quài Nưa | 48 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tuần Giáo | 40 | 38 | 35 |  | - | Thị trấn Tuần Giáo (cũ) | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 40 | 38 | 35 |  | - | Các xã cũ: Quài Cang, Quài Nưa | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tuần Giáo | 60 | 58 | 55 |  | - | Thị trấn Tuần Giáo (cũ) | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 60 | 58 | 55 |  | - | Các xã cũ: Quài Cang, Quài Nưa | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Thị trấn Tuần Giáo | 10 | 9 | 9 |  |  | + Thị trấn Tuần Giáo (cũ) | 10 | 9 | 9 |  | 0 | 0 | 0 | #DIV/0!
+ | + Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 9 | 7 | 7 |  |  | + Các xã: Quài Cang, Quài Nưa | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tuần Giáo | 65 | 60 | 55 |  | - | Thị trấn Tuần Giáo (cũ) | 65 | 60 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 62 | 58 | 55 |  | - | Các xã cũ: Quài Cang, Quài Nưa | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Tuần Giáo | 60 | 58 | 55 |  | - | Thị trấn Tuần Giáo (cũ) | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 60 | 58 | 55 |  | - | Các xã cũ: Quài Cang, Quài Nưa | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 25. Xã Qùai Tở ---
+22. XÃ QUÀI TỞ |  |  |  |  |  | 22. XÃ QUÀI TỞ
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ)
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 62 | 58 | 55 |  | - | Xã cũ: Quài Tở | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 50 |  | - | Các xã cũ: Tỏa Tình, Tênh Phông | 55 | 52 | 50 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 55 | 52 | 50 |  | - | Xã cũ: Quài Tở | 55 | 52 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 46 | 45 | 42 |  | - | Các xã cũ: Tỏa Tình, Tênh Phông | 46 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 48 | 46 | 42 |  | - | Xã cũ: Quài Tở | 48 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 40 | 38 | 35 |  | - | Các xã cũ: Tỏa Tình, Tênh Phông | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 40 | 38 | 35 |  | - | Xã cũ: Quài Tở | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 30 | 28 | 26 |  | - | Các xã cũ: Tỏa Tình, Tênh Phông | 30 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 60 | 58 | 55 |  | - | Xã cũ: Quài Tở | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Các xã cũ: Tỏa Tình, Tênh Phông | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 9 | 7 | 7 |  |  | + Xã cũ: Quài Tở | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | + Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 9 | 7 | 7 |  |  | + Các xã cũ: Tỏa Tình, Tênh Phông | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 62 | 58 | 55 |  | - | Xã cũ: Quài Tở | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 48 |  | - | Các xã cũ: Tỏa Tình, Tênh Phông | 55 | 52 | 48 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 60 | 58 | 55 |  | - | Xã cũ: Quài Tở | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Các xã cũ: Tỏa Tình, Tênh Phông | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 26.Xã Mường Mùn ---
+23. XÃ MƯỜNG MÙN |  |  |  |  |  | 23. XÃ MƯỜNG MÙN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 58 | 55 | 50 |  | - | Các xã cũ:  Mùn Chung, Mường Mùn | 58 | 55 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 50 |  | - | Xã cũ: Pú Xi | 55 | 52 | 50 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 50 | 46 | 42 |  | - | Các xã cũ:  Mùn Chung, Mường Mùn | 50 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 46 | 45 | 42 |  | - | Xã cũ: Pú Xi | 46 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 42 | 38 | 35 |  | - | Các xã cũ:  Mùn Chung, Mường Mùn | 42 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 40 | 38 | 35 |  | - | Xã cũ: Pú Xi | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 35 | 30 | 27 |  | - | Các xã cũ:  Mùn Chung, Mường Mùn | 35 | 30 | 27 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 30 | 28 | 26 |  | - | Xã cũ: Pú Xi | 30 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 50 | 45 | 40 |  |  | Các xã cũ:  Mùn Chung, Mường Mùn | 50 | 45 | 40 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Xã cũ: Pú Xi | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 9 | 7 | 7 |  |  | + Các xã cũ: Mùn Chung, Mường Mùn | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | + Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 9 | 7 | 7 |  |  | + Xã cũ: Pú Xi | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 58 | 55 | 50 |  | - | Các xã cũ:  Mùn Chung, Mường Mùn | 58 | 55 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 48 |  | - | Xã cũ: Pú Xi | 55 | 52 | 48 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 50 | 45 | 40 |  | - | Các xã cũ:  Mùn Chung, Mường Mùn | 50 | 45 | 40 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Xã cũ: Pú Xi | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 27.Xã Pú Nhung ---
+25. XÃ PÚ NHUNG |  |  |  |  |  | 25. XÃ PÚ NHUNG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 58 | 55 | 50 |  | - | Các xã cũ: Pú Nhung, Rạng Đông | 58 | 55 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 50 |  | - | Xã cũ: Ta Ma | 55 | 52 | 50 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 50 | 46 | 42 |  | - | Các xã cũ: Pú Nhung, Rạng Đông | 50 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 46 | 45 | 42 |  | - | Xã cũ: Ta Ma | 46 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 42 | 38 | 35 |  | - | Các xã cũ: Pú Nhung, Rạng Đông | 42 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 40 | 38 | 35 |  | - | Xã cũ: Ta Ma | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 35 | 30 | 27 |  | - | Các xã cũ: Pú Nhung, Rạng Đông | 35 | 30 | 27 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 30 | 28 | 26 |  | - | Xã cũ: Ta Ma | 30 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 50 | 45 | 40 |  |  | Các xã cũ: Pú Nhung, Rạng Đông | 50 | 45 | 40 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Xã cũ: Ta Ma | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 9 | 7 | 7 |  |  | + Các xã cũ: Pú Nhung, Rạng Đông | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | + Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 9 | 7 | 7 |  |  | + Xã cũ: Ta Ma | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 58 | 55 | 50 |  | - | Các xã cũ: Pú Nhung, Rạng Đông | 58 | 55 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 48 |  | - | Xã cũ: Ta Ma | 55 | 52 | 48 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Pú Nhung, Rạng Đông, Mùn Chung, Nà Tòng, Mường Mùn | 50 | 45 | 40 |  | - | Các xã cũ: Pú Nhung, Rạng Đông | 50 | 45 | 40 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Xã cũ: Ta Ma | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 28. Xã Chiềng Sinh  ---
+25. XÃ CHIỀNG SINH |  |  |  |  |  | 25. XÃ CHIỀNG SINH
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 62 | 58 | 55 |  | - | Xã cũ: Chiềng Sinh | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 50 |  | - | Các xã cũ: Nà Sáy, Mường Khong, Mường Thín | 55 | 52 | 50 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 55 | 52 | 50 |  | - | Xã cũ: Chiềng Sinh | 55 | 52 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 46 | 45 | 42 |  | - | Các xã cũ: Nà Sáy, Mường Khong, Mường Thín | 46 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 48 | 46 | 42 |  | - | Xã cũ: Chiềng Sinh | 48 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 40 | 38 | 35 |  | - | Các xã cũ: Nà Sáy, Mường Khong, Mường Thín | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 40 | 38 | 35 |  | - | Xã cũ: Chiềng Sinh | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 30 | 28 | 26 |  | - | Các xã cũ: Nà Sáy, Mường Khong, Mường Thín | 30 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 60 | 58 | 55 |  | - | Xã cũ: Chiềng Sinh | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Các xã cũ: Nà Sáy, Mường Khong, Mường Thín | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 9 | 7 | 7 |  |  | + Xã cũ: Chiềng Sinh | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | + Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 9 | 7 | 7 |  |  | + Các xã cũ:Nà Sáy, Mường Khong, Mường Thín | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 62 | 58 | 55 |  | - | Xã cũ: Chiềng Sinh | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 55 | 52 | 48 |  | - | Các xã cũ: Nà Sáy, Mường Khong, Mường Thín | 55 | 52 | 48 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 60 | 58 | 55 |  | - | Xã cũ: Chiềng Sinh | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Ta Ma, Phình Sáng, Nà Sáy, Mường Khong, Mường Thín, Tỏa Tình, Tênh Phông, Pú Xi | 47 | 42 | 40 |  | - | Các xã cũ: Nà Sáy, Mường Khong, Mường Thín | 47 | 42 | 40 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 29. Xã Mường Ảng ---
+26. XÃ MƯỜNG ẢNG |  |  |  |  |  | 26. XÃ MƯỜNG ẢNG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Ảng | 43 | 39 | 36 |  | - | Thị trấn Mường Ảng (cũ) | 43 | 39 | 36 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 40 | 37 | 35 |  | - | Các xã cũ: Ẳng Cang, Ẳng Nưa | 40 | 37 | 35 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Ảng | 33 | 31 | 30 |  | - | Thị trấn Mường Ảng (cũ) | 33 | 31 | 30 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 29 | 28 | 25 |  | - | Các xã cũ: Ẳng Cang, Ẳng Nưa | 29 | 28 | 25 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Ảng | 34 | 32 | 31 |  | - | Thị trấn Mường Ảng (cũ) | 34 | 32 | 31 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 31 | 27 | 25 |  | - | Các xã cũ: Ẳng Cang, Ẳng Nưa | 31 | 27 | 25 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Ảng | 21 | 17 | 15 |  | - | Thị trấn Mường Ảng (cũ) | 21 | 17 | 15 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 19 | 16 | 15 |  | - | Các xã cũ: Ẳng Cang, Ẳng Nưa | 19 | 16 | 15 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Ảng | 41 | 38 | 36 |  | - | Thị trấn Mường Ảng (cũ) | 41 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 36 | 34 | 32 |  | - | Các xã cũ: Ẳng Cang, Ẳng Nưa | 36 | 34 | 32 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất: |  |  |  |  | - | Đất rừng sản xuất: |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Thị trấn Mường Ảng | 8 | 7 | 7 |  |  | + Thị trấn Mường Ảng (cũ) | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | + Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở, Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 8 | 7 | 6 |  |  | + Các xã cũ: Ẳng Cang, Ẳng Nưa | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Ảng | 42 | 36 | 31 |  | - | Thị trấn Mường Ảng (cũ) | 42 | 36 | 31 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 36 | 31 | 26 |  | - | Các xã cũ: Ẳng Cang, Ẳng Nưa | 36 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị trấn Mường Ảng | 41 | 38 | 36 |  | - | Thị trấn Mường Ảng (cũ) | 41 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 36 | 34 | 32 |  | - | Các xã cũ: Ẳng Cang, Ẳng Nưa | 36 | 34 | 32 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 30. Xã Nà Tấu ---
+27. XÃ NÀ TẤU |  |  |  |  |  | 27. XÃ NÀ TẤU
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 70 | 65 | 58 |  | - | Xã Nà Tấu (cũ) | 70 | 65 | 58 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 34 | 31 | 28 |  | - | Các xã cũ: Ngối Cáy, Mường Đăng | 34 | 31 | 28 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 55 | 52 | 47 |  | - | Xã Nà Tấu (cũ) | 55 | 52 | 47 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 26 | 24 | 22 |  | - | Các xã cũ: Ngối Cáy, Mường Đăng | 26 | 24 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 50 | 47 | 43 |  | - | Xã Nà Tấu (cũ) | 50 | 47 | 43 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 25 | 22 | 20 |  | - | Các xã cũ: Ngối Cáy, Mường Đăng | 25 | 22 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 40 | 37 | 35 |  | - | Xã Nà Tấu (cũ) | 40 | 37 | 35 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 19 | 15 | 13 |  | - | Các xã cũ: Ngối Cáy, Mường Đăng | 19 | 15 | 13 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 58 | 54 | 50 |  | - | Xã Nà Tấu (cũ) | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 32 | 28 | 26 |  | - | Các xã cũ: Ngối Cáy, Mường Đăng | 32 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 8 | 7 | 7 |  | - | Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng các xã: Nà Tấu (cũ) | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở, Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 8 | 7 | 6 |  |  | Các xã cũ: Ngối Cáy, Mường Đăng | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 57 | 54 | 50 |  | - | Xã Nà Tấu (cũ) | 57 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 31 | 31 | 26 |  | - | Các xã cũ: Ngối Cáy, Mường Đăng | 31 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 58 | 54 | 50 |  | - | Xã Nà Tấu (cũ) | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 32 | 28 | 26 |  | - | Các xã cũ: Ngối Cáy, Mường Đăng | 32 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 31. Xã Búng Lao ---
+28. XÃ BÚNG LAO |  |  |  |  |  | 28. XÃ BÚNG LAO
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 40 | 37 | 35 |  | - | Các xã cũ: Búng Lao, Ẳng Tở | 40 | 37 | 35 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 62 | 58 | 55 |  | - | Xã cũ: Chiềng Đông | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 29 | 28 | 25 |  | - | Các xã cũ: Búng Lao, Ẳng Tở | 29 | 28 | 25 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 55 | 52 | 50 |  | - | Xã cũ: Chiềng Đông | 55 | 52 | 50 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 31 | 27 | 25 |  | - | Các xã cũ: Búng Lao, Ẳng Tở | 31 | 27 | 25 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 48 | 46 | 42 |  | - | Xã cũ: Chiềng Đông | 48 | 46 | 42 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 19 | 16 | 15 |  | - | Các xã cũ: Búng Lao, Ẳng Tở | 19 | 16 | 15 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 40 | 38 | 35 |  | - | Xã cũ: Chiềng Đông | 40 | 38 | 35 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 36 | 34 | 32 |  | - | Các xã cũ: Búng Lao, Ẳng Tở | 36 | 34 | 32 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 60 | 58 | 55 |  | - | Xã cũ: Chiềng Đông | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Huyện Mường Ảng |  |  |  |  | - | Huyện Mường Ảng (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất: |  |  |  |  | - | Đất rừng sản xuất: |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở, Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 8 | 7 | 6 |  |  | Các xã cũ: Búng Lao, Ẳng Tở | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Huyện Tuần Giáo |  |  |  |  | - | Huyện Tuần Giáo (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất |  |  |  |  | - | Đất rừng sản xuất |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 9 | 7 | 7 |  |  | + Xã cũ: Chiềng Đông | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 9 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Huyện Mường Ảng |  |  |  |  | - | Huyện Mường Ảng (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 36 | 31 | 26 |  | - | Các xã cũ: Búng Lao, Ẳng Tở | 36 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Huyện Tuần Giáo |  |  |  |  | - | Huyện Tuần Giáo (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 62 | 58 | 55 |  | - | + Xã cũ: Chiềng Đông | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Huyện Mường Ảng |  |  |  |  | - | Huyện Mường Ảng (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở | 36 | 34 | 32 |  | - | Các xã cũ: Búng Lao, Ẳng Tở | 36 | 34 | 32 |  | 0 | 0 | 0 | #DIV/0!
+- | Huyện Tuần Giáo |  |  |  |  | - | Huyện Tuần Giáo (cũ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Quài Cang, Quài Nưa, Quài Tở, Chiềng Sinh, Chiềng Đông | 60 | 58 | 55 |  | - | + Xã cũ: Chiềng Đông | 60 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 32. Xã Mường Lạn ---
+29. XÃ MƯỜNG LẠN |  |  |  |  |  | 29. XÃ MƯỜNG LẠN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 34 | 31 | 28 |  | - | Các xã cũ: Xuân Lao, Mường Lạn, Nặm Lịch | 34 | 31 | 28 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 26 | 24 | 22 |  | - | Các xã cũ: Xuân Lao, Mường Lạn, Nặm Lịch | 26 | 24 | 22 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 25 | 22 | 20 |  | - | Các xã cũ: Xuân Lao, Mường Lạn, Nặm Lịch | 25 | 22 | 20 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 19 | 15 | 13 |  | - | Các xã cũ: Xuân Lao, Mường Lạn, Nặm Lịch | 19 | 15 | 13 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 32 | 28 | 26 |  | - | Các xã cũ: Xuân Lao, Mường Lạn, Nặm Lịch | 32 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất: |  |  |  |  | - | Đất rừng sản xuất: |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | + Các xã: Búng Lao, Ẳng Cang, Ẳng Nưa, Ẳng Tở, Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 8 | 7 | 6 |  |  | + Các xã cũ: Ẳng Tở, Xuân Lao, Mường Lạn | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+- | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | - | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 31 | 31 | 26 |  | - | Các xã (cũ): Xuân Lao, Mường Lạn, Nặm Lịch | 31 | 31 | 26 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Xuân Lao, Mường Lạn, Nặm Lịch, Ngối Cáy, Mường Đăng | 32 | 28 | 26 |  | - | Các xã cũ: Xuân Lao, Mường Lạn, Nặm Lịch | 32 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 33. Xã Mường Phăng ---
+30. XÃ MƯỜNG PHĂNG |  |  |  |  |  | 30. XÃ MƯỜNG PHĂNG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 70 | 65 | 58 |  | - | Các xã cũ: Nà Nhạn, Mường Phăng, Pá Khoang | 70 | 65 | 58 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 55 | 52 | 47 |  | - | Các xã cũ: Nà Nhạn, Mường Phăng, Pá Khoang | 55 | 52 | 47 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 50 | 47 | 43 |  | - | Các xã cũ: Nà Nhạn, Mường Phăng, Pá Khoang | 50 | 47 | 43 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 40 | 37 | 35 |  | - | Các xã cũ: Nà Nhạn, Mường Phăng, Pá Khoang | 40 | 37 | 35 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 58 | 54 | 50 |  | - | Các xã cũ: Nà Nhạn, Mường Phăng, Pá Khoang | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 8 | 7 | 7 |  | - | Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng các xã cũ: Nà Nhạn, Mường Phăng, Pá Khoang | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 57 | 54 | 50 |  | - | Các xã cũ: Nà Nhạn, Mường Phăng, Pá Khoang | 57 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Nà Tấu, Nà Nhạn, Mường Phăng, Pá Khoang | 58 | 54 | 50 |  | - | Các xã cũ: Nà Nhạn, Mường Phăng, Pá Khoang | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 34. Xã Thanh Nưa ---
+31. XÃ THANH NƯA |  |  |  |  |  | 31. XÃ THANH NƯA
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 80 | 75 | 68 |  | - | Các xã cũ vùng lòng chảo: Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 80 | 75 | 68 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | - | Các xã cũ vùng lòng chảo: Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 60 | 55 | 52 |  | - | Các xã cũ vùng lòng chảo: Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 60 | 55 | 52 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 47 | 45 | 42 |  | - | Các xã cũ vùng lòng chảo: Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 47 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | - | Các xã cũ vùng lòng chảo: Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  |  | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 9 | 8 | 8 |  | - | Các xã cũ vùng lòng chảo: Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 9 | 8 | 8 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | - | Các xã cũ vùng lòng chảo: Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | - | Các xã cũ vùng lòng chảo: Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 35. Xã Thanh An ---
+32. XÃ THANH AN |  |  |  |  |  | 32. XÃ THANH AN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 80 | 75 | 68 |  | - | Các xã cũ vùng lòng chảo: Thanh An, Noong Hẹt, Sam Mứn | 80 | 75 | 68 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | - | Các xã cũ vùng lòng chảo: Thanh An, Noong Hẹt, Sam Mứn | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 60 | 55 | 52 |  | - | Các xã cũ vùng lòng chảo: Thanh An, Noong Hẹt, Sam Mứn | 60 | 55 | 52 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 47 | 45 | 42 |  | - | Các xã cũ vùng lòng chảo: Thanh An, Noong Hẹt, Sam Mứn | 47 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | - | Các xã cũ vùng lòng chảo: Thanh An, Noong Hẹt, Sam Mứn | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  |  | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 9 | 8 | 8 |  | - | Các xã cũ vùng lòng chảo: Thanh An, Noong Hẹt, Sam Mứn | 9 | 8 | 8 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | - | Các xã cũ vùng lòng chảo: Thanh An, Noong Hẹt, Sam Mứn | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | - | Các xã cũ vùng lòng chảo: Thanh An, Noong Hẹt, Sam Mứn | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 36. Xã Thanh Yên ---
+33. XÃ THANH YÊN |  |  |  |  |  | 33. XÃ THANH YÊN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 80 | 75 | 68 |  | - | Các xã cũ vùng lòng chảo: Noong Luống, Thanh Yên | 80 | 75 | 68 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 70 | 65 | 58 |  | - | Các xã cũ vùng ngoài: Pa Thơm | 70 | 65 | 58 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | - | Các xã cũ vùng lòng chảo: Noong Luống, Thanh Yên | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 55 | 52 | 47 |  | - | Các xã cũ vùng ngoài: Pa Thơm | 55 | 52 | 47 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 60 | 55 | 52 |  | - | Các xã cũ vùng lòng chảo: Noong Luống, Thanh Yên | 60 | 55 | 52 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 50 | 47 | 43 |  | - | Các xã cũ vùng ngoài: Pa Thơm | 50 | 47 | 43 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 47 | 45 | 42 |  | - | Các xã cũ vùng lòng chảo: Noong Luống, Thanh Yên | 47 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 40 | 37 | 35 |  | - | Các xã cũ vùng ngoài: Pa Thơm | 40 | 37 | 35 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | - | Các xã cũ vùng lòng chảo: Noong Luống, Thanh Yên | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 58 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Pa Thơm | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  |  | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 9 | 8 | 8 |  | - | Các xã cũ vùng lòng chảo: Noong Luống, Thanh Yên | 9 | 8 | 8 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 8 | 7 | 7 |  | - | Các xã cũ vùng ngoài: Pa Thơm | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | - | Các xã cũ vùng lòng chảo: Noong Luống, Thanh Yên | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 57 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Pa Thơm | 57 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | - | Các xã cũ vùng lòng chảo: Noong Luống, Thanh Yên | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 58 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Pa Thơm | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 37. Xã Sam Mứn ---
+34. XÃ SAM MỨN |  |  |  |  |  | 34. XÃ SAM MỨN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 80 | 75 | 68 |  | - | Các xã cũ vùng lòng chảo: Pom Lót | 80 | 75 | 68 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 70 | 65 | 58 |  | - | Các xã cũ vùng ngoài: Na Ư | 70 | 65 | 58 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | - | Các xã cũ vùng lòng chảo: Pom Lót | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 55 | 52 | 47 |  | - | Các xã cũ vùng ngoài: Na Ư | 55 | 52 | 47 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 60 | 55 | 52 |  | - | Các xã cũ vùng lòng chảo: Pom Lót | 60 | 55 | 52 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 50 | 47 | 43 |  | - | Các xã cũ vùng ngoài: Na Ư | 50 | 47 | 43 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 47 | 45 | 42 |  | - | Các xã cũ vùng lòng chảo: Pom Lót | 47 | 45 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 40 | 37 | 35 |  | - | Các xã cũ vùng ngoài: Na Ư | 40 | 37 | 35 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | - | Các xã cũ vùng lòng chảo: Pom Lót | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 58 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Na Ư | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  |  | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 9 | 8 | 8 |  | - | Các xã cũ vùng lòng chảo: Pom Lót | 9 | 8 | 8 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 8 | 7 | 7 |  | - | Các xã cũ vùng ngoài: Na Ư | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 62 | 58 | 55 |  | - | Các xã cũ vùng lòng chảo: Pom Lót | 62 | 58 | 55 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 57 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Na Ư | 57 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng lòng chảo: Thanh Xương, Thanh An, Noong Hẹt, Pom Lót, Sam Mứn, Noong Luống, Thanh Yên, Thanh Chăn, Thanh Hưng, Thanh Luông, Thanh Nưa, Hua Thanh | 70 | 66 | 60 |  | - | Các xã cũ vùng lòng chảo: Pom Lót | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 58 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Na Ư | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 38. Xã Núa Ngam ---
+35. XÃ NÚA NGAM |  |  |  |  |  | 35. XÃ NÚA NGAM
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 70 | 65 | 58 |  | - | Các xã cũ vùng ngoài: Núa Ngam, Hẹ Muông, Na Tông | 70 | 65 | 58 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 55 | 52 | 47 |  | - | Các xã cũ vùng ngoài: Núa Ngam, Hẹ Muông, Na Tông | 55 | 52 | 47 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 50 | 47 | 43 |  | - | Các xã cũ vùng ngoài: Núa Ngam, Hẹ Muông, Na Tông | 50 | 47 | 43 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 40 | 37 | 35 |  | - | Các xã cũ vùng ngoài: Núa Ngam, Hẹ Muông, Na Tông | 40 | 37 | 35 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 58 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Núa Ngam, Hẹ Muông, Na Tông | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  |  | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 8 | 7 | 7 |  | - | Các xã cũ vùng ngoài: Núa Ngam, Hẹ Muông, Na Tông | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 57 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Núa Ngam, Hẹ Muông, Na Tông | 57 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 58 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Núa Ngam, Hẹ Muông, Na Tông | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 39. Xã Mường Nhà ---
+36. XÃ MƯỜNG NHÀ |  |  |  |  |  | 36. XÃ MƯỜNG NHÀ
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+ | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 70 | 65 | 58 |  | - | Các xã cũ vùng ngoài: Mường Nhà, Phu Luông, Mường Lói | 70 | 65 | 58 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 55 | 52 | 47 |  | - | Các xã cũ vùng ngoài: Mường Nhà, Phu Luông, Mường Lói | 55 | 52 | 47 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 50 | 47 | 43 |  | - | Các xã cũ vùng ngoài: Mường Nhà, Phu Luông, Mường Lói | 50 | 47 | 43 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+ | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 70 | 66 | 60 |  | - | Các xã cũ vùng ngoài: Mường Nhà, Phu Luông, Mường Lói | 70 | 66 | 60 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  |  | Bảng 3: Đất lâm nghiệp (Đất rừng sản xuất; Đất rừng phòng hộ, rừng đặc dụng) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 8 | 7 | 7 |  | - | Các xã cũ vùng ngoài: Mường Nhà, Phu Luông, Mường Lói | 8 | 7 | 7 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 57 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Mường Nhà, Phu Luông, Mường Lói | 57 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+ | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã vùng ngoài: Mường Pồn, Pa Thơm, Na Ư, Núa Ngam, Hẹ Muông, Mường Nhà, Na Tông, Phu Luông, Mường Lói | 58 | 54 | 50 |  | - | Các xã cũ vùng ngoài: Mường Nhà, Phu Luông, Mường Lói | 58 | 54 | 50 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 40. Xã Na Son ---
+37. XÃ NA SON |  |  |  |  |  | 37. XÃ NA SON
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 58 | 56 | 54 |  | - | Thị Trấn Điện Biên Đông (cũ) | 58 | 56 | 54 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 55 | 53 | 51 |  | - | Các xã cũ: Keo Lôm, Na Son | 55 | 53 | 51 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 45 | 42 | 39 |  | - | Thị Trấn Điện Biên Đông (cũ) | 45 | 42 | 39 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 43 | 40 | 38 |  | - | Các xã cũ: Keo Lôm, Na Son | 43 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 42 | 40 | 38 |  | - | Thị Trấn Điện Biên Đông (cũ) | 42 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 40 | 38 | 36 |  | - | Các xã cũ: Keo Lôm, Na Son | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 32 | 30 | 28 |  | - | Thị Trấn Điện Biên Đông (cũ) | 32 | 30 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 30 | 28 | 26 |  | - | Các xã cũ: Keo Lôm, Na Son | 30 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 48 | 45 | 43 |  | - | Thị Trấn Điện Biên Đông (cũ) | 48 | 45 | 43 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 46 | 44 | 42 |  | - | Các xã cũ: Keo Lôm, Na Son | 46 | 44 | 42 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 45 | 43 | 40 |  | - | Thị Trấn Điện Biên Đông (cũ) | 45 | 43 | 40 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 43 | 41 | 38 |  | - | Các xã cũ: Keo Lôm, Na Son | 43 | 41 | 38 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 48 | 45 | 43 |  | - | Thị Trấn Điện Biên Đông (cũ) | 48 | 45 | 43 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 46 | 44 | 42 |  | - | Các xã cũ: Keo Lôm, Na Son | 46 | 44 | 42 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 41. Xã Xa Dung ---
+38. XÃ XA DUNG |  |  |  |  |  | 38. XÃ XA DUNG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 55 | 53 | 51 |  | - | Các xã cũ:  Phì Nhừ | 55 | 53 | 51 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 50 | 48 | 46 |  | - | Các xã cũ:  Xa Dung | 50 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 43 | 40 | 38 |  | - | Các xã cũ:  Phì Nhừ | 43 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 40 | 38 | 36 |  | - | Các xã cũ:  Xa Dung | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 40 | 38 | 36 |  | - | Các xã cũ:  Phì Nhừ | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 38 | 35 | 33 |  | - | Các xã cũ:  Xa Dung | 38 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 30 | 28 | 26 |  | - | Các xã cũ:  Phì Nhừ | 30 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 28 | 26 | 24 |  | - | Các xã cũ:  Xa Dung | 28 | 26 | 24 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 46 | 44 | 42 |  | - | Các xã cũ:  Phì Nhừ | 46 | 44 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 43 | 40 | 38 |  | - | Các xã cũ:  Xa Dung | 43 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 43 | 41 | 38 |  | - | Các xã cũ:  Phì Nhừ | 43 | 41 | 38 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 40 | 38 | 36 |  | - | Các xã cũ:  Xa Dung | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 46 | 44 | 42 |  | - | Các xã cũ:  Phì Nhừ | 46 | 44 | 42 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 43 | 40 | 38 |  | - | Các xã cũ:  Xa Dung | 43 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 42. Xã Pu Nhi ---
+39. XÃ PU NHI |  |  |  |  |  | 39. XÃ PU NHI
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 58 | 56 | 54 |  | - | Các xã cũ: Pu Nhi, Nong U | 58 | 56 | 54 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 45 | 42 | 39 |  | - | Các xã cũ: Pu Nhi, Nong U | 45 | 42 | 39 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 42 | 40 | 38 |  | - | Các xã cũ: Pu Nhi, Nong U | 42 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 32 | 30 | 28 |  | - | Các xã cũ: Pu Nhi, Nong U | 32 | 30 | 28 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 48 | 45 | 43 |  | - | Các xã cũ: Pu Nhi, Nong U | 48 | 45 | 43 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 45 | 43 | 40 |  | - | Các xã cũ: Pu Nhi, Nong U | 45 | 43 | 40 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 48 | 45 | 43 |  | - | Các xã cũ: Pu Nhi, Nong U | 48 | 45 | 43 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 43. Xã Mường Luân ---
+40. XÃ MƯỜNG LUÂN |  |  |  |  |  | 40. XÃ MƯỜNG LUÂN
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 58 | 56 | 54 |  | - | Xã Mường Luân (cũ) | 58 | 56 | 54 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 55 | 53 | 51 |  | - | Các xã cũ:  Chiềng Sơ, Luân Giói | 55 | 53 | 51 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 45 | 42 | 39 |  | - | Xã Mường Luân (cũ) | 45 | 42 | 39 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 43 | 40 | 38 |  | - | Các xã cũ:  Chiềng Sơ, Luân Giói | 43 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 42 | 40 | 38 |  | - | Xã Mường Luân (cũ) | 42 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 40 | 38 | 36 |  | - | Các xã cũ:  Chiềng Sơ, Luân Giói | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 32 | 30 | 28 |  | - | Xã Mường Luân (cũ) | 32 | 30 | 28 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 30 | 28 | 26 |  | - | Các xã cũ:  Chiềng Sơ, Luân Giói | 30 | 28 | 26 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 48 | 45 | 43 |  | - | Xã Mường Luân (cũ) | 48 | 45 | 43 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 46 | 44 | 42 |  | - | Các xã cũ:  Chiềng Sơ, Luân Giói | 46 | 44 | 42 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 45 | 43 | 40 |  | - | Xã Mường Luân (cũ) | 45 | 43 | 40 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 43 | 41 | 38 |  | - | Các xã cũ:  Chiềng Sơ, Luân Giói | 43 | 41 | 38 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Thị Trấn, Mường Luân, Pu Nhi, Nong U | 48 | 45 | 43 |  | - | Xã Mường Luân (cũ) | 48 | 45 | 43 |  | 0 | 0 | 0 | #DIV/0!
+- | Các xã: Keo Lôm, Na Son, Phì Nhừ, Chiềng Sơ, Luân Giói | 46 | 44 | 42 |  | - | Các xã cũ:  Chiềng Sơ, Luân Giói | 46 | 44 | 42 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 44. Xã Tìa Đình ---
+41. XÃ TÌA DÌNH |  |  |  |  |  | 41. XÃ TÌA DÌNH
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 50 | 48 | 46 |  | - | Các xã (cũ): Háng Lìa, Tìa Dình | 50 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 40 | 38 | 36 |  | - | Các xã (cũ): Háng Lìa, Tìa Dình | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 38 | 35 | 33 |  | - | Các xã (cũ): Háng Lìa, Tìa Dình | 38 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 28 | 26 | 24 |  | - | Các xã (cũ): Háng Lìa, Tìa Dình | 28 | 26 | 24 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 43 | 40 | 38 |  | - | Các xã (cũ): Háng Lìa, Tìa Dình | 43 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 40 | 38 | 36 |  | - | Các xã (cũ): Háng Lìa, Tìa Dình | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 43 | 40 | 38 |  | - | Các xã (cũ): Háng Lìa, Tìa Dình | 43 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+
+--- SHEET: 45. Xã Phình Giàng ---
+42. XÃ PHÌNH GIANG |  |  |  |  |  | 42. XÃ PHÌNH GIANG
+ |  |  |  |  |  |  |  | Đơn vị tính: 1.000 đồng/m²
+STT | Tên đường, đoạn đường | Giá đất |  |  |  | STT | Tên đường, đoạn đường | Giá đất |  |  |  | So sánh tăng giảm (+,-,%)
+STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | STT | Tên đường, đoạn đường | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4 | Vị trí 1 | Vị trí 2 | Vị trí 3 | Vị trí 4
+Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | Bảng 1: Đất trồng cây hàng năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | 1 | Đất chuyên trồng lúa nước (lúa 2 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 50 | 48 | 46 |  | - | Các xã cũ: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 50 | 48 | 46 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | 2 | Đất trồng lúa nước còn lại (lúa 1 vụ) |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 40 | 38 | 36 |  | - | Các xã cũ: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | 3 | Đất bằng trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 38 | 35 | 33 |  | - | Các xã cũ: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 38 | 35 | 33 |  | 0 | 0 | 0 | #DIV/0!
+4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | 4 | Đất nương rẫy trồng cây hàng năm khác |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 28 | 26 | 24 |  | - | Các xã cũ: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 28 | 26 | 24 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | Bảng 2: Đất trồng cây lâu năm |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 43 | 40 | 38 |  | - | Các xã cũ: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 43 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 3: Đất lâm nghiệp |  |  |  |  |  | Bảng 3: Đất lâm nghiệp |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 1 | Đất rừng sản xuất | 8 | 7 | 6 |  | 0 | 0 | 0 | #DIV/0!
+2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 2 | Đất rừng phòng hộ, rừng đặc dụng | 7 | 6 | 6 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | Bảng 4: Đất nuôi trồng thủy sản |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 40 | 38 | 36 |  | - | Các xã cũ: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 40 | 38 | 36 |  | 0 | 0 | 0 | #DIV/0!
+Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | Bảng 5: Đất chăn nuôi tập trung |  |  |  |  |  | #DIV/0! | #DIV/0! | #DIV/0! | #DIV/0!
+- | Các xã: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 43 | 40 | 38 |  | - | Các xã cũ: Háng Lìa, Phình Giàng, Xa Dung, Pú Hồng, Tìa Dình | 43 | 40 | 38 |  | 0 | 0 | 0 | #DIV/0!

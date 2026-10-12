@@ -1,0 +1,304 @@
+NGUON FILE: Lang Son/32. Xã Hội Hoan.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+32. Xã Hội Hoan
+BẢNG 32.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ HỘI HOAN
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Cụm chợ xã Hội Hoan
+Từ Km21+800 đường Tỉnh
+231
+Ngầm Cốc Lầy, đến ngã ba
+Pác Chào và khu vực bám
+mặt chợ
+480
+288
+2
+Đường Hội Hoan - Nam La
+Ngầm Cốc Lầy (Thôn Háng
+Van)
+Ngầm Cốc Lìu (Thôn Bản
+Van)
+400
+240
+3
+Đường Tỉnh 231
+3.1
+Đoạn 1
+Nhà Văn hóa thôn Bản Cáp
+Km 14+700
+400
+240
+3.2
+Đoạn 2
+Ngã ba Pác Chào
+Nhà trực vận hành điện
++150m
+400
+240
+4
+Đường Tỉnh 233
+Ngã ba giao với đường Tỉnh
+231
+Đường rẻ Trường Mầm non
+Gia Miễn
+400
+240
+5
+Đường Khu dân cư thôn Bản
+Kìa
+Từ ngã 3 Pác Chào
+Cổng chào thôn Bản Kìa
+380
+228
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Bản Cáp, thôn Bình Lập, thôn Pò Mánh, thôn Quảng
+Sơn, thôn Cóc Nhảng, thôn Cương Quyết, thôn Quảng
+Lộng, thôn Phai Nà, thôn Tác Chiến, thôn Bình Độ, thôn
+Hòa Lạc, thôn Nặm Hép, thôn Đồng Tâm, thôn Bản Van,
+thôn Bình Dân, thôn Háng Van, thôn Bản Kìa, thôn Bản
+Miằng, thôn Bản Bẻng, thôn Phiêng Liệt, thôn Co Tào,
+thôn Khuổi Toọc, thôn Cốc Lào
+170
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+32. Xã Hội Hoan
+BẢNG 32.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI, DỊCH VỤ XÃ HỘI HOAN
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Cụm chợ xã Hội Hoan
+Từ Km21+800 đường Tỉnh
+231
+Ngầm Cốc Lầy, đến ngã ba
+Pác Chào và khu vực bám
+mặt chợ
+384
+230,4
+2
+Đường Hội Hoan - Nam La
+Ngầm Cốc Lầy (Thôn Háng
+Van)
+Ngầm Cốc Lìu (Thôn Bản
+Van)
+320
+192
+3
+Đường Tỉnh 231
+3.1
+Đoạn 1
+Nhà Văn hóa thôn Bản Cáp
+Km 14+700
+320
+192
+3.2
+Đoạn 2
+Ngã ba Pác Chào
+Nhà trực vận hành điện
++150m
+320
+192
+4
+Đường Tỉnh 233
+Ngã ba giao với đường Tỉnh
+231
+Đường rẻ Trường Mầm non
+Gia Miễn
+320
+192
+5
+Đường Khu dân cư thôn Bản
+Kìa
+Từ ngã 3 Pác Chào
+Cổng chào thôn Bản Kìa
+304
+182,4
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Bản Cáp, thôn Bình Lập, thôn Pò Mánh, thôn Quảng
+Sơn, thôn Cóc Nhảng, thôn Cương Quyết, thôn Quảng
+Lộng, thôn Phai Nà, thôn Tác Chiến, thôn Bình Độ, thôn
+Hòa Lạc, thôn Nặm Hép, thôn Đồng Tâm, thôn Bản Van,
+thôn Bình Dân, thôn Háng Van, thôn Bản Kìa, thôn Bản
+Miằng, thôn Bản Bẻng, thôn Phiêng Liệt, thôn Co Tào,
+thôn Khuổi Toọc, thôn Cốc Lào
+136
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+32. Xã Hội Hoan
+BẢNG 32.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN XÃ HỘI HOAN
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Cụm chợ xã Hội Hoan
+Từ Km21+800 đường Tỉnh
+231
+Ngầm Cốc Lầy, đến ngã ba
+Pác Chào và khu vực bám
+mặt chợ
+336
+201,6
+2
+Đường Hội Hoan - Nam La
+Ngầm Cốc Lầy (Thôn Háng
+Van)
+Ngầm Cốc Lìu (Thôn Bản
+Van)
+280
+168
+3
+Đường Tỉnh 231
+3.1
+Đoạn 1
+Nhà Văn hóa thôn Bản Cáp
+Km 14+700
+280
+168
+3.2
+Đoạn 2
+Ngã ba Pác Chào
+Nhà trực vận hành điện
++150m
+280
+168
+4
+Đường Tỉnh 233
+Ngã ba giao với đường Tỉnh
+231
+Đường rẻ Trường Mầm non
+Gia Miễn
+280
+168
+5
+Đường Khu dân cư thôn Bản
+Kìa
+Từ ngã 3 Pác Chào
+Cổng chào thôn Bản Kìa
+266
+159,6
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Bản Cáp, thôn Bình Lập, thôn Pò Mánh, thôn Quảng
+Sơn, thôn Cóc Nhảng, thôn Cương Quyết, thôn Quảng
+Lộng, thôn Phai Nà, thôn Tác Chiến, thôn Bình Độ, thôn
+Hòa Lạc, thôn Nặm Hép, thôn Đồng Tâm, thôn Bản Van,
+thôn Bình Dân, thôn Háng Van, thôn Bản Kìa, thôn Bản
+Miằng, thôn Bản Bẻng, thôn Phiêng Liệt, thôn Co Tào,
+thôn Khuổi Toọc, thôn Cốc Lào
+119
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+32. Xã Hội Hoan
+BẢNG 32.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ HỘI HOAN
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Hội Hoan
+52
+47
+41
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Hội Hoan
+45
+40
+34
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Hội Hoan
+42
+37
+33
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Hội Hoan
+36
+34
+32
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Hội Hoan
+6
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

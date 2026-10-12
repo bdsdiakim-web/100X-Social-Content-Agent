@@ -1,0 +1,4412 @@
+NGUON FILE: Lang Son/65. Phường Đông Kinh.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+65. Phường Đông Kinh
+BẢNG 65.1: BẢNG GIÁ ĐẤT Ở TẠI ĐÔ THỊ PHƯỜNG ĐÔNG KINH
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m2
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Trần Đăng Ninh, đoạn 1
+(Địa phận phường Đông Kinh)
+Phía Bắc Cầu Kỳ Cùng
+Đường Tam Thanh
+58.800
+35.280
+23.520
+11.760
+2
+Đường Lê Lợi, đoạn 1
+Đường Trần Đăng Ninh
+Đường Bắc Sơn
+58.800
+35.280
+23.520
+11.760
+3
+Đường Lê Lợi, đoạn 2
+Đường Bắc Sơn
+Đường Chu Văn An
+45.500
+27.300
+18.200
+9.100
+4
+Đường Lê Lợi, đoạn 3
+Đường Chu Văn An
+Đường Lý Thường Kiệt
+41.200
+24.720
+16.480
+8.240
+5
+Đường Lê Lợi, đoạn 4
+Đường Lý Thường Kiệt
+Ga Lạng Sơn
+28.000
+16.800
+11.200
+5.600
+6
+Đường Lý Thường Kiệt
+Đường Lê Lợi
+Đường Hoàng Quốc Việt
+51.200
+30.720
+20.480
+10.240
+7
+Đường 17 tháng 10
+Bắc đầu cầu Kỳ Cùng, Trần
+Đăng Ninh
+Ngã ba Lê Lợi, Nguyễn Du
+47.600
+28.560
+19.040
+9.520
+8
+Đường Bắc Sơn, đoạn 1
+Đường Lê Lợi
+Cầu chợ Giếng Vuông
+41.400
+24.840
+16.560
+8.280
+9
+Đường Bà Triệu, đoạn 3
+Phía Nam Cầu Lao Ly 2
+(Phường Đông Kinh)
+Đường Ngô Gia Tự
+43.600
+26.160
+17.440
+8.720
+10
+Đường Bà Triệu, đoạn 4
+Đường Ngô Gia Tự
+Đường Lý Thái Tổ
+34.700
+20.820
+13.880
+6.940
+11
+Đường Bà Triệu, đoạn 5
+Đường Lý Thái Tổ
+Đường Nguyễn Đình Chiểu
+26.100
+15.660
+10.440
+5.220
+12
+Đường Bà Triệu, đoạn 6
+Đường Nguyễn Đình Chiểu
+ Phía Bắc Cầu 17 tháng 10
+17.100
+10.260
+6.840
+3.420
+13
+Đường Bà Triệu, đoạn 7
+Phía Nam cầu 17 tháng 10
+Giao đường Nguyễn Phong
+Sắc
+15.100
+9.060
+6.040
+3.020
+14
+Đường Bà Triệu, đoạn 8
+Ngã tư Nguyễn Phong Sắc
+Ngã ba giao cắt đường Hùng
+Vương
+12.100
+15
+Đường Nguyễn Tri Phương,
+đoạn 1
+Đường 17 tháng 10
+Đường Nguyễn Du
+39.600
+23.760
+15.840
+7.920
+16
+Đường Nguyễn Tri Phương,
+đoạn 2
+Đường Nguyễn Du
+Đường Bà Triệu
+19.900
+11.940
+7.960
+3.980
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+17
+Đường Nguyễn Du, đoạn 1
+Đường Lê Lợi
+Đường Phai Vệ
+35.600
+21.360
+14.240
+7.120
+18
+Đường Nguyễn Du, đoạn 2
+Đường Phai Vệ
+Đầu cầu Đông Kinh
+19.000
+11.400
+7.600
+3.800
+19
+Đường Nguyễn Du, đoạn 3
+Đầu cầu Đông Kinh
+Đường Nguyễn Đình Chiểu
+7.900
+4.740
+3.160
+1.580
+20
+Đường Nguyễn Đình Chiểu
+Đường Nguyễn Du
+Đường Bà Triệu
+7.100
+4.260
+2.840
+1.420
+21
+Đường Nguyễn Đình Chiểu kéo
+dài thuộc dự án Cầu Thác Mạ
+(Cầu 17/10)
+Đường Bà Triệu
+Bờ sông
+10.600
+6.360
+4.240
+2.120
+22
+Đường Phai Vệ, đoạn 1
+Đường Nguyễn Du (chợ
+Đông Kinh)
+Đường Bà Triệu
+37.200
+22.320
+14.880
+7.440
+23
+Đường Phai Vệ, đoạn 2
+Đường Bà Triệu
+Đường Chu Văn An
+25.500
+15.300
+10.200
+5.100
+24
+Đường Phai Vệ, đoạn 3
+Đường Chu  Văn An
+Ngõ 169 đường Phai  Vệ
+(ngõ 8 cũ)
+19.300
+11.580
+7.720
+3.860
+25
+Đường Phai Vệ, đoạn 4
+Ngõ 169 đường Phai Vệ
+(ngõ 8 cũ)
+Đường Lê Đại Hành
+17.200
+10.320
+6.880
+3.440
+26
+Đường Phai Vệ: Đoạn 5
+ Ngã tư Đường Phai Vệ -
+Đường Lê Đại Hành
+Đường Quốc Lộ 1
+13.700
+8.220
+5.480
+2.740
+27
+Đường Ngô Quyền, đoạn 1
+Đường Lê Lợi
+Đường Lê Đại Hành
+41.100
+24.660
+16.440
+8.220
+28
+Đường Ngô Quyền, đoạn 2
+Đường Lê Đại Hành
+Đường Quốc lộ 1
+23.900
+14.340
+9.560
+4.780
+29
+Đường Ngô Quyền, đoạn 3
+Đường Quốc lộ 1
+Đường Mỹ Sơn
+17.000
+10.200
+6.800
+3.400
+30
+Đường Ngô Quyền, đoạn 4
+Đường Mỹ Sơn
+Hết địa phận phường Đông
+Kinh
+12.500
+7.500
+5.000
+2.500
+31
+Đường Lý Thái Tổ, đoạn 1
+Phía Đông cầu Đông Kinh
+Đường Bà Triệu
+34.700
+20.820
+13.880
+6.940
+32
+Đường Lý Thái Tổ, đoạn 2
+Ngã tư Bà Triệu - Lý Thái
+Tổ (Phường Đông Kinh)
+Hết tường rào phía Bắc
+Trường Chu Văn An
+11.600
+6.960
+4.640
+2.320
+33
+Đường Lương Thế Vinh, đoạn
+1 (Đ31m)
+Đường Lý Thường Kiệt
+Ngã 3 đường Lương Thế
+Vinh
+23.900
+34
+ Đường Lương Thế Vinh, đoạn
+2
+Ngã 3 đường Lương Thế
+Vinh
+Đường Hoàng Quốc Việt
+18.200
+10.920
+7.280
+3.640
+35
+Đường Hoàng Quốc Việt (thuộc
+địa phận phường Đông Kinh)
+Đường Bà Triệu
+Đường Lương Thế Vinh
+21.000
+12.600
+8.400
+4.200
+36
+Đường Lê Đại Hành, đoạn 1
+Đường Lê Lợi
+Đường Ngô Quyền
+9.500
+5.700
+3.800
+1.900
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+2
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+37
+Đường Lê Đại Hành, đoạn 2
+Đường Ngô Quyền
+Đường Phai Vệ
+18.600
+11.160
+7.440
+3.720
+38
+Đường Ngô Gia Tự
+Đường Nguyễn Du
+Đường Bà Triệu
+13.000
+7.800
+5.200
+2.600
+39
+Đường Chu Văn An, đoạn 1
+Hết tường rào phía Bắc
+Trường Chu Văn An
+Đường Phai Vệ
+6.900
+4.140
+2.760
+1.380
+40
+Đường Chu Văn An, đoạn 2
+Đường Phai Vệ
+Đường Lê Lợi
+9.900
+5.940
+3.960
+1.980
+41
+Đường Chu Văn An, đoạn 3
+Đường Lê Lợi
+Nhà văn hóa khối 5 phường
+Vĩnh Trại
+6.400
+3.840
+2.560
+1.280
+42
+Đường Chu Văn An, đoạn 4
+Nhà văn hóa khối 5 phường
+Vĩnh Trại
+Đường Bà Triệu
+5.000
+3.000
+2.000
+43
+Đường Quốc lộ 1, đoạn 1
+Địa phận phường Đông
+Kinh (giáp phường Kỳ Lừa) Đường Phai Vệ đoạn 5
+9.200
+5.520
+3.680
+1.840
+44
+Đường Quốc lộ 1, đoạn 2
+Đường Phai Vệ đoạn 5
+Đường tàu cắt ngang Na
+Dương
+6.300
+3.780
+2.520
+1.260
+45
+Đường Quốc lộ 1, đoạn 3
+Đường tàu cắt ngang Na
+Dương
+Km23+100
+1.900
+1.140
+46
+Đường Quốc lộ 1, đoạn 4
+Km23+100
+Km27+200 (Hết địa phận
+phường Đông Kinh)
+1.300
+47
+Đường Võ Thị Sáu, đoạn 1
+Đường Quốc lộ 1 mới
+Phố Hồ Tùng Mậu
+12.600
+7.560
+5.040
+2.520
+48
+Đường Võ Thị Sáu, đoạn 2
+Phố Hồ Tùng Mậu
+Đường rẽ vào Trường Mầm
+non 2/9
+11.000
+6.600
+4.400
+2.200
+49
+Phố Hồ Tùng Mậu
+Đường Võ Thị Sáu
+Đến hết Khu nhà ở xã hội
+(gặp đường Võ Thị Sáu)
+7.200
+4.320
+2.880
+1.440
+50
+Đường Hoàng Đình Kinh, đoạn
+1
+Ngã tư đường Phai Vệ
+Hết đất Trường Dân tộc nội
+trú
+6.800
+4.080
+2.720
+1.360
+51
+Đường Hoàng Đình Kinh, đoạn
+2
+Hết đất Trường Phổ thông
+Dân tộc nội trú
+Hết đất khu tập thể Nhà máy
+Xi Măng Lạng Sơn
+4.200
+2.520
+1.680
+840
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+3
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+52
+Đường Hoàng Đình Kinh, đoạn
+3
+Hết đất thuộc khu tập thể
+Nhà máy Xi măng Lạng Sơn
+đi qua khối Pò Đứa - Pò Mỏ
+ Đường Quốc Lộ 1
+2.800
+1.680
+1.120
+53
+Đường Hùng Vương, đoạn 4
+Phía Nam Cầu Rọ Phải
+Đường Bà Triệu
+12.100
+7.260
+4.840
+2.420
+54
+Đường Hùng Vương, đoạn 5
+Đường Bà Triệu
+Đường Quốc Lộ 1
+7.000
+4.200
+2.800
+1.400
+55
+Đường vào khối Co Măn
+Đường Hùng Vương
+Giáp đường sắt
+2.700
+1.620
+1.080
+56
+Đường vào sân bay Mai Pha
+Hết khu tái định cư Nam
+thành phố
+Bờ sông Kỳ Cùng
+2.600
+1.560
+1.040
+57
+Đường tỉnh 238, đoạn 1
+Cây xăng Thanh Phương
+Km1+00 (ngã ba Cò Mào)
+1.800
+1.080
+720
+58
+Đường tỉnh 238, đoạn 2
+Km1+00 (ngã ba Cò Mào)
+Km4+240 (ngã ba rẽ vào
+thôn Yên Sơn)
+800
+59
+Đường tỉnh 238, đoạn 3
+Km4+240 (ngã ba rẽ vào
+thôn Yên Sơn)
+Km7+250 (dốc Kéo Sường-
+giáp địa phận huyện Chi
+Lăng)
+600
+60
+Phố Thân Thừa Quý
+Ngõ 2, Đường Lê Lợi
+Đường Bắc Sơn
+19.500
+11.700
+7.800
+3.900
+61
+Phố Phùng Hưng
+Đường Bà Triệu
+Đường Bắc  Sơn
+21.200
+12.720
+8.480
+4.240
+62
+Phố Trần Xuân Soạn
+Phố Phùng Hưng
+Nhà Văn hóa khối 2 và
+Trạm y tế phường Vĩnh Trại
+15.100
+9.060
+6.040
+3.020
+63
+Phố Đoàn Thị Điểm
+Phố Trần Xuân Soạn
+Phố Phùng Hưng
+14.700
+8.820
+5.880
+2.940
+64
+Phố Nguyễn Trường Tộ
+Đường Nguyễn Du
+Đường  Lý Thái Tổ
+19.100
+11.460
+7.640
+3.820
+65
+Phố Đinh Liệt
+Đường Ngô Quyền
+Ngõ 1 Lê Đại Hành
+12.600
+7.560
+5.040
+2.520
+66
+Phố Tinh Dầu 1
+Đường Phai Vệ
+Phố Tinh Dầu 4
+11.500
+6.900
+4.600
+67
+Phố Tinh Dầu 2
+Phố Tinh Dầu 1
+Tường rào bao quanh khu
+dân cư Tinh Dầu
+11.500
+6.900
+4.600
+68
+Phố Tinh Dầu 3
+Phố Tinh Dầu 1
+Tường rào bao quanh khu
+dân cư Tinh Dầu
+11.500
+69
+Phố Tinh Dầu 4
+Đường Chu Văn An
+Tường rào bao quanh khu
+dân cư Tinh Dầu
+11.500
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+4
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 5 ---
+70
+Phố Thác Mạ 1
+Đường Bà Triệu
+Phố Thác Mạ 2
+9.800
+71
+Phố Thác Mạ 2
+Phố Thác Mạ 1
+Phố Thác Mạ 5
+9.800
+5.880
+3.920
+1.960
+72
+Phố Thác Mạ 3
+Phố Thác Mạ 1
+Phố Thác Mạ 5
+9.800
+73
+Phố Thác Mạ 4
+Phố Thác Mạ 3
+Phố Thác Mạ 2
+9.800
+74
+Phố Thác Mạ 5 (Đường 25m)
+Đường Bà Triệu
+Phố Thác Mạ 2
+11.500
+75
+Phố Thác Mạ 6
+Phố Thác Mạ 2
+Phố Thác Mạ 5
+9.800
+5.880
+3.920
+1.960
+76
+Phố Thác Mạ 7
+Phố Thác Mạ 5
+Phố Thác Mạ 5
+9.800
+77
+Phố Thác Mạ 8
+Phố Thác Mạ 5
+Phố Thác Mạ 3
+9.800
+78
+Tuyến phố phía sau Hội văn
+học nghệ thuật (và Nhà báo
+tỉnh)
+Thác Mạ 6
+Bờ sông
+8.100
+4.860
+3.240
+1.620
+79
+Khu đô thị Phú lộc IV
+79.1 Phố Trần Đại Nghĩa
+Đường Lý Thường Kiệt
+Phố Đinh Lễ
+25.900
+15.540
+10.360
+5.180
+79.2 Phố Kim Đồng
+Đường Đinh Công Tráng
+Đường Lương Thế Vinh
+20.600
+79.3 Phố Lê Hữu Trác
+Đường Lý Thường Kiệt
+Phố Đinh Lễ
+18.000
+79.4 Phố Đinh Lễ
+Đường Lý Thường Kiệt
+Phố Trần Đại Nghĩa
+18.000
+79.5 Phố Linh Lang
+Đường Lý Thường Kiệt
+Phố Lương Đình Của
+18.000
+79.6 Phố Lương Định Của
+Đường Lý Thường Kiệt
+Công trình công cộng (sân
+bóng đá mini)
+18.100
+79.7 Phố Đinh Công Tráng
+Phố Đinh Lễ
+Phố Đặng Văn Ngữ
+18.000
+10.800
+7.200
+3.600
+79.8
+Đường Bùi Thị Xuân
+(đoạn thuộc phường Đông
+Kinh)
+Đường Lương Thế Vinh
+Đường Hoàng Quốc Việt
+18.100
+79.9 Phố Bùi Thị Xuân 4
+Lý Thường Kiệt
+Bùi Thị Xuân
+17.900
+10.740
+7.160
+3.580
+79.10 Phố Bùi Thị Xuân 5
+Lý Thường Kiệt
+Bùi Thị Xuân
+18.100
+10.860
+7.240
+3.620
+79.11 Phố Đặng Văn Ngữ
+Đường Lý Thường Kiệt
+Phố Phùng Chí Kiên
+17.900
+79.12 Phố Trương Định
+Đường Bùi Thị Xuân
+Phố Cao Bá Quát
+17.900
+10.740
+7.160
+3.580
+79.13 Phố Ông Ích Khiêm
+Đường Bùi Thị Xuân
+Phố Cao Bá Quát
+17.900
+10.740
+7.160
+3.580
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+5
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 6 ---
+79.14 Phố Cao Bá Quát
+Phố Kim Đồng
+Đường Hoàng Quốc Việt
+17.900
+10.740
+7.160
+3.580
+79.15 Phố Đoàn Kết
+Lương Thế Vinh
+Khu Bản Mới
+18.100
+10.860
+7.240
+3.620
+79.16 Phố Đào Duy Từ
+Lương Thế Vinh
+Khu Bản Mới
+18.100
+10.860
+7.240
+3.620
+79.17 Phố Tôn Thất Tùng
+Trương Định
+Ông Ích Khiêm
+17.900
+10.740
+7.160
+3.580
+79.18 Phố Đặng Dung
+Đường Lý Thường Kiệt
+Đường Lương Thế Vinh
+17.900
+10.740
+7.160
+3.580
+80
+Khu Tái định cư Mỹ Sơn
+80.1 Đường Mỹ Sơn, đoạn 1
+Đường Ngô Quyền
+Rẽ đường Kéo Tào
+7.900
+4.740
+3.160
+1.580
+80.2 Đường Mỹ Sơn, đoạn 2
+Rẽ đường Kéo Tào
+Hết địa phận phường Đông
+Kinh
+5.300
+3.180
+2.120
+80.3 Đường Kéo Tào đoạn 1
+Đường Mỹ Sơn (rẽ ngõ 100
+Đường Mỹ Sơn cũ)
+Ngã ba tiếp giáp Cao Lộc
+3.300
+1.980
+1.320
+80.4 Đường Kéo Tào đoạn 2
+Ngã ba tiếp giáp Cao Lộc
+Đường Ngô Quyền
+3.000
+1.800
+80.5 Phố Mỹ Sơn 1
+Đường Quốc lộ 1
+Phố Mỹ Sơn 6
+7.200
+80.6 Phố Mỹ Sơn 2 (đoạn trong Khu
+nội bộ tái định cư Mỹ Sơn)
+Đường Quốc lộ 1
+Hết đất khu TĐC Mỹ Sơn
+6.500
+80.7 Phố Mỹ Sơn 3
+Đường Quốc lộ 1
+Phố Mỹ Sơn 6
+6.500
+80.8 Phố Mỹ Sơn 4
+Đường Quốc lộ 1
+Phố Mỹ Sơn 6
+6.500
+80.9 Phố Mỹ Sơn 5
+Đường Quốc lộ 1
+Hết đất khu TĐC Mỹ Sơn
+5.900
+3.540
+2.360
+1.180
+80.10 Phố Mỹ Sơn 6
+Phố Mỹ Sơn 5
+Phố Mỹ Sơn 1
+5.800
+80.11 Đường nội bộ Khu chung cư
+Mỹ Sơn
+Tất cả thửa đất thuộc đường nội bộ Khu chung cư Mỹ Sơn
+3.600
+81
+Khu đô thị CATALAN
+81.1 Tuyến đường số 1 (đường Quốc lộ 1A) đường nội bộ khu đô thị CATALAN
+17.000
+10.200
+6.800
+3.400
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+6
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 7 ---
+81.2 Các tuyến đường nội bộ còn lại và các thửa đất giáp đường Võ Thị Sáu, phố Hồ Tùng Mậu
+đường nội bộ khu đô thị CATALAN
+12.600
+7.560
+5.040
+2.520
+82
+Khu thấp tầng dự án nhà ở xã
+hội 2
+82.1 Đường nội bộ
+11.000
+83
+Khu đô thị mới Đông Kinh
+83.1 01 Trục chính Bắc - Nam (Mặt
+cắt trung bình 26m -33m
+Đường Ngô Quyền
+Đường Võ Thị Sáu
+8.500
+5.100
+3.400
+83.2 01 Trục tây - đông (Mặt cắt
+trung bình 13m)
+đường vào từ khu dân cư
+ngoài dự án
+Hết ranh giới dự án
+7.200
+4.320
+2.880
+83.3 12 đường nội bộ (Mặt cắt trung
+bình 13m)
+7.200
+4.320
+2.880
+84
+Khu tái định cư và dân cư Nam Nguyễn Đình Chiểu, phường Đông Kinh
+84.1 Đường nội bộ
+9.500
+5.700
+3.800
+85
+Tiểu khu tái định cư khối 9, phường Vĩnh Trại
+85.1 Tuyến số 01 (mặt cắt đường
+12m)
+Đường Mỹ Sơn
+Đường ngõ bê tông (Phai
+Khẩu)
+8.000
+4.800
+3.200
+85.2 Các tuyến đường nội bộ còn lại trong Khu Tái định cư (mặt cắt đường từ 11m - 12m)
+6.500
+3.900
+2.600
+86
+Hạ tầng Kỹ Thuật khu tái định cư và dân cư Mỹ Sơn, phường Vĩnh Trại
+86.1 Tuyến có mặt cắt đường 19,5m Đường Mỹ Sơn (ngõ 166)
+Kéo thẳng đến phía đông
+của Dự án
+7.000
+4.200
+2.800
+86.2 Tuyến có mặt cắt đường 11,5m Đường Mỹ Sơn (ngõ 164)
+Kéo thẳng đến phía đông
+của Dự án
+7.000
+4.200
+2.800
+86.3 Các tuyến đường nội bộ còn lại trong Dự án (có mặt cắt đường từ 7,5m-20m)
+5.100
+3.060
+2.040
+87
+Hạ tầng khối 18, phường Đông
+Kinh
+8.000
+88
+Khu dân cư Ao Cạn - Bãi Than
+7.100
+4.260
+2.840
+89
+Khu Tái định cư 1 Mai Pha
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+7
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 8 ---
+89.1 Phố Mai Pha 1
+Đường Hùng Vương
+Bãi quay xe (cuối khu dân
+cư)
+6.000
+3.600
+2.400
+1.200
+89.2 Phố Mai Pha 2
+Phố Mai Pha 1
+Phố Mai Pha 3
+6.200
+3.720
+2.480
+1.240
+89.3 Phố Mai Pha 3
+Đường Hùng Vương
+Phố Mai Pha 1
+6.500
+3.900
+2.600
+1.300
+89.4 Phố Mai Pha 4
+Phố Mai Pha 1
+Phố Mai Pha 8
+6.500
+3.900
+2.600
+1.300
+89.5 Phố Mai Pha 5
+Đường Hùng Vương
+Phố Mai Pha 4
+6.300
+3.780
+2.520
+1.260
+89.6 Phố Mai Pha 6
+Phố Mai Pha 1
+Phố Mai Pha 4
+6.200
+3.720
+2.480
+1.240
+89.7 Phố Mai Pha 7
+Đường Hùng Vương
+Phố Mai Pha 4
+6.800
+4.080
+2.720
+1.360
+89.8 Phố Mai Pha 8
+Phố Mai Pha 1
+Phố Mai Pha 4
+6.200
+3.720
+2.480
+1.240
+90
+Khu tái định cư và dân cư
+Nam Thành Phố
+90.1 Phố Nguyễn Chí Thanh (54m)
+Phố Phạm Hồng Thái
+Đường Hùng Vương
+16.000
+9.600
+6.400
+3.200
+90.2 Phố Hồ Xuân Hương (19,5m)
+Phố Phạm Hồng Thái
+Đường Hùng Vương
+12.600
+7.560
+5.040
+2.520
+90.3 Phố Nguyễn Phong Sắc
+(19,5m): Đoạn 1
+Đường Hùng Vương
+Đường Bà Triệu
+9.800
+5.880
+3.920
+1.960
+90.4 Phố Nguyễn Phong Sắc
+(19,5m): Đoạn 2
+Đường Bà Triệu
+Hết khu tái định cư Nam
+thành phố
+9.000
+5.400
+3.600
+1.800
+90.5 Phố Trần Quang Diệu (17m)
+Phố Phạm Hồng Thái
+Đường Hùng Vương
+9.900
+5.940
+3.960
+1.980
+90.6 Phố Phạm Hồng Thái (17m)
+Đường nội bộ N1A
+Phố Nguyễn Phong Sắc
+(Đoạn 2)
+10.100
+6.060
+4.040
+2.020
+90.7 Phố Mạc Thị Bưởi
+Phố Nguyễn Chí Thanh
+Phố Nguyễn Phong Sắc
+(Đoạn 2)
+7.600
+4.560
+3.040
+1.520
+90.8 Phố Nam Cao
+Phố Nguyễn Chí Thanh
+Phố Nguyễn Phong Sắc
+(Đoạn 1)
+7.600
+4.560
+3.040
+1.520
+90.9 Phố Hồ Xuân Hương 1
+Phố Nguyễn Chí Thanh
+Phố Hồ Xuân Hương
+7.100
+4.260
+2.840
+1.420
+90.10 Phố Hồ Xuân Hương 2
+Phố Nguyễn Chí Thanh
+Phố Hồ Xuân Hương
+7.000
+4.200
+2.800
+1.400
+90.11 Phố Trần Văn Cẩn
+Đường Hùng Vương
+Phố Hồ Xuân Hương 1
+6.900
+4.140
+2.760
+1.380
+90.12 Phố Trần Văn Cẩn 1
+Phố Nguyễn Chí Thanh
+Phố Trần Văn Cẩn
+7.000
+4.200
+2.800
+1.400
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+8
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 9 ---
+90.13 Phố Nguyễn Đức Cảnh
+Phố Nam Cao
+Phố Phạm Hồng Thái
+7.000
+4.200
+2.800
+1.400
+90.14 Phố Nguyễn Huy Giáp
+Phố Nam Cao
+Phố Phạm Hồng Thái
+7.200
+4.320
+2.880
+1.440
+90.15 Phố La Văn Cầu
+Phố Nam Cao
+Phố Phạm Hồng Thái
+7.100
+4.260
+2.840
+1.420
+90.16 Phố Nam Cao 1
+Đường Bà Triệu
+Phố Nam Cao
+7.100
+4.260
+2.840
+1.420
+90.17 Phố Nam Cao 2
+Đường Bà Triệu
+Phố Nam Cao
+7.100
+4.260
+2.840
+1.420
+90.18 Phố Hồ Đắc Di
+Phố Hồ Xuân Hương 2
+Phố Phạm Hồng Thái
+7.000
+4.200
+2.800
+1.400
+90.19 Phố Phạm Ngọc Thạch
+Phố Hồ Xuân Hương 2
+Phố Phạm Hồng Thái
+7.000
+4.200
+2.800
+1.400
+90.20 Phố Đào Duy Anh
+Phố Hồ Xuân Hương 2
+Phố Phạm Hồng Thái
+7.000
+4.200
+2.800
+1.400
+90.21 Phố Nguyễn Bá Ngọc
+Phố Phạm Hồng Thái
+Phố Mạc Thị Bưởi
+7.100
+4.260
+2.840
+1.420
+90.22 Phố Tô Vĩnh Diện
+Phố Nguyễn Phong Sắc
+Phố Nguyễn Bá Ngọc
+7.000
+4.200
+2.800
+1.400
+91
+Khu Apec Diamond Park
+91.1 Tuyến đường nội bộ liền kề
+đường Quốc lộ 1
+16.900
+10.140
+6.760
+91.2 Các tuyến đường nội bộ còn lại
+14.000
+8.400
+5.600
+92
+Khu đô thị Green Garden
+92.1 Trục chính (Tây - Đông)
+6.300
+3.780
+2.520
+92.2 Trục chính (Bắc - Nam) - đoạn
+1
+6.300
+3.780
+2.520
+92.3 Trục chính (Bắc - Nam) - đoạn
+2
+6.300
+3.780
+2.520
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+9
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 10 ---
+92.4 Trục chính (Bắc - Nam) - đoạn
+3
+6.300
+3.780
+2.520
+92.5 Đường nội bộ còn lại
+3.700
+2.220
+1.480
+93
+Trục đường đối ngoại và hạ
+tầng kỹ thuật khu tái định cư
+thuộc dự án Trụ sở làm việc
+Công an tỉnh (Dự án xây
+dựng trụ sở Công an Tỉnh)
+93.1 Trục chính (Bắc - Nam)
+7.000
+4.200
+2.800
+93.2 Trục chính (Tây - Đông)
+5.600
+3.360
+2.240
+94
+Khu tái định cư dự án Đường
+Lý Thái Tổ kéo dài (Nhà máy
+nước cũ)
+94.1 Đường nội bộ
+5.400
+3.240
+2.160
+95
+Đường dẫn vào Khu tái định
+cư đường Lý Thái Tổ kéo dài
+95.1 Đường nội bộ
+5.600
+3.360
+2.240
+96
+Khu TĐC đường Lý Thái Tổ
+kéo dài
+96.1 Tuyến chính
+Mặt đường Lý Thái tổ kéo
+dài
+12.000
+96.2 Tuyến nội bộ
+5.700
+97
+Đường Yên Thành - Kéo Khoác Cổng chào khối Yên Thành
+(đường Quốc lộ 1)
+Điểm nối đường Quốc lộ 1
+(Km21+600 - khối Kéo
+Khoác)
+1.800
+1.080
+720
+98
+Đường Nà Lái 1
+Nút giao Hùng Vương
+(Km21+00/đường Quốc lộ
+1)
+Ngã ba thứ nhất xóm Nà Lái
+910
+546
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+10
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 11 ---
+99
+Đường Nà Lái 2
+Ngã ba thứ nhất xóm Nà Lái Ngã ba trại tạm giam Công
+an tỉnh
+750
+100 Đường Bản Bảm
+Đầu cầu Bản Bảm
+Ngã ba Nà Ỏm (đường rẽ
+nhà văn hóa khối Bản Bảm)
+520
+101 Đường Bản Bảm - Pò Cháu
+Ngã ba Nà Ỏm (đường rẽ
+nhà văn hóa khối Bản Bảm)
+Hết địa phận khối Pò Cháu
+(tiếp giáp địa phận xã Tân
+Liên cũ)
+490
+102 Đường Yên Thành - Yên Thuỷ
+1
+Cầu Cò Mào
+Trại tạm giam Công an tỉnh
+750
+103 Đường Yên Thuỷ 1
+Km1+00/đường tỉnh 238
+(ngã 3 Cò Mào)
+Ngã 3 Thu Cù (đường rẽ vào
+đình Thà Chỏ)
+910
+546
+104 Đường Yên Thuỷ 2
+Ngã 3 Thu Cù (đường rẽ vào
+đình Thà Chỏ)
+Hết khối Yên Thủy 2 (ngã 3
+rẽ đi xã Vân An cũ)
+510
+105 Đường Tát Uẩn
+Hết khối Yên Thủy 2 (Km 4
+đường Yên Trạch - Tát Uẩn)
+Hết Vằng Khoác (đường
+Yên Trạch - Tát Uẩn)
+510
+106 Đường Yên Thượng
+Km4+400/đường tỉnh 238
+(ngã ba rẽ vào khối Yên
+Sơn)
+Hết địa phận xã Yên Trạch
+cũ (dốc Co Kén - giáp địa
+phận huyện Chi Lăng cũ)
+510
+107 Khu TĐC dự án Cao tốc Hữu Nghị - Chi Lăng địa phận phường Đông Kinh
+107.1 Tuyến đường trục chính khu
+TĐC
+6.600
+3.960
+2.640
+1.320
+107.2 Tuyến nhánh kéo từ đường trục
+chính
+5.800
+3.480
+2.320
+1.160
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại đô thị.
+Khu vực còn lại (Các vị trí không quy định giá)
+1
+Các khối: Khối 1, Khối 2, Khối 3, Khối 4, Khối 5, Khối 6,
+Khối 7, Khối 8, Khối 9, Khối 10, Khối 11, Khối 12, Khối
+13, Khối 14, Khối 15, Khối 16, Khối 18, Khối 19
+1.100
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+11
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 12 ---
+2
+Các khối: Bình Cằm, Phai Duốc, Co Măn, Khòn Pát,
+Trung Cấp, Rọ Phải, Nà Chuông, Pò Đứa - Pò Mỏ, Khòn
+Phổ, Khòn Khuyên, Mai Thành
+830
+3
+Các khối: Kéo Khoác, Nà Háo, Nà Soong, Nà Thà, Yên
+Hạ, Yên Sơn, Yên Thượng, Yên Thành, Yên Thuỷ I, Yên
+Thuỷ II
+490
+Khu vực còn lại
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+12
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 13 ---
+65. Phường Đông Kinh
+BẢNG 65.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI, DỊCH VỤ PHƯỜNG ĐÔNG KINH
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m2
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Trần Đăng Ninh, đoạn 1
+(Địa phận phường Đông Kinh)
+Phía Bắc Cầu Kỳ Cùng
+Đường Tam Thanh
+47.040
+28.224
+18.816
+9.408
+2
+Đường Lê Lợi, đoạn 1
+Đường Trần Đăng Ninh
+Đường Bắc Sơn
+47.040
+28.224
+18.816
+9.408
+3
+Đường Lê Lợi, đoạn 2
+Đường Bắc Sơn
+Đường Chu Văn An
+36.400
+21.840
+14.560
+7.280
+4
+Đường Lê Lợi, đoạn 3
+Đường Chu Văn An
+Đường Lý Thường Kiệt
+32.960
+19.776
+13.184
+6.592
+5
+Đường Lê Lợi, đoạn 4
+Đường Lý Thường Kiệt
+Ga Lạng Sơn
+22.400
+13.440
+8.960
+4.480
+6
+Đường Lý Thường Kiệt
+Đường Lê Lợi
+Đường Hoàng Quốc Việt
+40.960
+24.576
+16.384
+8.192
+7
+Đường 17 tháng 10
+Bắc đầu cầu Kỳ Cùng, Trần
+Đăng Ninh
+Ngã ba Lê Lợi, Nguyễn Du
+38.080
+22.848
+15.232
+7.616
+8
+Đường Bắc Sơn, đoạn 1
+Đường Lê Lợi
+Cầu chợ Giếng Vuông
+33.120
+19.872
+13.248
+6.624
+9
+Đường Bà Triệu, đoạn 3
+Phía Nam Cầu Lao Ly 2
+(Phường Đông Kinh)
+Đường Ngô Gia Tự
+34.880
+20.928
+13.952
+6.976
+10
+Đường Bà Triệu, đoạn 4
+Đường Ngô Gia Tự
+Đường Lý Thái Tổ
+27.760
+16.656
+11.104
+5.552
+11
+Đường Bà Triệu, đoạn 5
+Đường Lý Thái Tổ
+Đường Nguyễn Đình Chiểu
+20.880
+12.528
+8.352
+4.176
+12
+Đường Bà Triệu, đoạn 6
+Đường Nguyễn Đình Chiểu
+ Phía Bắc Cầu 17 tháng 10
+13.680
+8.208
+5.472
+2.736
+13
+Đường Bà Triệu, đoạn 7
+Phía Nam cầu 17 tháng 10
+Giao đường Nguyễn Phong
+Sắc
+12.080
+7.248
+4.832
+2.416
+14
+Đường Bà Triệu, đoạn 8
+Ngã tư Nguyễn Phong Sắc
+Ngã ba giao cắt đường Hùng
+Vương
+9.680
+15
+Đường Nguyễn Tri Phương,
+đoạn 1
+Đường 17 tháng 10
+Đường Nguyễn Du
+31.680
+19.008
+12.672
+6.336
+16
+Đường Nguyễn Tri Phương,
+đoạn 2
+Đường Nguyễn Du
+Đường Bà Triệu
+15.920
+9.552
+6.368
+3.184
+17
+Đường Nguyễn Du, đoạn 1
+Đường Lê Lợi
+Đường Phai Vệ
+28.480
+17.088
+11.392
+5.696
+18
+Đường Nguyễn Du, đoạn 2
+Đường Phai Vệ
+Đầu cầu Đông Kinh
+15.200
+9.120
+6.080
+3.040
+19
+Đường Nguyễn Du, đoạn 3
+Đầu cầu Đông Kinh
+Đường Nguyễn Đình Chiểu
+6.320
+3.792
+2.528
+1.264
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 14 ---
+20
+Đường Nguyễn Đình Chiểu
+Đường Nguyễn Du
+Đường Bà Triệu
+5.680
+3.408
+2.272
+1.136
+21
+Đường Nguyễn Đình Chiểu kéo
+dài thuộc dự án Cầu Thác Mạ
+(Cầu 17/10)
+Đường Bà Triệu
+Bờ sông
+8.480
+5.088
+3.392
+1.696
+22
+Đường Phai Vệ, đoạn 1
+Đường Nguyễn Du (chợ
+Đông Kinh)
+Đường Bà Triệu
+29.760
+17.856
+11.904
+5.952
+23
+Đường Phai Vệ, đoạn 2
+Đường Bà Triệu
+Đường Chu Văn An
+20.400
+12.240
+8.160
+4.080
+24
+Đường Phai Vệ, đoạn 3
+Đường Chu  Văn An
+Ngõ 169 đường Phai  Vệ
+(ngõ 8 cũ)
+15.440
+9.264
+6.176
+3.088
+25
+Đường Phai Vệ, đoạn 4
+Ngõ 169 đường Phai Vệ
+(ngõ 8 cũ)
+Đường Lê Đại Hành
+13.760
+8.256
+5.504
+2.752
+26
+Đường Phai Vệ: Đoạn 5
+ Ngã tư Đường Phai Vệ -
+Đường Lê Đại Hành
+Đường Quốc Lộ 1
+10.960
+6.576
+4.384
+2.192
+27
+Đường Ngô Quyền, đoạn 1
+Đường Lê Lợi
+Đường Lê Đại Hành
+32.880
+19.728
+13.152
+6.576
+28
+Đường Ngô Quyền, đoạn 2
+Đường Lê Đại Hành
+Đường Quốc lộ 1
+19.120
+11.472
+7.648
+3.824
+29
+Đường Ngô Quyền, đoạn 3
+Đường Quốc lộ 1
+Đường Mỹ Sơn
+13.600
+8.160
+5.440
+2.720
+30
+Đường Ngô Quyền, đoạn 4
+Đường Mỹ Sơn
+Hết địa phận phường Đông
+Kinh
+10.000
+6.000
+4.000
+2.000
+31
+Đường Lý Thái Tổ, đoạn 1
+Phía Đông cầu Đông Kinh
+Đường Bà Triệu
+27.760
+16.656
+11.104
+5.552
+32
+Đường Lý Thái Tổ, đoạn 2
+Ngã tư Bà Triệu - Lý Thái
+Tổ (Phường Đông Kinh)
+Hết tường rào phía Bắc
+Trường Chu Văn An
+9.280
+5.568
+3.712
+1.856
+33
+Đường Lương Thế Vinh, đoạn
+1 (Đ31m)
+Đường Lý Thường Kiệt
+Ngã 3 đường Lương Thế
+Vinh
+19.120
+34
+ Đường Lương Thế Vinh, đoạn
+2
+Ngã 3 đường Lương Thế
+Vinh
+Đường Hoàng Quốc Việt
+14.560
+8.736
+5.824
+2.912
+35
+Đường Hoàng Quốc Việt (thuộc
+địa phận phường Đông Kinh)
+Đường Bà Triệu
+Đường Lương Thế Vinh
+16.800
+10.080
+6.720
+3.360
+36
+Đường Lê Đại Hành, đoạn 1
+Đường Lê Lợi
+Đường Ngô Quyền
+7.600
+4.560
+3.040
+1.520
+37
+Đường Lê Đại Hành, đoạn 2
+Đường Ngô Quyền
+Đường Phai Vệ
+14.880
+8.928
+5.952
+2.976
+38
+Đường Ngô Gia Tự
+Đường Nguyễn Du
+Đường Bà Triệu
+10.400
+6.240
+4.160
+2.080
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+2
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 15 ---
+39
+Đường Chu Văn An, đoạn 1
+Hết tường rào phía Bắc
+Trường Chu Văn An
+Đường Phai Vệ
+5.520
+3.312
+2.208
+1.104
+40
+Đường Chu Văn An, đoạn 2
+Đường Phai Vệ
+Đường Lê Lợi
+7.920
+4.752
+3.168
+1.584
+41
+Đường Chu Văn An, đoạn 3
+Đường Lê Lợi
+Nhà văn hóa khối 5 phường
+Vĩnh Trại
+5.120
+3.072
+2.048
+1.024
+42
+Đường Chu Văn An, đoạn 4
+Nhà văn hóa khối 5 phường
+Vĩnh Trại
+Đường Bà Triệu
+4.000
+2.400
+1.600
+43
+Đường Quốc lộ 1, đoạn 1
+Địa phận phường Đông
+Kinh (giáp phường Kỳ Lừa) Đường Phai Vệ đoạn 5
+7.360
+4.416
+2.944
+1.472
+44
+Đường Quốc lộ 1, đoạn 2
+Đường Phai Vệ đoạn 5
+Đường tàu cắt ngang Na
+Dương
+5.040
+3.024
+2.016
+1.008
+45
+Đường Quốc lộ 1, đoạn 3
+Đường tàu cắt ngang Na
+Dương
+Km23+100
+1.520
+912
+46
+Đường Quốc lộ 1, đoạn 4
+Km23+100
+Km27+200 (Hết địa phận
+phường Đông Kinh)
+1.040
+47
+Đường Võ Thị Sáu, đoạn 1
+Đường Quốc lộ 1 mới
+Phố Hồ Tùng Mậu
+10.080
+6.048
+4.032
+2.016
+48
+Đường Võ Thị Sáu, đoạn 2
+Phố Hồ Tùng Mậu
+Đường rẽ vào Trường Mầm
+non 2/9
+8.800
+5.280
+3.520
+1.760
+49
+Phố Hồ Tùng Mậu
+Đường Võ Thị Sáu
+Đến hết Khu nhà ở xã hội
+(gặp đường Võ Thị Sáu)
+5.760
+3.456
+2.304
+1.152
+50
+Đường Hoàng Đình Kinh, đoạn
+1
+Ngã tư đường Phai Vệ
+Hết đất Trường Dân tộc nội
+trú
+5.440
+3.264
+2.176
+1.088
+51
+Đường Hoàng Đình Kinh, đoạn
+2
+Hết đất Trường Phổ thông
+Dân tộc nội trú
+Hết đất khu tập thể Nhà máy
+Xi Măng Lạng Sơn
+3.360
+2.016
+1.344
+672
+52
+Đường Hoàng Đình Kinh, đoạn
+3
+Từ hết đất thuộc khu tập thể
+Nhà máy Xi măng Lạng Sơn
+đi qua khối Pò Đứa - Pò Mỏ
+ Đường Quốc Lộ 1
+2.240
+1.344
+896
+53
+Đường Hùng Vương, đoạn 4
+Phía Nam Cầu Rọ Phải
+Đường Bà Triệu
+9.680
+5.808
+3.872
+1.936
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+3
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 16 ---
+54
+Đường Hùng Vương, đoạn 5
+Đường Bà Triệu
+Đường Quốc Lộ 1
+5.600
+3.360
+2.240
+1.120
+55
+Đường vào khối Co Măn
+Đường Hùng Vương
+Giáp đường sắt
+2.160
+1.296
+864
+56
+Đường vào sân bay Mai Pha
+Hết khu tái định cư Nam
+thành phố
+Bờ sông Kỳ Cùng
+2.080
+1.248
+832
+57
+Đường tỉnh 238, đoạn 1
+Cây xăng Thanh Phương
+Km1+00 (ngã ba Cò Mào)
+1.440
+864
+576
+58
+Đường tỉnh 238, đoạn 2
+Km1+00 (ngã ba Cò Mào)
+Km4+240 (ngã ba rẽ vào
+thôn Yên Sơn)
+640
+59
+Đường tỉnh 238, đoạn 3
+Km4+240 (ngã ba rẽ vào
+thôn Yên Sơn)
+Km7+250 (dốc Kéo Sường-
+giáp địa phận huyện Chi
+Lăng)
+480
+60
+Phố Thân Thừa Quý
+Ngõ 2, Đường Lê Lợi
+Đường Bắc Sơn
+15.600
+9.360
+6.240
+3.120
+61
+Phố Phùng Hưng
+Đường Bà Triệu
+Đường Bắc  Sơn
+16.960
+10.176
+6.784
+3.392
+62
+Phố Trần Xuân Soạn
+Phố Phùng Hưng
+Nhà Văn hóa khối 2 và
+Trạm y tế phường Vĩnh Trại
+12.080
+7.248
+4.832
+2.416
+63
+Phố Đoàn Thị Điểm
+Phố Trần Xuân Soạn
+Phố Phùng Hưng
+11.760
+7.056
+4.704
+2.352
+64
+Phố Nguyễn Trường Tộ
+Đường Nguyễn Du
+Đường  Lý Thái Tổ
+15.280
+9.168
+6.112
+3.056
+65
+Phố Đinh Liệt
+Đường Ngô Quyền
+Ngõ 1 Lê Đại Hành
+10.080
+6.048
+4.032
+2.016
+66
+Phố Tinh Dầu 1
+Đường Phai Vệ
+Phố Tinh Dầu 4
+9.200
+5.520
+3.680
+67
+Phố Tinh Dầu 2
+Phố Tinh Dầu 1
+Tường rào bao quanh khu
+dân cư Tinh Dầu
+9.200
+5.520
+3.680
+68
+Phố Tinh Dầu 3
+Phố Tinh Dầu 1
+Tường rào bao quanh khu
+dân cư Tinh Dầu
+9.200
+69
+Phố Tinh Dầu 4
+Đường Chu Văn An
+Tường rào bao quanh khu
+dân cư Tinh Dầu
+9.200
+70
+Phố Thác Mạ 1
+Đường Bà Triệu
+Phố Thác Mạ 2
+7.840
+71
+Phố Thác Mạ 2
+Phố Thác Mạ 1
+Phố Thác Mạ 5
+7.840
+4.704
+3.136
+1.568
+72
+Phố Thác Mạ 3
+Phố Thác Mạ 1
+Phố Thác Mạ 5
+7.840
+73
+Phố Thác Mạ 4
+Phố Thác Mạ 3
+Phố Thác Mạ 2
+7.840
+74
+Phố Thác Mạ 5 (Đường 25m)
+Đường Bà Triệu
+Phố Thác Mạ 2
+9.200
+75
+Phố Thác Mạ 6
+Phố Thác Mạ 2
+Phố Thác Mạ 5
+7.840
+4.704
+3.136
+1.568
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+4
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 17 ---
+76
+Phố Thác Mạ 7
+Phố Thác Mạ 5
+Phố Thác Mạ 5
+7.840
+77
+Phố Thác Mạ 8
+Phố Thác Mạ 5
+Phố Thác Mạ 3
+7.840
+78
+Tuyến phố phía sau Hội văn
+học nghệ thuật (và Nhà báo
+tỉnh)
+Thác Mạ 6
+Bờ sông
+6.480
+3.888
+2.592
+1.296
+79
+Khu đô thị Phú lộc IV
+79.1 Phố Trần Đại Nghĩa
+Đường Lý Thường Kiệt
+Phố Đinh Lễ
+20.720
+12.432
+8.288
+4.144
+79.2 Phố Kim Đồng
+Đường Đinh Công Tráng
+Đường Lương Thế Vinh
+16.480
+79.3 Phố Lê Hữu Trác
+Đường Lý Thường Kiệt
+Phố Đinh Lễ
+14.400
+79.4 Phố Đinh Lễ
+Đường Lý Thường Kiệt
+Phố Trần Đại Nghĩa
+14.400
+79.5 Phố Linh Lang
+Đường Lý Thường Kiệt
+Phố Lương Đình Của
+14.400
+79.6 Phố Lương Định Của
+Đường Lý Thường Kiệt
+Công trình công cộng (sân
+bóng đá mi ni)
+14.480
+79.7 Phố Đinh Công Tráng
+Phố Đinh Lễ
+Phố Đặng Văn Ngữ
+14.400
+8.640
+5.760
+2.880
+79.8
+Đường Bùi Thị Xuân
+(đoạn thuộc phường Đông
+Kinh)
+Đường Lương Thế Vinh
+Đường Hoàng Quốc Việt
+14.480
+79.9 Phố Bùi Thị Xuân 4
+Lý Thường Kiệt
+Bùi Thị Xuân
+14.320
+8.592
+5.728
+2.864
+79.10 Phố Bùi Thị Xuân 5
+Lý Thường Kiệt
+Bùi Thị Xuân
+14.480
+8.688
+5.792
+2.896
+79.11 Phố Đặng Văn Ngữ
+Đường Lý Thường Kiệt
+Phố Phùng Trí Kiên
+14.320
+79.12 Phố Trương Định
+Đường Bùi Thị Xuân
+Phố Cao Bá Quát
+14.320
+8.592
+5.728
+2.864
+79.13 Phố Ông Ích Khiêm
+Đường Bùi Thị Xuân
+Phố Cao Bá Quát
+14.320
+8.592
+5.728
+2.864
+79.14 Phố Cao Bá Quát
+Phố Kim Đồng
+Đường Hoàng Quốc Việt
+14.320
+8.592
+5.728
+2.864
+79.15 Phố Đoàn Kết
+Lương Thế Vinh
+Khu Bản Mới
+14.480
+8.688
+5.792
+2.896
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+5
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 18 ---
+79.16 Phố Đào Duy Từ
+Lương Thế Vinh
+Khu Bản Mới
+14.480
+8.688
+5.792
+2.896
+79.17 Phố Tôn Thất Tùng
+Trương Định
+Ông Ích Khiêm
+14.320
+8.592
+5.728
+2.864
+79.18 Phố Đặng Dung
+Đường Lý Thường Kiệt
+Đường Lương Thế Vinh
+14.320
+8.592
+5.728
+2.864
+80
+Khu Tái định cư Mỹ Sơn
+80.1 Đường Mỹ Sơn, đoạn 1
+Đường Ngô Quyền
+Rẽ đường Kéo Tào
+6.320
+3.792
+2.528
+1.264
+80.2 Đường Mỹ Sơn, đoạn 2
+Rẽ đường Kéo Tào
+Hết địa phận phường Đông
+Kinh
+4.240
+2.544
+1.696
+80.3 Đường Kéo Tào đoạn 1
+Đường Mỹ Sơn (rẽ ngõ 100
+Đường Mỹ Sơn cũ)
+Ngã ba tiếp giáp Cao Lộc
+2.640
+1.584
+1.056
+80.4 Đường Kéo Tào đoạn 2
+Ngã ba tiếp giáp Cao Lộc
+Đường Ngô Quyền
+2.400
+1.440
+80.5 Phố Mỹ Sơn 1
+Đường Quốc lộ 1
+Phố Mỹ Sơn 6
+5.760
+80.6 Phố Mỹ Sơn 2 (đoạn trong Khu
+nội bộ tái định cư Mỹ Sơn)
+Đường Quốc lộ 1
+Hết đất khu TĐC Mỹ Sơn
+5.200
+80.7 Phố Mỹ Sơn 3
+Đường Quốc lộ 1
+Phố Mỹ Sơn 6
+5.200
+80.8 Phố Mỹ Sơn 4
+Đường Quốc lộ 1
+Phố Mỹ Sơn 6
+5.200
+80.9 Phố Mỹ Sơn 5
+Đường Quốc lộ 1
+Hết đất khu TĐC Mỹ Sơn
+4.720
+2.832
+1.888
+944
+80.10 Phố Mỹ Sơn 6
+Phố Mỹ Sơn 5
+Phố Mỹ Sơn 1
+4.640
+80.11 Đường nội bộ Khu chung cư
+Mỹ Sơn
+Tất cả thửa đất thuộc đường nội bộ Khu chung cư Mỹ Sơn
+2.880
+81
+Khu đô thị CATALAN
+81.1 Tuyến đường số 1 (đường Quốc lộ 1) đường nội bộ khu đô thị CATALAN
+13.600
+8.160
+5.440
+2.720
+81.2 Các tuyến đường nội bộ còn lại và các thửa đất giáp đường Võ Thị Sáu, phố Hồ Tùng Mậu
+đường nội bộ khu đô thị CATALAN
+10.080
+6.048
+4.032
+2.016
+82
+Khu thấp tầng dự án nhà ở xã
+hội 2
+82.1 Đường nội bộ
+8.800
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+6
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 19 ---
+83
+Khu đô thị mới Đông Kinh
+83.1 01 Trục chính Bắc - Nam (MC
+TB 26m -33m
+Đường Ngô Quyền
+Đường Võ Thị Sáu
+6.800
+4.080
+2.720
+83.2 01 Trục tây - đông (MC TB
+13m)
+đường vào từ khu dân cư
+ngoài dự án
+Hết ranh giới dự án
+5.760
+3.456
+2.304
+83.3 12 đường nội bộ (MC TB 13m)
+5.760
+3.456
+2.304
+84
+Khu tái định cư và dân cư Nam Nguyễn Đình Chiểu, phường Đông Kinh
+84.1 Đường nội bộ
+7.600
+4.560
+3.040
+85
+Tiểu khu tái định cư khối 9, phường Vĩnh Trại
+85.1 Tuyến số 01 (mặt cắt đường
+12m)
+Đường Mỹ Sơn
+Đường ngõ bê tông (Phai
+Khẩu)
+6.400
+3.840
+2.560
+85.2 Các tuyến đường nội bộ còn lại trong Khu Tái định cư (mặt cắt đường từ 11m - 12m)
+5.200
+3.120
+2.080
+86
+Hạ tầng Kỹ Thuật khu tái định cư và dân cư Mỹ Sơn, phường Vĩnh Trại
+86.1 Tuyến có mặt cắt đường 19,5m Đường Mỹ Sơn (ngõ 166)
+Kéo thẳng đến phía đông
+của Dự án
+5.600
+3.360
+2.240
+86.2 Tuyến có mặt cắt đường 11,5m Đường Mỹ Sơn (ngõ 164)
+Kéo thẳng đến phía đông
+của Dự án
+5.600
+3.360
+2.240
+86.3 Các tuyến đường nội bộ còn lại trong Dự án (có mặt cắt đường từ 7,5m-20m)
+4.080
+2.448
+1.632
+87
+Hạ tầng khối 18, phường Đông
+Kinh
+6.400
+88
+Khu dân cư Ao Cạn - Bãi Than
+5.680
+3.408
+2.272
+89
+Khu Tái định cư 1 Mai Pha
+89.1 Phố Mai Pha 1
+Đường Hùng Vương
+Bãi quay xe (cuối khu dân
+cư)
+4.800
+2.880
+1.920
+960
+89.2 Phố Mai Pha 2
+Phố Mai Pha 1
+Phố Mai Pha 3
+4.960
+2.976
+1.984
+992
+89.3 Phố Mai Pha 3
+Đường Hùng Vương
+Phố Mai Pha 1
+5.200
+3.120
+2.080
+1.040
+89.4 Phố Mai Pha 4
+Phố Mai Pha 1
+Phố Mai Pha 8
+5.200
+3.120
+2.080
+1.040
+89.5 Phố Mai Pha 5
+Đường Hùng Vương
+Phố Mai Pha 4
+5.040
+3.024
+2.016
+1.008
+89.6 Phố Mai Pha 6
+Phố Mai Pha 1
+Phố Mai Pha 4
+4.960
+2.976
+1.984
+992
+89.7 Phố Mai Pha 7
+Đường Hùng Vương
+Phố Mai Pha 4
+5.440
+3.264
+2.176
+1.088
+89.8 Phố Mai Pha 8
+Phố Mai Pha 1
+Phố Mai Pha 4
+4.960
+2.976
+1.984
+992
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+7
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 20 ---
+90
+Khu tái định cư và dân cư
+Nam Thành Phố
+90.1 Phố Nguyễn Chí Thanh (54m)
+Phố Phạm Hồng Thái
+Đường Hùng Vương
+12.800
+7.680
+5.120
+2.560
+90.2 Phố Hồ Xuân Hương (19,5m)
+Phố Phạm Hồng Thái
+Đường Hùng Vương
+10.080
+6.048
+4.032
+2.016
+90.3 Phố Nguyễn Phong Sắc
+(19,5m): Đoạn 1
+Đường Hùng Vương
+Đường Bà Triệu
+7.840
+4.704
+3.136
+1.568
+90.4 Phố Nguyễn Phong Sắc
+(19,5m): Đoạn 2
+Đường Bà Triệu
+Hết khu tái định cư Nam
+thành phố
+7.200
+4.320
+2.880
+1.440
+90.5 Phố Trần Quang Diệu (17m)
+Phố Phạm Hồng Thái
+Đường Hùng Vương
+7.920
+4.752
+3.168
+1.584
+90.6 Phố Phạm Hồng Thái (17m)
+Đường nội bộ N1A
+Phố Nguyễn Phong Sắc
+(Đoạn 2)
+8.080
+4.848
+3.232
+1.616
+90.7 Phố Mạc Thị Bưởi
+Phố Nguyễn Chí Thanh
+Phố Nguyễn Phong Sắc
+(Đoạn 2)
+6.080
+3.648
+2.432
+1.216
+90.8 Phố Nam Cao
+Phố Nguyễn Chí Thanh
+Phố Nguyễn Phong Sắc
+(Đoạn 1)
+6.080
+3.648
+2.432
+1.216
+90.9 Phố Hồ Xuân Hương 1
+Phố Nguyễn Chí Thanh
+Phố Hồ Xuân Hương
+5.680
+3.408
+2.272
+1.136
+90.10 Phố Hồ Xuân Hương 2
+Phố Nguyễn Chí Thanh
+Phố Hồ Xuân Hương
+5.600
+3.360
+2.240
+1.120
+90.11 Phố Trần Văn Cẩn
+Đường Hùng Vương
+Phố Hồ Xuân Hương 1
+5.520
+3.312
+2.208
+1.104
+90.12 Phố Trần Văn Cẩn 1
+Phố Nguyễn Chí Thanh
+Phố Trần Văn Cẩn
+5.600
+3.360
+2.240
+1.120
+90.13 Phố Nguyễn Đức Cảnh
+Phố Nam Cao
+Phố Phạm Hồng Thái
+5.600
+3.360
+2.240
+1.120
+90.14 Phố Nguyễn Huy Giáp
+Phố Nam Cao
+Phố Phạm Hồng Thái
+5.760
+3.456
+2.304
+1.152
+90.15 Phố La Văn Cầu
+Phố Nam Cao
+Phố Phạm Hồng Thái
+5.680
+3.408
+2.272
+1.136
+90.16 Phố Nam Cao 1
+Đường Bà Triệu
+Phố Nam Cao
+5.680
+3.408
+2.272
+1.136
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+8
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 21 ---
+90.17 Phố Nam Cao 2
+Đường Bà Triệu
+Phố Nam Cao
+5.680
+3.408
+2.272
+1.136
+90.18 Phố Hồ Đắc Di
+Phố Hồ Xuân Hương 2
+Phố Phạm Hồng Thái
+5.600
+3.360
+2.240
+1.120
+90.19 Phố Phạm Ngọc Thạch
+Phố Hồ Xuân Hương 2
+Phố Phạm Hồng Thái
+5.600
+3.360
+2.240
+1.120
+90.20 Phố Đào Duy Anh
+Phố Hồ Xuân Hương 2
+Phố Phạm Hồng Thái
+5.600
+3.360
+2.240
+1.120
+90.21 Phố Nguyễn Bá Ngọc
+Phố Phạm Hồng Thái
+Phố Mạc Thị Bưởi
+5.680
+3.408
+2.272
+1.136
+90.22 Phố Tô Vĩnh Diện
+Phố Nguyễn Phong Sắc
+Phố Nguyễn Bá Ngọc
+5.600
+3.360
+2.240
+1.120
+91
+Khu Apec Diamond Park
+91.1 Tuyến đường nội bộ liền kề
+đường Quốc lộ 1
+13.520
+8.112
+5.408
+91.2 Các tuyến đường nội bộ còn lại
+11.200
+6.720
+4.480
+92
+Khu đô thị Green Garden
+92.1 Trục chính (Tây - Đông)
+5.040
+3.024
+2.016
+92.2 Trục chính (Bắc - Nam) - đoạn
+1
+5.040
+3.024
+2.016
+92.3 Trục chính (Bắc - Nam) - đoạn
+2
+5.040
+3.024
+2.016
+92.4 Trục chính (Bắc - Nam) - đoạn
+3
+5.040
+3.024
+2.016
+92.5 Đường nội bộ còn lại
+2.960
+1.776
+1.184
+93
+Trục đường đối ngoại và hạ
+tầng kỹ thuật khu tái định cư
+thuộc dự án Trụ sở làm việc
+Công an tỉnh (Dự án xây
+dựng trụ sở Công an Tỉnh)
+93.1 Trục chính (Bắc - Nam)
+5.600
+3.360
+2.240
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+9
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 22 ---
+93.2 Trục chính (Tây - Đông)
+4.480
+2.688
+1.792
+94
+Khu tái định cư dự án Đường
+Lý Thái Tổ kéo dài (Nhà máy
+nước cũ)
+94.1 Đường nội bộ
+4.320
+2.592
+1.728
+95
+Đường dẫn vào Khu tái định
+cư đường Lý Thái Tổ kéo dài
+95.1 Đường nội bộ
+4.480
+2.688
+1.792
+96
+Khu TĐC đường Lý Thái Tổ
+kéo dài
+96.1 Tuyến chính
+Mặt đường Lý Thái tổ kéo
+dài
+9.600
+96.2 Tuyến nội bộ
+4.560
+97
+Đường Yên Thành - Kéo Khoác Cổng chào khối Yên Thành
+(đường Quốc lộ 1)
+Điểm nối đường Quốc lộ 1
+(Km21+600 - khối Kéo
+Khoác)
+1.440
+864
+576
+98
+Đường Nà Lái 1
+Nút giao Hùng Vương
+(Km21+00/đường Quốc lộ
+1)
+Ngã ba thứ nhất xóm Nà Lái
+728
+437
+99
+Đường Nà Lái 2
+Ngã ba thứ nhất xóm Nà Lái Ngã ba trại tạm giam Công
+an tỉnh
+600
+100 Đường Bản Bảm
+Đầu cầu Bản Bảm
+Ngã ba Nà Ỏm (đường rẽ
+nhà văn hóa khối Bản Bảm)
+416
+101 Đường Bản Bảm - Pò Cháu
+Ngã ba Nà Ỏm (đường rẽ
+nhà văn hóa khối Bản Bảm)
+Hết địa phận khối Pò Cháu
+(tiếp giáp địa phận xã Tân
+Liên cũ)
+392
+102 Đường Yên Thành - Yên Thuỷ
+1
+Cầu Cò Mào
+Trại tạm giam Công an tỉnh
+600
+103 Đường Yên Thuỷ 1
+Km1+00/đường tỉnh 238
+(ngã 3 Cò Mào)
+Ngã 3 Thu Cù (đường rẽ vào
+đình Thà Chỏ)
+728
+437
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+10
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 23 ---
+104 Đường Yên Thuỷ 2
+Ngã 3 Thu Cù (đường rẽ vào
+đình Thà Chỏ)
+Hết khối Yên Thủy 2 (ngã 3
+rẽ đi xã Vân An cũ)
+408
+105 Đường Tát Uẩn
+Hết khối Yên Thủy 2 (Km 4
+đường Yên Trạch - Tát Uẩn)
+Hết Vằng Khoác (đường
+Yên Trạch - Tát Uẩn)
+408
+106 Đường Yên Thượng
+Km4+400/đường tỉnh 238
+(ngã ba rẽ vào khối Yên
+Sơn)
+Hết địa phận xã Yên Trạch
+cũ (dốc Co Kén - giáp địa
+phận huyện Chi Lăng cũ)
+408
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+11
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 24 ---
+107 Khu TĐC dự án Cao tốc Hữu Nghị - Chi Lăng địa phận phường Đông Kinh
+107.1 Tuyến đường trục chính khu
+TĐC
+5.280
+3.168
+2.112
+1.056
+107.2 Tuyến nhánh kéo từ đường trục
+chính
+4.640
+2.784
+1.856
+928
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại đô thị.
+Khu vực còn lại (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Các khối: Khối 1, Khối 2, Khối 3, Khối 4, Khối 5, Khối 6,
+Khối 7, Khối 8, Khối 9, Khối 10, Khối 11, Khối 12, Khối
+13, Khối 14, Khối 15, Khối 16, Khối 18, Khối 19
+880
+2
+Các khối: Bình Cằm, Phai Duốc, Co Măn, Khòn Pát,
+Trung Cấp, Rọ Phải, Nà Chuông, Pò Đứa - Pò Mỏ, Khòn
+Phổ, Khòn Khuyên, Mai Thành
+664
+3
+Các khối: Kéo Khoác, Nà Háo, Nà Soong, Nà Thà, Yên
+Hạ, Yên Sơn, Yên Thượng, Yên Thành, Yên Thuỷ I, Yên
+Thuỷ II
+392
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+12
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 25 ---
+65. Phường Đông Kinh
+BẢNG 65.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; GIÁ ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN
+ PHƯỜNG ĐÔNG KINH
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m2
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Trần Đăng Ninh, đoạn 1
+(Địa phận phường Đông Kinh)
+Phía Bắc Cầu Kỳ Cùng
+Đường Tam Thanh
+41.160
+24.696
+16.464
+8.232
+2
+Đường Lê Lợi, đoạn 1
+Đường Trần Đăng Ninh
+Đường Bắc Sơn
+41.160
+24.696
+16.464
+8.232
+3
+Đường Lê Lợi, đoạn 2
+Đường Bắc Sơn
+Đường Chu Văn An
+31.850
+19.110
+12.740
+6.370
+4
+Đường Lê Lợi, đoạn 3
+Đường Chu Văn An
+Đường Lý Thường Kiệt
+28.840
+17.304
+11.536
+5.768
+5
+Đường Lê Lợi, đoạn 4
+Đường Lý Thường Kiệt
+Ga Lạng Sơn
+19.600
+11.760
+7.840
+3.920
+6
+Đường Lý Thường Kiệt
+Đường Lê Lợi
+Đường Hoàng Quốc Việt
+35.840
+21.504
+14.336
+7.168
+7
+Đường 17 tháng 10
+Bắc đầu cầu Kỳ Cùng, Trần
+Đăng Ninh
+Ngã ba Lê Lợi, Nguyễn Du
+33.320
+19.992
+13.328
+6.664
+8
+Đường Bắc Sơn, đoạn 1
+Đường Lê Lợi
+Cầu chợ Giếng Vuông
+28.980
+17.388
+11.592
+5.796
+9
+Đường Bà Triệu, đoạn 3
+Phía Nam Cầu Lao Ly 2
+(Phường Đông Kinh)
+Đường Ngô Gia Tự
+30.520
+18.312
+12.208
+6.104
+10
+Đường Bà Triệu, đoạn 4
+Đường Ngô Gia Tự
+Đường Lý Thái Tổ
+24.290
+14.574
+9.716
+4.858
+11
+Đường Bà Triệu, đoạn 5
+Đường Lý Thái Tổ
+Đường Nguyễn Đình Chiểu
+18.270
+10.962
+7.308
+3.654
+12
+Đường Bà Triệu, đoạn 6
+Đường Nguyễn Đình Chiểu
+ Phía Bắc Cầu 17 tháng 10
+11.970
+7.182
+4.788
+2.394
+13
+Đường Bà Triệu, đoạn 7
+Phía Nam cầu 17 tháng 10
+Giao đường Nguyễn Phong
+Sắc
+10.570
+6.342
+4.228
+2.114
+14
+Đường Bà Triệu, đoạn 8
+Ngã tư Nguyễn Phong Sắc
+Ngã ba giao cắt đường Hùng
+Vương
+8.470
+15
+Đường Nguyễn Tri Phương,
+đoạn 1
+Đường 17 tháng 10
+Đường Nguyễn Du
+27.720
+16.632
+11.088
+5.544
+16
+Đường Nguyễn Tri Phương,
+đoạn 2
+Đường Nguyễn Du
+Đường Bà Triệu
+13.930
+8.358
+5.572
+2.786
+17
+Đường Nguyễn Du, đoạn 1
+Đường Lê Lợi
+Đường Phai Vệ
+24.920
+14.952
+9.968
+4.984
+18
+Đường Nguyễn Du, đoạn 2
+Đường Phai Vệ
+Đầu cầu Đông Kinh
+13.300
+7.980
+5.320
+2.660
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 26 ---
+19
+Đường Nguyễn Du, đoạn 3
+Đầu cầu Đông Kinh
+Đường Nguyễn Đình Chiểu
+5.530
+3.318
+2.212
+1.106
+20
+Đường Nguyễn Đình Chiểu
+Đường Nguyễn Du
+Đường Bà Triệu
+4.970
+2.982
+1.988
+994
+21
+Đường Nguyễn Đình Chiểu kéo
+dài thuộc dự án Cầu Thác Mạ
+(Cầu 17/10)
+Đường Bà Triệu
+Bờ sông
+7.420
+4.452
+2.968
+1.484
+22
+Đường Phai Vệ, đoạn 1
+Đường Nguyễn Du (chợ
+Đông Kinh)
+Đường Bà Triệu
+26.040
+15.624
+10.416
+5.208
+23
+Đường Phai Vệ, đoạn 2
+Đường Bà Triệu
+Đường Chu Văn An
+17.850
+10.710
+7.140
+3.570
+24
+Đường Phai Vệ, đoạn 3
+Đường Chu  Văn An
+Ngõ 169 đường Phai  Vệ
+(ngõ 8 cũ)
+13.510
+8.106
+5.404
+2.702
+25
+Đường Phai Vệ, đoạn 4
+Ngõ 169 đường Phai Vệ
+(ngõ 8 cũ)
+Đường Lê Đại Hành
+12.040
+7.224
+4.816
+2.408
+26
+Đường Phai Vệ: Đoạn 5
+ Ngã tư Đường Phai Vệ -
+Đường Lê Đại Hành
+Đường Quốc Lộ 1
+9.590
+5.754
+3.836
+1.918
+27
+Đường Ngô Quyền, đoạn 1
+Đường Lê Lợi
+Đường Lê Đại Hành
+28.770
+17.262
+11.508
+5.754
+28
+Đường Ngô Quyền, đoạn 2
+Đường Lê Đại Hành
+Đường Quốc lộ 1
+16.730
+10.038
+6.692
+3.346
+29
+Đường Ngô Quyền, đoạn 3
+Đường Quốc lộ 1
+Đường Mỹ Sơn
+11.900
+7.140
+4.760
+2.380
+30
+Đường Ngô Quyền, đoạn 4
+Đường Mỹ Sơn
+Hết địa phận phường Đông
+Kinh
+8.750
+5.250
+3.500
+1.750
+31
+Đường Lý Thái Tổ, đoạn 1
+Phía Đông cầu Đông Kinh
+Đường Bà Triệu
+24.290
+14.574
+9.716
+4.858
+32
+Đường Lý Thái Tổ, đoạn 2
+Ngã tư Bà Triệu - Lý Thái
+Tổ (Phường Đông Kinh)
+Hết tường rào phía Bắc
+Trường Chu Văn An
+8.120
+4.872
+3.248
+1.624
+33
+Đường Lương Thế Vinh, đoạn
+1 (Đ31m)
+Đường Lý Thường Kiệt
+Ngã 3 đường Lương Thế
+Vinh
+16.730
+34
+ Đường Lương Thế Vinh, đoạn
+2
+Ngã 3 đường Lương Thế
+Vinh
+Đường Hoàng Quốc Việt
+12.740
+7.644
+5.096
+2.548
+35
+Đường Hoàng Quốc Việt (thuộc
+địa phận phường Đông Kinh)
+Đường Bà Triệu
+Đường Lương Thế Vinh
+14.700
+8.820
+5.880
+2.940
+36
+Đường Lê Đại Hành, đoạn 1
+Đường Lê Lợi
+Đường Ngô Quyền
+6.650
+3.990
+2.660
+1.330
+37
+Đường Lê Đại Hành, đoạn 2
+Đường Ngô Quyền
+Đường Phai Vệ
+13.020
+7.812
+5.208
+2.604
+38
+Đường Ngô Gia Tự
+Đường Nguyễn Du
+Đường Bà Triệu
+9.100
+5.460
+3.640
+1.820
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+2
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 27 ---
+39
+Đường Chu Văn An, đoạn 1
+Hết tường rào phía Bắc
+Trường Chu Văn An
+Đường Phai Vệ
+4.830
+2.898
+1.932
+966
+40
+Đường Chu Văn An, đoạn 2
+Đường Phai Vệ
+Đường Lê Lợi
+6.930
+4.158
+2.772
+1.386
+41
+Đường Chu Văn An, đoạn 3
+Đường Lê Lợi
+Nhà văn hóa khối 5 phường
+Vĩnh Trại
+4.480
+2.688
+1.792
+896
+42
+Đường Chu Văn An, đoạn 4
+Nhà văn hóa khối 5 phường
+Vĩnh Trại
+Đường Bà Triệu
+3.500
+2.100
+1.400
+43
+Đường Quốc lộ 1, đoạn 1
+Địa phận phường Đông
+Kinh (giáp phường Kỳ Lừa) Đường Phai Vệ đoạn 5
+6.440
+3.864
+2.576
+1.288
+44
+Đường Quốc lộ 1, đoạn 2
+Đường Phai Vệ đoạn 5
+Đường tàu cắt ngang Na
+Dương
+4.410
+2.646
+1.764
+882
+45
+Đường Quốc lộ 1, đoạn 3
+Đường tàu cắt ngang Na
+Dương
+Km23+100
+1.330
+798
+46
+Đường Quốc lộ 1, đoạn 4
+Km23+100
+Km27+200 (Hết địa phận
+phường Đông Kinh)
+910
+47
+Đường Võ Thị Sáu, đoạn 1
+Đường Quốc lộ 1 mới
+Phố Hồ Tùng Mậu
+8.820
+5.292
+3.528
+1.764
+48
+Đường Võ Thị Sáu, đoạn 2
+Phố Hồ Tùng Mậu
+Đường rẽ vào Trường Mầm
+non 2/9
+7.700
+4.620
+3.080
+1.540
+49
+Phố Hồ Tùng Mậu
+Đường Võ Thị Sáu
+Đến hết Khu nhà ở xã hội
+(gặp đường Võ Thị Sáu)
+5.040
+3.024
+2.016
+1.008
+50
+Đường Hoàng Đình Kinh, đoạn
+1
+Ngã tư đường Phai Vệ
+Hết đất Trường Dân tộc nội
+trú
+4.760
+2.856
+1.904
+952
+51
+Đường Hoàng Đình Kinh, đoạn
+2
+Hết đất Trường Phổ thông
+Dân tộc nội trú
+Hết đất khu tập thể Nhà máy
+Xi Măng Lạng Sơn
+2.940
+1.764
+1.176
+588
+52
+Đường Hoàng Đình Kinh, đoạn
+3
+Từ hết đất thuộc khu tập thể
+Nhà máy Xi măng Lạng Sơn
+đi qua khối Pò Đứa - Pò Mỏ
+ Đường Quốc Lộ 1
+1.960
+1.176
+784
+53
+Đường Hùng Vương, đoạn 4
+Phía Nam Cầu Rọ Phải
+Đường Bà Triệu
+8.470
+5.082
+3.388
+1.694
+54
+Đường Hùng Vương, đoạn 5
+Đường Bà Triệu
+Đường Quốc Lộ 1
+4.900
+2.940
+1.960
+980
+55
+Đường vào khối Co Măn
+Đường Hùng Vương
+Giáp đường sắt
+1.890
+1.134
+756
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+3
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 28 ---
+56
+Đường vào sân bay Mai Pha
+Hết khu tái định cư Nam
+thành phố
+Bờ sông Kỳ Cùng
+1.820
+1.092
+728
+57
+Đường tỉnh 238, đoạn 1
+Cây xăng Thanh Phương
+Km1+00 (ngã ba Cò Mào)
+1.260
+756
+504
+58
+Đường tỉnh 238, đoạn 2
+Km1+00 (ngã ba Cò Mào)
+Km4+240 (ngã ba rẽ vào
+thôn Yên Sơn)
+560
+59
+Đường tỉnh 238, đoạn 3
+Km4+240 (ngã ba rẽ vào
+thôn Yên Sơn)
+Km7+250 (dốc Kéo Sường-
+giáp địa phận huyện Chi
+Lăng)
+420
+60
+Phố Thân Thừa Quý
+Ngõ 2, Đường Lê Lợi
+Đường Bắc Sơn
+13.650
+8.190
+5.460
+2.730
+61
+Phố Phùng Hưng
+Đường Bà Triệu
+Đường Bắc  Sơn
+14.840
+8.904
+5.936
+2.968
+62
+Phố Trần Xuân Soạn
+Phố Phùng Hưng
+Nhà Văn hóa khối 2 và
+Trạm y tế phường Vĩnh Trại
+10.570
+6.342
+4.228
+2.114
+63
+Phố Đoàn Thị Điểm
+Phố Trần Xuân Soạn
+Phố Phùng Hưng
+10.290
+6.174
+4.116
+2.058
+64
+Phố Nguyễn Trường Tộ
+Đường Nguyễn Du
+Đường  Lý Thái Tổ
+13.370
+8.022
+5.348
+2.674
+65
+Phố Đinh Liệt
+Đường Ngô Quyền
+Ngõ 1 Lê Đại Hành
+8.820
+5.292
+3.528
+1.764
+66
+Phố Tinh Dầu 1
+Đường Phai Vệ
+Phố Tinh Dầu 4
+8.050
+4.830
+3.220
+67
+Phố Tinh Dầu 2
+Phố Tinh Dầu 1
+Tường rào bao quanh khu
+dân cư Tinh Dầu
+8.050
+4.830
+3.220
+68
+Phố Tinh Dầu 3
+Phố Tinh Dầu 1
+Tường rào bao quanh khu
+dân cư Tinh Dầu
+8.050
+69
+Phố Tinh Dầu 4
+Đường Chu Văn An
+Tường rào bao quanh khu
+dân cư Tinh Dầu
+8.050
+70
+Phố Thác Mạ 1
+Đường Bà Triệu
+Phố Thác Mạ 2
+6.860
+71
+Phố Thác Mạ 2
+Phố Thác Mạ 1
+Phố Thác Mạ 5
+6.860
+4.116
+2.744
+1.372
+72
+Phố Thác Mạ 3
+Phố Thác Mạ 1
+Phố Thác Mạ 5
+6.860
+73
+Phố Thác Mạ 4
+Phố Thác Mạ 3
+Phố Thác Mạ 2
+6.860
+74
+Phố Thác Mạ 5 (Đường 25m)
+Đường Bà Triệu
+Phố Thác Mạ 2
+8.050
+75
+Phố Thác Mạ 6
+Phố Thác Mạ 2
+Phố Thác Mạ 5
+6.860
+4.116
+2.744
+1.372
+76
+Phố Thác Mạ 7
+Phố Thác Mạ 5
+Phố Thác Mạ 5
+6.860
+77
+Phố Thác Mạ 8
+Phố Thác Mạ 5
+Phố Thác Mạ 3
+6.860
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+4
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 29 ---
+78
+Tuyến phố phía sau Hội văn
+học nghệ thuật (và Nhà báo
+tỉnh)
+Thác Mạ 6
+Bờ sông
+5.670
+3.402
+2.268
+1.134
+79
+Khu đô thị Phú lộc IV
+79.1 Phố Trần Đại Nghĩa
+Đường Lý Thường Kiệt
+Phố Đinh Lễ
+18.130
+10.878
+7.252
+3.626
+79.2 Phố Kim Đồng
+Đường Đinh Công Tráng
+Đường Lương Thế Vinh
+14.420
+79.3 Phố Lê Hữu Trác
+Đường Lý Thường Kiệt
+Phố Đinh Lễ
+12.600
+79.4 Phố Đinh Lễ
+Đường Lý Thường Kiệt
+Phố Trần Đại Nghĩa
+12.600
+79.5 Phố Linh Lang
+Đường Lý Thường Kiệt
+Phố Lương Đình Của
+12.600
+79.6 Phố Lương Định Của
+Đường Lý Thường Kiệt
+Công trình công cộng (sân
+bóng đá mi ni)
+12.670
+79.7 Phố Đinh Công Tráng
+Phố Đinh Lễ
+Phố Đặng Văn Ngữ
+12.600
+7.560
+5.040
+2.520
+79.8
+Đường Bùi Thị Xuân
+(đoạn thuộc phường Đông
+Kinh)
+Đường Lương Thế Vinh
+Đường Hoàng Quốc Việt
+12.670
+79.9 Phố Bùi Thị Xuân 4
+Lý Thường Kiệt
+Bùi Thị Xuân
+12.530
+7.518
+5.012
+2.506
+79.10 Phố Bùi Thị Xuân 5
+Lý Thường Kiệt
+Bùi Thị Xuân
+12.670
+7.602
+5.068
+2.534
+79.11 Phố Đặng Văn Ngữ
+Đường Lý Thường Kiệt
+Phố Phùng Trí Kiên
+12.530
+79.12 Phố Trương Định
+Đường Bùi Thị Xuân
+Phố Cao Bá Quát
+12.530
+7.518
+5.012
+2.506
+79.13 Phố Ông Ích Khiêm
+Đường Bùi Thị Xuân
+Phố Cao Bá Quát
+12.530
+7.518
+5.012
+2.506
+79.14 Phố Cao Bá Quát
+Phố Kim Đồng
+Đường Hoàng Quốc Việt
+12.530
+7.518
+5.012
+2.506
+79.15 Phố Đoàn Kết
+Lương Thế Vinh
+Khu Bản Mới
+12.670
+7.602
+5.068
+2.534
+79.16 Phố Đào Duy Từ
+Lương Thế Vinh
+Khu Bản Mới
+12.670
+7.602
+5.068
+2.534
+79.17 Phố Tôn Thất Tùng
+Trương Định
+Ông Ích Khiêm
+12.530
+7.518
+5.012
+2.506
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+5
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 30 ---
+79.18 Phố Đặng Dung
+Đường Lý Thường Kiệt
+Đường Lương Thế Vinh
+12.530
+7.518
+5.012
+2.506
+80
+Khu Tái định cư Mỹ Sơn
+80.1 Đường Mỹ Sơn, đoạn 1
+Đường Ngô Quyền
+Rẽ đường Kéo Tào
+5.530
+3.318
+2.212
+1.106
+80.2 Đường Mỹ Sơn, đoạn 2
+Rẽ đường Kéo Tào
+Hết địa phận phường Đông
+Kinh
+3.710
+2.226
+1.484
+80.3 Đường Kéo Tào đoạn 1
+Đường Mỹ Sơn (rẽ ngõ 100
+Đường Mỹ Sơn cũ)
+Ngã ba tiếp giáp Cao Lộc
+2.310
+1.386
+924
+80.4 Đường Kéo Tào đoạn 2
+Ngã ba tiếp giáp Cao Lộc
+Đường Ngô Quyền
+2.100
+80.5 Phố Mỹ Sơn 1
+Đường Quốc lộ 1
+Phố Mỹ Sơn 6
+5.040
+80.6 Phố Mỹ Sơn 2 (đoạn trong Khu
+nội bộ tái định cư Mỹ Sơn)
+Đường Quốc lộ 1
+Hết đất khu TĐC Mỹ Sơn
+4.550
+80.7 Phố Mỹ Sơn 3
+Đường Quốc lộ 1
+Phố Mỹ Sơn 6
+4.550
+80.8 Phố Mỹ Sơn 4
+Đường Quốc lộ 1
+Phố Mỹ Sơn 6
+4.550
+80.9 Phố Mỹ Sơn 5
+Đường Quốc lộ 1
+Hết đất khu TĐC Mỹ Sơn
+4.130
+2.478
+1.652
+826
+80.10 Phố Mỹ Sơn 6
+Phố Mỹ Sơn 5
+Phố Mỹ Sơn 1
+4.060
+80.11 Đường nội bộ Khu chung cư
+Mỹ Sơn
+Tất cả thửa đất thuộc đường nội bộ Khu chung cư Mỹ Sơn
+2.520
+81
+Khu đô thị CATALAN
+81.1 Tuyến đường số 1 (đường Quốc lộ 1) đường nội bộ khu đô thị CATALAN
+11.900
+7.140
+4.760
+2.380
+81.2 Các tuyến đường nội bộ còn lại và các thửa đất giáp đường Võ Thị Sáu, phố Hồ Tùng Mậu
+đường nội bộ khu đô thị CATALAN
+8.820
+5.292
+3.528
+1.764
+82
+Khu thấp tầng dự án nhà ở xã
+hội 2
+82.1 Đường nội bộ
+7.700
+83
+Khu đô thị mới Đông Kinh
+83.1 01 Trục chính Bắc - Nam (MC
+TB 26m -33m
+Đường Ngô Quyền
+Đường Võ Thị Sáu
+5.950
+3.570
+2.380
+83.2 01 Trục tây - đông (MC TB
+13m)
+đường vào từ khu dân cư
+ngoài dự án
+Hết ranh giới dự án
+5.040
+3.024
+2.016
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+6
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 31 ---
+83.3 12 đường nội bộ (MC TB 13m)
+5.040
+3.024
+2.016
+84
+Khu tái định cư và dân cư Nam Nguyễn Đình Chiểu, phường Đông Kinh
+84.1 Đường nội bộ
+6.650
+3.990
+2.660
+85
+Tiểu khu tái định cư khối 9, phường Vĩnh Trại
+85.1 Tuyến số 01 (mặt cắt đường
+12m)
+Đường Mỹ Sơn
+Đường ngõ bê tông (Phai
+Khẩu)
+5.600
+3.360
+2.240
+85.2 Các tuyến đường nội bộ còn lại trong Khu Tái định cư (mặt cắt đường từ 11m - 12m)
+4.550
+2.730
+1.820
+86
+Hạ tầng Kỹ Thuật khu tái định cư và dân cư Mỹ Sơn, phường Vĩnh Trại
+86.1 Tuyến có mặt cắt đường 19,5m Đường Mỹ Sơn (ngõ 166)
+Kéo thẳng đến phía đông
+của Dự án
+4.900
+2.940
+1.960
+86.2 Tuyến có mặt cắt đường 11,5m Đường Mỹ Sơn (ngõ 164)
+Kéo thẳng đến phía đông
+của Dự án
+4.900
+2.940
+1.960
+86.3 Các tuyến đường nội bộ còn lại trong Dự án (có mặt cắt đường từ 7,5m-20m)
+3.570
+2.142
+1.428
+87
+Hạ tầng khối 18, phường Đông
+Kinh
+5.600
+88
+Khu dân cư Ao Cạn - Bãi Than
+4.970
+2.982
+1.988
+89
+Khu Tái định cư 1 Mai Pha
+89.1 Phố Mai Pha 1
+Đường Hùng Vương
+Bãi quay xe (cuối khu dân
+cư)
+4.200
+2.520
+1.680
+840
+89.2 Phố Mai Pha 2
+Phố Mai Pha 1
+Phố Mai Pha 3
+4.340
+2.604
+1.736
+868
+89.3 Phố Mai Pha 3
+Đường Hùng Vương
+Phố Mai Pha 1
+4.550
+2.730
+1.820
+910
+89.4 Phố Mai Pha 4
+Phố Mai Pha 1
+Phố Mai Pha 8
+4.550
+2.730
+1.820
+910
+89.5 Phố Mai Pha 5
+Đường Hùng Vương
+Phố Mai Pha 4
+4.410
+2.646
+1.764
+882
+89.6 Phố Mai Pha 6
+Phố Mai Pha 1
+Phố Mai Pha 4
+4.340
+2.604
+1.736
+868
+89.7 Phố Mai Pha 7
+Đường Hùng Vương
+Phố Mai Pha 4
+4.760
+2.856
+1.904
+952
+89.8 Phố Mai Pha 8
+Phố Mai Pha 1
+Phố Mai Pha 4
+4.340
+2.604
+1.736
+868
+90
+Khu tái định cư và dân cư
+Nam Thành Phố
+90.1 Phố Nguyễn Chí Thanh (54m)
+Phố Phạm Hồng Thái
+Đường Hùng Vương
+11.200
+6.720
+4.480
+2.240
+90.2 Phố Hồ Xuân Hương (19,5m)
+Phố Phạm Hồng Thái
+Đường Hùng Vương
+8.820
+5.292
+3.528
+1.764
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+7
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 32 ---
+90.3 Phố Nguyễn Phong Sắc
+(19,5m): Đoạn 1
+Đường Hùng Vương
+Đường Bà Triệu
+6.860
+4.116
+2.744
+1.372
+90.4 Phố Nguyễn Phong Sắc
+(19,5m): Đoạn 2
+Đường Bà Triệu
+Hết khu tái định cư Nam
+thành phố
+6.300
+3.780
+2.520
+1.260
+90.5 Phố Trần Quang Diệu (17m)
+Phố Phạm Hồng Thái
+Đường Hùng Vương
+6.930
+4.158
+2.772
+1.386
+90.6 Phố Phạm Hồng Thái (17m)
+Đường nội bộ N1A
+Phố Nguyễn Phong Sắc
+(Đoạn 2)
+7.070
+4.242
+2.828
+1.414
+90.7 Phố Mạc Thị Bưởi
+Phố Nguyễn Chí Thanh
+Phố Nguyễn Phong Sắc
+(Đoạn 2)
+5.320
+3.192
+2.128
+1.064
+90.8 Phố Nam Cao
+Phố Nguyễn Chí Thanh
+Phố Nguyễn Phong Sắc
+(Đoạn 1)
+5.320
+3.192
+2.128
+1.064
+90.9 Phố Hồ Xuân Hương 1
+Phố Nguyễn Chí Thanh
+Phố Hồ Xuân Hương
+4.970
+2.982
+1.988
+994
+90.10 Phố Hồ Xuân Hương 2
+Phố Nguyễn Chí Thanh
+Phố Hồ Xuân Hương
+4.900
+2.940
+1.960
+980
+90.11 Phố Trần Văn Cẩn
+Đường Hùng Vương
+Phố Hồ Xuân Hương 1
+4.830
+2.898
+1.932
+966
+90.12 Phố Trần Văn Cẩn 1
+Phố Nguyễn Chí Thanh
+Phố Trần Văn Cẩn
+4.900
+2.940
+1.960
+980
+90.13 Phố Nguyễn Đức Cảnh
+Phố Nam Cao
+Phố Phạm Hồng Thái
+4.900
+2.940
+1.960
+980
+90.14 Phố Nguyễn Huy Giáp
+Phố Nam Cao
+Phố Phạm Hồng Thái
+5.040
+3.024
+2.016
+1.008
+90.15 Phố La Văn Cầu
+Phố Nam Cao
+Phố Phạm Hồng Thái
+4.970
+2.982
+1.988
+994
+90.16 Phố Nam Cao 1
+Đường Bà Triệu
+Phố Nam Cao
+4.970
+2.982
+1.988
+994
+90.17 Phố Nam Cao 2
+Đường Bà Triệu
+Phố Nam Cao
+4.970
+2.982
+1.988
+994
+90.18 Phố Hồ Đắc Di
+Phố Hồ Xuân Hương 2
+Phố Phạm Hồng Thái
+4.900
+2.940
+1.960
+980
+90.19 Phố Phạm Ngọc Thạch
+Phố Hồ Xuân Hương 2
+Phố Phạm Hồng Thái
+4.900
+2.940
+1.960
+980
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+8
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 33 ---
+90.20 Phố Đào Duy Anh
+Phố Hồ Xuân Hương 2
+Phố Phạm Hồng Thái
+4.900
+2.940
+1.960
+980
+90.21 Phố Nguyễn Bá Ngọc
+Phố Phạm Hồng Thái
+Phố Mạc Thị Bưởi
+4.970
+2.982
+1.988
+994
+90.22 Phố Tô Vĩnh Diện
+Phố Nguyễn Phong Sắc
+Phố Nguyễn Bá Ngọc
+4.900
+2.940
+1.960
+980
+91
+Khu Apec Diamond Park
+91.1 Tuyến đường nội bộ liền kề
+đường Quốc lộ 1
+11.830
+7.098
+4.732
+91.2 Các tuyến đường nội bộ còn lại
+9.800
+5.880
+3.920
+92
+Khu đô thị Green Garden
+92.1 Trục chính (Tây - Đông)
+4.410
+2.646
+1.764
+92.2 Trục chính (Bắc - Nam) - đoạn
+1
+4.410
+2.646
+1.764
+92.3 Trục chính (Bắc - Nam) - đoạn
+2
+4.410
+2.646
+1.764
+92.4 Trục chính (Bắc - Nam) - đoạn
+3
+4.410
+2.646
+1.764
+92.5 Đường nội bộ còn lại
+2.590
+1.554
+1.036
+93
+Trục đường đối ngoại và hạ
+tầng kỹ thuật khu tái định cư
+thuộc dự án Trụ sở làm việc
+Công an tỉnh (Dự án xây
+dựng trụ sở Công an Tỉnh)
+93.1 Trục chính (Bắc - Nam)
+4.900
+2.940
+1.960
+93.2 Trục chính (Tây - Đông)
+3.920
+2.352
+1.568
+94
+Khu tái định cư dự án Đường
+Lý Thái Tổ kéo dài (Nhà máy
+nước cũ)
+94.1 Đường nội bộ
+3.780
+2.268
+1.512
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+9
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 34 ---
+95
+Đường dẫn vào Khu tái định
+cư đường Lý Thái Tổ kéo dài
+95.1 Đường nội bộ
+3.920
+2.352
+1.568
+96
+Khu TĐC đường Lý Thái Tổ
+kéo dài
+96.1 Tuyến chính
+Mặt đường Lý Thái tổ kéo
+dài
+8.400
+96.2 Tuyến nội bộ
+3.990
+97
+Đường Yên Thành - Kéo Khoác Cổng chào khối Yên Thành
+(đường Quốc lộ 1)
+Điểm nối đường Quốc lộ 1
+(Km21+600 - khối Kéo
+Khoác)
+1.260
+756
+504
+98
+Đường Nà Lái 1
+Nút giao Hùng Vương
+(Km21+00/đường Quốc lộ
+1)
+Ngã ba thứ nhất xóm Nà Lái
+637
+382
+99
+Đường Nà Lái 2
+Ngã ba thứ nhất xóm Nà Lái Ngã ba trại tạm giam Công
+an tỉnh
+525
+100 Đường Bản Bảm
+Đầu cầu Bản Bảm
+Ngã ba Nà Ỏm (đường rẽ
+nhà văn hóa khối Bản Bảm)
+364
+101 Đường Bản Bảm - Pò Cháu
+Ngã ba Nà Ỏm (đường rẽ
+nhà văn hóa khối Bản Bảm)
+Hết địa phận khối Pò Cháu
+(tiếp giáp địa phận xã Tân
+Liên cũ)
+343
+102 Đường Yên Thành - Yên Thuỷ
+1
+Cầu Cò Mào
+Trại tạm giam Công an tỉnh
+525
+103 Đường Yên Thuỷ 1
+Km1+00/đường tỉnh 238
+(ngã 3 Cò Mào)
+Ngã 3 Thu Cù (đường rẽ vào
+đình Thà Chỏ)
+637
+382
+104 Đường Yên Thuỷ 2
+Ngã 3 Thu Cù (đường rẽ vào
+đình Thà Chỏ)
+Hết khối Yên Thủy 2 (ngã 3
+rẽ đi xã Vân An cũ)
+357
+105 Đường Tát Uẩn
+Hết khối Yên Thủy 2 (Km 4
+đường Yên Trạch - Tát Uẩn)
+Hết Vằng Khoác (đường
+Yên Trạch - Tát Uẩn)
+357
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+10
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 35 ---
+106 Đường Yên Thượng
+Km4+400/đường tỉnh 238
+(ngã ba rẽ vào khối Yên
+Sơn)
+Hết địa phận xã Yên Trạch
+cũ (dốc Co Kén - giáp địa
+phận huyện Chi Lăng cũ)
+357
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+11
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 36 ---
+107 Khu TĐC dự án Cao tốc Hữu Nghị - Chi Lăng địa phận phường Đông Kinh
+107.1 Tuyến đường trục chính khu
+TĐC
+4.620
+2.772
+1.848
+924
+107.2 Tuyến nhánh kéo từ đường trục
+chính
+4.060
+2.436
+1.624
+812
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại đô thị.
+Khu vực còn lại (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Các khối: Khối 1, Khối 2, Khối 3, Khối 4, Khối 5, Khối 6,
+Khối 7, Khối 8, Khối 9, Khối 10, Khối 11, Khối 12, Khối
+13, Khối 14, Khối 15, Khối 16, Khối 18, Khối 19
+770
+2
+Các khối: Bình Cằm, Phai Duốc, Co Măn, Khòn Pát,
+Trung Cấp, Rọ Phải, Nà Chuông, Pò Đứa - Pò Mỏ, Khòn
+Phổ, Khòn Khuyên, Mai Thành
+581
+3
+Các khối: Kéo Khoác, Nà Háo, Nà Soong, Nà Thà, Yên
+Hạ, Yên Sơn, Yên Thượng, Yên Thành, Yên Thuỷ I, Yên
+Thuỷ II
+343
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+12
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 37 ---
+65. Phường Đông Kinh
+BẢNG 65.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP PHƯỜNG ĐÔNG KINH
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1.000 đồng/m2
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Phường Đông Kinh
+75
+67
+60
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m2
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Phường Đông Kinh
+70
+62
+55
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m2
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Phường Đông Kinh
+65
+57
+50
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m2
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Phường Đông Kinh
+50
+46
+42
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m2
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Phường Đông Kinh
+13
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

@@ -1,0 +1,357 @@
+NGUON FILE: Lang Son/38. Xã Xuân Dương.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+38. Xã Xuân Dương
+BẢNG 38.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ XUÂN DƯƠNG
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Na Dương - Xuân
+Dương: Đoạn 3
+Km7+600 (tiếp giáp xã Na
+Dương)
+Điểm cách Trường Mầm non
+Nam Quan 501m (về phía xã
+Na Dương)
+490
+294
+2
+Đường Na Dương - Xuân
+Dương: Đoạn 4
+Đoạn từ Trường Mầm non Nam Quan 500m về 2 phía
+710
+426
+284
+3
+Đường Na Dương - Xuân
+Dương: Đoạn 5
+Cách Trường Mầm non Nam
+Quan 501m phía xã Sa Lý,
+tỉnh Bắc Ninh
+Cách trụ sở UBND Xã Xuân
+Dương 501m
+480
+288
+4
+Đường Na Dương - Xuân
+Dương: Đoạn 6
+Đoạn cách trụ sở UBND Xã Xuân Dương 500 m về 2 phía
+cả tuyến cũ và tuyến mới
+1.000
+600
+400
+5
+Đường Na Dương - Xuân
+Dương: Đoạn 7
+Cách UBND Xã Xuân
+Dương 501 m về phía xã Sa
+Lý, tỉnh Bắc Ninh
+Hết địa phận Xã Xuân
+Dương
+850
+510
+340
+6
+Đường xã: Đường huyện 35 cũ,
+Đoạn 1
+Đoạn từ thôn Pò Đồn (giáp
+đường tỉnh 248)
+Cầu Song Tài
+320
+7
+Đường xã: Đường huyện 35 cũ,
+Đoạn 2
+Cầu Song Tài
+Trường Mầm non Ái Quốc
+310
+8
+Đường xã: Đường huyện 35 cũ,
+Đoạn 3
+Trường Mầm non Ái Quốc
+Ngã 3 thôn Khuổi Thướn
+280
+9
+Đường tỉnh 248B (Đường huyện
+35 cũ)
+Ngã 3 thôn Khuổi Thướn
+Hết địa phận xã Xuân Dương
+280
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại: Các thôn bản
+thuộc xã Xuân Dương
+150
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+38. Xã Xuân Dương
+BẢNG 38.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI, DỊCH VỤ XÃ XUÂN DƯƠNG
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Na Dương - Xuân
+Dương: Đoạn 3
+Km7+600 (tiếp giáp xã Na
+Dương)
+Điểm cách Trường Mầm non
+Nam Quan 501m (về phía xã
+Na Dương)
+392
+235,2
+2
+Đường Na Dương - Xuân
+Dương: Đoạn 4
+Đoạn từ Trường Mầm non Nam Quan 500m về 2 phía
+568
+340,8
+227,2
+3
+Đường Na Dương - Xuân
+Dương: Đoạn 5
+Cách Trường Mầm non Nam
+Quan 501m phía xã Sa Lý,
+tỉnh Bắc Ninh
+Cách trụ sở UBND Xã Xuân
+Dương 501m
+384
+230,4
+4
+Đường Na Dương - Xuân
+Dương: Đoạn 6
+Đoạn cách trụ sở UBND Xã Xuân Dương 500 m về 2 phía
+cả tuyến cũ và tuyến mới
+800
+480
+320
+5
+Đường Na Dương - Xuân
+Dương: Đoạn 7
+Cách UBND Xã Xuân
+Dương 501 m về phía xã Sa
+Lý, tỉnh Bắc Ninh
+Hết địa phận Xã Xuân
+Dương
+680
+408
+272
+6
+Đường xã: Đường huyện 35 cũ,
+Đoạn 1
+Đoạn từ thôn Pò Đồn (giáp
+đường tỉnh 248)
+Cầu Song Tài
+256
+7
+Đường xã: Đường huyện 35 cũ,
+Đoạn 2
+Cầu Song Tài
+Trường Mầm non Ái Quốc
+248
+8
+Đường xã: Đường huyện 35 cũ,
+Đoạn 3
+Trường Mầm non Ái Quốc
+Ngã 3 thôn Khuổi Thướn
+224
+9
+Đường tỉnh 248B (Đường huyện
+35 cũ)
+Ngã 3 thôn Khuổi Thướn
+Hết địa phận xã Xuân Dương
+224
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại: Các thôn bản
+thuộc xã Xuân Dương
+120
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+38. Xã Xuân Dương
+BẢNG 38.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN XÃ
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Na Dương - Xuân
+Dương: Đoạn 3
+Km7+600 (tiếp giáp xã Na
+Dương)
+Điểm cách Trường Mầm non
+Nam Quan 501m (về phía xã
+Na Dương)
+343
+205,8
+2
+Đường Na Dương - Xuân
+Dương: Đoạn 4
+Đoạn từ Trường Mầm non Nam Quan 500m về 2 phía
+497
+298,2
+198,8
+3
+Đường Na Dương - Xuân
+Dương: Đoạn 5
+Cách Trường Mầm non Nam
+Quan 501m phía xã Sa Lý,
+tỉnh Bắc Ninh
+Cách trụ sở UBND Xã Xuân
+Dương 501m
+336
+201,6
+4
+Đường Na Dương - Xuân
+Dương: Đoạn 6
+Đoạn cách trụ sở UBND Xã Xuân Dương 500 m về 2 phía
+cả tuyến cũ và tuyến mới
+700
+420
+280
+5
+Đường Na Dương - Xuân
+Dương: Đoạn 7
+Cách UBND Xã Xuân
+Dương 501 m về phía xã Sa
+Lý, tỉnh Bắc Ninh
+Hết địa phận Xã Xuân
+Dương
+595
+357
+238
+6
+Đường xã: Đường huyện 35 cũ,
+Đoạn 1
+Đoạn từ thôn Pò Đồn (giáp
+đường tỉnh 248)
+Cầu Song Tài
+224
+7
+Đường xã: Đường huyện 35 cũ,
+Đoạn 2
+Cầu Song Tài
+Trường Mầm non Ái Quốc
+217
+8
+Đường xã: Đường huyện 35 cũ,
+Đoạn 3
+Trường Mầm non Ái Quốc
+Ngã 3 thôn Khuổi Thướn
+196
+9
+Đường tỉnh 248B (Đường huyện
+35 cũ)
+Ngã 3 thôn Khuổi Thướn
+Hết địa phận xã Xuân Dương
+196
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại: Các thôn bản
+thuộc xã Xuân Dương
+105
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+38. Xã Xuân Dương
+BẢNG 38.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ XUÂN DƯƠNG
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Xuân Dương
+52
+47
+41
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Xuân Dương
+45
+40
+34
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Xuân Dương
+42
+37
+33
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Xuân Dương
+36
+34
+32
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Xuân Dương
+9
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

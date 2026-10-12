@@ -1,0 +1,359 @@
+NGUON FILE: Lang Son/54. Xã Chiến Thắng.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+54. Xã Chiến Thắng
+BẢNG 54.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ CHIẾN THẮNG
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày10 /12//2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Khu dân cư khu vực ga Bản Thí Km28+00 (Ghi Bắc)
+Km29+500 (Ghi Nam)
+1.100
+660
+440
+2
+Đường Quốc lộ 1
+2.1
+Đường Quốc lộ 1 đoạn 1
+Km27+200 (Giáp địa giới
+phường Đông Kinh)
+Km 28+100
+1.000
+600
+400
+2.2
+Đường Quốc lộ 1 đoạn 2
+Km 28+100
+Km 29+500
+1.100
+660
+440
+2.3
+Đường Quốc lộ 1 đoạn 3
+Km 29+500
+Km36+300
+990
+594
+396
+3
+Đường tỉnh 238B
+3.1
+Đường tỉnh 238B đoạn 1
+Km 13 + 600
+Km 13 + 750
+520
+312
+3.2
+Đường tỉnh 238B đoạn 2
+Km19+00
+Km 19+700 (Ngã 3 điểm nối
+tuyến đường tỉnh 238)
+610
+366
+244
+4
+Đường tỉnh 238
+4.1
+Đường tỉnh 238 đoạn 1
+Km11+ 200 (Trạm y tế xã
+Chiến Thắng)
+Km 12+200 thôn Làng
+Thành)
+620
+372
+248
+4.2
+Đường tỉnh 238 đoạn 2
+Tiếp giáp thôn Tà Sản Xã
+Vân An (Km 8+500)
+Trạm Y tế Xã Chiến Thắng
+(Km 11+300)
+370
+222
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Phước, Bản Thí, Nà Pất, Bản Dù
+220
+2
+Thôn Hồng Tân, Tân Minh, Khòn Nạo, Bình Trung, Hợp
+Nhất, Trung Tâm, Túng Mẩn, Tà Sản, Nà Dạ, Nà Cải, Nà
+Nhì, Nà Pất, Làng Thành, Nà Lầm, Nà Hà, Nà Nhì, Pác
+Ma, Bản Lăm, Hợp Đường, Thiên Cần
+150
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+54. Xã Chiến Thắng
+BẢNG 54.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI, DỊCH VỤ XÃ CHIẾN THẮNG
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày10 /12//2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Khu dân cư khu vực ga Bản Thí Km28+00 (Ghi Bắc)
+Km29+500 (Ghi Nam)
+880
+528
+352
+2
+Đường Quốc lộ 1
+2.1
+Đường Quốc lộ 1 đoạn 1
+Km27+200 (Giáp địa giới
+phường Đông Kinh)
+Km 28+100
+800
+480
+320
+2.2
+Đường Quốc lộ 1 đoạn 2
+Km 28+100
+Km 29+500
+880
+528
+352
+2.3
+Đường Quốc lộ 1 đoạn 3
+Km 29+500
+Km36+300
+792
+475,2
+316,8
+3
+Đường tỉnh 238B
+3.1
+Đường tỉnh 238B đoạn 1
+Km 13 + 600
+Km 13 + 750
+416
+249,6
+3.2
+Đường tỉnh 238B đoạn 2
+Km19+00
+Km 19+700 (Ngã 3 điểm nối
+tuyến đường tỉnh 238)
+488
+292,8
+195,2
+4
+Đường tỉnh 238
+4.1
+Đường tỉnh 238 đoạn 1
+Km11+ 200 (Trạm y tế xã
+Chiến Thắng)
+Km 12+200 thôn Làng
+Thành)
+496
+297,6
+198,4
+4.2
+Đường tỉnh 238 đoạn 2
+Tiếp giáp thôn Tà Sản Xã
+Vân An (Km 8+500)
+Trạm Y tế Xã Chiến Thắng
+(Km 11+300)
+296
+177,6
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Phước, Bản Thí, Nà Pất, Bản Dù
+176
+2
+Thôn Hồng Tân, Tân Minh, Khòn Nạo, Bình Trung, Hợp
+Nhất, Trung Tâm, Túng Mẩn, Tà Sản, Nà Dạ, Nà Cải, Nà
+Nhì, Nà Pất, Làng Thành, Nà Lầm, Nà Hà, Nà Nhì, Pác
+Ma, Bản Lăm, Hợp Đường, Thiên Cần
+120
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+54. Xã Chiến Thắng
+BẢNG 54.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN XÃ
+CHIẾN THẮNG
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày10 /12//2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Khu dân cư khu vực ga Bản Thí Km28+00 (Ghi Bắc)
+Km29+500 (Ghi Nam)
+770
+462
+308
+2
+Đường Quốc lộ 1
+2.1
+Đường Quốc lộ 1 đoạn 1
+Km27+200 (Giáp địa giới
+phường Đông Kinh)
+Km 28+100
+700
+420
+280
+2.2
+Đường Quốc lộ 1 đoạn 2
+Km 28+100
+Km 29+500
+770
+462
+308
+2.3
+Đường Quốc lộ 1 đoạn 3
+Km 29+500
+Km36+300
+693
+415,8
+277,2
+3
+Đường tỉnh 238B
+3.1
+Đường tỉnh 238B đoạn 1
+Km 13 + 600
+Km 13 + 750
+364
+218,4
+3.2
+Đường tỉnh 238B đoạn 2
+Km19+00
+Km 19+700 (Ngã 3 điểm nối
+tuyến đường tỉnh 238)
+427
+256,2
+170,8
+4
+Đường tỉnh 238
+4.1
+Đường tỉnh 238 đoạn 1
+Km11+ 200 (Trạm y tế xã
+Chiến Thắng)
+Km 12+200 thôn Làng
+Thành)
+434
+260,4
+173,6
+4.2
+Đường tỉnh 238 đoạn 2
+Tiếp giáp thôn Tà Sản Xã
+Vân An (Km 8+500)
+Trạm Y tế Xã Chiến Thắng
+(Km 11+300)
+259
+155,4
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Phước, Bản Thí, Nà Pất, Bản Dù
+154
+2
+Thôn Hồng Tân, Tân Minh, Khòn Nạo, Bình Trung, Hợp
+Nhất, Trung Tâm, Túng Mẩn, Tà Sản, Nà Dạ, Nà Cải, Nà
+Nhì, Nà Pất, Làng Thành, Nà Lầm, Nà Hà, Nà Nhì, Pác
+Ma, Bản Lăm, Hợp Đường, Thiên Cần
+105
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+54. Xã Chiến Thắng
+BẢNG 54.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ CHIẾN THẮNG
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày10 /12//2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Chiến Thắng 
+60
+53
+47
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Chiến Thắng 
+53
+47
+40
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Chiến Thắng 
+47
+41
+36
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Chiến Thắng 
+40
+37
+33
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Chiến Thắng 
+9
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

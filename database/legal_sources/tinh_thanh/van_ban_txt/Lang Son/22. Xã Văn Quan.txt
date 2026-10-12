@@ -1,0 +1,996 @@
+NGUON FILE: Lang Son/22. Xã Văn Quan.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+22. Xã Văn Quan
+ BẢNG 22.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ VĂN QUAN
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Lương Văn Tri (đường Quốc lộ 1B)
+1.1
+Đường Lương Văn Tri: đoạn 1
+Km28+100
+Km29+500
+7.300
+4.380
+2.920
+1.460
+1.2
+Đường Lương Văn Tri: đoạn 2
+Km29+500
+Km31+300
+4.330
+2.598
+1.732
+866
+1.3
+Đường Lương Văn Tri: đoạn 3
+Km31+300
+Đầu cầu Bó Pia (Km32+700)
+2.560
+1.536
+1.024
+512
+1.4
+Đường Lương Văn Tri: đoạn 4
+Km28+100 (đi xã Điềm He)
+Km26/đường Quốc lộ 1B
+3.000
+1.800
+1.200
+2
+Đường tỉnh 233 (Đường Hoà Bình - Bình La - Gia Miễn)
+2.1
+Đường tỉnh 233 (Đoạn 1)
+Đường Lương Văn Tri rẽ vào
+đường Hòa Bình
+Giáp cầu Hòa Bình
+2.900
+1.740
+1.160
+580
+2.2
+Đường tỉnh 233 (Đoạn 2)
+Đầu cầu Hòa Bình (đường
+Hòa bình - Bình La)
+Km0+900
+1.720
+1.032
+688
+344
+2.3
+Đường tỉnh 233 (Đoạn 3)
+Km0+900
+Km1+410 (giáp thôn Khòn
+Hẩu)
+1.330
+798
+532
+3
+Nhánh I (Đường Lê Quý Đôn)
+3.1
+Nhánh I (Đường Lê Quý Đôn),
+đoạn 1
+Km28+220/đường Quốc lộ
+1B
+Giao tại Km17+250 (giao tại
+ngã ba đường Tỉnh 239B
+Lũng Pa - Pắc Kéo - Văn
+Quan)
+5.200
+3.120
+2.080
+1.040
+4
+Đường tỉnh 239B (Lũng Pa - Pác Kéo - Văn Quan) (Đường huyện 53 cũ)
+4.1
+Đoạn qua thôn Tâm An
+Km17+250/đường tỉnh 239B Km17+00/đường Tỉnh 239B
+800
+480
+5
+Đường Lùng Cà
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+5.1
+Đường Lùng Cà đoạn 1
+Đầu cầu Đức Hinh/Giao
+đường Quốc lộ 1B
+Trạm quản lý nước sinh hoạt
+Văn Quan
+1.400
+840
+560
+5.2
+Đường Lùng Cà đoạn 2
+Trạm quản lý nước sinh hoạt
+Văn Quan
+Hết xóm Lùng Cà giáp xã
+Yên Phúc
+800
+480
+6
+Đường Quốc lộ 1B
+6.1
+Đường Quốc lộ 1B đoạn 5
+Đầu cầu Bó Pia giáp danh
+thôn Tân Long
+Đầu cầu Bản Giềng thôn
+Khòn Coọng
+490
+294
+6.2
+Đường Quốc lộ 1B đoạn 6
+Cầu Bản Giềng
+Giáp ranh xã Tri Lễ (thôn
+Khòn Cọong)
+300
+180
+6.3
+Đường Quốc lộ 1B đoạn 7
+Km26/đường Quốc lộ 1B
+Hết địa giới xã Văn Quan
+giáp xã Điềm He
+(Km24/đường Quốc lộ 1B)
+1.400
+840
+560
+7
+Các khu dân cư và tái định cư
+7.1
+Khu tái định cư dự án Khu dân cư Đức Tâm II
+4.100
+2.460
+1.640
+820
+7.2
+Khu tái định cư dự án Mở rộng khuôn viên tượng đài Lương Văn Tri
+6.600
+3.960
+2.640
+1.320
+8
+Nhánh III (Đường Phùng Chí
+Kiên)
+Đường Lương Văn Tri (Km0
+28+450/đường Quốc lộ 1B)
+Đường Lê Quý Đôn tại
+Km0+810
+5.100
+3.060
+2.040
+1.020
+9
+Nhánh I (Đường Lê Quý Đôn),
+đoạn 2
+Giao tại Km17+250 (Giao tại
+ngã ba  đường tỉnh 239B
+Lũng Pa - Pắc Kéo - Văn
+Quan)
+Giao tại đường Quốc lộ 1B
+(Cầu Đức Hinh)
+5.000
+3.000
+2.000
+1.000
+10
+Nhánh II (Đường Trần Phú)
+Đường Lương Văn Tri (Km
+28+450/đường Quốc lộ 1B)
+Cổng trường PTTH Lương
+Văn Tri
+4.380
+2.628
+1.752
+876
+11
+Nhánh IV (Đường Ngô Gia Tự)
+ Đường Lương Văn Tri (Km
+28+709/đường Quốc lộ 1B)
+Giao tại Đường Lê Quý Đôn
+5.100
+3.060
+2.040
+1.020
+12
+Đường Quốc Lộ 279 (Đoạn 1
+Thanh Xuân)
+Ngã ba Tu Đồn (Đi xã Yên
+Phúc)
+Km182+1500
+Đường Quốc lộ 279
+4.300
+2.580
+1.720
+860
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+2
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+13
+Đường dẫn cầu Tân Sơn
+Đường Quốc lộ 1B (Hạt 7)
+Đầu cầu Tân Sơn
+4.900
+2.940
+1.960
+980
+14
+Đường Bản Bác - Hà Quảng
+(Đường vào thôn Bản Bác cũ)
+Km0 (Km25+400 đường
+Quốc lộ 1B)
+Hết thôn Bản Bác (Giáp thôn
+Hà Quảng)
+500
+300
+15
+Đường Bản coóng
+Đường Quốc lộ 279
+Đường Lùng Cà đoạn 2
+740
+444
+296
+16
+Đường Quốc Lộ 279 (Đoạn 2
+Thanh Xuân)
+Km182+1500/đường Quốc
+lộ 279
+Hết địa giới xã Văn Quan
+giáp xã Yên Phúc
+2.500
+1.500
+1.000
+500
+17
+Đường Tỉnh 233 Hòa Bình -
+Bình La - Gia Miễn (Đoạn 4)
+Km1+410 thôn Khòn Hẩu
+(tiếp giáp thôn Tân Thanh 2)
+Km7+200 thôn Nà Thượng
+(tiếp giáp với xã Tân Văn)
+400
+240
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Lộc, Minh Sơn, Tâm An, Đức Tâm, Đức Hinh,
+Tân Thanh 2, Thanh Xuân, Bản Cóong, Tân Long
+280
+2
+Thôn Lũng Cải, Hang Nà, Khòn Cọong, Bó Cáng, Bản Mù,
+Nà Lốc, Thanh Đông
+220
+3
+Thôn Khòn Hẩu, Nà Thượng, Hà Quảng
+150
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+3
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+22. Xã Văn Quan
+ BẢNG 22.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI, DỊCH VỤ XÃ VĂN QUAN
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Lương Văn Tri (đường Quốc lộ 1B)
+1.1
+Đường Lương Văn Tri: đoạn 1
+Km28+100
+Km29+500
+5.840
+3.504
+2.336
+1.168
+1.2
+Đường Lương Văn Tri: đoạn 2
+Km29+500
+Km31+300
+3.464
+2.078,4
+1.385,6
+692,8
+1.3
+Đường Lương Văn Tri: đoạn 3
+Km31+300
+Đầu cầu Bó Pia (Km32+700)
+2.048
+1.228,8
+819,2
+409,6
+1.4
+Đường Lương Văn Tri: đoạn 4
+Km28+100 (đi xã Điềm He)
+Km26/đường Quốc lộ 1B
+2.400
+1.440
+960
+2
+Đường tỉnh 233 (Đường Hoà Bình - Bình La - Gia Miễn)
+2.1
+Đường tỉnh 233 (Đoạn 1)
+Đường Lương Văn Tri rẽ vào
+đường Hòa Bình
+Giáp cầu Hòa Bình
+2.320
+1.392
+928
+464
+2.2
+Đường tỉnh 233 (Đoạn 2)
+Đầu cầu Hòa Bình (đường
+Hòa bình - Bình La)
+Km0+900
+1.376
+825,6
+550,4
+275,2
+2.3
+Đường tỉnh 233 (Đoạn 3)
+Km0+900
+Km1+410 (giáp thôn Khòn
+Hẩu)
+1.064
+638,4
+425,6
+3
+Nhánh I (Đường Lê Quý Đôn)
+3.1
+Nhánh I (Đường Lê Quý Đôn),
+đoạn 1
+Km28+220/đường Quốc lộ
+1B
+Giao tại Km17+250 (giao tại
+ngã ba đường Tỉnh 239B
+Lũng Pa - Pắc Kéo - Văn
+Quan)
+4.160
+2.496
+1.664
+832
+4
+Đường tỉnh 239B (Lũng Pa - Pác Kéo - Văn Quan) (Đường huyện 53 cũ)
+4.1
+Đoạn qua thôn Tâm An
+Km17+250/đường tỉnh 239B Km17+00/đường Tỉnh 239B
+640
+5
+Đường Lùng Cà
+5.1
+Đường Lùng Cà đoạn 1
+Đầu cầu Đức Hinh/Giao
+đường Quốc lộ 1B
+Trạm quản lý nước sinh hoạt
+Văn Quan
+1.120
+672
+448
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 5 ---
+5.2
+Đường Lùng Cà đoạn 2
+Trạm quản lý nước sinh hoạt
+Văn Quan
+Hết xóm Lùng Cà giáp xã
+Yên Phúc
+640
+6
+Đường Quốc lộ 1B
+6.1
+Đường Quốc lộ 1B đoạn 5
+Đầu cầu Bó Pia giáp danh
+thôn Tân Long
+Đầu cầu Bản Giềng thôn
+Khòn Coọng
+392
+235,2
+6.2
+Đường Quốc lộ 1B đoạn 6
+Cầu Bản Giềng
+Giáp ranh xã Tri Lễ (thôn
+Khòn Cọong)
+240
+6.3
+Đường Quốc lộ 1B đoạn 7
+Km26/đường Quốc lộ 1B
+Hết địa giới xã Văn Quan
+giáp xã Điềm He
+(Km24/đường Quốc lộ 1B)
+1.120
+672
+448
+7
+Các khu dân cư và tái định cư
+7.1
+Khu tái định cư dự án Khu dân cư Đức Tâm II
+3.280
+1.968
+1.312
+656
+7.2
+Khu tái định cư dự án Mở rộng khuôn viên tượng đài Lương Văn Tri
+5.280
+3.168
+2.112
+1.056
+8
+Nhánh III (Đường Phùng Chí
+Kiên)
+Đường Lương Văn Tri (Km0
+28+450/đường Quốc lộ 1B)
+Đường Lê Quý Đôn tại
+Km0+810
+4.080
+2.448
+1.632
+816
+9
+Nhánh I (Đường Lê Quý Đôn),
+đoạn 2
+Giao tại Km17+250 (Giao tại
+ngã ba  đường tỉnh 239B
+Lũng Pa - Pắc Kéo - Văn
+Quan)
+Giao tại đường Quốc lộ 1B
+(Cầu Đức Hinh)
+4.000
+2.400
+1.600
+800
+10
+Nhánh II (Đường Trần Phú)
+Đường Lương Văn Tri (Km
+28+450/đường Quốc lộ 1B)
+Cổng trường PTTH Lương
+Văn Tri
+3.504
+2.102,4
+1.401,6
+700,8
+11
+Nhánh IV (Đường Ngô Gia Tự)
+Đường Lương Văn Tri (Km
+28+709/đường Quốc lộ 1B)
+Giao tại Đường Lê Quý Đôn
+4.080
+2.448
+1.632
+816
+12
+Đường Quốc Lộ 279 (Đoạn 1
+Thanh Xuân)
+Ngã ba Tu Đồn (Đi xã Yên
+Phúc)
+Km182+1500
+Đường Quốc lộ 279
+3.440
+2.064
+1.376
+688
+13
+Đường dẫn cầu Tân Sơn
+Đường Quốc lộ 1B (Hạt 7)
+Đầu cầu Tân Sơn
+3.920
+2.352
+1.568
+784
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+2
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 6 ---
+14
+Đường Bản Bác - Hà Quảng
+(Đường vào thôn Bản Bác cũ)
+Km0 (Km25+400 đường
+Quốc lộ 1B)
+Hết thôn Bản Bác (Giáp thôn
+Hà Quảng)
+400
+240
+15
+Đường Bản coóng
+Đường Quốc lộ 279
+Đường Lùng Cà đoạn 2
+592
+355,2
+236,8
+16
+Đường Quốc Lộ 279 (Đoạn 2
+Thanh Xuân)
+Km182+1500/đường Quốc
+lộ 279
+Hết địa giới xã Văn Quan
+giáp xã Yên Phúc
+2.000
+1.200
+800
+400
+17
+Đường Tỉnh 233 Hòa Bình -
+Bình La - Gia Miễn (Đoạn 4)
+Km1+410 thôn Khòn Hẩu
+(tiếp giáp thôn Tân Thanh 2)
+Km7+200 thôn Nà Thượng
+(tiếp giáp với xã Tân Văn)
+320
+192
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Lộc, Minh Sơn, Tâm An, Đức Tâm, Đức Hinh,
+Tân Thanh 2, Thanh Xuân, Bản Cóong, Tân Long
+224
+2
+Thôn Lũng Cải, Hang Nà, Khòn Cọong, Bó Cáng, Bản Mù,
+Nà Lốc, Thanh Đông
+176
+3
+Thôn Khòn Hẩu, Nà Thượng, Hà Quảng
+120
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+3
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 7 ---
+22. Xã Văn Quan
+ BẢNG 22.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN
+XÃ VĂN QUAN
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Lương Văn Tri (đường Quốc lộ 1B)
+1.1
+Đường Lương Văn Tri: đoạn 1
+Km28+100
+Km29+500
+5.110
+3.066
+2.044
+1.022
+1.2
+Đường Lương Văn Tri: đoạn 2
+Km29+500
+Km31+300
+3.031
+1.818,6
+1.212,4
+606,2
+1.3
+Đường Lương Văn Tri: đoạn 3
+Km31+300
+Đầu cầu Bó Pia (Km32+700)
+1.792
+1.075,2
+716,8
+358,4
+1.4
+Đường Lương Văn Tri: đoạn 4
+Km28+100 (đi xã Điềm He)
+Km26/đường Quốc lộ 1B
+2.100
+1.260
+840
+2
+Đường tỉnh 233 (Đường Hoà Bình - Bình La - Gia Miễn)
+2.1
+Đường tỉnh 233 (Đoạn 1)
+Đường Lương Văn Tri rẽ vào
+đường Hòa Bình
+Giáp cầu Hòa Bình
+2.030
+1.218
+812
+406
+2.2
+Đường tỉnh 233 (Đoạn 2)
+Đầu cầu Hòa Bình (đường
+Hòa bình - Bình La)
+Km0+900
+1.204
+722,4
+481,6
+240,8
+2.3
+Đường tỉnh 233 (Đoạn 3)
+Km0+900
+Km1+410 (giáp thôn Khòn
+Hẩu)
+931
+558,6
+372,4
+3
+Nhánh I (Đường Lê Quý Đôn)
+3.1
+Nhánh I (Đường Lê Quý Đôn),
+đoạn 1
+Km28+220/đường Quốc lộ
+1B
+Giao tại Km17+250 (giao tại
+ngã ba đường Tỉnh 239B
+Lũng Pa - Pắc Kéo - Văn
+Quan)
+3.640
+2.184
+1.456
+728
+4
+Đường tỉnh 239B (Lũng Pa - Pác Kéo - Văn Quan) (Đường huyện 53 cũ)
+4.1
+Đoạn qua thôn Tâm An
+Km17+250/đường tỉnh 239B Km17+00/đường Tỉnh 239B
+560
+5
+Đường Lùng Cà
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 8 ---
+5.1
+Đường Lùng Cà đoạn 1
+Đầu cầu Đức Hinh/Giao
+đường Quốc lộ 1B
+Trạm quản lý nước sinh hoạt
+Văn Quan
+980
+588
+392
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+2
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 9 ---
+5.2
+Đường Lùng Cà đoạn 2
+Trạm quản lý nước sinh hoạt
+Văn Quan
+Hết xóm Lùng Cà giáp xã
+Yên Phúc
+560
+6
+Đường Quốc lộ 1B
+6.1
+Đường Quốc lộ 1B đoạn 5
+Đầu cầu Bó Pia giáp danh
+thôn Tân Long
+Đầu cầu Bản Giềng thôn
+Khòn Coọng
+343
+205,8
+6.2
+Đường Quốc lộ 1B đoạn 6
+Cầu Bản Giềng
+Giáp ranh xã Tri Lễ (thôn
+Khòn Cọong)
+210
+6.3
+Đường Quốc lộ 1B đoạn 7
+Km26/đường Quốc lộ 1B
+Hết địa giới xã Văn Quan
+giáp xã Điềm He
+(Km24/đường Quốc lộ 1B)
+980
+588
+392
+7
+Các khu dân cư và tái định cư
+7.1
+Khu tái định cư dự án Khu dân cư Đức Tâm II
+2.870
+1.722
+1.148
+574
+7.2
+Khu tái định cư dự án Mở rộng khuôn viên tượng đài Lương Văn Tri
+4.620
+2.772
+1.848
+924
+8
+Nhánh III (Đường Phùng Chí
+Kiên)
+Đường Lương Văn Tri (Km0
+28+450/đường Quốc lộ 1B)
+Đường Lê Quý Đôn tại
+Km0+810
+3.570
+2.142
+1.428
+714
+9
+Nhánh I (Đường Lê Quý Đôn),
+đoạn 2
+Giao tại Km17+250 (Giao tại
+ngã ba  đường tỉnh 239B
+Lũng Pa - Pắc Kéo - Văn
+Quan)
+Giao tại đường Quốc lộ 1B
+(Cầu Đức Hinh)
+3.500
+2.100
+1.400
+700
+10
+Nhánh II (Đường Trần Phú)
+Đường Lương Văn Tri (Km
+28+450/đường Quốc lộ 1B)
+Cổng trường PTTH Lương
+Văn Tri
+3.066
+1.839,6
+1.226,4
+613,2
+11
+Nhánh IV (Đường Ngô Gia Tự)
+Đường Lương Văn Tri (Km
+28+709/đường Quốc lộ 1B)
+Giao tại Đường Lê Quý Đôn
+3.570
+2.142
+1.428
+714
+12
+Đường Quốc Lộ 279 (Đoạn 1
+Thanh Xuân)
+Ngã ba Tu Đồn (Đi xã Yên
+Phúc)
+Km182+1500
+Đường Quốc lộ 279
+3.010
+1.806
+1.204
+602
+13
+Đường dẫn cầu Tân Sơn
+Đường Quốc lộ 1B (Hạt 7)
+Đầu cầu Tân Sơn
+3.430
+2.058
+1.372
+686
+14
+Đường Bản Bác - Hà Quảng
+(Đường vào thôn Bản Bác cũ)
+Km0 (Km25+400 đường
+Quốc lộ 1B)
+Hết thôn Bản Bác (Giáp thôn
+Hà Quảng)
+350
+210
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+3
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 10 ---
+15
+Đường Bản coóng
+Đường Quốc lộ 279
+Đường Lùng Cà đoạn 2
+518
+310,8
+207,2
+16
+Đường Quốc Lộ 279 (Đoạn 2
+Thanh Xuân)
+Km182+1500/đường Quốc
+lộ 279
+Hết địa giới xã Văn Quan
+giáp xã Yên Phúc
+1.750
+1.050
+700
+350
+17
+Đường Tỉnh 233 Hòa Bình -
+Bình La - Gia Miễn (Đoạn 4)
+Km1+410 thôn Khòn Hẩu
+(tiếp giáp thôn Tân Thanh 2)
+Km7+200 thôn Nà Thượng
+(tiếp giáp với xã Tân Văn)
+280
+168
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+4
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 11 ---
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Lộc, Minh Sơn, Tâm An, Đức Tâm, Đức Hinh,
+Tân Thanh 2, Thanh Xuân, Bản Cóong, Tân Long
+196
+2
+Thôn Lũng Cải, Hang Nà, Khòn Cọong, Bó Cáng, Bản Mù,
+Nà Lốc, Thanh Đông
+154
+3
+Thôn Khòn Hẩu, Nà Thượng, Hà Quảng
+105
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+5
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 12 ---
+22. Xã Văn Quan
+BẢNG 22.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ VĂN QUAN
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Văn Quan
+73
+64
+56
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Văn Quan
+66
+57
+49
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Văn Quan
+58
+50
+43
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Văn Quan
+48
+43
+38
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Văn Quan
+11
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

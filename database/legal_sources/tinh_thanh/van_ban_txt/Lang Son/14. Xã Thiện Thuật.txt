@@ -1,0 +1,322 @@
+NGUON FILE: Lang Son/14. Xã Thiện Thuật.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+14. Xã Thiện Thuật
+BẢNG 14.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ THIỆN THUẬT
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Quốc lộ 279, Đoạn 1
+Đoạn từ lối rẽ Mông Ân
+Đường rẽ vào thôn Khuổi
+Đắc
+530
+2
+Đường Quốc lộ 279, Đoạn 2
+Đường rẽ vào thôn Khuổi
+Đắc
+Cầu Bản Chúc + 400m
+480
+3
+Đường Quốc lộ 279, Đoạn 3
+Cây xăng Phong Lý
+Ngã ba đường rẽ vào chợ Pác
+Khuông
+510
+4
+Đường Quốc lộ 279, Đoạn 4
+Ngã ba đường rẽ vào chợ Pác
+Khuông
+Cầu Pác Khuông
+600
+5
+Đường Quốc lộ 279, Đoạn 5
+Cầu Pác Khuông
+Hết đường rẽ vào Trường
+THPT Pác Khuông
+680
+408
+6
+Đường Quốc lộ 279, Đoạn 6
+Đường rẽ vào Trường THPT
+Pác Khuông
+Đường vào Hoà Bình +
+Thiện Long
+580
+7
+Trung tâm cụm xã Pắc Khuông theo chỉ giới quy hoạch.
+1.200
+720
+480
+8
+Đường tỉnh 226
+Trạm Y tế xã Quang Trung
+cũ
+Đường rẽ vào thôn Nà Ngần
+510
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Pác Khuông (Trừ phần đã quy hoạch Trung tâm cụm
+xã Pác Khuông)
+400
+2
+Các thôn: Bản chúc, Khuổi Y, Khuổi Lù, Pò Sè, Bản Quần,
+Bản Chang, Nà Tèo
+280
+3
+Các thôn: Khuổi Cưởm, Pác Là, Khuổi Hắp, Pác Luống,
+Nà Ngần, Đình Cam, Mò Mè, Kéo Giểng, Pác Giắm, Nà
+Tồng, Nà Trang
+150
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+14. Xã Thiện Thuật
+BẢNG 14.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI, DỊCH VỤ XÃ THIỆN THUẬT
+(Ban hành kèm theo Nghị quyết số…../2025/NQ-HĐND ngày … /12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Quốc lộ 279, Đoạn 1
+Đoạn từ lối rẽ Mông Ân
+Đường rẽ vào thôn Khuổi
+Đắc
+424
+2
+Đường Quốc lộ 279, Đoạn 2
+Đường rẽ vào thôn Khuổi
+Đắc
+Cầu Bản Chúc + 400m
+384
+3
+Đường Quốc lộ 279, Đoạn 3
+Cây xăng Phong Lý
+Ngã ba đường rẽ vào chợ Pác
+Khuông
+408
+4
+Đường Quốc lộ 279, Đoạn 4
+Ngã ba đường rẽ vào chợ Pác
+Khuông
+Cầu Pác Khuông
+480
+5
+Đường Quốc lộ 279, Đoạn 5
+Cầu Pác Khuông
+Hết đường rẽ vào Trường
+THPT Pác Khuông
+544
+326,4
+6
+Đường Quốc lộ 279, Đoạn 6
+Đường rẽ vào Trường THPT
+Pác Khuông
+Đường vào Hoà Bình +
+Thiện Long
+464
+7
+Trung tâm cụm xã Pắc Khuông theo chỉ giới quy hoạch.
+960
+576
+384
+8
+Đường tỉnh 226
+Trạm Y tế xã Quang Trung
+cũ
+Đường rẽ vào thôn Nà Ngần
+408
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Pác Khuông (Trừ phần đã quy hoạch Trung tâm cụm
+xã Pác Khuông)
+320
+2
+Các thôn: Bản chúc, Khuổi Y, Khuổi Lù, Pò Sè, Bản Quần,
+Bản Chang, Nà Tèo
+224
+3
+Các thôn: Khuổi Cưởm, Pác Là, Khuổi Hắp, Pác Luống,
+Nà Ngần, Đình Cam, Mò Mè, Kéo Giểng, Pác Giắm, Nà
+Tồng, Nà Trang
+120
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+14. Xã Thiện Thuật
+BẢNG 14.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN XÃ THIỆN
+(Ban hành kèm theo Nghị quyết số…../2025/NQ-HĐND ngày … /12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Quốc lộ 279, Đoạn 1
+Đoạn từ lối rẽ Mông Ân
+Đường rẽ vào thôn Khuổi
+Đắc
+371
+2
+Đường Quốc lộ 279, Đoạn 2
+Đường rẽ vào thôn Khuổi
+Đắc
+Cầu Bản Chúc + 400m
+336
+3
+Đường Quốc lộ 279, Đoạn 3
+Cây xăng Phong Lý
+Ngã ba đường rẽ vào chợ Pác
+Khuông
+357
+4
+Đường Quốc lộ 279, Đoạn 4
+Ngã ba đường rẽ vào chợ Pác
+Khuông
+Cầu Pác Khuông
+420
+5
+Đường Quốc lộ 279, Đoạn 5
+Cầu Pác Khuông
+Hết đường rẽ vào Trường
+THPT Pác Khuông
+476
+285,6
+6
+Đường Quốc lộ 279, Đoạn 6
+Đường rẽ vào Trường THPT
+Pác Khuông
+Đường vào Hoà Bình +
+Thiện Long
+406
+7
+Trung tâm cụm xã Pắc Khuông theo chỉ giới quy hoạch.
+840
+504
+336
+8
+Đường tỉnh 226
+Trạm Y tế xã Quang Trung
+cũ
+Đường rẽ vào thôn Nà Ngần
+357
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Pác Khuông (Trừ phần đã quy hoạch Trung tâm cụm
+xã Pác Khuông)
+280
+2
+Các thôn: Bản chúc, Khuổi Y, Khuổi Lù, Pò Sè, Bản Quần,
+Bản Chang, Nà Tèo
+196
+3
+Các thôn: Khuổi Cưởm, Pác Là, Khuổi Hắp, Pác Luống,
+Nà Ngần, Đình Cam, Mò Mè, Kéo Giểng, Pác Giắm, Nà
+Tồng, Nà Trang
+105
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+14. Xã Thiện Thuật
+BẢNG 14.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ THIỆN THUẬT
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Thiện Thuật
+52
+47
+41
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Thiện Thuật
+45
+40
+34
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Thiện Thuật
+42
+37
+33
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Thiện Thuật
+36
+34
+32
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Thiện Thuật
+6
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

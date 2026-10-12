@@ -1,0 +1,331 @@
+NGUON FILE: Lang Son/47. Xã Vân Nham.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+47. Xã Vân Nham
+BẢNG 47.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ VÂN NHAM
+(Ban hành kèm theo Nghị quyết số  48/2025/NQ-HĐND ngày 10/ 12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường tỉnh 242
+1.1
+Đoạn 1
+Xã Vân Nham giáp địa phận
+xã Hữu Lũng
+Đầu cầu Nậm Đeng (xã Vân
+Nham)
+880
+528
+352
+1.2
+Đoạn 2
+Đầu cầu Nậm Đeng
+Ngã ba đường vào Trường
+THPT Vân Nham
+3.700
+2.220
+1.480
+740
+1.3
+Đoạn 3
+Cổng Trường THPT Vân
+Nham
+Hết địa phận xã Thiện Tân
+(đi Đèo Cà)
+910
+546
+364
+2
+Đường tỉnh 244
+Ngã ba Đường tỉnh 244 giao
+Đường tỉnh 242
+Hết địa phận xã Vân Nham
+giáp xã Yên Bình
+720
+432
+3
+Đường liên xã Thiện Tân - Vân
+Nham
+Đường tỉnh 242
+Cổng Kho KV1
+1.400
+840
+560
+4
+Đường nội bộ Chợ mới xã Vân Nham
+1.200
+720
+480
+5
+Khu vực trường Mầm Non 2 Vân Nham  (chiều dài đoạn đường khoảng 500m)
+900
+540
+360
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Các thôn: Bến Cát, Cảo, Tân Nhiên, Minh Lễ, Pồ Nim,
+Đồng Tâm, Đồng Mỳ, Hét, Phồng, Thuyền, Cốc Lùng,
+Tâm Minh, Đập, Nhị Liên, Phủ Đô, Tân Na, Chùa Lầy,
+Tân Thịnh, Toàn Tâm, Đồng Khu, Gióng, Tân Duyên,
+Lương, Đồng Hương, Đoàn Kết, Tân Nhiên
+300
+2
+Các thôn: Trại Mới, Đầu Cầu, Bản Mới, Vận
+220
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+47. Xã Vân Nham
+BẢNG 47.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI, DỊCH VỤ XÃ VÂN NHAM
+(Ban hành kèm theo Nghị quyết số  48/2025/NQ-HĐND ngày 10/ 12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường tỉnh 242
+1.1
+Đoạn 1
+Xã Vân Nham giáp địa phận
+xã Hữu Lũng
+Đầu cầu Nậm Đeng (xã Vân
+Nham)
+704
+422,4
+281,6
+1.2
+Đoạn 2
+Đầu cầu Nậm Đeng
+Ngã ba đường vào Trường
+THPT Vân Nham
+2.960
+1.776
+1.184
+592
+1.3
+Đoạn 3
+Cổng Trường THPT Vân
+Nham
+Hết địa phận xã Thiện Tân
+(đi Đèo Cà)
+728
+436,8
+291,2
+2
+Đường tỉnh 244
+Ngã ba Đường tỉnh 244 giao
+Đường tỉnh 242
+Hết địa phận xã Vân Nham
+giáp xã Yên Bình
+576
+345,6
+3
+Đường liên xã Thiện Tân - Vân
+Nham
+Đường tỉnh 242
+Cổng Kho KV1
+1.120
+672
+448
+4
+Đường nội bộ Chợ mới xã Vân Nham
+960
+576
+384
+5
+Khu vực trường Mầm Non 2 Vân Nham  (chiều dài đoạn đường khoảng 500m)
+720
+432
+288
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Các thôn: Bến Cát, Cảo, Tân Nhiên, Minh Lễ, Pồ Nim,
+Đồng Tâm, Đồng Mỳ, Hét, Phồng, Thuyền, Cốc Lùng,
+Tâm Minh, Đập, Nhị Liên, Phủ Đô, Tân Na, Chùa Lầy,
+Tân Thịnh, Toàn Tâm, Đồng Khu, Gióng, Tân Duyên,
+Lương, Đồng Hương, Đoàn Kết, Tân Nhiên
+240
+2
+Các thôn: Trại Mới, Đầu Cầu, Bản Mới, Vận
+176
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+47. Xã Vân Nham
+BẢNG 47.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; GIÁ ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN XÃ VÂN NHAM
+(Ban hành kèm theo Nghị quyết số  48/2025/NQ-HĐND ngày 10/ 12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường tỉnh 242
+1.1
+Đoạn 1
+Xã Vân Nham giáp địa phận
+xã Hữu Lũng
+Đầu cầu Nậm Đeng (xã Vân
+Nham)
+616
+369,6
+246,4
+1.2
+Đoạn 2
+Đầu cầu Nậm Đeng
+Ngã ba đường vào Trường
+THPT Vân Nham
+2.590
+1.554
+1.036
+518
+1.3
+Đoạn 3
+Cổng Trường THPT Vân
+Nham
+Hết địa phận xã Thiện Tân
+(đi Đèo Cà)
+637
+382,2
+254,8
+2
+Đường tỉnh 244
+Ngã ba Đường tỉnh 244 giao
+Đường tỉnh 242
+Hết địa phận xã Vân Nham
+giáp xã Yên Bình
+504
+302,4
+3
+Đường liên xã Thiện Tân - Vân
+Nham
+Đường tỉnh 242
+Cổng Kho KV1
+980
+588
+392
+4
+Đường nội bộ Chợ mới xã Vân Nham
+840
+504
+336
+5
+Khu vực trường Mầm Non 2 Vân Nham  (chiều dài đoạn đường khoảng 500m)
+630
+378
+252
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Các thôn: Bến Cát, Cảo, Tân Nhiên, Minh Lễ, Pồ Nim,
+Đồng Tâm, Đồng Mỳ, Hét, Phồng, Thuyền, Cốc Lùng,
+Tâm Minh, Đập, Nhị Liên, Phủ Đô, Tân Na, Chùa Lầy,
+Tân Thịnh, Toàn Tâm, Đồng Khu, Gióng, Tân Duyên,
+Lương, Đồng Hương, Đoàn Kết, Tân Nhiên
+210
+2
+Các thôn: Trại Mới, Đầu Cầu, Bản Mới, Vận
+154
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+47. Xã Vân Nham
+BẢNG 47.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ VÂN NHAM
+(Ban hành kèm theo Nghị quyết số  48/2025/NQ-HĐND ngày 10/ 12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Vân Nham
+60
+53
+47
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Vân Nham
+53
+47
+40
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Vân Nham
+47
+41
+36
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Vân Nham
+40
+37
+33
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Vân Nham
+9
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

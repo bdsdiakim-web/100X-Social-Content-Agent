@@ -1,0 +1,241 @@
+NGUON FILE: Lang Son/11. Xã Hoa Thám.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+11. Xã Hoa Thám
+BẢNG 11.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ HOA THÁM
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường vào Trạm y tế quanh chợ xã Hoa Thám
+820
+492
+2
+Đường Tỉnh 231, Đoạn 1
+Km 41+750
+Km 42+500
+620
+3
+Đường Tỉnh 231, Đoạn 2
+Km42+500
+Km43+450
+820
+492
+4
+Đường Tỉnh 231
+Trạm y tế xã Hưng Đạo
+Hết đường đôi Hưng Đạo
+750
+450
+5
+Đường xã: Đường huyện 61 cũ
+Ngã ba đường Tỉnh 231
+Km 0+300
+820
+492
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Pàn
+400
+2
+Các thôn: Vĩnh Quang, Tân Hoa, Tân Lập, Bản Thẳm, Đội
+Cấn I, Đội Cấn II, Bằng Giang, Bản Nghĩu, Pàn Slèo, Bản
+Chu, Nà Bưa,  Khuổi Buông, Pác Khiếc
+280
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+11. Xã Hoa Thám
+BẢNG 11.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI, DỊCH VỤ XÃ HOA THÁM
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường vào Trạm y tế quanh chợ xã Hoa Thám
+656
+393,6
+2
+Đường Tỉnh 231, Đoạn 1
+Km 41+750
+Km 42+500
+496
+3
+Đường Tỉnh 231, Đoạn 2
+Km42+500
+Km43+450
+656
+393,6
+4
+Đường Tỉnh 231
+Trạm y tế xã Hưng Đạo
+Hết đường đôi Hưng Đạo
+600
+360
+5
+Đường xã: Đường huyện 61 cũ
+Ngã ba đường Tỉnh 231
+Km 0+300
+656
+393,6
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Pàn
+320
+2
+Các thôn: Vĩnh Quang, Tân Hoa, Tân Lập, Bản Thẳm, Đội
+Cấn I, Đội Cấn II, Bằng Giang, Bản Nghĩu, Pàn Slèo, Bản
+Chu, Nà Bưa,  Khuổi Buông, Pác Khiếc
+224
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+11. Xã Hoa Thám
+BẢNG 11.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN XÃ HOA THÁM
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường vào Trạm y tế quanh chợ xã Hoa Thám
+574
+344,4
+2
+Đường Tỉnh 231, Đoạn 1
+Km 41+750
+Km 42+500
+434
+3
+Đường Tỉnh 231, Đoạn 2
+Km42+500
+Km43+450
+574
+344,4
+4
+Đường Tỉnh 231
+Trạm y tế xã Hưng Đạo
+Hết đường đôi Hưng Đạo
+525
+315
+5
+Đường xã: Đường huyện 61 cũ
+Ngã ba đường Tỉnh 231
+Km 0+300
+574
+344,4
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Pàn
+280
+2
+Các thôn: Vĩnh Quang, Tân Hoa, Tân Lập, Bản Thẳm, Đội
+Cấn I, Đội Cấn II, Bằng Giang, Bản Nghĩu, Pàn Slèo, Bản
+Chu, Nà Bưa,  Khuổi Buông, Pác Khiếc
+196
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+11. Xã Hoa Thám
+BẢNG 11.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ HOA THÁM
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Hoa Thám
+52
+47
+41
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Hoa Thám
+45
+40
+34
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Hoa Thám
+42
+37
+33
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Hoa Thám
+36
+34
+32
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Hoa Thám
+6
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

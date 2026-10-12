@@ -1,0 +1,334 @@
+NGUON FILE: Lang Son/20. Xã Vũ Lễ.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+20. Xã Vũ Lễ
+BẢNG 20.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ VŨ LỄ
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Quốc lộ 1B (thôn Ngả
+Hai): đoạn 1
+Đoạn từ Km 96+100 (đầu
+cầu Ngả Hai)
+Km 97+300 (Đèo Khế).
+2.000
+1.200
+800
+400
+2
+Đường Quốc lộ 1B (Thôn Vũ
+Lâm): đoạn 2
+Đoạn từ Km 97+300 (Đèo
+Khế)
+Km 98+300 (Vị trí biển báo
+hết khu dân cư).
+2.000
+1.200
+800
+400
+3
+Đường Quốc lộ 1B: đoạn 3
+Km 98+300
+Km 99+700
+780
+468
+312
+4
+Đường Quốc lộ 1B: đoạn 4
+Km 99 + 700
+Hết địa phận
+510
+306
+5
+Đường Quốc lộ 1B: đoạn 5
+Km 85 + 600
+Km 86 + 600
+1.000
+600
+400
+6
+Đường Quốc lộ 1B: đoạn 6
+Km 88 + 800
+Km 89 + 700
+1.000
+600
+400
+7
+Đường Quốc lộ 1B: đoạn 7
+Km 73+00 (đèo Nặm Rù)
+Km 96 +100 (cầu Ngả Hai)
+620
+372
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Danh, thôn Hồng Minh, thôn Hoan Trung, Thôn
+Quang Thái, thôn Minh Tiến, thôn Vũ Lâm, thôn Ngả Hai
+280
+2
+Thôn Nà Qué, thôn Nà Pán, thôn Hồng Sơn, thôn Phúc
+Tiến, thôn Hồng Phong I, Thôn Hồng Vi, thôn Quang Tiến
+220
+3
+Các Thôn Nà Tân, Bình An, Hương Cốc, Pá Te, Hoan
+Thượng, Lân Kẽm, Kha Hạ, Thống Nhất, Khuôn Bồng
+150
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+20. Xã Vũ Lễ
+BẢNG 20.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI, DỊCH VỤ XÃ VŨ LỄ
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Quốc lộ 1B (thôn Ngả
+Hai): đoạn 1
+Đoạn từ Km 96+100 (đầu
+cầu Ngả Hai)
+Km 97+300 (Đèo Khế).
+1.600
+960
+640
+320
+2
+Đường Quốc lộ 1B (Thôn Vũ
+Lâm): đoạn 2
+Đoạn từ Km 97+300 (Đèo
+Khế)
+Km 98+300 (Vị trí biển báo
+hết khu dân cư).
+1.600
+960
+640
+320
+3
+Đường Quốc lộ 1B: đoạn 3
+Km 98+300
+Km 99+700
+624
+374,4
+249,6
+4
+Đường Quốc lộ 1B: đoạn 4
+Km 99 + 700
+Hết địa phận
+408
+244,8
+5
+Đường Quốc lộ 1B: đoạn 5
+Km 85 + 600
+Km 86 + 600
+800
+480
+320
+6
+Đường Quốc lộ 1B: đoạn 6
+Km 88 + 800
+Km 89 + 700
+800
+480
+320
+7
+Đường Quốc lộ 1B: đoạn 7
+Km 73+00 (đèo Nặm Rù)
+Km 96 +100 (cầu Ngả Hai)
+496
+298
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Danh, thôn Hồng Minh, thôn Hoan Trung, Thôn
+Quang Thái, thôn Minh Tiến, thôn Vũ Lâm, thôn Ngả Hai
+224
+2
+Thôn Nà Qué, thôn Nà Pán, thôn Hồng Sơn, thôn Phúc
+Tiến, thôn Hồng Phong I, Thôn Hồng Vi, thôn Quang Tiến
+176
+3
+Các Thôn Nà Tân, Bình An, Hương Cốc, Pá Te, Hoan
+Thượng, Lân Kẽm, Kha Hạ, Thống Nhất, Khuôn Bồng
+120
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+20. Xã Vũ Lễ
+BẢNG 20.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN XÃ VŨ LỄ
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường Quốc lộ 1B (thôn Ngả
+Hai): đoạn 1
+Đoạn từ Km 96+100 (đầu
+cầu Ngả Hai)
+Km 97+300 (Đèo Khế).
+1.400
+840
+560
+280
+2
+Đường Quốc lộ 1B (Thôn Vũ
+Lâm): đoạn 2
+Đoạn từ Km 97+300 (Đèo
+Khế)
+Km 98+300 (Vị trí biển báo
+hết khu dân cư).
+1.400
+840
+560
+280
+3
+Đường Quốc lộ 1B: đoạn 3
+Km 98+300
+Km 99+700
+546
+327,6
+218,4
+4
+Đường Quốc lộ 1B: đoạn 4
+Km 99 + 700
+Hết địa phận
+357
+214,2
+5
+Đường Quốc lộ 1B: đoạn 5
+Km 85 + 600
+Km 86 + 600
+700
+420
+280
+6
+Đường Quốc lộ 1B: đoạn 6
+Km 88 + 800
+Km 89 + 700
+700
+420
+280
+7
+Đường Quốc lộ 1B: đoạn 7
+Km 73+00 (đèo Nặm Rù)
+Km 96 +100 (cầu Ngả Hai)
+434
+260
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Nà Danh, thôn Hồng Minh, thôn Hoan Trung, Thôn
+Quang Thái, thôn Minh Tiến, thôn Vũ Lâm, thôn Ngả Hai
+196
+2
+Thôn Nà Qué, thôn Nà Pán, thôn Hồng Sơn, thôn Phúc
+Tiến, thôn Hồng Phong I, Thôn Hồng Vi, thôn Quang Tiến
+154
+3
+Các Thôn Nà Tân, Bình An, Hương Cốc, Pá Te, Hoan
+Thượng, Lân Kẽm, Kha Hạ, Thống Nhất, Khuôn Bồng
+105
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+20. Xã Vũ Lễ
+BẢNG 20.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ VŨ LỄ
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Vũ Lễ
+73
+64
+56
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Vũ Lễ
+66
+57
+49
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Vũ Lễ
+58
+50
+43
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Vũ Lễ
+48
+43
+38
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Vũ Lễ
+11
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

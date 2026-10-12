@@ -1,0 +1,397 @@
+NGUON FILE: Lang Son/55. Xã Nhân Lý.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+55. Xã Nhân Lý
+BẢNG 55.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ NHÂN LÝ
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường tỉnh 234
+1.1
+Đoạn 1
+Km 25
+Km 28+300
+840
+504
+336
+1.2
+Đoạn 2
+Km28+300
+Km29
+1.600
+960
+640
+320
+1.3
+Đoạn 3
+Km29
+Km32+100
+890
+534
+356
+1.4
+Đoạn 4
+Km32+100
+Km34+100
+850
+510
+340
+1.5
+Đoạn 5
+Km35+100
+Km35+950
+1.100
+660
+440
+2
+Đường Quốc lộ 1
+2.1
+Đoạn 1
+Km36+300
+Km39+500
+500
+300
+2.2
+Đoạn 2
+Km39+500
+Km48+200
+1.600
+960
+640
+320
+3
+Đường tỉnh 238
+Km 31+300 (tiếp giáp đường
+Quốc lộ 1)
+Km30+500
+500
+300
+4
+Đường xã (Tuyến Lạng Nắc -
+Hang Gió)
+Km00
+Km04 + 300 (đến sân Hang
+Gió)
+500
+300
+5
+Đường tỉnh 238B (Đường huyện
+80 cũ)
+Giáp đường tỉnh 234
+Giáp Thôn Nà Pất, Xã Chiến
+Thắng
+510
+306
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Hòa Mục, Nà Sèn, Mạn Đường, Lạng Nắc, Sao
+Thượng, Sao Hạ, Nà Mùm, Hợp Nhất, Khun Tiếm, Làng
+Chiễng, Lạng Giai A, Lạng Giai B
+220
+2
+Thôn Háng Cút, Tồng Cút, Khuối Kháo, Bắc Khánh, Bắc
+Phù, Khâm Phường; Hợp Nhất 1, Làng Bu, Làng Bu 1, Hà
+Nam
+150
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+55. Xã Nhân Lý
+BẢNG 55.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI DỊCH VỤ XÃ NHÂN LÝ
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường tỉnh 234
+1.1
+Đoạn 1
+Km 25
+Km 28+300
+672
+403,2
+268,8
+1.2
+Đoạn 2
+Km28+300
+Km29
+1.280
+768
+512
+256
+1.3
+Đoạn 3
+Km29
+Km32+100
+712
+427,2
+284,8
+1.4
+Đoạn 4
+Km32+100
+Km34+100
+680
+408
+272
+1.5
+Đoạn 5
+Km35+100
+Km35+950
+880
+528
+352
+2
+Đường Quốc lộ 1
+2.1
+Đoạn 1
+Km36+300
+Km39+500
+400
+240
+2.2
+Đoạn 2
+Km39+500
+Km48+200
+1.280
+768
+512
+256
+3
+Đường tỉnh 238
+Km 31+300 (tiếp giáp đường
+Quốc lộ 1)
+Km30+500
+400
+240
+4
+Đường xã (Tuyến Lạng Nắc -
+Hang Gió)
+Km00
+Km04 + 300 (đến sân Hang
+Gió)
+400
+240
+5
+Đường tỉnh 238B (Đường huyện
+80 cũ)
+Giáp đường tỉnh 234
+Giáp Thôn Nà Pất, Xã Chiến
+Thắng
+408
+244,8
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Hòa Mục, Nà Sèn, Mạn Đường, Lạng Nắc, Sao
+Thượng, Sao Hạ, Nà Mùm, Hợp Nhất, Khun Tiếm, Làng
+Chiễng, Lạng Giai A, Lạng Giai B
+176
+2
+Thôn Háng Cút, Tồng Cút, Khuối Kháo, Bắc Khánh, Bắc
+Phù, Khâm Phường; Hợp Nhất 1, Làng Bu, Làng Bu 1, Hà
+Nam
+120
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+55. Xã Nhân Lý
+BẢNG 55.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; GIÁ ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN XÃ NHÂN LÝ
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường tỉnh 234
+1.1
+Đoạn 1
+Km 25
+Km 28+300
+588
+352,8
+235,2
+1.2
+Đoạn 2
+Km28+300
+Km29
+1.120
+672
+448
+224
+1.3
+Đoạn 3
+Km29
+Km32+100
+623
+373,8
+249,2
+1.4
+Đoạn 4
+Km32+100
+Km34+100
+595
+357
+238
+1.5
+Đoạn 5
+Km35+100
+Km35+950
+770
+462
+308
+2
+Đường Quốc lộ 1
+2.1
+Đoạn 1
+Km36+300
+Km39+500
+350
+210
+2.2
+Đoạn 2
+Km39+500
+Km48+200
+1.120
+672
+448
+224
+3
+Đường tỉnh 238
+Km 31+300 (tiếp giáp đường
+Quốc lộ 1)
+Km30+500
+350
+210
+4
+Đường xã (Tuyến Lạng Nắc -
+Hang Gió)
+Km00
+Km04 + 300 (đến sân Hang
+Gió)
+350
+210
+5
+Đường tỉnh 238B (Đường huyện
+80 cũ)
+Giáp đường tỉnh 234
+Giáp Thôn Nà Pất, Xã Chiến
+Thắng
+357
+214,2
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Thôn Hòa Mục, Nà Sèn, Mạn Đường, Lạng Nắc, Sao
+Thượng, Sao Hạ, Nà Mùm, Hợp Nhất, Khun Tiếm, Làng
+Chiễng, Lạng Giai A, Lạng Giai B
+154
+2
+Thôn Háng Cút, Tồng Cút, Khuối Kháo, Bắc Khánh, Bắc
+Phù, Khâm Phường; Hợp Nhất 1, Làng Bu, Làng Bu 1, Hà
+Nam
+105
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+55. Xã Nhân Lý
+BẢNG 55.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ NHÂN LÝ
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Nhân Lý
+60
+53
+47
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Nhân Lý
+53
+47
+40
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Nhân Lý
+47
+41
+36
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Nhân Lý
+40
+37
+33
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Nhân Lý
+9
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

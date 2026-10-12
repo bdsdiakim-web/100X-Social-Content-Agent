@@ -1,0 +1,298 @@
+NGUON FILE: Lang Son/53. Xã Quan Sơn.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+53.Xã Quan Sơn
+BẢNG 53.1: BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN XÃ QUAN SƠN
+(Ban hành kèm theo Nghị quyết số…../2025/NQ-HĐND ngày … /…/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường tỉnh 238C (Đường
+huyện 84 cũ)
+1.1
+Đoạn 1
+Km 4+00 (thôn Mu Cai Pha) Km 6 + 700 (thôn Đông Mồ)
+350
+1.2
+Đoạn 2
+Km 6 +700 (thôn Đông Mồ) Km 10+800 ( thôn Làng
+Thượng)
+370
+222
+2
+Đường tỉnh 250
+2.1
+Đoạn 1
+Km 52+800 (Trường mầm
+non xã Quan Sơn)
+Km 55 + 200 (thôn Làng
+Hăng)
+540
+324
+2.2
+Đoạn 2
+Km 55 + 200 (thôn Làng
+Hăng)
+Km 58+200 (Cây đa đèo ý)
+440
+264
+3
+Đường Quốc lộ 279
+3.1
+Đoạn 1
+Km 43+00 (Tiếp giáp địa
+giới xã Tân Sơn, tỉnh Bắc
+Ninh)
+Km 45 + 500 (thôn Làng Hạ)
+500
+300
+3.2
+Đoạn 2
+Km 45 + 500 (thôn Làng Hạ) Km48+200 (Tiếp giáp địa
+giới xã Chi Lăng)
+430
+258
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Các thôn: Đồng Ghè, Làng Hạ, Làng Thượng, Làng Hăng,
+Đông Mồ, Làng Mủn, Mu Cai Pha, Củ Na, Suối Cái
+220
+2
+Các thôn: Co Hương, Thằm Nà, Pá Phào, Mè Thình, Suối
+Phầy, Suối Mỏ, Nà Lìa, Suối Mạ
+150
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 2 ---
+53.Xã Quan Sơn
+BẢNG 53.2: BẢNG GIÁ ĐẤT THƯƠNG MẠI DỊCH VỤ XÃ QUAN SƠN
+(Ban hành kèm theo Nghị quyết số…../2025/NQ-HĐND ngày … /…/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường tỉnh 238C (Đường
+huyện 84 cũ)
+1.1
+Đoạn 1
+Km 4+00 (thôn Mu Cai Pha) Km 6 + 700 (thôn Đông Mồ)
+280
+1.2
+Đoạn 2
+Km 6 +700 (thôn Đông Mồ) Km 10+800 ( thôn Làng
+Thượng)
+296
+177,6
+2
+Đường tỉnh 250
+2.1
+Đoạn 1
+Km 52+800 (Trường mầm
+non xã Quan Sơn)
+Km 55 + 200 (thôn Làng
+Hăng)
+432
+259,2
+2.2
+Đoạn 2
+Km 55 + 200 (thôn Làng
+Hăng)
+Km 58+200 (Cây đa đèo ý)
+352
+211,2
+3
+Đường Quốc lộ 279
+3.1
+Đoạn 1
+Km 43+00 (Tiếp giáp địa
+giới xã Tân Sơn, tỉnh Bắc
+Ninh)
+Km 45 + 500 (thôn Làng Hạ)
+400
+240
+3.2
+Đoạn 2
+Km 45 + 500 (thôn Làng Hạ) Km48+200 (Tiếp giáp địa
+giới xã Chi Lăng)
+344
+206,4
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Các thôn: Đồng Ghè, Làng Hạ, Làng Thượng, Làng Hăng,
+Đông Mồ, Làng Mủn, Mu Cai Pha, Củ Na, Suối Cái
+176
+2
+Các thôn: Co Hương, Thằm Nà, Pá Phào, Mè Thình, Suối
+Phầy, Suối Mỏ, Nà Lìa, Suối Mạ
+120
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 3 ---
+53.Xã Quan Sơn
+BẢNG 53.3: BẢNG GIÁ ĐẤT CƠ SỞ SẢN XUẤT PHI NÔNG NGHIỆP; GIÁ ĐẤT SỬ DỤNG CHO HOẠT ĐỘNG KHOÁNG SẢN XÃ QUAN
+(Ban hành kèm theo Nghị quyết số…../2025/NQ-HĐND ngày … /…/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+ĐVT: 1.000 đồng/m²
+STT
+Tên đường
+Đoạn đường
+Giá đất
+Từ
+Đến
+VT1
+VT2
+VT3
+VT4
+1
+Đường tỉnh 238C (Đường
+huyện 84 cũ)
+1.1
+Đoạn 1
+Km 4+00 (thôn Mu Cai Pha) Km 6 + 700 (thôn Đông Mồ)
+245
+1.2
+Đoạn 2
+Km 6 +700 (thôn Đông Mồ) Km 10+800 ( thôn Làng
+Thượng)
+259
+155,4
+2
+Đường tỉnh 250
+2.1
+Đoạn 1
+Km 52+800 (Trường mầm
+non xã Quan Sơn)
+Km 55 + 200 (thôn Làng
+Hăng)
+378
+226,8
+2.2
+Đoạn 2
+Km 55 + 200 (thôn Làng
+Hăng)
+Km 58+200 (Cây đa đèo ý)
+308
+184,8
+3
+Đường Quốc lộ 279
+3.1
+Đoạn 1
+Km 43+00 (Tiếp giáp địa
+giới xã Tân Sơn, tỉnh Bắc
+Ninh)
+Km 45 + 500 (thôn Làng Hạ)
+350
+210
+3.2
+Đoạn 2
+Km 45 + 500 (thôn Làng Hạ) Km48+200 (Tiếp giáp địa
+giới xã Chi Lăng)
+301
+180,6
+Ghi chú: Các vị trí (Vị trí 2, 3, 4) không có mức giá thì áp dụng theo bảng giá đất các khu vực còn lại tại nông thôn.
+Khu vực còn lại tại nông thôn (Các vị trí không quy định giá)
+1
+Khu vực còn lại
+Các thôn: Đồng Ghè, Làng Hạ, Làng Thượng, Làng Hăng,
+Đông Mồ, Làng Mủn, Mu Cai Pha, Củ Na, Suối Cái
+154
+2
+Các thôn: Co Hương, Thằm Nà, Pá Phào, Mè Thình, Suối
+Phầy, Suối Mỏ, Nà Lìa, Suối Mạ
+105
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
+
+--- TRANG 4 ---
+53. Xã Quan Sơn
+BẢNG 53.4: BẢNG GIÁ ĐẤT NÔNG NGHIỆP XÃ QUAN SƠN
+(Ban hành kèm theo Nghị quyết số 48/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Lạng Sơn)
+BẢNG 1. BẢNG GIÁ ĐẤT TRỒNG CÂY HẰNG NĂM
+I. ĐẤT TRỒNG LÚA
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Quan Sơn 
+60
+53
+47
+II. ĐẤT TRỒNG CÂY HẰNG NĂM KHÁC 
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Quan Sơn 
+53
+47
+40
+BẢNG 2: BẢNG GIÁ ĐẤT TRỒNG CÂY LÂU NĂM
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Quan Sơn 
+47
+41
+36
+BẢNG 3: BẢNG GIÁ ĐẤT NUÔI TRỒNG THỦY SẢN
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+VT1
+VT2
+VT3
+1
+Xã Quan Sơn 
+40
+37
+33
+BẢNG 4: BẢNG GIÁ ĐẤT RỪNG SẢN XUẤT
+ĐVT: 1.000 đồng/m²
+Số TT
+Tên đơn vị hành chính
+Giá đất
+1
+Xã Quan Sơn 
+9
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.

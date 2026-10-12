@@ -1,0 +1,59 @@
+NGUON FILE: Lang Son/66. Đất Khu Công nghiệp, Cụm Công nghiệp.pdf
+DINH DANG: .pdf
+TRANG THAI: Trich xuat tu dong; can doi chieu voi ban goc.
+============================================================
+
+
+--- TRANG 1 ---
+66. Tỉnh Lạng Sơn
+BẢNG 66: BẢNG GIÁ ĐẤT KHU CÔNG NGHIỆP, CỤM CÔNG NGHIỆP
+ĐVT: 1.000 đồng/m2
+STT
+Tên khu công nghiệp, cụm công nghiệp
+Đơn giá
+1
+Xã Hữu Lũng
+1.1
+Khu công nghiệp VSIP Lạng Sơn
+1.164
+1.2
+Cụm Công nghiệp Hồ Sơn 1
+998
+2
+Xã Tân Thành
+2.1
+Cụm Công nghiệp Hòa Sơn 1
+998
+3
+Xã Chi Lăng
+3.1
+Khu Công nghiệp Đồng Bành
+(Quốc lộ 1 bên trái chiều Lạng Sơn đi Hà Nội đoạn qua khu công nghiệp Đồng Bành)
+1.164
+3.1
+Khu Công nghiệp Đồng Bành
+(Dọc trục đường giao thông khu công nghiệp Đồng Bành)
+998
+4
+Xã Đình Lập
+4.1
+Cụm công nghiệp Đình Lập
+884
+5
+Xã Na Dương
+5.1
+Cụm công nghiệp Na Dương 1
+884
+5.2
+Cụm công nghiệp Na Dương 2
+884
+5.3
+Cụm công nghiệp Na Dương 3
+884
+6
+Xã Vũ Lễ
+6.1
+Cụm Công nghiệp Bắc Sơn 2 (Xã Chiến Thắng cũ)
+840
+1
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2020 Aspose Pty Ltd.
