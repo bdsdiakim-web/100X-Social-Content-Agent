@@ -1,6 +1,6 @@
-# Phân công Claude Code và Antigravity (ĐÃ CHỐT 2026-10-12)
+# Phân công Claude Code và Antigravity (CẬP NHẬT 2026-10-12: Claude Code là chính)
 
-> Trạng thái: quản trị viên đã chốt ngày 2026-10-12. Tuần thử số liệu: xem `scratch/nhat_ky_token.md`; có thể đổi lại sau khi có số liệu.
+> Trạng thái: chốt 2026-10-12, cập nhật cùng ngày: quản trị viên làm việc CHÍNH với Claude Code vì Antigravity nhanh hết quota/token trong tuần. Tuần thử số liệu: xem `scratch/nhat_ky_token.md`; có thể đổi lại sau khi có số liệu.
 
 ## 1. Ai làm gì
 
@@ -9,9 +9,9 @@
 | Sửa code, debug script, lỗi render/đăng bài | Claude Code | Đọc được cả repo, chạy lệnh, kiểm tra kết quả |
 | Git: merge, push, dọn nhánh | Claude Code | Cần xử lý xung đột cẩn thận |
 | Sửa công cụ (livestream→shorts, reels_engine, landing page) | Claude Code | Là code |
-| Viết nội dung, ý tưởng, kịch bản, bài đăng | Antigravity | Việc hằng ngày, khối lượng lớn |
-| Trả lời câu hỏi pháp lý theo `database/legal_sources/` (lệnh `cc`) | Antigravity | Đã có sẵn quy tắc trong `.agents/` |
-| Vận hành hằng ngày theo `.agents/workflows/` | Antigravity | Workflow nằm sẵn ở đó |
+| Viết nội dung, ý tưởng, kịch bản, bài đăng | Claude Code (Antigravity khi Claude hết quota) | Quản trị viên làm việc chính với Claude |
+| Trả lời câu hỏi pháp lý theo `database/legal_sources/` (lệnh `cc`) | Claude Code (Antigravity dự phòng) | Quy tắc `cc` nằm trong `.agents/`, cả hai đều đọc được |
+| Vận hành hằng ngày theo `.agents/workflows/` | Claude Code (Antigravity dự phòng) | Cả hai đọc được workflow trong `.agents/` |
 
 ## 2. Quy tắc tránh đụng nhau
 
@@ -28,9 +28,9 @@
 
 ## 4. Đã chốt
 
-- [x] Bên mặc định cho việc hằng ngày: Antigravity.
+- [x] Bên mặc định: Claude Code (đổi 2026-10-12, vì Antigravity hay hết quota). Antigravity chỉ làm khi Claude hết quota hoặc quản trị viên chỉ định.
 - [x] Chế độ mở ứng dụng: chỉ bật bên đang có việc, không bật cả hai cùng lúc.
-- [x] Khi gặp lỗi code (script .js/.py): chuyển cho Claude Code qua `scratch/handover.md`.
+- [x] Khi một bên hết quota giữa chừng: ghi việc dở vào `scratch/handover.md`, quản trị viên gõ `tta` bên còn lại.
 
 ## 5. Cầu nối bàn giao: scratch/handover.md (Lệnh tắt: `tta`)
 
