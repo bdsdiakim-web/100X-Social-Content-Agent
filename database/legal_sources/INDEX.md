@@ -139,7 +139,7 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 ### B8. Bảng giá đất + quy định vị trí CÁC TỈNH/THÀNH khác Hà Nội (34 tỉnh) — tra ở `tinh_thanh/CAY_TRA_CUU.md`
 - `tinh_thanh/van_ban_txt/<Tỉnh>/*.txt` (văn bản bảng giá), `tinh_thanh/quy_dinh_vi_tri/<Tỉnh>.txt` (xác định vị trí), `tinh_thanh/bang_gia_json/<Tỉnh>.jsonl` (dòng giá trích tự động — CHỈ để lọc nhanh, phải đối chiếu .txt/bản gốc trước khi nói số với khách).
 - Nguồn: bản copy từ `D:\KHO_PHAP_LUAT_DAT_DAI` (bản gốc PDF/Word 1,3 GB chỉ có trên máy, không lên GitHub). Tỉnh có "(anh)" = OCR từ ảnh, có thể sai chữ/số. PDF chuyển txt có thể xáo trộn số giữa các dòng cạnh nhau (xem ghi chú bảng giá 2026 ở trên).
-- Cả 34 tỉnh đã có txt văn bản (chuyển đủ 2026-10-12). 27 file PDF scan ảnh (Đồng Nai, Bắc Ninh, Khánh Hòa, Quảng Trị, Vĩnh Long) không trích được chữ ở nhiều trang → cần OCR trước khi tin số.
+- Cả 34 tỉnh đã có txt văn bản. Tỉnh có PDF scan ảnh (Đồng Nai, Bắc Ninh, Hưng Yên, Khánh Hòa, Quảng Ninh, Quảng Trị, Sơn La, Tây Ninh, Vĩnh Long): TRA FILE `*_OCR.txt` (OCR Tesseract, có thể sai chữ/số — đối chiếu bản gốc); file txt cùng tên không đuôi _OCR là bản trích lần đầu, thiếu chữ ở trang ảnh.
 - Nạp văn bản tỉnh mới: `node scripts/nap_van_ban_moi.js "<file>" ten.txt --tinh "Ten Tinh"` (tự dựng lại cây).
 
 ## PHẦN C — LƯU Ý KỸ THUẬT & SAI TÊN FILE ĐÃ PHÁT HIỆN
@@ -189,4 +189,4 @@ Thứ tự trong mỗi dòng: luật gốc → nghị định/thông tư hướn
 - 2026-10-08: nạp bảng giá đất HN 2014 (QĐ 63/2013).
 - 2026-10-12: gom bản copy .txt/.jsonl 34 tỉnh/thành từ D:\KHO_PHAP_LUAT_DAT_DAI vào `tinh_thanh/` (thêm An Giang chuyển txt mới); dựng `CAY_TRA_CUU.md` + script `scripts/nap_van_ban_moi.js`.
 
-- 2026-10-12: chuyển txt đủ các tỉnh còn thiếu (326 file, 0 lỗi); 27 PDF scan ảnh còn thiếu chữ, cần OCR.
+- 2026-10-12: chuyển txt đủ các tỉnh còn thiếu (326 file, 0 lỗi); các PDF scan ảnh đã có bản `_OCR.txt` (37 file).

@@ -17,7 +17,7 @@ Chép các mục dưới đây vào ổ ngoài hoặc ổ đám mây RIÊNG TƯ.
 |---|---|---|
 | `D:\100X Agent\browser_data\` | ~2,5 GB | Phiên Facebook/YouTube. Có thể bỏ (đăng nhập lại được); nếu chép thì nén lại |
 | `D:\100X Agent\backup\` | 0,7 MB | Đã nằm trong gói tổng |
-| `D:@X Agentlanding_page_backend` | 8,9 MB (78 file) | Đã nằm trong gói tổng |
+| `D:\100X Agent\landing_page_backend\` | 8,9 MB (78 file) | Đã nằm trong gói tổng |
 
 ## C. DỮ LIỆU LỚN
 | Đường dẫn | Dung lượng | Ghi chú |
